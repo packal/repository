@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Proposed XML Schema for the Alfred Package Manager
+-->
+
+<package>
+	<name>Name</name>
+	<version>1.0</version>
+	<authors>
+		<author>Author</author>
+		<!-- Example for multiple authors
+		<author>Author Two</author>
+		-->
+	</authors>
+	<gitUser>gitUser</gitUser>
+	<gitRepo>gitRepo</gitRepo>
+	<type>Workflow</type>
+	<!--
+		Options:
+			Workflow
+			Theme
+			Library
+			Component -- maybe a tool that could be used by many Workflows
+			What Else?
+	-->
+	<website></website>
+	<forumLink></forumLink>
+	<OSX></OSX>
+	<dependencies>
+		<dependency></dependency>
+	</dependencies>
+	<webservices>
+		<webservice name="">URL</webservice>
+	</webservices>
+</package>
+
+<!---
+	A couple of examples follow
+
+<package>
+	<name>Workflow Help Workflows</name>
+	<version>1.05</version>
+	<authors>
+		<author>Shawn Patrick Rice</author>
+	</authors>
+	<gitUser>shawnrice</gitUser>
+	<gitRepo>alfred2-workflow-help</gitRepo>
+	<type>Workflow</type>
+	<website></website>
+	<forumLink>http://www.alfredforum.com/topic/1653-workflows-help-workflow/</forumLink>
+	<OSX></OSX>
+	<dependencies></dependencies>
+	<webservices></webservices>
+</package>
+
+
+<package>
+	<name>Caffeinate</name>
+	<version>1.0</version>
+	<authors>
+		<author>Shawn Patrick Rice</author>
+	</authors>
+	<gitUser>shawnrice</gitUser>
+	<gitRepo>alfred-2-caffeinate-workflow</gitRepo>
+	<type>Workflow</type>
+	<website></website>
+	<forumLink>http://www.alfredforum.com/topic/1631-caffeine-and-caffeinate-workflows-updated</forumLink>
+	<OSX>10.8</OSX>
+	<dependencies></dependencies>
+	<webservices></webservices>
+</package>
+
+
+Should we include a description field?
+
+-->
+
+
