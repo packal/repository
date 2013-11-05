@@ -10,6 +10,15 @@
     <icon>helpwfkl.png</icon>
   </workflow>
   <workflow>
+    <name>Wolfram|Alpha</name>
+    <uuid>6257dd4f-3a7c-4283-a1d3-92bb67f69ce3</uuid>
+    <version>1.0</version>
+    <bundle>tylereich.wolframalpha</bundle>
+    <updated>1383623105</updated>
+    <file>wolframalpha.alfredworkflow</file>
+    <icon>icon.png</icon>
+  </workflow>
+  <workflow>
     <name>Text Manipulator</name>
     <uuid>5c73b684-ef5e-4105-803f-82a1c84c3f17</uuid>
     <version>1.0</version>
@@ -23,7 +32,7 @@
     <uuid>7c0abf5b-d05f-43e8-8a27-33cef2215e2c</uuid>
     <version>1.0</version>
     <bundle>com.shawn.patrick.rice.sudoers</bundle>
-    <updated>1383505090</updated>
+    <updated>1383623200</updated>
     <file>sudoers.alfredworkflow</file>
     <icon>red-lock.png</icon>
   </workflow>
