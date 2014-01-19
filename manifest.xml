@@ -2,9 +2,9 @@
 <manifest>
   <workflow>
     <name>ZotQuery</name>
-    <version>4.0</version>
+    <version>4.1</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1390073595</updated>
+    <updated>1390076354</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
   </workflow>
@@ -23,6 +23,14 @@
     <updated>1389349154</updated>
     <file>wolframalpha.alfredworkflow</file>
     <author>Tyler Eich</author>
+  </workflow>
+  <workflow>
+    <name>Web Server</name>
+    <version>1.1</version>
+    <bundle>fmanoeli.webserver</bundle>
+    <updated>1390099336</updated>
+    <file>web_server.alfredworkflow</file>
+    <author>MaximiliumM</author>
   </workflow>
   <workflow>
     <name>VMWare Control</name>
