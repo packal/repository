@@ -2,9 +2,9 @@
 <manifest>
   <workflow>
     <name>ZotQuery</name>
-    <version>5.8</version>
+    <version>6.0</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1393704313</updated>
+    <updated>1393826832</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
   </workflow>
@@ -281,6 +281,14 @@
     <author>Clinton Strong</author>
   </workflow>
   <workflow>
+    <name>Screenshots</name>
+    <version>1.1</version>
+    <bundle>com.sztoltz.screenshots</bundle>
+    <updated>1393785133</updated>
+    <file>screenshots.alfredworkflow</file>
+    <author>CarlosSz</author>
+  </workflow>
+  <workflow>
     <name>Screenshot Settings</name>
     <version>1.0</version>
     <bundle>com.cmchap.screenshotsettings</bundle>
@@ -463,6 +471,14 @@
     <updated>1391179337</updated>
     <file>open_app_in_language_v2.alfredworkflow</file>
     <author>adrianthomas</author>
+  </workflow>
+  <workflow>
+    <name>Open in iTerm</name>
+    <version>1.0</version>
+    <bundle>com.iansoper.openiniterm</bundle>
+    <updated>1393788265</updated>
+    <file>open_in_iterm2.alfredworkflow</file>
+    <author>Ian Soper</author>
   </workflow>
   <workflow>
     <name>OmniTube</name>
