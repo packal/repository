@@ -4,7 +4,7 @@
     <name>ZotQuery</name>
     <version>6.2</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1393952475</updated>
+    <updated>1393952535</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
   </workflow>
@@ -561,6 +561,14 @@
     <author>vitor</author>
   </workflow>
   <workflow>
+    <name>Markdown to BBCode</name>
+    <version>3.0</version>
+    <bundle>com.sztoltz.markdowtobbcode</bundle>
+    <updated>1393973354</updated>
+    <file>markdowntobbcode2.alfredworkflow</file>
+    <author>CarlosSz</author>
+  </workflow>
+  <workflow>
     <name>MailTo</name>
     <version>1.0</version>
     <bundle>net.deanishe.alfred-mailto</bundle>
@@ -663,6 +671,14 @@
     <updated>1392030133</updated>
     <file>google_maps_routes.alfredworkflow</file>
     <author>abyth</author>
+  </workflow>
+  <workflow>
+    <name>Google Hangout</name>
+    <version>1.1</version>
+    <bundle>com.jonathanrwallace.google_hangout</bundle>
+    <updated>1393954755</updated>
+    <file>google_hangout.alfredworkflow</file>
+    <author>jonathanwallace</author>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -796,7 +812,7 @@
     <name>Convert</name>
     <version>1.0</version>
     <bundle>net.deanishe.alfred-convert</bundle>
-    <updated>1393675033</updated>
+    <updated>1393960986</updated>
     <file>convert.alfredworkflow</file>
     <author>deanishe</author>
   </workflow>
