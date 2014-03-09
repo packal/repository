@@ -225,6 +225,14 @@
     <author>Shawn Patrick Rice</author>
   </workflow>
   <workflow>
+    <name>Subdirectory Search</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-subdir-search</bundle>
+    <updated>1394334615</updated>
+    <file>subdirectory_search.alfredworkflow</file>
+    <author>deanishe</author>
+  </workflow>
+  <workflow>
     <name>StrongPassword</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.strongpassword</bundle>
@@ -375,6 +383,14 @@
     <updated>1392004331</updated>
     <file>remove_download_warning.alfredworkflow</file>
     <author>BClev</author>
+  </workflow>
+  <workflow>
+    <name>RegEx Renamer</name>
+    <version>2.0</version>
+    <bundle>com.sztoltz.regexrenamer</bundle>
+    <updated>1394235435</updated>
+    <file>regexrenamer2.alfredworkflow</file>
+    <author>CarlosSz</author>
   </workflow>
   <workflow>
     <name>RecentDownloads</name>
@@ -980,7 +996,7 @@
     <name>Alfred Workflow Builder QuickRef</name>
     <version>1.0</version>
     <bundle>com.build-awf.alc</bundle>
-    <updated>1394228773</updated>
+    <updated>1394229592</updated>
     <file>alfred_workflow_builder_quickref.alfredworkflow</file>
     <author>AleXander</author>
   </workflow>
