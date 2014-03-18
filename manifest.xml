@@ -1485,6 +1485,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Set Resolution</name>
+    <version>1.0</version>
+    <bundle>com.tumblr.ramiroaraujo.alfred-set-resolution-workflow</bundle>
+    <updated>1395152776</updated>
+    <file>alfred-set-resolution.alfredworkflow</file>
+    <author>ramiroaraujo</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/set-resolution</url>
+    <tags>resolution</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Share using Built-in Sharing</name>
     <version>1.11</version>
     <bundle>com.vdesabou.ml.builtin.services</bundle>
@@ -1734,6 +1748,20 @@
     <osx>Mavericks (10.9.x)</osx>
     <url>http://www.packal.org/workflow/timezones</url>
     <tags>Time</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Tmux Workflow</name>
+    <version>1.0</version>
+    <bundle>com.tumblr.ramiroaraujo.alfred-tmux-workflow</bundle>
+    <updated>1395153014</updated>
+    <file>alfred-tmux.alfredworkflow</file>
+    <author>ramiroaraujo</author>
+    <applications>iTerm2</applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/tmux-workflow</url>
+    <tags>tmux</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
