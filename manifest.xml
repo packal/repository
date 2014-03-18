@@ -309,6 +309,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Convert OS Paths</name>
+    <version>1.0</version>
+    <bundle>com.tumblr.ramiroaraujo.alfred-convert-os-path-workflow</bundle>
+    <updated>1395153854</updated>
+    <file>alfred-convert-os-path.alfredworkflow</file>
+    <author>ramiroaraujo</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/convert-os-paths</url>
+    <tags>path</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Create Folder In …</name>
     <version>1.0</version>
     <bundle>com.muppetgate.workflow.createFolderIn</bundle>
