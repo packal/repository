@@ -1779,6 +1779,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Time Machine Exclusions</name>
+    <version>1.0</version>
+    <bundle>carlosnz.timemachine</bundle>
+    <updated>1395301934</updated>
+    <file>time_machine_exclusions_v1.0.alfredworkflow</file>
+    <author>CarlosNZ</author>
+    <applications>tmutil</applications>
+    <categories>Files and Folders ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/time-machine-exclusions</url>
+    <tags>timemachine ||| time machine ||| backups</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Timezones</name>
     <version>1.61a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -2116,15 +2130,15 @@
   </workflow>
   <workflow>
     <name>ZotQuery (v 6.5)</name>
-    <version>6.4</version>
+    <version>6.5</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1395273195</updated>
+    <updated>1395293863</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
     <categories>Productivity ||| Reference</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/zotquery-v-65</url>
+    <url>http://www.packal.org/workflow/zotquery</url>
     <tags>zotero ||| citations ||| python</tags>
     <webservices>Zotero API</webservices>
   </workflow>
