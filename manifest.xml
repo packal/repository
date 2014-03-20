@@ -1457,6 +1457,20 @@
     <webservices>CloudApp ||| Dropbox</webservices>
   </workflow>
   <workflow>
+    <name>Search Maven Repository</name>
+    <version>1.0</version>
+    <bundle>com.tedwise.mavenrepository</bundle>
+    <updated>1395327673</updated>
+    <file>maven_repository.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/search-maven-repository</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Search Safari and Chrome Tabs</name>
     <version>1.0.3</version>
     <bundle>com.clintonstrong.SearchTabs</bundle>
