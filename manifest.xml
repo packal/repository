@@ -1219,6 +1219,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>RabbitMQ</name>
+    <version>1.0</version>
+    <bundle>com.tedwise.rabbitmq</bundle>
+    <updated>1395328519</updated>
+    <file>rabbitmq.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>RabbitMQ</applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/rabbitmq</url>
+    <tags>rabbitmq ||| queue</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Random Choice</name>
     <version>1.0</version>
     <bundle>com.clintonstrong.RandomChoice</bundle>
@@ -1460,15 +1474,15 @@
     <name>Search Maven Repository</name>
     <version>1.0</version>
     <bundle>com.tedwise.mavenrepository</bundle>
-    <updated>1395327673</updated>
+    <updated>1395327731</updated>
     <file>maven_repository.alfredworkflow</file>
     <author>ctwise</author>
     <applications></applications>
     <categories>Development</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/search-maven-repository</url>
-    <tags></tags>
-    <webservices></webservices>
+    <tags>maven ||| mvnrepository</tags>
+    <webservices>http://mvnrepository.com</webservices>
   </workflow>
   <workflow>
     <name>Search Safari and Chrome Tabs</name>
@@ -2143,10 +2157,10 @@
     <webservices></webservices>
   </workflow>
   <workflow>
-    <name>ZotQuery (v 6.5)</name>
-    <version>6.5</version>
+    <name>ZotQuery</name>
+    <version>6.6</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1395293863</updated>
+    <updated>1395348856</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
