@@ -113,6 +113,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>App Shortcuts</name>
+    <version>1.0</version>
+    <bundle>com.firedev.app_shortcuts</bundle>
+    <updated>1395461114</updated>
+    <file>app_shortcuts.alfredworkflow</file>
+    <author>firedev</author>
+    <applications>Google Chrome ||| Sublime Text ||| iTerm2 ||| Adium ||| GitX ||| Airmail ||| Finder ||| Sequel Pro ||| OmniFocus</applications>
+    <categories>Productivity ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/app-shortcuts</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Apple Account Switcher</name>
     <version>1.2</version>
     <bundle>com.summxt.alfred.appleaccountswitcher</bundle>
@@ -2062,7 +2076,7 @@
     <name>VM Control</name>
     <version>1.2</version>
     <bundle>com.fniephaus.vmcontrol</bundle>
-    <updated>1395445755</updated>
+    <updated>1395445813</updated>
     <file>vm-control.alfredworkflow</file>
     <author>fniephaus</author>
     <applications></applications>
