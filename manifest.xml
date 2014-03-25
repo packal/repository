@@ -1684,7 +1684,7 @@
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
-    <updated>1395736874</updated>
+    <updated>1395736935</updated>
     <file>speedtest.alfredworkflow</file>
     <author>paulelms</author>
     <applications></applications>
@@ -2112,6 +2112,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/uuidgen</url>
     <tags>uuid ||| uuidgen</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Vagrant</name>
+    <version>1.0</version>
+    <bundle>com.bartzy.alfred.vagrant</bundle>
+    <updated>1395751636</updated>
+    <file>vagrant.alfredworkflow</file>
+    <author>bartzy</author>
+    <applications>Vagrant</applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/vagrant</url>
+    <tags></tags>
     <webservices></webservices>
   </workflow>
   <workflow>
