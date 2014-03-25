@@ -494,7 +494,7 @@
     <name>DownVid</name>
     <version>1.4</version>
     <bundle>com.vitorgalvao.alfred.downvid</bundle>
-    <updated>1395769396</updated>
+    <updated>1395769455</updated>
     <file>downvid.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -558,6 +558,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/eggtimer-2</url>
     <tags>Time ||| timer ||| alarm ||| clock</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>EN-Wikify</name>
+    <version>1.0</version>
+    <bundle>com.hackademic.wikify</bundle>
+    <updated>1395789075</updated>
+    <file>en-wikify_v._1.0.alfredworkflow</file>
+    <author>hackademic</author>
+    <applications>Evernote</applications>
+    <categories>Files and Folders ||| Text Manipulation</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/en-wikify</url>
+    <tags>evernote ||| markdown ||| wiki</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
