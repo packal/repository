@@ -211,6 +211,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Chromecast</name>
+    <version>1.0</version>
+    <bundle>com.alfredapp.moul.chromecast</bundle>
+    <updated>1395874332</updated>
+    <file>chromecast.alfredworkflow</file>
+    <author>manfredtouron</author>
+    <applications></applications>
+    <categories>Audio ||| Networking ||| System ||| Utilities ||| Video</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chromecast</url>
+    <tags>chromecast ||| chrome ||| remote ||| cast ||| youtube</tags>
+    <webservices>Chromecast</webservices>
+  </workflow>
+  <workflow>
     <name>Clean Applescript Dictionaries</name>
     <version>1.0</version>
     <bundle>com.remove.dup.as.dicts.rice.shawn</bundle>
@@ -2132,7 +2146,7 @@
     <name>Vagrant</name>
     <version>1.0.2</version>
     <bundle>com.bartzy.alfred.vagrant</bundle>
-    <updated>1395752664</updated>
+    <updated>1395847412</updated>
     <file>vagrant.alfredworkflow</file>
     <author>bartzy</author>
     <applications>Vagrant</applications>
@@ -2300,13 +2314,13 @@
     <name>Workflow IPhone Tethering</name>
     <version>1.0</version>
     <bundle>com.noma4i.iphone.tethering</bundle>
-    <updated>1395806414</updated>
+    <updated>1395806446</updated>
     <file>iphone_tethering.alfredworkflow</file>
     <author>noma4i</author>
     <applications></applications>
     <categories>Networking ||| Utilities</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/workflow-iphone-tethering</url>
+    <url>http://www.packal.org/workflow/toggle-iphone-tethering</url>
     <tags>iphone ||| bluetooth ||| tethering</tags>
     <webservices></webservices>
   </workflow>
