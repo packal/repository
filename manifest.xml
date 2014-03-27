@@ -141,6 +141,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Boot2Docker</name>
+    <version>1.1.0</version>
+    <bundle>com.alfredapp.moul.boot2docker</bundle>
+    <updated>1395915315</updated>
+    <file>boot2docker.alfredworkflow</file>
+    <author>manfredtouron</author>
+    <applications></applications>
+    <categories>Development ||| Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/boot2docker</url>
+    <tags>docker ||| boot2docker ||| virtualbox ||| brew</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>BugNot</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.bugnot</bundle>
@@ -214,14 +228,14 @@
     <name>Chromecast</name>
     <version>1.2.0</version>
     <bundle>com.alfredapp.moul.chromecast</bundle>
-    <updated>1395876494</updated>
+    <updated>1395876660</updated>
     <file>chromecast.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
     <categories>Audio ||| Networking ||| System ||| Utilities ||| Video</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/chromecast</url>
-    <tags>chromecast ||| chrome ||| remote ||| cast ||| youtube</tags>
+    <tags>chromecast ||| chrome ||| remote ||| cast ||| youtube ||| google ||| python</tags>
     <webservices>Chromecast</webservices>
   </workflow>
   <workflow>
