@@ -744,9 +744,9 @@
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
-    <version>1.2</version>
+    <version>1.3</version>
     <bundle>net.deanishe.alfred-glosbe</bundle>
-    <updated>1393669034</updated>
+    <updated>1396122434</updated>
     <file>glosbe_translation.alfredworkflow</file>
     <author>deanishe</author>
     <applications></applications>
@@ -2087,10 +2087,24 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Toggle Hidden Files</name>
+    <version>1.0</version>
+    <bundle>ch.milan.hiddenfiles</bundle>
+    <updated>1396101014</updated>
+    <file>hidden_files.alfredworkflow</file>
+    <author>milan</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-hidden-files</url>
+    <tags>toggle ||| Hidden Files ||| system</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Toggle Wifi</name>
     <version>1.0</version>
     <bundle>ch.milan.togglewifi</bundle>
-    <updated>1396097233</updated>
+    <updated>1396097938</updated>
     <file>toggle_wifi.alfredworkflow</file>
     <author>milan</author>
     <applications></applications>
