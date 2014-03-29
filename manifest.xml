@@ -1278,7 +1278,7 @@
     <name>Pocket for Alfred</name>
     <version>1.6</version>
     <bundle>com.fniephaus.pocket</bundle>
-    <updated>1396090273</updated>
+    <updated>1396090335</updated>
     <file>pocket-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications></applications>
@@ -1385,6 +1385,20 @@
     <url>http://www.packal.org/workflow/random-choice</url>
     <tags>random ||| roll ||| dice ||| flip ||| coin</tags>
     <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Readability for Alfred</name>
+    <version>1.0</version>
+    <bundle>com.fniephaus.readability</bundle>
+    <updated>1396090394</updated>
+    <file>readability-for-alfred.alfredworkflow</file>
+    <author>fniephaus</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/readability-alfred</url>
+    <tags>Readability ||| Reader</tags>
+    <webservices>Readability</webservices>
   </workflow>
   <workflow>
     <name>Recent Documents</name>
