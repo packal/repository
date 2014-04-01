@@ -953,6 +953,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>LinkClean</name>
+    <version>1.0</version>
+    <bundle>com.vitorgalvao.alfred.linkclean</bundle>
+    <updated>1396381095</updated>
+    <file>linkclean.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>Text Manipulation</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/linkclean</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Luxinate</name>
     <version>5.2</version>
     <bundle>co.nf.ritashugisha.luxinate</bundle>
@@ -1258,6 +1272,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/ping-tcp-port</url>
     <tags>port ||| tcp ||| networking ||| ping</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>PingPong</name>
+    <version>1.0</version>
+    <bundle>com.vitorgalvao.alfred.pingpong</bundle>
+    <updated>1396379594</updated>
+    <file>pingpong.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>Games</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pingpong</url>
+    <tags></tags>
     <webservices></webservices>
   </workflow>
   <workflow>
@@ -2412,7 +2440,7 @@
     <name>ZotQuery</name>
     <version>6.6.1</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1396364895</updated>
+    <updated>1396364957</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
