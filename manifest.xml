@@ -1009,6 +1009,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>MailURL</name>
+    <version>0.1</version>
+    <bundle>com.stirabout.mailurl</bundle>
+    <updated>1396545135</updated>
+    <file>copy_mail_url.alfredworkflow</file>
+    <author>bnice5000</author>
+    <applications>Mail</applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/mailurl</url>
+    <tags>email ||| url</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
