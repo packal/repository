@@ -253,6 +253,20 @@
     <webservices>Chromecast</webservices>
   </workflow>
   <workflow>
+    <name>Clean App</name>
+    <version>1.0</version>
+    <bundle>com.khayes.cleanapp</bundle>
+    <updated>1396809732</updated>
+    <file>clean_app.alfredworkflow</file>
+    <author>khayes</author>
+    <applications>AppCleaner</applications>
+    <categories>Files and Folders</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/clean-app</url>
+    <tags>uninstall ||| remove ||| delete ||| clean ||| app ||| application</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Clean Applescript Dictionaries</name>
     <version>1.0</version>
     <bundle>com.remove.dup.as.dicts.rice.shawn</bundle>
@@ -746,7 +760,7 @@
     <name>Fuzzy Folders</name>
     <version>2.0</version>
     <bundle>net.deanishe.alfred-fuzzyfolders</bundle>
-    <updated>1396732154</updated>
+    <updated>1396732213</updated>
     <file>fuzzy_folders.alfredworkflow</file>
     <author>deanishe</author>
     <applications></applications>
