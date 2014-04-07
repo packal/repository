@@ -942,7 +942,7 @@
     <name>iTunes Airplay Toggle</name>
     <version>1.01</version>
     <bundle>com.dotson.airplaytoggle</bundle>
-    <updated>1396831811</updated>
+    <updated>1396831870</updated>
     <file>itunes_airplay_toggle.alfredworkflow</file>
     <author>smirky</author>
     <applications>iTunes</applications>
@@ -2560,6 +2560,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/toggle-iphone-tethering</url>
     <tags>iphone ||| bluetooth ||| tethering</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Youtube Control</name>
+    <version>1.0</version>
+    <bundle>com.dangerphil.ytc</bundle>
+    <updated>1396878432</updated>
+    <file>youtube_control_google_chrome.alfredworkflow</file>
+    <author>DangerPhil</author>
+    <applications>Google Chrome</applications>
+    <categories>Audio ||| Utilities ||| Video</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/youtube-control</url>
+    <tags></tags>
     <webservices></webservices>
   </workflow>
   <workflow>
