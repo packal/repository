@@ -141,6 +141,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>AppScripts</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-appscripts</bundle>
+    <updated>1396893417</updated>
+    <file>appscripts.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications>iTunes ||| Safari ||| Google Chrome ||| Finder ||| OmniFocus ||| OmniOutliner ||| Mail</applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/appscripts</url>
+    <tags>Applescript ||| scripts ||| runner</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Boot2Docker</name>
     <version>1.2.0</version>
     <bundle>com.alfredapp.moul.boot2docker</bundle>
@@ -1258,6 +1272,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/open-language</url>
     <tags>language ||| loccalization ||| localisation ||| translate ||| apps ||| launching ||| international ||| foreign ||| testing ||| QA ||| product management</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Open Multiple Projects</name>
+    <version>1.4.0</version>
+    <bundle>com.khaliqgant.openproject</bundle>
+    <updated>1396915332</updated>
+    <file>open_project.alfredworkflow</file>
+    <author>khaliqgant</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-multiple-projects</url>
+    <tags></tags>
     <webservices></webservices>
   </workflow>
   <workflow>
@@ -2566,7 +2594,7 @@
     <name>Youtube Control</name>
     <version>1.1</version>
     <bundle>com.dangerphil.ytc</bundle>
-    <updated>1396882390</updated>
+    <updated>1396882451</updated>
     <file>youtube_control_google_chrome.alfredworkflow</file>
     <author>DangerPhil</author>
     <applications>Google Chrome</applications>
