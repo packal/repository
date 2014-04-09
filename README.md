@@ -10,6 +10,6 @@ You can clone this repository, but it should be fairly big. We recommend using t
 We do not accept pull requests for any of the files because, well, they're user contributed and not developed here.
 
 This repository has three functions:
-1. To be the primary host for these Workflows (all download links from http://packal.org point here).
-2. To be the remote source for the Packal Workflow's updating abilities (still in development).
-3. To be a backup in case the Packal server goes down (all workflow files are also on the webserver).
+ 1. To be the primary host for these Workflows (all download links from http://packal.org point here).
+ 2. To be the remote source for the Packal Workflow's updating abilities (still in development).
+ 3. To be a backup in case the Packal server goes down (all workflow files are also on the webserver).
