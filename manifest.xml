@@ -57,6 +57,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>AlfredBookmarklet</name>
+    <version>1.0</version>
+    <bundle>com.vitorgalvao.alfred.alfredbookmarklet</bundle>
+    <updated>1397086034</updated>
+    <file>alfredbookmarklet.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfredbookmarklet</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>AlfredDig</name>
     <version>1.0</version>
     <bundle>pjkh.dig</bundle>
@@ -2606,9 +2620,9 @@
   </workflow>
   <workflow>
     <name>ZotQuery</name>
-    <version>7.0.1</version>
+    <version>7.1</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1397081412</updated>
+    <updated>1397134272</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
