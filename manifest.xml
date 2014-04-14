@@ -183,6 +183,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Budget Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.Budget</bundle>
+    <updated>1397445791</updated>
+    <file>budgetworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/budget-workflow</url>
+    <tags>budget</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>BugNot</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.bugnot</bundle>
@@ -222,20 +236,6 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/caffeine-toggle</url>
     <tags>Caffeine ||| Display</tags>
-    <webservices></webservices>
-  </workflow>
-  <workflow>
-    <name>Calca Tookit</name>
-    <version>1.0</version>
-    <bundle>com.customct.Calca</bundle>
-    <updated>1389481874</updated>
-    <file>calcatoolkit.alfredworkflow</file>
-    <author>raguay</author>
-    <applications>Calca.app</applications>
-    <categories>Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/calca-tookit</url>
-    <tags>calca ||| budget ||| notes ||| todo</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
@@ -2160,7 +2160,7 @@
     <name>Text Massagers</name>
     <version>1.2</version>
     <bundle>com.customct.TextMassagers</bundle>
-    <updated>1397387231</updated>
+    <updated>1397387291</updated>
     <file>textmassagers.alfredworkflow</file>
     <author>raguay</author>
     <applications></applications>
