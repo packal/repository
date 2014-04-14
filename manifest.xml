@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
   <workflow>
+    <name>.icns icon setter</name>
+    <version>1.2</version>
+    <bundle>com.edwin.selficon</bundle>
+    <updated>1397466071</updated>
+    <file>set_as_icon_to_self.alfredworkflow</file>
+    <author>edwin</author>
+    <applications></applications>
+    <categories>Graphic Design ||| Images ||| Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/icns-icon-setter</url>
+    <tags>icns ||| self icon ||| icon</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Add to Playlist</name>
     <version>2.0</version>
     <bundle>com.sztoltz.addtoplaylist</bundle>
@@ -256,14 +270,14 @@
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1397305091</updated>
+    <updated>1397458441</updated>
     <file>chrome-bookmarks.alfredworkflow</file>
     <author>mdreizin</author>
     <applications>Python 2.7.x or above.</applications>
     <categories>Productivity</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks</tags>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
@@ -620,7 +634,7 @@
     <name>Dropbox Sync Toggle</name>
     <version>1.0</version>
     <bundle>com.giangvo.dropboxsync</bundle>
-    <updated>1397451247</updated>
+    <updated>1397461088</updated>
     <file>toggle_dropbox_sync.alfredworkflow</file>
     <author>giangvo</author>
     <applications>Dropbox</applications>
