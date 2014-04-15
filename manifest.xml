@@ -43,6 +43,20 @@
     <webservices>http://www.4-14.org.uk/xml-bible-web-service-api</webservices>
   </workflow>
   <workflow>
+    <name>Alfred Dependency Bundler Example</name>
+    <version>1.0</version>
+    <bundle>alfred.bundler.example.spr</bundle>
+    <updated>1397599032</updated>
+    <file>alfred_dependency_bundler_example.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Development ||| Other</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-dependency-bundler-example</url>
+    <tags>framework ||| dependencies ||| example ||| tutorial</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Alfred Time Keeper</name>
     <version>1.0</version>
     <bundle>com.customct.AlfredTimeKeeper</bundle>
@@ -1581,6 +1595,20 @@
     <url>http://www.packal.org/workflow/pokedex</url>
     <tags>pokemon ||| poke ||| moves ||| pokedex ||| abilities ||| evolutions</tags>
     <webservices>Pokemondb ||| Serebii</webservices>
+  </workflow>
+  <workflow>
+    <name>Powerline Toolbox</name>
+    <version>1.0</version>
+    <bundle>com.customct.Powerline</bundle>
+    <updated>1397477412</updated>
+    <file>powerlinetoolbox.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>Powerline</applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/powerline-toolbox</url>
+    <tags>Powerline</tags>
+    <webservices></webservices>
   </workflow>
   <workflow>
     <name>premiumize.me - premium link generator for single download links</name>
