@@ -186,7 +186,7 @@
     <name>AppScripts</name>
     <version>1.1</version>
     <bundle>net.deanishe.alfred-appscripts</bundle>
-    <updated>1398280871</updated>
+    <updated>1398280931</updated>
     <file>appscripts.alfredworkflow</file>
     <author>deanishe</author>
     <applications>iTunes ||| Safari ||| Google Chrome ||| Finder ||| OmniFocus ||| OmniOutliner ||| Mail</applications>
@@ -194,6 +194,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/appscripts</url>
     <tags>Applescript ||| scripts ||| runner</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Battery</name>
+    <version>1.0</version>
+    <bundle>tylereich.battery</bundle>
+    <updated>1398285672</updated>
+    <file>battery.alfredworkflow</file>
+    <author>Tyler Eich</author>
+    <applications></applications>
+    <categories>System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/battery</url>
+    <tags></tags>
     <webservices></webservices>
   </workflow>
   <workflow>
