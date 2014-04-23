@@ -954,9 +954,9 @@
   </workflow>
   <workflow>
     <name>Hayoo</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <bundle>in.loathing.fear.hayoo</bundle>
-    <updated>1398196692</updated>
+    <updated>1398229716</updated>
     <file>hayoo.alfredworkflow</file>
     <author>prettynatty</author>
     <applications></applications>
@@ -1469,6 +1469,20 @@
     <url>http://www.packal.org/workflow/packal-workflow-search</url>
     <tags>packal ||| workflow ||| search</tags>
     <webservices>packal.org</webservices>
+  </workflow>
+  <workflow>
+    <name>Parsers</name>
+    <version>1.0</version>
+    <bundle>com.hackademic.parsers</bundle>
+    <updated>1398232871</updated>
+    <file>parsers.alfredworkflow</file>
+    <author>hackademic</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/parsers</url>
+    <tags>greek ||| latin ||| perseus ||| parser</tags>
+    <webservices>Perseus</webservices>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
