@@ -2146,7 +2146,7 @@
     <name>Spotify Mini Player</name>
     <version>4.22</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1398366553</updated>
+    <updated>1398366614</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
@@ -2169,6 +2169,20 @@
     <url>http://www.packal.org/workflow/sprintly</url>
     <tags>gtd ||| sprint</tags>
     <webservices>Sprintly</webservices>
+  </workflow>
+  <workflow>
+    <name>SSH Rocket</name>
+    <version>1.0</version>
+    <bundle>com.evgeny.golubev.alfred.sshlauncher</bundle>
+    <updated>1398436511</updated>
+    <file>ssh_rocket.alfredworkflow</file>
+    <author>m0nah</author>
+    <applications>iTerm2 ||| Terminal</applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ssh-rocket</url>
+    <tags>ssh ||| terminal ||| networking</tags>
+    <webservices></webservices>
   </workflow>
   <workflow>
     <name>Strip clipboard text formatting</name>
