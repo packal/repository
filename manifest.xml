@@ -729,20 +729,6 @@
     <webservices></webservices>
   </workflow>
   <workflow>
-    <name>EN-Wikify</name>
-    <version>1.2</version>
-    <bundle>com.hackademic.wikify</bundle>
-    <updated>1396037353</updated>
-    <file>en-wikify.alfredworkflow</file>
-    <author>hackademic</author>
-    <applications>Evernote</applications>
-    <categories>Files and Folders ||| Text Manipulation</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/en-wikify</url>
-    <tags>evernote ||| markdown ||| wiki</tags>
-    <webservices></webservices>
-  </workflow>
-  <workflow>
     <name>Evernote</name>
     <version>8.0</version>
     <bundle>com.sztoltz.evernote</bundle>
@@ -2773,6 +2759,20 @@
     <webservices>What&#039;s My IP Address?</webservices>
   </workflow>
   <workflow>
+    <name>Wikify</name>
+    <version>2.0</version>
+    <bundle>com.hackademic.wikify</bundle>
+    <updated>1398657252</updated>
+    <file>wikify.alfredworkflow</file>
+    <author>hackademic</author>
+    <applications>Evernote</applications>
+    <categories>Files and Folders ||| Text Manipulation</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/wikify</url>
+    <tags>evernote ||| markdown ||| wiki</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Wolfram|Alpha</name>
     <version>1.0</version>
     <bundle>tylereich.wolframalpha</bundle>
@@ -2846,7 +2846,7 @@
     <name>ZotQuery</name>
     <version>7.1.1</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1398637333</updated>
+    <updated>1398637392</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
