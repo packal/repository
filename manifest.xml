@@ -211,6 +211,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Blur</name>
+    <version>1.0</version>
+    <bundle>tylereich.blur</bundle>
+    <updated>1398715452</updated>
+    <file>blur.alfredworkflow</file>
+    <author>Tyler Eich</author>
+    <applications>Alfred2</applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/blur</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Boot2Docker</name>
     <version>1.2.0</version>
     <bundle>com.alfredapp.moul.boot2docker</bundle>
@@ -2760,9 +2774,9 @@
   </workflow>
   <workflow>
     <name>Wikify</name>
-    <version>2.1</version>
+    <version>2.2</version>
     <bundle>com.hackademic.wikify</bundle>
-    <updated>1398708432</updated>
+    <updated>1398793752</updated>
     <file>wikify.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Evernote</applications>
