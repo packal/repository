@@ -43,6 +43,20 @@
     <webservices>http://www.4-14.org.uk/xml-bible-web-service-api</webservices>
   </workflow>
   <workflow>
+    <name>Alfred Cron</name>
+    <version>1.0</version>
+    <bundle>alfred.cron.spr</bundle>
+    <updated>1398836592</updated>
+    <file>alfred_cron.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-cron</url>
+    <tags>cron ||| scheduled scripts ||| timed ||| alfred cron</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Alfred Dependency Bundler Example</name>
     <version>1.0</version>
     <bundle>alfred.bundler.example.spr</bundle>
@@ -1887,6 +1901,20 @@
     <categories>Productivity</categories>
     <osx>Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/rightclick</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Roman Numerals</name>
+    <version>1.0</version>
+    <bundle>tylereich.roman-numerals</bundle>
+    <updated>1398825312</updated>
+    <file>roman_numerals.alfredworkflow</file>
+    <author>Tyler Eich</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/roman-numerals</url>
     <tags></tags>
     <webservices></webservices>
   </workflow>
