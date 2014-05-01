@@ -46,7 +46,7 @@
     <name>Alfred Cron</name>
     <version>1.0</version>
     <bundle>alfred.cron.spr</bundle>
-    <updated>1398836592</updated>
+    <updated>1398838602</updated>
     <file>alfred_cron.alfredworkflow</file>
     <author>Shawn Patrick Rice</author>
     <applications></applications>
@@ -802,7 +802,7 @@
     <name>Favorites</name>
     <version>1.0</version>
     <bundle>tylereich.favorites</bundle>
-    <updated>1398825131</updated>
+    <updated>1398871941</updated>
     <file>favorites.alfredworkflow</file>
     <author>Tyler Eich</author>
     <applications></applications>
@@ -923,6 +923,20 @@
     <url>http://www.packal.org/workflow/glosbe-translation</url>
     <tags>translate ||| translation ||| english ||| german ||| french ||| spanish ||| dictionary ||| bilingual</tags>
     <webservices>glosbe.com</webservices>
+  </workflow>
+  <workflow>
+    <name>Golden Ratio</name>
+    <version>1.0</version>
+    <bundle>tylereich.golden-ratio</bundle>
+    <updated>1398855312</updated>
+    <file>golden_ratio.alfredworkflow</file>
+    <author>Tyler Eich</author>
+    <applications></applications>
+    <categories>Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/golden-ratio</url>
+    <tags></tags>
+    <webservices></webservices>
   </workflow>
   <workflow>
     <name>Google Hangout</name>
@@ -2816,9 +2830,9 @@
   </workflow>
   <workflow>
     <name>Wikify</name>
-    <version>2.2</version>
+    <version>2.3</version>
     <bundle>com.hackademic.wikify</bundle>
-    <updated>1398793812</updated>
+    <updated>1398913752</updated>
     <file>wikify.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Evernote</applications>
