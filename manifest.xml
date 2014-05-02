@@ -1079,6 +1079,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>iMessage Workflow</name>
+    <version>1.3</version>
+    <bundle>nc.workflow.imessage</bundle>
+    <updated>1399017252</updated>
+    <file>imessage.alfredworkflow</file>
+    <author>forgetfulfellow</author>
+    <applications>Messages</applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/imessage-workflow</url>
+    <tags>Messages ||| gtalk ||| texting ||| text ||| iphone ||| instant messenger</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>IncognitoClone</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.incognitoclone</bundle>
@@ -2832,7 +2846,7 @@
     <name>Wikify</name>
     <version>2.3</version>
     <bundle>com.hackademic.wikify</bundle>
-    <updated>1398913752</updated>
+    <updated>1398913811</updated>
     <file>wikify.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Evernote</applications>
