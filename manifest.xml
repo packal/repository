@@ -60,7 +60,7 @@
     <name>Alfred Cron</name>
     <version>1.1</version>
     <bundle>alfred.cron.spr</bundle>
-    <updated>1399314071</updated>
+    <updated>1399314131</updated>
     <file>alfred_cron.alfredworkflow</file>
     <author>Shawn Patrick Rice</author>
     <applications></applications>
@@ -2616,6 +2616,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/toggle-drop-shadow-window-captures</url>
     <tags>Screenshot ||| Capture ||| Shadow</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>0.1</version>
+    <bundle>uk.co.clokey.alfredworkflow</bundle>
+    <updated>1399315871</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>clokey74</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys</url>
+    <tags>fn ||| function key</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
