@@ -662,7 +662,7 @@
     <name>DJ Pedro</name>
     <version>1.3</version>
     <bundle>com.dotson.DJPedro</bundle>
-    <updated>1399145055</updated>
+    <updated>1399145517</updated>
     <file>dj_pedro.alfredworkflow</file>
     <author>smirky</author>
     <applications>iTunes</applications>
@@ -2115,6 +2115,20 @@
     <webservices>http://mvnrepository.com</webservices>
   </workflow>
   <workflow>
+    <name>Search PubMed</name>
+    <version>1.2</version>
+    <bundle>com.tedwise.pubmed</bundle>
+    <updated>1399146312</updated>
+    <file>search_pubmed.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/search-pubmed</url>
+    <tags>pubmed</tags>
+    <webservices>http://www.ncbi.nlm.nih.gov/pubmed</webservices>
+  </workflow>
+  <workflow>
     <name>Search Safari and Chrome Tabs</name>
     <version>1.0.3</version>
     <bundle>com.clintonstrong.SearchTabs</bundle>
@@ -2742,6 +2756,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/type-clipboard</url>
     <tags>paste ||| clipboard ||| type</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Uni Call</name>
+    <version>5.31</version>
+    <bundle>net.guiguan.Uni-Call</bundle>
+    <updated>1399295651</updated>
+    <file>uni-call.alfredworkflow</file>
+    <author>guiguan</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/uni-call</url>
+    <tags>alfred workflow ||| Apple Contacts ||| bluetooth phone call ||| Call Trunk ||| FaceTime ||| Fritz!Box ||| Google Voice ||| GrowlVoice ||| phone amego ||| PushDialer ||| SIP ||| Skype ||| Telephone</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
