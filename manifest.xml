@@ -60,7 +60,7 @@
     <name>Alfred Cron</name>
     <version>1.0</version>
     <bundle>alfred.cron.spr</bundle>
-    <updated>1399321871</updated>
+    <updated>1399321931</updated>
     <file>alfred_cron.alfredworkflow</file>
     <author>Shawn Patrick Rice</author>
     <applications></applications>
@@ -1471,6 +1471,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>NSONE</name>
+    <version>1.0</version>
+    <bundle>com.alexvayl.nsone</bundle>
+    <updated>1399324429</updated>
+    <file>nsone.alfredworkflow</file>
+    <author>avayl</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/nsone</url>
+    <tags>nsone ||| dns ||| qps ||| queries ||| queries per second</tags>
+    <webservices>NSONE</webservices>
+  </workflow>
+  <workflow>
     <name>NTFS Enabler</name>
     <version>1.0</version>
     <bundle>fmanoeli.ntfsenabler</bundle>
@@ -1570,9 +1584,9 @@
   </workflow>
   <workflow>
     <name>Parsers</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.hackademic.parsers</bundle>
-    <updated>1398232871</updated>
+    <updated>1399338611</updated>
     <file>parsers.alfredworkflow</file>
     <author>hackademic</author>
     <applications></applications>
