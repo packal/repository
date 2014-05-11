@@ -254,9 +254,9 @@
   </workflow>
   <workflow>
     <name>Blur</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>tylereich.blur</bundle>
-    <updated>1398715452</updated>
+    <updated>1399816151</updated>
     <file>blur.alfredworkflow</file>
     <author>Tyler Eich</author>
     <applications>Alfred2</applications>
@@ -880,6 +880,20 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/fish-toolbox</url>
     <tags>Fish ||| shell</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
+    <name>Flux</name>
+    <version>1.0</version>
+    <bundle>com.spr.f.lux</bundle>
+    <updated>1399781771</updated>
+    <file>f.lux_.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications>f.lux</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/flux</url>
+    <tags>color temperature ||| flux ||| f.lux ||| Sleep ||| fancy tricks ||| Display ||| mood lighting</tags>
     <webservices></webservices>
   </workflow>
   <workflow>
@@ -2286,7 +2300,7 @@
     <name>Spotifious</name>
     <version>0.9.2</version>
     <bundle>com.citelao.spotifious</bundle>
-    <updated>1399779554</updated>
+    <updated>1399779613</updated>
     <file>spotifious.alfredworkflow</file>
     <author>citelao</author>
     <applications>Spotify</applications>
