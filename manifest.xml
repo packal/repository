@@ -393,6 +393,20 @@
     <webservices>Chromecast</webservices>
   </workflow>
   <workflow>
+    <name>Chromium Update</name>
+    <version>1.0</version>
+    <bundle>com.k94n.alfred.chromiumupdate</bundle>
+    <updated>1400164992</updated>
+    <file>chromiumupdate.alfredworkflow</file>
+    <author>k9ordon</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chromium-update</url>
+    <tags></tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Clean App</name>
     <version>1.0</version>
     <bundle>com.khayes.cleanapp</bundle>
@@ -1880,7 +1894,7 @@
     <name>Readability for Alfred</name>
     <version>1.1</version>
     <bundle>com.fniephaus.readability</bundle>
-    <updated>1400109371</updated>
+    <updated>1400109430</updated>
     <file>readability-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications></applications>
