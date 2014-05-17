@@ -2409,6 +2409,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Subscribe To Feed URLs</name>
+    <version>1.0</version>
+    <bundle>de.curioustimes.alfred.subscribetofeedurls</bundle>
+    <updated>1400336171</updated>
+    <file>subscribe_to_feed_urls.alfredworkflow</file>
+    <author>of944</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/subscribe-feed-urls</url>
+    <tags>RSS ||| BazQux Reader ||| Aol Reader ||| InoReader ||| Feedly ||| Feedbin ||| Digg Reader ||| FeedHQ ||| Feed Wrangler ||| MnmlRdr ||| NewsBlur ||| The Old Reader</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Sudoers</name>
     <version>1.0</version>
     <bundle>com.shawn.patrick.rice.sudoers</bundle>
@@ -2552,7 +2566,7 @@
     <name>TextSoap Cleaners</name>
     <version>2.2</version>
     <bundle>com.customct.TextSoapCleaners</bundle>
-    <updated>1400329931</updated>
+    <updated>1400329992</updated>
     <file>textsoapcleaners.alfredworkflow</file>
     <author>raguay</author>
     <applications>TextSoap.app</applications>
