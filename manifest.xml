@@ -603,6 +603,20 @@
     <webservices></webservices>
   </workflow>
   <workflow>
+    <name>Create RAM drive</name>
+    <version>1.0</version>
+    <bundle>com.ramdrive.workflow.com</bundle>
+    <updated>1400523491</updated>
+    <file>ram_drive.alfredworkflow</file>
+    <author>facetheheat</author>
+    <applications></applications>
+    <categories>Development ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/create-ram-drive</url>
+    <tags>disk ||| diskutility ||| ram ||| ramdrive ||| ramdisk ||| diskutil ||| system ||| operating system</tags>
+    <webservices></webservices>
+  </workflow>
+  <workflow>
     <name>Create Sticky Notification</name>
     <version>1.0</version>
     <bundle>com.calebgrove.sn</bundle>
@@ -732,7 +746,7 @@
     <name>DownVid</name>
     <version>1.5.0</version>
     <bundle>com.vitorgalvao.alfred.downvid</bundle>
-    <updated>1400523372</updated>
+    <updated>1400523526</updated>
     <file>downvid.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -2970,9 +2984,9 @@
   </workflow>
   <workflow>
     <name>WatchList</name>
-    <version>1.1.1</version>
+    <version>1.2.0</version>
     <bundle>com.vitorgalvao.alfred.watchlist</bundle>
-    <updated>1397351711</updated>
+    <updated>1400525831</updated>
     <file>watchlist.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
