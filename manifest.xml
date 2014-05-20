@@ -13,6 +13,7 @@
     <url>http://www.packal.org/workflow/icns-icon-setter</url>
     <tags>icns ||| self icon ||| icon</tags>
     <webservices></webservices>
+    <short>Set the icon of a ".icns" file by using the actual file</short>
   </workflow>
   <workflow>
     <name>8 Ball</name>
@@ -27,6 +28,7 @@
     <url>http://www.packal.org/workflow/8-ball</url>
     <tags>8ball ||| flipist</tags>
     <webservices></webservices>
+    <short>Magic 8 Ball Alfred Workflow that gives a random response from a set of 20</short>
   </workflow>
   <workflow>
     <name>Add to Playlist</name>
@@ -41,6 +43,7 @@
     <url>http://www.packal.org/workflow/add-playlist</url>
     <tags>itunes</tags>
     <webservices></webservices>
+    <short>Add Current Song to an iTunes Playlist (or Build Playlists)</short>
   </workflow>
   <workflow>
     <name>Alfred Backblaze</name>
@@ -55,6 +58,7 @@
     <url>http://www.packal.org/workflow/alfred-backblaze</url>
     <tags>backblaze ||| Backup ||| sync ||| pause</tags>
     <webservices>Backblaze</webservices>
+    <short>Pause and Start Backblaze online backups</short>
   </workflow>
   <workflow>
     <name>Alfred Bible</name>
@@ -69,6 +73,7 @@
     <url>http://www.packal.org/workflow/alfred-bible</url>
     <tags>Bible</tags>
     <webservices>http://www.4-14.org.uk/xml-bible-web-service-api</webservices>
+    <short>Pastes Bible verse from reference in selected language.</short>
   </workflow>
   <workflow>
     <name>Alfred Cron</name>
@@ -83,6 +88,7 @@
     <url>http://www.packal.org/workflow/alfred-cron</url>
     <tags>cron ||| scheduled scripts ||| timed ||| alfred cron</tags>
     <webservices></webservices>
+    <short>Schedule Scripts with Alfred</short>
   </workflow>
   <workflow>
     <name>Alfred Dependency Bundler Example</name>
@@ -97,6 +103,7 @@
     <url>http://www.packal.org/workflow/alfred-dependency-bundler-example</url>
     <tags>framework ||| dependencies ||| example ||| tutorial</tags>
     <webservices></webservices>
+    <short>An example workflow to show how the Alfred Dependency Bundler works</short>
   </workflow>
   <workflow>
     <name>Alfred Time Keeper</name>
@@ -111,6 +118,7 @@
     <url>http://www.packal.org/workflow/alfred-time-keeper</url>
     <tags></tags>
     <webservices></webservices>
+    <short>This workflow helps you to track time spent on each project each day. </short>
   </workflow>
   <workflow>
     <name>Alfred Workflow Builder QuickRef</name>
@@ -125,6 +133,7 @@
     <url>http://www.packal.org/workflow/alfred-workflow-builder-quickref</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Designed to help with building Alfred workflows efficiently. Shows the last Alfred workflow you were working on at the top of the list. Same with the data folder.</short>
   </workflow>
   <workflow>
     <name>AlfredBookmarklet</name>
@@ -139,6 +148,7 @@
     <url>http://www.packal.org/workflow/alfredbookmarklet</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Use a browser bookmarklet via Alfred</short>
   </workflow>
   <workflow>
     <name>AlfredDig</name>
@@ -153,6 +163,7 @@
     <url>http://www.packal.org/workflow/alfreddig</url>
     <tags>dig ||| dns ||| nslookup</tags>
     <webservices></webservices>
+    <short>A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.</short>
   </workflow>
   <workflow>
     <name>AlfredFM</name>
@@ -167,6 +178,7 @@
     <url>http://www.packal.org/workflow/alfredfm</url>
     <tags>last.fm</tags>
     <webservices>last.fm</webservices>
+    <short>Last.fm on Alfred!</short>
   </workflow>
   <workflow>
     <name>AlfredPow</name>
@@ -181,6 +193,7 @@
     <url>http://www.packal.org/workflow/alfredpow</url>
     <tags>POW</tags>
     <webservices></webservices>
+    <short>A workflow to manage Pow and your Pow applications.</short>
   </workflow>
   <workflow>
     <name>App Install</name>
@@ -195,6 +208,7 @@
     <url>http://www.packal.org/workflow/app-install</url>
     <tags>install ||| app ||| dmg ||| zip ||| alfredworkflow ||| workflow ||| application</tags>
     <webservices></webservices>
+    <short>Lists and installs the most recent applications from your Downloads folder</short>
   </workflow>
   <workflow>
     <name>App Shortcuts</name>
@@ -209,6 +223,7 @@
     <url>http://www.packal.org/workflow/app-shortcuts</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Makes computer a single entiry rather than a bunch of apps.</short>
   </workflow>
   <workflow>
     <name>Apple Account Switcher</name>
@@ -223,6 +238,7 @@
     <url>http://www.packal.org/workflow/apple-account-switcher</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Switch between Apple accounts in iTunes, App Store and iBooks (using Keychain)</short>
   </workflow>
   <workflow>
     <name>AppScripts</name>
@@ -237,6 +253,7 @@
     <url>http://www.packal.org/workflow/appscripts</url>
     <tags>Applescript ||| scripts ||| runner</tags>
     <webservices></webservices>
+    <short>List, search and run/open AppleScripts for the active application</short>
   </workflow>
   <workflow>
     <name>Battery</name>
@@ -251,6 +268,7 @@
     <url>http://www.packal.org/workflow/battery</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Get estimated time left on battery</short>
   </workflow>
   <workflow>
     <name>BibQuery</name>
@@ -265,6 +283,7 @@
     <url>http://www.packal.org/workflow/bibquery</url>
     <tags>bibtex ||| bibdesk ||| citations ||| latex</tags>
     <webservices></webservices>
+    <short>Search BibDesk from the comfort of your keyboard</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -279,6 +298,7 @@
     <url>http://www.packal.org/workflow/blur</url>
     <tags>blur ||| background ||| appearance</tags>
     <webservices></webservices>
+    <short>Set Alfred's background blur radius</short>
   </workflow>
   <workflow>
     <name>Boot2Docker</name>
@@ -293,6 +313,7 @@
     <url>http://www.packal.org/workflow/boot2docker</url>
     <tags>docker ||| boot2docker ||| virtualbox ||| brew</tags>
     <webservices></webservices>
+    <short>Control boot2docker</short>
   </workflow>
   <workflow>
     <name>Budget Workflow</name>
@@ -307,6 +328,7 @@
     <url>http://www.packal.org/workflow/budget-workflow</url>
     <tags>budget</tags>
     <webservices></webservices>
+    <short>Workflow to work with budgets using Calca or any other editor.</short>
   </workflow>
   <workflow>
     <name>BugNot</name>
@@ -321,6 +343,7 @@
     <url>http://www.packal.org/workflow/bugnot</url>
     <tags></tags>
     <webservices>bugmenot</webservices>
+    <short>Get logins from bugmenot</short>
   </workflow>
   <workflow>
     <name>Caffeinate Control</name>
@@ -335,6 +358,7 @@
     <url>http://www.packal.org/workflow/caffeinate-control</url>
     <tags>Sleep ||| Display ||| OS X Annoyance Fixers</tags>
     <webservices></webservices>
+    <short>Controls "caffeinate" — system command to prevent the sleep function.</short>
   </workflow>
   <workflow>
     <name>Caffeine Toggle</name>
@@ -349,6 +373,7 @@
     <url>http://www.packal.org/workflow/caffeine-toggle</url>
     <tags>Caffeine ||| Display</tags>
     <webservices></webservices>
+    <short>Toggles Caffeine to keep your computer awake.</short>
   </workflow>
   <workflow>
     <name>CheckSpelling</name>
@@ -363,6 +388,7 @@
     <url>http://www.packal.org/workflow/checkspelling</url>
     <tags>spell check</tags>
     <webservices></webservices>
+    <short>Spelling correction in various languages.</short>
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
@@ -377,6 +403,7 @@
     <url>http://www.packal.org/workflow/chrome-bookmarks</url>
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -391,6 +418,7 @@
     <url>http://www.packal.org/workflow/chrome-notepad</url>
     <tags>scratchpad ||| notepad ||| browser ||| writing</tags>
     <webservices></webservices>
+    <short>Open a quick notepad in Chrome</short>
   </workflow>
   <workflow>
     <name>Chromecast</name>
@@ -405,6 +433,7 @@
     <url>http://www.packal.org/workflow/chromecast</url>
     <tags>chromecast ||| chrome ||| remote ||| cast ||| youtube ||| google ||| python</tags>
     <webservices>Chromecast</webservices>
+    <short>Control Chromecast from Alfred</short>
   </workflow>
   <workflow>
     <name>Chromium Update</name>
@@ -419,6 +448,7 @@
     <url>http://www.packal.org/workflow/chromium-update</url>
     <tags>browser ||| update ||| updater ||| chromium</tags>
     <webservices></webservices>
+    <short>Download &amp; Install the latest chromium build.</short>
   </workflow>
   <workflow>
     <name>Clean App</name>
@@ -433,6 +463,7 @@
     <url>http://www.packal.org/workflow/clean-app</url>
     <tags>uninstall ||| remove ||| delete ||| clean ||| app ||| application</tags>
     <webservices></webservices>
+    <short>Uninstalls applications using AppCleaner</short>
   </workflow>
   <workflow>
     <name>Clean Applescript Dictionaries</name>
@@ -447,6 +478,7 @@
     <url>http://www.packal.org/workflow/clean-applescript-dictionaries</url>
     <tags>Applescript</tags>
     <webservices></webservices>
+    <short>Removes duplicate Applescript Dictionary Entries</short>
   </workflow>
   <workflow>
     <name>Clint Eastwood Are You Feeling Lucky Punk Google Search</name>
@@ -461,6 +493,7 @@
     <url>http://www.packal.org/workflow/clint-eastwood-are-you-feeling-lucky-punk-google-search</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Opens a "I'm feeling lucky" google search. i.e. it loads the page of the first result of a search</short>
   </workflow>
   <workflow>
     <name>CloudApp</name>
@@ -475,6 +508,7 @@
     <url>http://www.packal.org/workflow/cloudapp</url>
     <tags>CloudApp ||| Upload</tags>
     <webservices>CloudApp</webservices>
+    <short>Upload to CloudApp (optionally rename)</short>
   </workflow>
   <workflow>
     <name>Cocoapods Search</name>
@@ -489,6 +523,7 @@
     <url>http://www.packal.org/workflow/cocoapods-search</url>
     <tags>cocoapods</tags>
     <webservices>CocoaPods</webservices>
+    <short>A simple workflow for searching CocoaPods</short>
   </workflow>
   <workflow>
     <name>CoffeeCoffee</name>
@@ -503,6 +538,7 @@
     <url>http://www.packal.org/workflow/coffeecoffee</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Prevent your computer from going to sleep</short>
   </workflow>
   <workflow>
     <name>Colors</name>
@@ -517,6 +553,7 @@
     <url>http://www.packal.org/workflow/colors</url>
     <tags>color ||| panel ||| picker ||| chooser</tags>
     <webservices></webservices>
+    <short>Color tools for developers</short>
   </workflow>
   <workflow>
     <name>Compress Image</name>
@@ -531,6 +568,7 @@
     <url>http://www.packal.org/workflow/compress-image</url>
     <tags>ImageMagick ||| Convert</tags>
     <webservices></webservices>
+    <short>Allows for converting and compressing images using ImageMagick</short>
   </workflow>
   <workflow>
     <name>Convert</name>
@@ -545,6 +583,7 @@
     <url>http://www.packal.org/workflow/convert</url>
     <tags>Convert ||| metric ||| imperial ||| currency ||| offline</tags>
     <webservices></webservices>
+    <short>Convert between different units. No Internet connection required.</short>
   </workflow>
   <workflow>
     <name>Convert OS Paths</name>
@@ -559,6 +598,7 @@
     <url>http://www.packal.org/workflow/convert-os-paths</url>
     <tags>path ||| windows ||| volumes ||| Convert</tags>
     <webservices></webservices>
+    <short>Worflow for swithching back and forth between UNIX and Windows Paths, specifically between Mapped Drives and Mounted Network Volumes.</short>
   </workflow>
   <workflow>
     <name>Create Folder In …</name>
@@ -573,6 +613,7 @@
     <url>http://www.packal.org/workflow/create-folder</url>
     <tags></tags>
     <webservices></webservices>
+    <short>It creates folders, basically.</short>
   </workflow>
   <workflow>
     <name>Create new file (en)</name>
@@ -587,6 +628,7 @@
     <url>http://www.packal.org/workflow/create-new-file-en</url>
     <tags>create ||| file ||| new</tags>
     <webservices></webservices>
+    <short>Create a new file (optionally with a filename and -extension) in the current Finder window.</short>
   </workflow>
   <workflow>
     <name>Create New File in Finder (with file type templates)</name>
@@ -601,6 +643,7 @@
     <url>http://www.packal.org/workflow/create-new-file-finder-file-type-templates</url>
     <tags>Finder ||| New File ||| Templates</tags>
     <webservices></webservices>
+    <short>Allows you to quickly create new files in Finder. This workflow also allows you to add pre-filled file templates.</short>
   </workflow>
   <workflow>
     <name>Create RAM drive</name>
@@ -615,6 +658,7 @@
     <url>http://www.packal.org/workflow/create-ram-drive</url>
     <tags>disk ||| diskutility ||| ram ||| ramdrive ||| ramdisk ||| diskutil ||| system ||| operating system</tags>
     <webservices></webservices>
+    <short>Make RAM drive in a seconds</short>
   </workflow>
   <workflow>
     <name>Create Sticky Notification</name>
@@ -629,6 +673,7 @@
     <url>http://www.packal.org/workflow/create-sticky-notification</url>
     <tags>Notifications</tags>
     <webservices></webservices>
+    <short>Create a notification using Sticky Notifications (app)</short>
   </workflow>
   <workflow>
     <name>Currency Calculator (en)</name>
@@ -643,6 +688,7 @@
     <url>http://www.packal.org/workflow/currency-calculator-en</url>
     <tags>currency ||| calculator ||| dollar ||| euro ||| chf ||| gbp ||| try ||| eur ||| usd</tags>
     <webservices>x-rates.com</webservices>
+    <short>Calculates from dollar or euro to some selected currencies (default: chf, gbp, eur, usd, try)</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -657,6 +703,7 @@
     <url>http://www.packal.org/workflow/datetime-format-converter</url>
     <tags>Date ||| Time ||| Datetime ||| Timestamp ||| Unix</tags>
     <webservices></webservices>
+    <short>Convert between timestamps and formatted datetime strings with ease.</short>
   </workflow>
   <workflow>
     <name>DeskDrawer</name>
@@ -671,6 +718,7 @@
     <url>http://www.packal.org/workflow/deskdrawer</url>
     <tags>desktop ||| clutter</tags>
     <webservices></webservices>
+    <short>Creates a special "Drawer" folder with Alfred for stashing your Desktop clutter.</short>
   </workflow>
   <workflow>
     <name>DHCP Toggle</name>
@@ -685,6 +733,7 @@
     <url>http://www.packal.org/workflow/dhcp-toggle</url>
     <tags>OS X Annoyance Fixers ||| Airport ||| Wifi</tags>
     <webservices></webservices>
+    <short>Set your Wi-Fi DHCP settings to auto or manual.</short>
   </workflow>
   <workflow>
     <name>Dial with iPhone</name>
@@ -699,6 +748,7 @@
     <url>http://www.packal.org/workflow/dial-iphone</url>
     <tags>phone ||| iphone ||| dial</tags>
     <webservices>http://www.prowlapp.com/</webservices>
+    <short>Send a phone number from your Mac (Contact, selected text or manual entry) to your iPhone for quick-dialling. (Requires Prowl.)</short>
   </workflow>
   <workflow>
     <name>Discogs Explorer</name>
@@ -713,6 +763,7 @@
     <url>http://www.packal.org/workflow/discogs-explorer</url>
     <tags></tags>
     <webservices>Discogs</webservices>
+    <short>Explore Discogs.com database within an Alfred window.</short>
   </workflow>
   <workflow>
     <name>DJ Pedro</name>
@@ -727,6 +778,7 @@
     <url>http://www.packal.org/workflow/dj-pedro</url>
     <tags></tags>
     <webservices>last.fm</webservices>
+    <short>Create an iTunes playlist based on Last.fm's Similar Artist feature.</short>
   </workflow>
   <workflow>
     <name>Do a Barrel Roll!</name>
@@ -741,6 +793,7 @@
     <url>http://www.packal.org/workflow/do-barrel-roll</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Make either Safari or Chrome do a Barrel Roll</short>
   </workflow>
   <workflow>
     <name>DownVid</name>
@@ -755,6 +808,7 @@
     <url>http://www.packal.org/workflow/downvid</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Download videos from popular sources</short>
   </workflow>
   <workflow>
     <name>Dropbox Client for Alfred</name>
@@ -769,6 +823,7 @@
     <url>http://www.packal.org/workflow/dropbox-client-alfred</url>
     <tags>Dropbox ||| Client ||| sharing ||| search</tags>
     <webservices>Dropbox</webservices>
+    <short>Access multiple Dropbox accounts with Alfred</short>
   </workflow>
   <workflow>
     <name>Dropbox Sync Toggle</name>
@@ -783,6 +838,7 @@
     <url>http://www.packal.org/workflow/dropbox-sync-toggle</url>
     <tags>Dropbox ||| cliclick</tags>
     <webservices></webservices>
+    <short>Disable/Enable Dropbox Sync</short>
   </workflow>
   <workflow>
     <name>Drupal</name>
@@ -797,6 +853,7 @@
     <url>http://www.packal.org/workflow/drupal</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Integrate with the Drupal website, search API's Project names etc.</short>
   </workflow>
   <workflow>
     <name>DwellClick Workflow</name>
@@ -811,6 +868,7 @@
     <url>http://www.packal.org/workflow/dwellclick-workflow</url>
     <tags>DwellClick</tags>
     <webservices></webservices>
+    <short>A workflow to use the DwellClick program from Pilotmoon.</short>
   </workflow>
   <workflow>
     <name>Edit With… A QuickCursor Alternative</name>
@@ -825,6 +883,7 @@
     <url>http://www.packal.org/workflow/edit-quickcursor-alternative</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Select text in one app, edit in another then paste it back</short>
   </workflow>
   <workflow>
     <name>EggTimer 2</name>
@@ -839,6 +898,7 @@
     <url>http://www.packal.org/workflow/eggtimer-2</url>
     <tags>Time ||| timer ||| alarm ||| clock</tags>
     <webservices></webservices>
+    <short>A comprehensive countdown timer and alarm, with advanced feature set.</short>
   </workflow>
   <workflow>
     <name>Evernote</name>
@@ -853,6 +913,7 @@
     <url>http://www.packal.org/workflow/evernote</url>
     <tags>evernote</tags>
     <webservices></webservices>
+    <short>Search, Create, Append, Preview, set Reminders... All within Alfred</short>
   </workflow>
   <workflow>
     <name>ExpanDrive Toolkit</name>
@@ -867,6 +928,7 @@
     <url>http://www.packal.org/workflow/expandrive-toolkit</url>
     <tags>ExpanDrive</tags>
     <webservices></webservices>
+    <short>Toolbox of function to work with ExpanDrive</short>
   </workflow>
   <workflow>
     <name>Fabric for Alfred</name>
@@ -881,6 +943,7 @@
     <url>http://www.packal.org/workflow/fabric-alfred</url>
     <tags>Fabric ||| python</tags>
     <webservices></webservices>
+    <short>Quickly execute Fabric tasks</short>
   </workflow>
   <workflow>
     <name>Favorites</name>
@@ -895,6 +958,7 @@
     <url>http://www.packal.org/workflow/favorites</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Save frequently-used files and folders for quick access later</short>
   </workflow>
   <workflow>
     <name>File Name Sequencer</name>
@@ -909,6 +973,7 @@
     <url>http://www.packal.org/workflow/file-name-sequencer</url>
     <tags>name sequencing</tags>
     <webservices></webservices>
+    <short>Sequences through file names in a format.</short>
   </workflow>
   <workflow>
     <name>Fish Toolbox</name>
@@ -923,6 +988,7 @@
     <url>http://www.packal.org/workflow/fish-toolbox</url>
     <tags>Fish ||| shell</tags>
     <webservices></webservices>
+    <short>A list of functions for working with the Fish shell.</short>
   </workflow>
   <workflow>
     <name>Flux</name>
@@ -937,6 +1003,7 @@
     <url>http://www.packal.org/workflow/flux</url>
     <tags>color temperature ||| flux ||| f.lux ||| Sleep ||| fancy tricks ||| Display ||| mood lighting</tags>
     <webservices></webservices>
+    <short>Control f.lux with Alfred</short>
   </workflow>
   <workflow>
     <name>FormatSize</name>
@@ -951,6 +1018,7 @@
     <url>http://www.packal.org/workflow/formatsize</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Reference paper sizes and device viewport widths</short>
   </workflow>
   <workflow>
     <name>Freebox revolution</name>
@@ -965,6 +1033,7 @@
     <url>http://www.packal.org/workflow/freebox-revolution</url>
     <tags>free ||| freebox</tags>
     <webservices></webservices>
+    <short>command freebox revolution TV player (French set-top box)</short>
   </workflow>
   <workflow>
     <name>Funnel</name>
@@ -979,6 +1048,7 @@
     <url>http://www.packal.org/workflow/funnel</url>
     <tags>filter ||| pipe ||| productivity</tags>
     <webservices></webservices>
+    <short>Funnels selected text through a filter and replaces the selected text with the result.</short>
   </workflow>
   <workflow>
     <name>Fuzzy Folders</name>
@@ -993,6 +1063,7 @@
     <url>http://www.packal.org/workflow/fuzzy-folders</url>
     <tags>fuzzy ||| search ||| folders</tags>
     <webservices></webservices>
+    <short>Fuzzy search across folder subtrees.</short>
   </workflow>
   <workflow>
     <name>gauth (Google Authenticator)</name>
@@ -1007,6 +1078,7 @@
     <url>http://www.packal.org/workflow/gauth-google-authenticator</url>
     <tags>google ||| authenticator ||| auth ||| two-auth ||| crypto ||| cryptographic ||| python</tags>
     <webservices></webservices>
+    <short>Returns temporary token for two-factor authentication mechanisms</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -1021,6 +1093,7 @@
     <url>http://www.packal.org/workflow/glosbe-translation</url>
     <tags>translate ||| translation ||| english ||| german ||| french ||| spanish ||| dictionary ||| bilingual</tags>
     <webservices>glosbe.com</webservices>
+    <short>Translate text using Glosbe.com</short>
   </workflow>
   <workflow>
     <name>Golden Ratio</name>
@@ -1035,6 +1108,7 @@
     <url>http://www.packal.org/workflow/golden-ratio</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Calculate numbers using the golden ratio</short>
   </workflow>
   <workflow>
     <name>Google Hangout</name>
@@ -1049,6 +1123,7 @@
     <url>http://www.packal.org/workflow/google-hangout</url>
     <tags>google ||| hangout</tags>
     <webservices></webservices>
+    <short>Generate a google hangout link via Safari or Google Chrome and place the hangout URL in your clipboard</short>
   </workflow>
   <workflow>
     <name>Google Maps Routes</name>
@@ -1063,6 +1138,7 @@
     <url>http://www.packal.org/workflow/google-maps-routes</url>
     <tags>Routes ||| contacts ||| location ||| Google Maps</tags>
     <webservices>Google Maps</webservices>
+    <short>This workflow calculates the route from the current location, a contact from your address book or a specified location to either the current location, a contact from your address book or a specified location.</short>
   </workflow>
   <workflow>
     <name>Google Music Shuffle</name>
@@ -1077,6 +1153,7 @@
     <url>http://www.packal.org/workflow/google-music-shuffle</url>
     <tags>music ||| shuffle</tags>
     <webservices>Google Music</webservices>
+    <short>Shuffle music on Google Music</short>
   </workflow>
   <workflow>
     <name>Google URL Shortener</name>
@@ -1091,6 +1168,7 @@
     <url>http://www.packal.org/workflow/google-url-shortener</url>
     <tags>google ||| url ||| shortener ||| api ||| goo.gl</tags>
     <webservices></webservices>
+    <short>An Alfred Extension that uses Google's URL Shortener API to shorten long URLs.</short>
   </workflow>
   <workflow>
     <name>GradlePlease</name>
@@ -1105,6 +1183,7 @@
     <url>http://www.packal.org/workflow/gradleplease</url>
     <tags>android ||| gradle ||| please</tags>
     <webservices>Maven Central ||| Maven Local</webservices>
+    <short>Gradle Please for Alfred</short>
   </workflow>
   <workflow>
     <name>Hayoo</name>
@@ -1119,6 +1198,7 @@
     <url>http://www.packal.org/workflow/hayoo</url>
     <tags>haskell ||| functional-programming ||| hayoo</tags>
     <webservices>Hayoo</webservices>
+    <short>Hayoo search for haskell functions and packages</short>
   </workflow>
   <workflow>
     <name>Hidden Files</name>
@@ -1133,6 +1213,7 @@
     <url>http://www.packal.org/workflow/hidden-files</url>
     <tags>terminal ||| utility ||| hiddenfiles</tags>
     <webservices></webservices>
+    <short>This wokflow shows or hides hidden files in Finder</short>
   </workflow>
   <workflow>
     <name>HTML Special Characters</name>
@@ -1147,6 +1228,7 @@
     <url>http://www.packal.org/workflow/html-special-characters</url>
     <tags>special characters ||| text encoding ||| html</tags>
     <webservices></webservices>
+    <short>Encodes a string with HTML special characters</short>
   </workflow>
   <workflow>
     <name>Hypem Hotkey Controller</name>
@@ -1161,6 +1243,7 @@
     <url>http://www.packal.org/workflow/hypem-hotkey-controller</url>
     <tags>hypem</tags>
     <webservices>Hypem.com</webservices>
+    <short>Control hypem.com via hotkeys</short>
   </workflow>
   <workflow>
     <name>iCloudTabs</name>
@@ -1175,6 +1258,7 @@
     <url>http://www.packal.org/workflow/icloudtabs</url>
     <tags>Safari ||| iCloud ||| tabs</tags>
     <webservices></webservices>
+    <short>Retrieves iCloud tabs for all connected devices.</short>
   </workflow>
   <workflow>
     <name>ImageOptim</name>
@@ -1189,6 +1273,7 @@
     <url>http://www.packal.org/workflow/imageoptim</url>
     <tags>image ||| jpg ||| jpeg ||| png ||| optimization ||| imageoptim</tags>
     <webservices></webservices>
+    <short>Image optimization workflow based on ImageOptim-CLI (https://github.com/JamieMason/ImageOptim-CLI) from Jamie Mason.</short>
   </workflow>
   <workflow>
     <name>iMessage Workflow</name>
@@ -1203,6 +1288,7 @@
     <url>http://www.packal.org/workflow/imessage-workflow</url>
     <tags>Messages ||| gtalk ||| texting ||| text ||| iphone ||| instant messenger</tags>
     <webservices></webservices>
+    <short>A workflow that allows Alfred to interact with all parts of iMessage</short>
   </workflow>
   <workflow>
     <name>IncognitoClone</name>
@@ -1217,6 +1303,7 @@
     <url>http://www.packal.org/workflow/incognitoclone</url>
     <tags>chrome ||| incognito</tags>
     <webservices></webservices>
+    <short>Opens Chrome’s frontmost tab in an incognito window</short>
   </workflow>
   <workflow>
     <name>Instacast</name>
@@ -1231,6 +1318,7 @@
     <url>http://www.packal.org/workflow/instacast</url>
     <tags>Instacast ||| Podcast ||| Control ||| Vemedio ||| Volume</tags>
     <webservices></webservices>
+    <short>Interect with Instacast for Mac via Alfred.</short>
   </workflow>
   <workflow>
     <name>Install Mac Apps</name>
@@ -1245,6 +1333,7 @@
     <url>http://www.packal.org/workflow/install-mac-apps</url>
     <tags>install ||| mac apps ||| osx ||| applications ||| brew</tags>
     <webservices></webservices>
+    <short>Quicky install mac apps Install and name of app, and that's it! Based on the community list of brew cask</short>
   </workflow>
   <workflow>
     <name>Instant Search Workflow</name>
@@ -1259,6 +1348,7 @@
     <url>http://www.packal.org/workflow/instant-search-workflow</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Alfred Workflow to make use of Brett's SearchLink Service.</short>
   </workflow>
   <workflow>
     <name>iTunes Airplay Toggle</name>
@@ -1273,6 +1363,7 @@
     <url>http://www.packal.org/workflow/itunes-airplay-toggle</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Toggle the playing state of your Airplay devices.</short>
   </workflow>
   <workflow>
     <name>jQuery Documentation</name>
@@ -1287,6 +1378,7 @@
     <url>http://www.packal.org/workflow/jquery-documentation</url>
     <tags>jquery ||| documentation ||| Help ||| manual ||| local ||| search</tags>
     <webservices>jqapi.com</webservices>
+    <short>Search the jQuery Documentation locally (without internet connection and very fast)</short>
   </workflow>
   <workflow>
     <name>Kippt Search</name>
@@ -1301,6 +1393,7 @@
     <url>http://www.packal.org/workflow/kippt-search</url>
     <tags>search ||| kippt ||| bookmarks</tags>
     <webservices>Kippt</webservices>
+    <short>Search your Kippt bookmarks.</short>
   </workflow>
   <workflow>
     <name>LabelColor</name>
@@ -1315,6 +1408,7 @@
     <url>http://www.packal.org/workflow/labelcolor</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Sets a label color for selected files and directories</short>
   </workflow>
   <workflow>
     <name>LinkClean</name>
@@ -1329,6 +1423,7 @@
     <url>http://www.packal.org/workflow/linkclean</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Removes extraneous information from URLs</short>
   </workflow>
   <workflow>
     <name>Luxinate</name>
@@ -1343,6 +1438,7 @@
     <url>http://www.packal.org/workflow/luxinate</url>
     <tags>Ritashugisha ||| download ||| video ||| audio ||| free ||| luxinate ||| streaming ||| online</tags>
     <webservices>YouTube ||| SoundCloud</webservices>
+    <short>Download video and audio from streaming sites</short>
   </workflow>
   <workflow>
     <name>MailTo</name>
@@ -1357,6 +1453,7 @@
     <url>http://www.packal.org/workflow/mailto</url>
     <tags>email ||| address book ||| contacts</tags>
     <webservices></webservices>
+    <short>Send mail to contacts and groups from your Address Book</short>
   </workflow>
   <workflow>
     <name>MailURL</name>
@@ -1371,6 +1468,7 @@
     <url>http://www.packal.org/workflow/mailurl</url>
     <tags>email ||| url</tags>
     <webservices></webservices>
+    <short>Gets the mail id url from a selected piece of mail, formats it as a link, and pushes it to your clipboard</short>
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
@@ -1385,6 +1483,7 @@
     <url>http://www.packal.org/workflow/manage-alfred-extension</url>
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -1399,6 +1498,7 @@
     <url>http://www.packal.org/workflow/markdown-bbcode</url>
     <tags>markdown ||| bbcode</tags>
     <webservices></webservices>
+    <short>Convert Markdown to BBCode</short>
   </workflow>
   <workflow>
     <name>MarkdownBulletin</name>
@@ -1413,6 +1513,7 @@
     <url>http://www.packal.org/workflow/markdownbulletin</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Convert Markdown to BBCode</short>
   </workflow>
   <workflow>
     <name>Menu Bar Search</name>
@@ -1427,6 +1528,7 @@
     <url>http://www.packal.org/workflow/menu-bar-search</url>
     <tags>menubar ||| menu ||| productivity</tags>
     <webservices></webservices>
+    <short>Search for and activate application menu items for the frontmost application.</short>
   </workflow>
   <workflow>
     <name>Microsoft Remote Desktop</name>
@@ -1441,6 +1543,7 @@
     <url>http://www.packal.org/workflow/microsoft-remote-desktop</url>
     <tags>rdp ||| remote desktop</tags>
     <webservices></webservices>
+    <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
   </workflow>
   <workflow>
     <name>MoonMovie</name>
@@ -1455,6 +1558,7 @@
     <url>http://www.packal.org/workflow/moonmovie</url>
     <tags>moon ||| movie ||| Ritashugisha ||| search ||| stream ||| download ||| show ||| moonmovie ||| watch ||| online</tags>
     <webservices></webservices>
+    <short>Search, Stream, and Download many movie and show titles</short>
   </workflow>
   <workflow>
     <name>Move To</name>
@@ -1469,6 +1573,7 @@
     <url>http://www.packal.org/workflow/move</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Move selected finder item to a folder chosen in Alfred</short>
   </workflow>
   <workflow>
     <name>Network Info</name>
@@ -1483,6 +1588,7 @@
     <url>http://www.packal.org/workflow/network-info</url>
     <tags>networking ||| ip address ||| mac address</tags>
     <webservices></webservices>
+    <short>Display ip addresses or mac addresses for all network interfaces.</short>
   </workflow>
   <workflow>
     <name>Network Tools</name>
@@ -1497,6 +1603,7 @@
     <url>http://www.packal.org/workflow/network-tools</url>
     <tags>networking ||| Tools ||| ping ||| nslookup ||| traceroute ||| dns ||| flush</tags>
     <webservices></webservices>
+    <short>Collection of some useful network commands</short>
   </workflow>
   <workflow>
     <name>NewFile</name>
@@ -1511,6 +1618,7 @@
     <url>http://www.packal.org/workflow/newfile</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Creates a new file in the current Finder directory</short>
   </workflow>
   <workflow>
     <name>Next Item</name>
@@ -1525,6 +1633,7 @@
     <url>http://www.packal.org/workflow/next-item</url>
     <tags>file sequencing</tags>
     <webservices></webservices>
+    <short>Sequences through items in one or more files.</short>
   </workflow>
   <workflow>
     <name>Notes Workflow</name>
@@ -1539,6 +1648,7 @@
     <url>http://www.packal.org/workflow/notes-workflow</url>
     <tags>notes</tags>
     <webservices></webservices>
+    <short>A workflow for keeping track and making notes.</short>
   </workflow>
   <workflow>
     <name>NSONE</name>
@@ -1553,6 +1663,7 @@
     <url>http://www.packal.org/workflow/nsone</url>
     <tags>nsone ||| dns ||| qps ||| queries ||| queries per second</tags>
     <webservices>NSONE</webservices>
+    <short>Get current DNS queries per second from NSONE</short>
   </workflow>
   <workflow>
     <name>NTFS Enabler</name>
@@ -1567,6 +1678,7 @@
     <url>http://www.packal.org/workflow/ntfs-enabler</url>
     <tags>ntfs ||| enabler ||| fat ||| formats ||| thumbdrive ||| pendrive</tags>
     <webservices></webservices>
+    <short>Enable Write to NTFS drives</short>
   </workflow>
   <workflow>
     <name>Octopow</name>
@@ -1581,6 +1693,7 @@
     <url>http://www.packal.org/workflow/octopow</url>
     <tags>POW ||| OctoPress</tags>
     <webservices></webservices>
+    <short>Interaction with an OctoPress site using POW</short>
   </workflow>
   <workflow>
     <name>OmniTube</name>
@@ -1595,6 +1708,7 @@
     <url>http://www.packal.org/workflow/omnitube</url>
     <tags>Ritashugisha ||| OmniTube ||| account ||| search ||| automation</tags>
     <webservices>YouTube</webservices>
+    <short>Alfred ⇄ YouTube account automation</short>
   </workflow>
   <workflow>
     <name>Open in iTerm</name>
@@ -1609,6 +1723,7 @@
     <url>http://www.packal.org/workflow/open-iterm</url>
     <tags>iterm</tags>
     <webservices></webservices>
+    <short>Opens iTerm to the path of the selected folder</short>
   </workflow>
   <workflow>
     <name>Open in language</name>
@@ -1623,6 +1738,7 @@
     <url>http://www.packal.org/workflow/open-language</url>
     <tags>language ||| loccalization ||| localisation ||| translate ||| apps ||| launching ||| international ||| foreign ||| testing ||| QA ||| product management</tags>
     <webservices></webservices>
+    <short>Quickly open any app in another language (e.g. Contacts in Danish, CoverScout in German…)</short>
   </workflow>
   <workflow>
     <name>Open Multiple Projects</name>
@@ -1637,6 +1753,7 @@
     <url>http://www.packal.org/workflow/open-multiple-projects</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Quickly open projects using Alfred</short>
   </workflow>
   <workflow>
     <name>Packal Workflow Search</name>
@@ -1651,6 +1768,7 @@
     <url>http://www.packal.org/workflow/packal-workflow-search</url>
     <tags>packal ||| workflow ||| search</tags>
     <webservices>packal.org</webservices>
+    <short>Search Packal.org from the comfort of Alfred</short>
   </workflow>
   <workflow>
     <name>Parsers</name>
@@ -1665,6 +1783,7 @@
     <url>http://www.packal.org/workflow/parsers</url>
     <tags>greek ||| latin ||| perseus ||| parser</tags>
     <webservices>Perseus</webservices>
+    <short>Greek and Latin parsers</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -1679,6 +1798,7 @@
     <url>http://www.packal.org/workflow/passphrase-generator</url>
     <tags>password ||| passphrase ||| password generator ||| xkcd ||| ruby</tags>
     <webservices></webservices>
+    <short>Create random passphrases with Alfred</short>
   </workflow>
   <workflow>
     <name>Pause Backblaze</name>
@@ -1693,6 +1813,7 @@
     <url>http://www.packal.org/workflow/pause-backblaze</url>
     <tags>Backup</tags>
     <webservices>Backblaze.com</webservices>
+    <short>Pause Backblaze for two hours at a time.</short>
   </workflow>
   <workflow>
     <name>PHP Master -  PHP Quick Tester and PHP Manual (2 in 1)</name>
@@ -1707,6 +1828,7 @@
     <url>http://www.packal.org/workflow/php-master-php-quick-tester-and-php-manual-2-1</url>
     <tags>php ||| tester ||| quick ||| test ||| live ||| debug ||| manual ||| documentation ||| Help ||| search ||| local</tags>
     <webservices>php.net</webservices>
+    <short>Contains a PHP Quick Tester (</short>
   </workflow>
   <workflow>
     <name>PinAdd</name>
@@ -1721,6 +1843,7 @@
     <url>http://www.packal.org/workflow/pinadd</url>
     <tags>pinboard</tags>
     <webservices></webservices>
+    <short>Takes arguments as tags and adds your browser’s frontmost tab as a pinboard bookmark</short>
   </workflow>
   <workflow>
     <name>Ping TCP Port</name>
@@ -1735,6 +1858,7 @@
     <url>http://www.packal.org/workflow/ping-tcp-port</url>
     <tags>port ||| tcp ||| networking ||| ping</tags>
     <webservices></webservices>
+    <short>Ping TCP ports from Alfred</short>
   </workflow>
   <workflow>
     <name>PingPong</name>
@@ -1749,6 +1873,7 @@
     <url>http://www.packal.org/workflow/pingpong</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Play a round of table tennis with Alfred</short>
   </workflow>
   <workflow>
     <name>PinUnread</name>
@@ -1763,6 +1888,7 @@
     <url>http://www.packal.org/workflow/pinunread</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Open and manage your Pinboard “toread” bookmarks</short>
   </workflow>
   <workflow>
     <name>Play Song</name>
@@ -1777,6 +1903,7 @@
     <url>http://www.packal.org/workflow/play-song</url>
     <tags>itunes ||| music</tags>
     <webservices></webservices>
+    <short>Plays a song in iTunes based on the given query</short>
   </workflow>
   <workflow>
     <name>Play/pause focus@will in Google Chrome</name>
@@ -1791,6 +1918,7 @@
     <url>http://www.packal.org/workflow/playpause-focuswill-google-chrome</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Play/pause your focusatwill.com tab in Google Chrome using a hotkey or keyword.</short>
   </workflow>
   <workflow>
     <name>Pocket for Alfred</name>
@@ -1805,6 +1933,7 @@
     <url>http://www.packal.org/workflow/pocket-alfred</url>
     <tags>Pocket</tags>
     <webservices>Pocket</webservices>
+    <short>Manage your Pocket list with Alfred</short>
   </workflow>
   <workflow>
     <name>Pokédex</name>
@@ -1819,6 +1948,7 @@
     <url>http://www.packal.org/workflow/pokedex</url>
     <tags>pokemon ||| poke ||| moves ||| pokedex ||| abilities ||| evolutions</tags>
     <webservices>Pokemondb ||| Serebii</webservices>
+    <short>Look up Pokémon info, moves, abilities and items.</short>
   </workflow>
   <workflow>
     <name>Powerline Toolbox</name>
@@ -1833,6 +1963,7 @@
     <url>http://www.packal.org/workflow/powerline-toolbox</url>
     <tags>Powerline</tags>
     <webservices></webservices>
+    <short>A workflow to edit Powerline config files and more.</short>
   </workflow>
   <workflow>
     <name>premiumize.me - premium link generator for single download links</name>
@@ -1847,6 +1978,7 @@
     <url>http://www.packal.org/workflow/premiumizeme-premium-link-generator-single-download-links</url>
     <tags>premiumize ||| och ||| download ||| generate ||| links ||| premiumize.me ||| multihoster</tags>
     <webservices>premiumize.me</webservices>
+    <short>Create premium downloadlinks from support OCH via premiumize.me</short>
   </workflow>
   <workflow>
     <name>QRCode Generator</name>
@@ -1861,6 +1993,7 @@
     <url>http://www.packal.org/workflow/qrcode-generator</url>
     <tags>qrcode</tags>
     <webservices></webservices>
+    <short>Utilizing Google's API to generate an image of QRCode from what you typed or selected.</short>
   </workflow>
   <workflow>
     <name>Quick Print</name>
@@ -1875,6 +2008,7 @@
     <url>http://www.packal.org/workflow/quick-print</url>
     <tags></tags>
     <webservices></webservices>
+    <short>quickly print (on your default printer) a file or some text</short>
   </workflow>
   <workflow>
     <name>Quick Ref</name>
@@ -1889,6 +2023,7 @@
     <url>http://www.packal.org/workflow/quick-ref</url>
     <tags>Reference ||| QuickLook ||| Cheat Sheet</tags>
     <webservices></webservices>
+    <short>Quickly reference files (e.g. cheat sheets, PDFs, web links, etc) using quick look.</short>
   </workflow>
   <workflow>
     <name>RabbitMQ</name>
@@ -1903,6 +2038,7 @@
     <url>http://www.packal.org/workflow/rabbitmq</url>
     <tags>rabbitmq ||| queue</tags>
     <webservices></webservices>
+    <short>Displays status of local RabbitMQ and it's queues. Can start and stop local RabbitMQ instance.</short>
   </workflow>
   <workflow>
     <name>Random Choice</name>
@@ -1917,6 +2053,7 @@
     <url>http://www.packal.org/workflow/random-choice</url>
     <tags>random ||| roll ||| dice ||| flip ||| coin</tags>
     <webservices></webservices>
+    <short>Feeling indecisive? Let Alfred decide.</short>
   </workflow>
   <workflow>
     <name>Readability for Alfred</name>
@@ -1931,6 +2068,7 @@
     <url>http://www.packal.org/workflow/readability-alfred</url>
     <tags>Readability ||| Reader</tags>
     <webservices>Readability</webservices>
+    <short>Manage your Readability list with Alfred</short>
   </workflow>
   <workflow>
     <name>Recent Documents</name>
@@ -1945,6 +2083,7 @@
     <url>http://www.packal.org/workflow/recent-documents</url>
     <tags>recent documents ||| osx ||| alfred</tags>
     <webservices></webservices>
+    <short>List recently accessed files taken from both OS/X recent docs list and Alfred.</short>
   </workflow>
   <workflow>
     <name>RecentDownloads</name>
@@ -1959,6 +2098,7 @@
     <url>http://www.packal.org/workflow/recentdownloads</url>
     <tags></tags>
     <webservices></webservices>
+    <short>List and act on the contents of your ~/Downloads directory</short>
   </workflow>
   <workflow>
     <name>RegEx Renamer</name>
@@ -1973,6 +2113,7 @@
     <url>http://www.packal.org/workflow/regex-renamer</url>
     <tags>batch ||| rename</tags>
     <webservices></webservices>
+    <short>Batch rename files or folders using Regular Expression</short>
   </workflow>
   <workflow>
     <name>Relative Dates</name>
@@ -1987,6 +2128,7 @@
     <url>http://www.packal.org/workflow/relative-dates</url>
     <tags>dates ||| german ||| french ||| spanish ||| italian</tags>
     <webservices></webservices>
+    <short>Generate relative dates based on a simple input format</short>
   </workflow>
   <workflow>
     <name>Remove Download Warning</name>
@@ -2001,6 +2143,7 @@
     <url>http://www.packal.org/workflow/remove-download-warning</url>
     <tags>quarantine ||| gatekeeper ||| security</tags>
     <webservices></webservices>
+    <short>Removes the Gatekeeper warning on downloaded Applications and PreferencePanes</short>
   </workflow>
   <workflow>
     <name>RenameAction</name>
@@ -2015,6 +2158,7 @@
     <url>http://www.packal.org/workflow/renameaction</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Renames a directory or file (preserving the extension)</short>
   </workflow>
   <workflow>
     <name>RepeatRepeat</name>
@@ -2029,6 +2173,7 @@
     <url>http://www.packal.org/workflow/repeatrepeat</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Proof of concept to make a script filter update itself without further user input</short>
   </workflow>
   <workflow>
     <name>RespondQuickly</name>
@@ -2043,6 +2188,7 @@
     <url>http://www.packal.org/workflow/respondquickly</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Convert selected text to a QR code</short>
   </workflow>
   <workflow>
     <name>RightClick</name>
@@ -2057,6 +2203,7 @@
     <url>http://www.packal.org/workflow/rightclick</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Do a right-click on Finder files, with the keyboard</short>
   </workflow>
   <workflow>
     <name>Roman Numerals</name>
@@ -2071,6 +2218,7 @@
     <url>http://www.packal.org/workflow/roman-numerals</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Convert Roman numerals to decimal numbers (and vice versa)</short>
   </workflow>
   <workflow>
     <name>Route to contact or location</name>
@@ -2085,6 +2233,7 @@
     <url>http://www.packal.org/workflow/route-contact-or-location</url>
     <tags>route ||| contacts ||| location ||| Google Maps</tags>
     <webservices>Google Maps</webservices>
+    <short>This workflow calculates the route from the current location to a contact from your address book, or a specified location with Google Maps</short>
   </workflow>
   <workflow>
     <name>RunCommand</name>
@@ -2099,6 +2248,7 @@
     <url>http://www.packal.org/workflow/runcommand</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Run shell commands without opening a terminal</short>
   </workflow>
   <workflow>
     <name>s3cmd Toolkit</name>
@@ -2113,6 +2263,7 @@
     <url>http://www.packal.org/workflow/s3cmd-toolkit</url>
     <tags>s3cmd ||| Amazon S3</tags>
     <webservices></webservices>
+    <short>Workflow for using the s3cmd command</short>
   </workflow>
   <workflow>
     <name>Say</name>
@@ -2127,6 +2278,7 @@
     <url>http://www.packal.org/workflow/say</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Enter text for the system to speak</short>
   </workflow>
   <workflow>
     <name>Scratchpad Workflow</name>
@@ -2141,6 +2293,7 @@
     <url>http://www.packal.org/workflow/scratchpad-workflow</url>
     <tags>scratchpad</tags>
     <webservices></webservices>
+    <short>A workflow to use the Alfred Prompt as a scratchpad.</short>
   </workflow>
   <workflow>
     <name>Screencapture Enhancer</name>
@@ -2155,6 +2308,7 @@
     <url>http://www.packal.org/workflow/screencapture-enhancer</url>
     <tags>screencapture ||| area</tags>
     <webservices></webservices>
+    <short>Workflow to enhance OS X screencapture capabilities, particularly with the option to capture _last captured_ area and naming options.</short>
   </workflow>
   <workflow>
     <name>Screenshot Settings</name>
@@ -2169,6 +2323,7 @@
     <url>http://www.packal.org/workflow/screenshot-settings</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Changes OSX screenshot format and save location</short>
   </workflow>
   <workflow>
     <name>Screenshots</name>
@@ -2183,6 +2338,7 @@
     <url>http://www.packal.org/workflow/screenshots</url>
     <tags>Screenshot</tags>
     <webservices>CloudApp ||| Dropbox</webservices>
+    <short>Capture, save to Dropbox, get Link and manage files and past links</short>
   </workflow>
   <workflow>
     <name>Search Maven Repository</name>
@@ -2197,6 +2353,7 @@
     <url>http://www.packal.org/workflow/search-maven-repository</url>
     <tags>maven ||| mvnrepository</tags>
     <webservices>http://mvnrepository.com</webservices>
+    <short>Search the maven repository.</short>
   </workflow>
   <workflow>
     <name>Search PubMed</name>
@@ -2211,6 +2368,7 @@
     <url>http://www.packal.org/workflow/search-pubmed</url>
     <tags>pubmed</tags>
     <webservices>http://www.ncbi.nlm.nih.gov/pubmed</webservices>
+    <short>Two different methods to get autocomplete for PubMed.</short>
   </workflow>
   <workflow>
     <name>Search Safari and Chrome Tabs</name>
@@ -2225,6 +2383,7 @@
     <url>http://www.packal.org/workflow/search-safari-and-chrome-tabs</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Search tabs in Safari and Chrome (also supports WebKit, Chromium, and Chrome Canary)</short>
   </workflow>
   <workflow>
     <name>SEND</name>
@@ -2239,6 +2398,7 @@
     <url>http://www.packal.org/workflow/send</url>
     <tags>iCloud ||| Dropbox ||| cloud ||| send</tags>
     <webservices></webservices>
+    <short>Send documents to the cloud</short>
   </workflow>
   <workflow>
     <name>Sermon Scheduler</name>
@@ -2253,6 +2413,7 @@
     <url>http://www.packal.org/workflow/sermon-scheduler</url>
     <tags>schedule</tags>
     <webservices></webservices>
+    <short>A workflow to help schedule weekly based tasks. It is designed for sermons, but can be used for anything.</short>
   </workflow>
   <workflow>
     <name>Set Resolution</name>
@@ -2267,6 +2428,7 @@
     <url>http://www.packal.org/workflow/set-resolution</url>
     <tags>resolution ||| retina ||| hidpi</tags>
     <webservices></webservices>
+    <short>Handy workflow to change between available screen resolutions, even between normal and HiDPI mode (Retina).</short>
   </workflow>
   <workflow>
     <name>Share using Built-in Sharing</name>
@@ -2281,6 +2443,7 @@
     <url>http://www.packal.org/workflow/share-using-built-sharing</url>
     <tags>share</tags>
     <webservices>Twitter ||| Facebook ||| Vimeo ||| Flickr</webservices>
+    <short>Use Built-in sharing introduced since Mountain Lion</short>
   </workflow>
   <workflow>
     <name>Simple Screen Capture</name>
@@ -2295,6 +2458,7 @@
     <url>http://www.packal.org/workflow/simple-screen-capture</url>
     <tags>screencapture ||| Screenshot</tags>
     <webservices></webservices>
+    <short>Screen Capture singel window</short>
   </workflow>
   <workflow>
     <name>Skimmer</name>
@@ -2309,6 +2473,7 @@
     <url>http://www.packal.org/workflow/skimmer</url>
     <tags>Skim ||| PDF ||| Google Scholar</tags>
     <webservices>Google Scholar</webservices>
+    <short>Actions for PDF viewer Skim</short>
   </workflow>
   <workflow>
     <name>Smart Folders</name>
@@ -2323,6 +2488,7 @@
     <url>http://www.packal.org/workflow/smart-folders</url>
     <tags>smart folders ||| saved searches ||| spotlight</tags>
     <webservices></webservices>
+    <short>View and explore your Smart Folders (Saved Searches)</short>
   </workflow>
   <workflow>
     <name>Speedtest</name>
@@ -2337,6 +2503,7 @@
     <url>http://www.packal.org/workflow/speedtest</url>
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
+    <short>Measure internet speed with speedtest.net service</short>
   </workflow>
   <workflow>
     <name>Spotifious</name>
@@ -2351,6 +2518,7 @@
     <url>http://www.packal.org/workflow/spotifious</url>
     <tags>spotify ||| music ||| Mini Player ||| Music Player ||| Listen</tags>
     <webservices></webservices>
+    <short>a natural Spotify controller</short>
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
@@ -2365,6 +2533,7 @@
     <url>http://www.packal.org/workflow/spotify-mini-player</url>
     <tags>spotify</tags>
     <webservices></webservices>
+    <short>iTunes Mini Player for Spotify</short>
   </workflow>
   <workflow>
     <name>Sprintly</name>
@@ -2379,6 +2548,7 @@
     <url>http://www.packal.org/workflow/sprintly</url>
     <tags>gtd ||| sprint</tags>
     <webservices>Sprintly</webservices>
+    <short>Manage your Sprintly products from Alfred</short>
   </workflow>
   <workflow>
     <name>SSH Rocket</name>
@@ -2393,6 +2563,7 @@
     <url>http://www.packal.org/workflow/ssh-rocket</url>
     <tags>ssh ||| terminal ||| networking</tags>
     <webservices></webservices>
+    <short>Launch SSH connection from bookmarks</short>
   </workflow>
   <workflow>
     <name>Strip clipboard text formatting</name>
@@ -2407,6 +2578,7 @@
     <url>http://www.packal.org/workflow/strip-clipboard-text-formatting</url>
     <tags>clipboard ||| text manipulation</tags>
     <webservices></webservices>
+    <short>Strips formatting from text on the clipboard</short>
   </workflow>
   <workflow>
     <name>StrongPassword</name>
@@ -2421,6 +2593,7 @@
     <url>http://www.packal.org/workflow/strongpassword</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Get a strong password by leveraging multiple sources</short>
   </workflow>
   <workflow>
     <name>Subscribe To Feed URLs</name>
@@ -2435,6 +2608,7 @@
     <url>http://www.packal.org/workflow/subscribe-feed-urls</url>
     <tags>RSS ||| BazQux Reader ||| Aol Reader ||| InoReader ||| Feedly ||| Feedbin ||| Digg Reader ||| FeedHQ ||| Feed Wrangler ||| MnmlRdr ||| NewsBlur ||| The Old Reader</tags>
     <webservices></webservices>
+    <short>Subscribe to a feed URL in one of the supported RSS aggregator services.</short>
   </workflow>
   <workflow>
     <name>Sudoers</name>
@@ -2449,6 +2623,7 @@
     <url>http://www.packal.org/workflow/sudoers</url>
     <tags>System Helpers ||| OS X Annoyance Fixers</tags>
     <webservices></webservices>
+    <short>Add commands to your sudoers file with syntax checking.</short>
   </workflow>
   <workflow>
     <name>SupaTaggla</name>
@@ -2463,6 +2638,7 @@
     <url>http://www.packal.org/workflow/supataggla</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Provide global hot keys to toggle the display of applicaitons</short>
   </workflow>
   <workflow>
     <name>Super Effective!</name>
@@ -2477,6 +2653,7 @@
     <url>http://www.packal.org/workflow/super-effective</url>
     <tags>pokemon ||| types ||| effective ||| effectiveness ||| supereffective ||| non-effective</tags>
     <webservices>Pokemondb</webservices>
+    <short>Check Pokémon types effectiveness.</short>
   </workflow>
   <workflow>
     <name>Switch System Ruby</name>
@@ -2491,6 +2668,7 @@
     <url>http://www.packal.org/workflow/switch-system-ruby</url>
     <tags>ruby ||| system ||| switch</tags>
     <webservices></webservices>
+    <short>A simple Ruby development workflow for Mavericks to switch system Ruby between 2.0.0 and 1.8.7.</short>
   </workflow>
   <workflow>
     <name>SynAnt</name>
@@ -2505,6 +2683,7 @@
     <url>http://www.packal.org/workflow/synant</url>
     <tags>thesaurus</tags>
     <webservices></webservices>
+    <short>Substitute words by checking against a thesaurs</short>
   </workflow>
   <workflow>
     <name>Synonyms</name>
@@ -2519,6 +2698,7 @@
     <url>http://www.packal.org/workflow/synonyms</url>
     <tags>synonyms</tags>
     <webservices></webservices>
+    <short>Display synonyms from www.synonyms.net</short>
   </workflow>
   <workflow>
     <name>Terminal Control</name>
@@ -2533,6 +2713,7 @@
     <url>http://www.packal.org/workflow/terminal-control</url>
     <tags>terminal ||| iterm</tags>
     <webservices></webservices>
+    <short>Terminal and iTerm Profiles and Windows Control Functions</short>
   </workflow>
   <workflow>
     <name>Text Manipulator</name>
@@ -2547,6 +2728,7 @@
     <url>http://www.packal.org/workflow/text-manipulator</url>
     <tags>Applescript ||| text manipulation ||| change case</tags>
     <webservices></webservices>
+    <short>Change the cases of text with keywords or hotkeys (UPPER, lower, Sentence, and Mixed).</short>
   </workflow>
   <workflow>
     <name>Text Massagers</name>
@@ -2561,6 +2743,7 @@
     <url>http://www.packal.org/workflow/text-massagers</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Text Manipulation scripts</short>
   </workflow>
   <workflow>
     <name>Text Tokenizer</name>
@@ -2575,6 +2758,7 @@
     <url>http://www.packal.org/workflow/text-tokenizer</url>
     <tags>text ||| expander ||| token</tags>
     <webservices></webservices>
+    <short>Workflow for tokenizing different text value input, and converting them back to a string with multiple syntaxes. It was basically thought as a text exapander to convert space separated works into quoted comma separated values.</short>
   </workflow>
   <workflow>
     <name>TextSoap Cleaners</name>
@@ -2589,6 +2773,7 @@
     <url>http://www.packal.org/workflow/textsoap-cleaners</url>
     <tags>TextSoap</tags>
     <webservices></webservices>
+    <short>Evoke TextSoap on clipboard or current selection.</short>
   </workflow>
   <workflow>
     <name>The Hit List</name>
@@ -2603,6 +2788,7 @@
     <url>http://www.packal.org/workflow/hit-list</url>
     <tags>the hit list ||| todo ||| productivity</tags>
     <webservices></webservices>
+    <short>Create new tasks in The Hit List</short>
   </workflow>
   <workflow>
     <name>Time Machine</name>
@@ -2617,6 +2803,7 @@
     <url>http://www.packal.org/workflow/time-machine</url>
     <tags>time machine ||| utilities</tags>
     <webservices></webservices>
+    <short>Inspect and control Time Machine.</short>
   </workflow>
   <workflow>
     <name>Time Machine Exclusions</name>
@@ -2631,6 +2818,7 @@
     <url>http://www.packal.org/workflow/time-machine-exclusions</url>
     <tags>timemachine ||| time machine ||| backups</tags>
     <webservices></webservices>
+    <short>Easily exclude specific files or folders from Time Machine backups.</short>
   </workflow>
   <workflow>
     <name>Timezones</name>
@@ -2645,6 +2833,7 @@
     <url>http://www.packal.org/workflow/timezones</url>
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
+    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
   </workflow>
   <workflow>
     <name>TinyPNG</name>
@@ -2659,6 +2848,7 @@
     <url>http://www.packal.org/workflow/tinypng</url>
     <tags>png</tags>
     <webservices>https://tinypng.com/</webservices>
+    <short>Compress PNG image files using the online TinyPNG.com service</short>
   </workflow>
   <workflow>
     <name>Tmux Workflow</name>
@@ -2673,6 +2863,7 @@
     <url>http://www.packal.org/workflow/tmux-workflow</url>
     <tags>tmux ||| screen ||| terminal ||| multiplexer</tags>
     <webservices></webservices>
+    <short>Alfred workflow to manage tmux sessions, integrated with iTerm2. It can list current sessions, connect to them, kill them or create a new one. The connect or create action actually opens iTerm2 and connects to the session.</short>
   </workflow>
   <workflow>
     <name>Todo Workflow</name>
@@ -2687,6 +2878,7 @@
     <url>http://www.packal.org/workflow/todo-workflow</url>
     <tags>todo ||| TaskPaper</tags>
     <webservices></webservices>
+    <short>Workflow for using TaskPaper with scheduled todos and journaling.</short>
   </workflow>
   <workflow>
     <name>Toggle Bluetooth</name>
@@ -2701,6 +2893,7 @@
     <url>http://www.packal.org/workflow/toggle-bluetooth</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Toggle Bluetooth power on and off</short>
   </workflow>
   <workflow>
     <name>Toggle Drop-Shadow in Window Captures</name>
@@ -2715,6 +2908,7 @@
     <url>http://www.packal.org/workflow/toggle-drop-shadow-window-captures</url>
     <tags>Screenshot ||| Capture ||| Shadow</tags>
     <webservices></webservices>
+    <short>Toggle visibility of drop-shadows in window captures.</short>
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
@@ -2729,6 +2923,7 @@
     <url>http://www.packal.org/workflow/toggle-function-keys</url>
     <tags>fn ||| function key</tags>
     <webservices></webservices>
+    <short>Toggle the fn key globally</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
@@ -2743,6 +2938,7 @@
     <url>http://www.packal.org/workflow/toggle-hidden</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Toggle the Display of Hidden Files in Finder</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden Files</name>
@@ -2757,6 +2953,7 @@
     <url>http://www.packal.org/workflow/toggle-hidden-files</url>
     <tags>toggle ||| Hidden Files ||| system</tags>
     <webservices></webservices>
+    <short>Show and hide hidden system files in Finder with one click.</short>
   </workflow>
   <workflow>
     <name>Toggle Wifi</name>
@@ -2771,6 +2968,7 @@
     <url>http://www.packal.org/workflow/toggle-wifi</url>
     <tags>Wifi ||| networking ||| toggle</tags>
     <webservices></webservices>
+    <short>Does exactly what the title says. No more, no less.</short>
   </workflow>
   <workflow>
     <name>Trakt for Alfred</name>
@@ -2785,6 +2983,7 @@
     <url>http://www.packal.org/workflow/trakt-alfred</url>
     <tags>trakt.tv</tags>
     <webservices>trakt.tv</webservices>
+    <short>Search trakt.tv, check out trends or manager your watchlists and libraries...</short>
   </workflow>
   <workflow>
     <name>Transmit</name>
@@ -2799,6 +2998,7 @@
     <url>http://www.packal.org/workflow/transmit</url>
     <tags>ftp ||| transmit ||| xml ||| sqlite</tags>
     <webservices></webservices>
+    <short>Workflow for searching and opening Favorites in Transmit 4 App. It's really fast, because it reads the SQLite Database or XML datasource in latests releases of Transmit 4.</short>
   </workflow>
   <workflow>
     <name>Travis CI for Alfred</name>
@@ -2813,6 +3013,7 @@
     <url>http://www.packal.org/workflow/travis-ci-alfred</url>
     <tags>Travis CI ||| continuous integration</tags>
     <webservices>Travis CI</webservices>
+    <short>Quickly check build statuses on travis-ci.org</short>
   </workflow>
   <workflow>
     <name>Tumblr Backup</name>
@@ -2827,6 +3028,7 @@
     <url>http://www.packal.org/workflow/tumblr-backup</url>
     <tags>download ||| Backup ||| site ||| Ritashugisha ||| data</tags>
     <webservices>Tumblr</webservices>
+    <short>Backup any Tumblr site to your machine</short>
   </workflow>
   <workflow>
     <name>TurnShoot</name>
@@ -2841,6 +3043,7 @@
     <url>http://www.packal.org/workflow/turnshoot</url>
     <tags></tags>
     <webservices></webservices>
+    <short>A two-player game for Alfred</short>
   </workflow>
   <workflow>
     <name>TwitchStreamer</name>
@@ -2855,6 +3058,7 @@
     <url>http://www.packal.org/workflow/twitchstreamer</url>
     <tags>gaming ||| vlc ||| livestreamer ||| streaming ||| twitch.tv</tags>
     <webservices>Twitch-API</webservices>
+    <short>Search Twitch.TV streams and watch in VLC</short>
   </workflow>
   <workflow>
     <name>Type Clipboard</name>
@@ -2869,6 +3073,7 @@
     <url>http://www.packal.org/workflow/type-clipboard</url>
     <tags>paste ||| clipboard ||| type</tags>
     <webservices></webservices>
+    <short>Simple workflow to _write_ the clipboard content in those situations where ```⌘ → V``` doesn't work, typically in non Cocoa application dialogs. You have to go and paste with right clicking the mouse or pad... Atrocious!!</short>
   </workflow>
   <workflow>
     <name>Uni Call</name>
@@ -2883,6 +3088,7 @@
     <url>http://www.packal.org/workflow/uni-call</url>
     <tags>alfred workflow ||| Apple Contacts ||| bluetooth phone call ||| Call Trunk ||| FaceTime ||| Fritz!Box ||| Google Voice ||| GrowlVoice ||| phone amego ||| PushDialer ||| SIP ||| Skype ||| Telephone</tags>
     <webservices></webservices>
+    <short>The missing universal phone call workflow for Alfred</short>
   </workflow>
   <workflow>
     <name>UUIDgen</name>
@@ -2897,6 +3103,7 @@
     <url>http://www.packal.org/workflow/uuidgen</url>
     <tags>uuid ||| uuidgen</tags>
     <webservices></webservices>
+    <short>Create and paste UUIDs</short>
   </workflow>
   <workflow>
     <name>Vagrant</name>
@@ -2911,6 +3118,7 @@
     <url>http://www.packal.org/workflow/vagrant</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Control a Vagrant instance.</short>
   </workflow>
   <workflow>
     <name>Versions</name>
@@ -2925,6 +3133,7 @@
     <url>http://www.packal.org/workflow/versions</url>
     <tags>version ||| application ||| operating system ||| os ||| app</tags>
     <webservices></webservices>
+    <short>Copy version information for applications and operating systems</short>
   </workflow>
   <workflow>
     <name>VideoDuration</name>
@@ -2939,6 +3148,7 @@
     <url>http://www.packal.org/workflow/videoduration</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Outputs the url of a video on a supported website with its duration in square brackets</short>
   </workflow>
   <workflow>
     <name>VideoTime</name>
@@ -2953,6 +3163,7 @@
     <url>http://www.packal.org/workflow/videotime</url>
     <tags>video time</tags>
     <webservices></webservices>
+    <short>Get video play time</short>
   </workflow>
   <workflow>
     <name>VM Control</name>
@@ -2967,6 +3178,7 @@
     <url>http://www.packal.org/workflow/vm-control</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Control your Parallels and Virtual Box virtual machines</short>
   </workflow>
   <workflow>
     <name>VMWare Control</name>
@@ -2981,6 +3193,7 @@
     <url>http://www.packal.org/workflow/vmware-control</url>
     <tags>vmware ||| vm ||| productivity</tags>
     <webservices></webservices>
+    <short>Control VMWare Fusion instances.</short>
   </workflow>
   <workflow>
     <name>WatchList</name>
@@ -2995,6 +3208,7 @@
     <url>http://www.packal.org/workflow/watchlist</url>
     <tags></tags>
     <webservices></webservices>
+    <short>View and manage a sequence of files</short>
   </workflow>
   <workflow>
     <name>Web Server</name>
@@ -3009,6 +3223,7 @@
     <url>http://www.packal.org/workflow/web-server</url>
     <tags>webserver ||| web ||| server ||| php ||| sharing ||| share</tags>
     <webservices></webservices>
+    <short>Easily start a web server and add files to it.</short>
   </workflow>
   <workflow>
     <name>What&#039;s My IP</name>
@@ -3023,6 +3238,7 @@
     <url>http://www.packal.org/workflow/whats-my-ip</url>
     <tags>ip address ||| networking ||| what&#039;s my ip address</tags>
     <webservices>What&#039;s My IP Address?</webservices>
+    <short>Find your IP addresses</short>
   </workflow>
   <workflow>
     <name>Wikify</name>
@@ -3037,6 +3253,7 @@
     <url>http://www.packal.org/workflow/wikify</url>
     <tags>evernote ||| markdown ||| wiki</tags>
     <webservices></webservices>
+    <short>Your little Evernote Wiki-Helper</short>
   </workflow>
   <workflow>
     <name>Wolfram|Alpha</name>
@@ -3051,6 +3268,7 @@
     <url>http://www.packal.org/workflow/wolframalpha</url>
     <tags></tags>
     <webservices>Wolfram|Alpha</webservices>
+    <short>Access WolframAlpha results from Alfred</short>
   </workflow>
   <workflow>
     <name>WordsWith</name>
@@ -3065,6 +3283,7 @@
     <url>http://www.packal.org/workflow/wordswith</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Find words that contain a particular pattern</short>
   </workflow>
   <workflow>
     <name>Workflow Help Workflows</name>
@@ -3079,6 +3298,7 @@
     <url>http://www.packal.org/workflow/workflow-help-workflows</url>
     <tags>Help ||| Meta ||| Quicklook Hacks</tags>
     <webservices></webservices>
+    <short>Reads through your installed workflows to tell you what they do.</short>
   </workflow>
   <workflow>
     <name>Workflow IPhone Tethering</name>
@@ -3093,6 +3313,7 @@
     <url>http://www.packal.org/workflow/toggle-iphone-tethering</url>
     <tags>iphone ||| bluetooth ||| tethering</tags>
     <webservices></webservices>
+    <short>Toggle your Bluetooth PAN connection to your IPhone.</short>
   </workflow>
   <workflow>
     <name>Youtube Control</name>
@@ -3107,12 +3328,13 @@
     <url>http://www.packal.org/workflow/youtube-control</url>
     <tags></tags>
     <webservices></webservices>
+    <short>Controls Youtube Videos loaded in Google Chrome</short>
   </workflow>
   <workflow>
     <name>ZotQuery</name>
     <version>8.0.1</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1400541372</updated>
+    <updated>1400541432</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
@@ -3121,5 +3343,6 @@
     <url>http://www.packal.org/workflow/zotquery</url>
     <tags>zotero ||| citations ||| python</tags>
     <webservices>Zotero API</webservices>
+    <short>Search Zotero. From the Comfort of Your Keyboard.</short>
   </workflow>
 </manifest>
