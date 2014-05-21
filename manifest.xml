@@ -1711,6 +1711,21 @@
     <short>Alfred ⇄ YouTube account automation</short>
   </workflow>
   <workflow>
+    <name>Open in Alfred</name>
+    <version>1.0</version>
+    <bundle>com.customct.OpenAlfred</bundle>
+    <updated>1400684711</updated>
+    <file>openinalfred.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>Terminal ||| iTerm</applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-alfred</url>
+    <tags>terminal ||| iterm</tags>
+    <webservices></webservices>
+    <short>Open a Terminal or iTerm window in Alfred.</short>
+  </workflow>
+  <workflow>
     <name>Open in iTerm</name>
     <version>1.0</version>
     <bundle>com.iansoper.openiniterm</bundle>
@@ -3319,7 +3334,7 @@
     <name>YOURLS</name>
     <version>1.0</version>
     <bundle>de.curioustimes.alfred.yourls</bundle>
-    <updated>1400663411</updated>
+    <updated>1400664618</updated>
     <file>yourls.alfredworkflow</file>
     <author>of944</author>
     <applications></applications>
