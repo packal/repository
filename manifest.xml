@@ -1324,7 +1324,7 @@
     <name>Install Mac Apps</name>
     <version>1.3</version>
     <bundle>me.alexw.install_apps</bundle>
-    <updated>1400883432</updated>
+    <updated>1400883491</updated>
     <file>install_apps.alfredworkflow</file>
     <author>altryne</author>
     <applications></applications>
@@ -2476,6 +2476,21 @@
     <short>Screen Capture singel window</short>
   </workflow>
   <workflow>
+    <name>SizeUp</name>
+    <version>1.0</version>
+    <bundle>com.atlassian.giangvo.sizeup</bundle>
+    <updated>1401080594</updated>
+    <file>sizeup.alfredworkflow</file>
+    <author>giangvo</author>
+    <applications>SizeUp</applications>
+    <categories>Productivity ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/sizeup</url>
+    <tags>SizeUp, windows</tags>
+    <webservices></webservices>
+    <short>Workflow to interact with SizeUp to manage applications's windows</short>
+  </workflow>
+  <workflow>
     <name>Skimmer</name>
     <version>1.4</version>
     <bundle>com.hackademic.skimmer</bundle>
@@ -2614,14 +2629,14 @@
     <name>Subscribe To Feed URLs</name>
     <version>1.1</version>
     <bundle>de.curioustimes.alfred.subscribetofeedurls</bundle>
-    <updated>1400763736</updated>
+    <updated>1400914723</updated>
     <file>subscribe_to_feed_urls.alfredworkflow</file>
     <author>of944</author>
     <applications></applications>
     <categories>Networking ||| Productivity ||| Utilities</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/subscribe-feed-urls</url>
-    <tags>RSS ||| BazQux Reader ||| Aol Reader ||| InoReader ||| Feedly ||| Feedbin ||| Digg Reader ||| FeedHQ ||| Feed Wrangler ||| MnmlRdr ||| NewsBlur ||| The Old Reader</tags>
+    <tags>RSS ||| BazQux Reader ||| Aol Reader ||| InoReader ||| Feedly ||| Feedbin ||| Digg Reader ||| FeedHQ ||| Feed Wrangler ||| MnmlRdr ||| NewsBlur ||| The Old Reader ||| Fever ||| Tiny Tiny RSS</tags>
     <webservices></webservices>
     <short>Subscribe to a feed URL in one of the supported RSS aggregator services.</short>
   </workflow>
@@ -3334,7 +3349,7 @@
     <name>YOURLS</name>
     <version>1.0</version>
     <bundle>de.curioustimes.alfred.yourls</bundle>
-    <updated>1400664618</updated>
+    <updated>1400915823</updated>
     <file>yourls.alfredworkflow</file>
     <author>of944</author>
     <applications></applications>
@@ -3342,7 +3357,7 @@
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/yourls</url>
     <tags>url ||| shorten ||| shortener ||| YOURLS</tags>
-    <webservices></webservices>
+    <webservices>YOURLS</webservices>
     <short>Shorten URLs by using YOURLS + some extras</short>
   </workflow>
   <workflow>
