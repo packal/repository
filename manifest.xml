@@ -2731,6 +2731,21 @@
     <short>Display synonyms from www.synonyms.net</short>
   </workflow>
   <workflow>
+    <name>TemplatesManager</name>
+    <version>0.9</version>
+    <bundle>com.vitorgalvao.alfred.templatesmanager</bundle>
+    <updated>1401328631</updated>
+    <file>templatesmanager.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Graphic Design ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/templatesmanager</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Save and reuse files and directory structures</short>
+  </workflow>
+  <workflow>
     <name>Terminal Control</name>
     <version>2.1</version>
     <bundle>org.koffel.alfred.terminal-control</bundle>
@@ -3379,7 +3394,7 @@
     <name>ZotQuery</name>
     <version>8.0.7</version>
     <bundle>com.hackademic.zotquery</bundle>
-    <updated>1401313932</updated>
+    <updated>1401313994</updated>
     <file>zotquery.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Zotero</applications>
