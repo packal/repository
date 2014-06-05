@@ -2734,7 +2734,7 @@
     <name>TemplatesManager</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.templatesmanager</bundle>
-    <updated>1401821171</updated>
+    <updated>1401821230</updated>
     <file>templatesmanager.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -2894,6 +2894,21 @@
     <tags>png</tags>
     <webservices>https://tinypng.com/</webservices>
     <short>Compress PNG image files using the online TinyPNG.com service</short>
+  </workflow>
+  <workflow>
+    <name>Title Case Server</name>
+    <version>1.0</version>
+    <bundle>com.customct.TitleCaseServer</bundle>
+    <updated>1401953952</updated>
+    <file>titlecaseserver.alfredworkflow</file>
+    <author>raguay</author>
+    <applications></applications>
+    <categories>Networking ||| Text Manipulation ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/title-case-server</url>
+    <tags>golang ||| Web app</tags>
+    <webservices></webservices>
+    <short>Makes use of a local web app to convert title case.</short>
   </workflow>
   <workflow>
     <name>Tmux Workflow</name>
