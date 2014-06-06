@@ -1006,6 +1006,21 @@
     <short>Control f.lux with Alfred</short>
   </workflow>
   <workflow>
+    <name>Folding Text Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.FoldingTextWorkflow</bundle>
+    <updated>1402043051</updated>
+    <file>foldingtextworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>FoldingText.app</applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/folding-text-workflow</url>
+    <tags>FoldingText</tags>
+    <webservices></webservices>
+    <short>A workflow for working with the FoldingText.app</short>
+  </workflow>
+  <workflow>
     <name>FormatSize</name>
     <version>1.1</version>
     <bundle>com.vitorgalvao.alfred.formatsize</bundle>
@@ -2554,7 +2569,7 @@
     <name>Spotify Mini Player</name>
     <version>4.3</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1402000752</updated>
+    <updated>1402043042</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
