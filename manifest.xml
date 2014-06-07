@@ -1009,7 +1009,7 @@
     <name>Folding Text Workflow</name>
     <version>1.3</version>
     <bundle>com.customct.FoldingTextWorkflow</bundle>
-    <updated>1402069571</updated>
+    <updated>1402069630</updated>
     <file>foldingtextworkflow.alfredworkflow</file>
     <author>raguay</author>
     <applications>FoldingText.app</applications>
@@ -2567,9 +2567,9 @@
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
-    <version>4.32</version>
+    <version>4.33</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1402059673</updated>
+    <updated>1402128853</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
@@ -2699,6 +2699,21 @@
     <tags>pokemon ||| types ||| effective ||| effectiveness ||| supereffective ||| non-effective</tags>
     <webservices>Pokemondb</webservices>
     <short>Check Pokémon types effectiveness.</short>
+  </workflow>
+  <workflow>
+    <name>Swift Playground Alfred Workflow</name>
+    <version>1.0</version>
+    <bundle>com.taptonics.swiftplayground</bundle>
+    <updated>1402082952</updated>
+    <file>swift_playground.alfredworkflow</file>
+    <author>JimRutherford</author>
+    <applications>Xcode</applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/swift-playground-alfred-workflow</url>
+    <tags></tags>
+    <webservices>raw.github.com</webservices>
+    <short>Create or open a Swift Playground through Alfred.</short>
   </workflow>
   <workflow>
     <name>Switch System Ruby</name>
