@@ -2176,6 +2176,21 @@
     <short>Generate relative dates based on a simple input format</short>
   </workflow>
   <workflow>
+    <name>Remind Me</name>
+    <version>1.0</version>
+    <bundle>jw.reminders</bundle>
+    <updated>1402524671</updated>
+    <file>remind_me.alfredworkflow</file>
+    <author>jonathanwiesel</author>
+    <applications>Reminders</applications>
+    <categories>Other ||| Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/remind-me</url>
+    <tags>reminders</tags>
+    <webservices></webservices>
+    <short>Add reminders to the default Reminders list</short>
+  </workflow>
+  <workflow>
     <name>Remove Download Warning</name>
     <version>1.0</version>
     <bundle>com.bclev.removedownloadwarning</bundle>
@@ -2524,7 +2539,7 @@
     <name>Skimmer</name>
     <version>2.1</version>
     <bundle>com.hackademic.skimmer</bundle>
-    <updated>1402497073</updated>
+    <updated>1402497132</updated>
     <file>skimmer.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Skim</applications>
