@@ -2671,6 +2671,21 @@
     <short>Get a strong password by leveraging multiple sources</short>
   </workflow>
   <workflow>
+    <name>Sublime Text Projects</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-sublime-text-projects</bundle>
+    <updated>1402608131</updated>
+    <file>sublime_text_projects.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications>Sublime Text 2 ||| Sublime Text 3 ||| Sublime Text</applications>
+    <categories>Development ||| Files and Folders ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/sublime-text-projects</url>
+    <tags>sublime text</tags>
+    <webservices></webservices>
+    <short>Filter and open your Sublime Text (2 and 3) project files.</short>
+  </workflow>
+  <workflow>
     <name>Subscribe To Feed URLs</name>
     <version>1.1</version>
     <bundle>de.curioustimes.alfred.subscribetofeedurls</bundle>
@@ -3364,7 +3379,7 @@
     <name>Wikify</name>
     <version>3.0</version>
     <bundle>com.hackademic.wikify</bundle>
-    <updated>1402590432</updated>
+    <updated>1402590492</updated>
     <file>wikify.alfredworkflow</file>
     <author>hackademic</author>
     <applications>Evernote</applications>
