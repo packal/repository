@@ -1741,6 +1741,21 @@
     <short>Alfred ⇄ YouTube account automation</short>
   </workflow>
   <workflow>
+    <name>Open clipboard in browser</name>
+    <version>1.0</version>
+    <bundle>com.somebits.openclipurl</bundle>
+    <updated>1402676472</updated>
+    <file>open_clipboard_in_browser.alfredworkflow</file>
+    <author>Nelson</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-clipboard-browser</url>
+    <tags>google ||| clipboard ||| browser ||| url</tags>
+    <webservices>Google</webservices>
+    <short>Opens a URL or else performs a Google search</short>
+  </workflow>
+  <workflow>
     <name>Open in Alfred</name>
     <version>1.1</version>
     <bundle>com.customct.OpenAlfred</bundle>
@@ -1969,7 +1984,7 @@
     <name>Pocket for Alfred</name>
     <version>1.8</version>
     <bundle>com.fniephaus.pocket</bundle>
-    <updated>1402648932</updated>
+    <updated>1402648992</updated>
     <file>pocket-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications></applications>
