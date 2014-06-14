@@ -1742,9 +1742,9 @@
   </workflow>
   <workflow>
     <name>Open clipboard in browser</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <bundle>com.somebits.openclipurl</bundle>
-    <updated>1402676472</updated>
+    <updated>1402676593</updated>
     <file>open_clipboard_in_browser.alfredworkflow</file>
     <author>Nelson</author>
     <applications></applications>
@@ -2114,6 +2114,21 @@
     <tags>random ||| roll ||| dice ||| flip ||| coin</tags>
     <webservices></webservices>
     <short>Feeling indecisive? Let Alfred decide.</short>
+  </workflow>
+  <workflow>
+    <name>Ratio Calculator</name>
+    <version>1.0</version>
+    <bundle>matthewmcvickar.ratio-calculator</bundle>
+    <updated>1402698672</updated>
+    <file>ratio_calculator.alfredworkflow</file>
+    <author>matthewmcvickar</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ratio-calculator</url>
+    <tags>math ||| ratio</tags>
+    <webservices></webservices>
+    <short>Calculates the missing number in a ratio equation.</short>
   </workflow>
   <workflow>
     <name>Readability for Alfred</name>
@@ -3284,6 +3299,21 @@
     <tags>version ||| application ||| operating system ||| os ||| app</tags>
     <webservices></webservices>
     <short>Copy version information for applications and operating systems</short>
+  </workflow>
+  <workflow>
+    <name>VEVO.com</name>
+    <version>1.1</version>
+    <bundle>de.draegerit.alfred.flushdns</bundle>
+    <updated>1402741211</updated>
+    <file>flushdns.alfredworkflow</file>
+    <author>Blacklight</author>
+    <applications></applications>
+    <categories>Development ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/vevocom</url>
+    <tags>dns ||| flush dns ||| dns cache</tags>
+    <webservices></webservices>
+    <short>Flush the DNS cache in Mac OS X (10.7+)</short>
   </workflow>
   <workflow>
     <name>VideoDuration</name>
