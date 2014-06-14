@@ -991,6 +991,21 @@
     <short>A list of functions for working with the Fish shell.</short>
   </workflow>
   <workflow>
+    <name>Flush DNS</name>
+    <version>1.1.3</version>
+    <bundle>de.draegerit.alfred.flushdns</bundle>
+    <updated>1402742411</updated>
+    <file>flushdns.alfredworkflow</file>
+    <author>Blacklight</author>
+    <applications></applications>
+    <categories>Development ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/flush-dns</url>
+    <tags>dns ||| flush dns ||| dns cache</tags>
+    <webservices></webservices>
+    <short>Flush the DNS cache in Mac OS X (10.7+)</short>
+  </workflow>
+  <workflow>
     <name>Flux</name>
     <version>1.1</version>
     <bundle>com.spr.f.lux</bundle>
@@ -3299,21 +3314,6 @@
     <tags>version ||| application ||| operating system ||| os ||| app</tags>
     <webservices></webservices>
     <short>Copy version information for applications and operating systems</short>
-  </workflow>
-  <workflow>
-    <name>VEVO.com</name>
-    <version>1.1</version>
-    <bundle>de.draegerit.alfred.flushdns</bundle>
-    <updated>1402741211</updated>
-    <file>flushdns.alfredworkflow</file>
-    <author>Blacklight</author>
-    <applications></applications>
-    <categories>Development ||| System</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/vevocom</url>
-    <tags>dns ||| flush dns ||| dns cache</tags>
-    <webservices></webservices>
-    <short>Flush the DNS cache in Mac OS X (10.7+)</short>
   </workflow>
   <workflow>
     <name>VideoDuration</name>
