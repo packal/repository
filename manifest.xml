@@ -994,7 +994,7 @@
     <name>Flush DNS</name>
     <version>1.1.3</version>
     <bundle>de.draegerit.alfred.flushdns</bundle>
-    <updated>1402742411</updated>
+    <updated>1402742471</updated>
     <file>flushdns.alfredworkflow</file>
     <author>Blacklight</author>
     <applications></applications>
@@ -1274,6 +1274,21 @@
     <tags>hypem</tags>
     <webservices>Hypem.com</webservices>
     <short>Control hypem.com via hotkeys</short>
+  </workflow>
+  <workflow>
+    <name>iCloud Tabs</name>
+    <version>1.0</version>
+    <bundle>com.targumanu.icloudtabs</bundle>
+    <updated>1402827431</updated>
+    <file>icloud_tabs.alfredworkflow</file>
+    <author>Targumanu</author>
+    <applications>Safari</applications>
+    <categories>Networking ||| Productivity ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/icloud-tabs</url>
+    <tags>iCloud ||| tabs ||| search</tags>
+    <webservices>iCloud</webservices>
+    <short>View and open iCloud tabs from all your devices</short>
   </workflow>
   <workflow>
     <name>iCloudTabs</name>
@@ -3314,6 +3329,21 @@
     <tags>version ||| application ||| operating system ||| os ||| app</tags>
     <webservices></webservices>
     <short>Copy version information for applications and operating systems</short>
+  </workflow>
+  <workflow>
+    <name>VEVO.com Quicksearch</name>
+    <version>1.1</version>
+    <bundle>de.draegerit.alfred.vevo</bundle>
+    <updated>1402745112</updated>
+    <file>vevo.alfredworkflow</file>
+    <author>Blacklight</author>
+    <applications></applications>
+    <categories>Search ||| Video</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/vevocom-quicksearch</url>
+    <tags>vevo ||| vevo.com ||| music ||| music videos ||| quicksearch</tags>
+    <webservices></webservices>
+    <short>Search vevo.com for videos and watch them in your browser</short>
   </workflow>
   <workflow>
     <name>VideoDuration</name>
