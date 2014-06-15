@@ -1846,6 +1846,21 @@
     <short>Quickly open projects using Alfred</short>
   </workflow>
   <workflow>
+    <name>Packal Updater</name>
+    <version>0.1</version>
+    <bundle>com.packal</bundle>
+    <updated>1402870031</updated>
+    <file>packal_updater.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/packal-updater</url>
+    <tags>packal ||| updater ||| Upgrade ||| Workflow Upgrade</tags>
+    <webservices></webservices>
+    <short>Update your workflows from Packal.</short>
+  </workflow>
+  <workflow>
     <name>Packal Workflow Search</name>
     <version>1.1.2</version>
     <bundle>net.deanishe.alfred-packal-search</bundle>
@@ -2384,6 +2399,21 @@
     <tags>s3cmd ||| Amazon S3</tags>
     <webservices></webservices>
     <short>Workflow for using the s3cmd command</short>
+  </workflow>
+  <workflow>
+    <name>Safari Reading List</name>
+    <version>1.0</version>
+    <bundle>com.targumanu.readinglist</bundle>
+    <updated>1402828034</updated>
+    <file>reading_list.alfredworkflow</file>
+    <author>Targumanu</author>
+    <applications>Safari</applications>
+    <categories>Networking ||| Productivity ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/safari-reading-list</url>
+    <tags>Reading list</tags>
+    <webservices>iCloud</webservices>
+    <short>Search and open items from Safari reading list</short>
   </workflow>
   <workflow>
     <name>Say</name>
