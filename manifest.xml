@@ -2476,6 +2476,21 @@
     <short>Capture, save to Dropbox, get Link and manage files and past links</short>
   </workflow>
   <workflow>
+    <name>Search for Gems on RubyGems.org</name>
+    <version>0.0.2</version>
+    <bundle>com.alfredapp.attilagyorffy.rubygems</bundle>
+    <updated>1403019012</updated>
+    <file>alfred-rubygems-workflow-v0.0.2.alfredworkflow</file>
+    <author>attilagyorffy</author>
+    <applications>Ruby ||| RubyGems</applications>
+    <categories>Development ||| Productivity ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/search-gems-rubygemsorg</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search the RubyGems API from within Alfred! Use the gem command within Alfred to find gems easily.</short>
+  </workflow>
+  <workflow>
     <name>Search Maven Repository</name>
     <version>1.0</version>
     <bundle>com.tedwise.mavenrepository</bundle>
@@ -2674,7 +2689,7 @@
     <name>Spotify Mini Player</name>
     <version>4.35</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1403007373</updated>
+    <updated>1403007432</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
