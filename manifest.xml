@@ -1651,6 +1651,21 @@
     <short>Display ip addresses or mac addresses for all network interfaces.</short>
   </workflow>
   <workflow>
+    <name>Network Location</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-network-location</bundle>
+    <updated>1403117171</updated>
+    <file>network_location.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications>System Preferences</applications>
+    <categories>Networking ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/network-location</url>
+    <tags>networking</tags>
+    <webservices></webservices>
+    <short>List, filter and activate network locations from within Alfred</short>
+  </workflow>
+  <workflow>
     <name>Network Tools</name>
     <version>1.0</version>
     <bundle>com.fniephaus.network</bundle>
@@ -2764,7 +2779,7 @@
     <name>Sublime Text Projects</name>
     <version>2.0.1</version>
     <bundle>net.deanishe.alfred-sublime-text-projects</bundle>
-    <updated>1403031491</updated>
+    <updated>1403031551</updated>
     <file>sublime_text_projects.alfredworkflow</file>
     <author>deanishe</author>
     <applications>Sublime Text 2 ||| Sublime Text 3 ||| Sublime Text</applications>
