@@ -961,6 +961,21 @@
     <short>Save frequently-used files and folders for quick access later</short>
   </workflow>
   <workflow>
+    <name>File Metadata</name>
+    <version>1.0</version>
+    <bundle>com.surrealroad.alfred-metadata</bundle>
+    <updated>1403190733</updated>
+    <file>file_metadata.alfredworkflow</file>
+    <author>surrealroad</author>
+    <applications></applications>
+    <categories>Files and Folders ||| System ||| Utilities ||| Video</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/file-metadata</url>
+    <tags>metadata ||| files ||| media</tags>
+    <webservices></webservices>
+    <short>Shows metadata for a file in Alfred</short>
+  </workflow>
+  <workflow>
     <name>File Name Sequencer</name>
     <version>1.0</version>
     <bundle>com.customct.filenamesequencer</bundle>
