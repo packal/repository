@@ -1654,7 +1654,7 @@
     <name>Network Location</name>
     <version>1.0</version>
     <bundle>net.deanishe.alfred-network-location</bundle>
-    <updated>1403117171</updated>
+    <updated>1403117568</updated>
     <file>network_location.alfredworkflow</file>
     <author>deanishe</author>
     <applications>System Preferences</applications>
@@ -2264,6 +2264,21 @@
     <tags>reminders</tags>
     <webservices></webservices>
     <short>Add reminders to the default Reminders list</short>
+  </workflow>
+  <workflow>
+    <name>Reminders</name>
+    <version>50</version>
+    <bundle>com.surrealroad.alfred-reminder</bundle>
+    <updated>1403189352</updated>
+    <file>reminders.alfredworkflow</file>
+    <author>surrealroad</author>
+    <applications>Reminders</applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/reminders</url>
+    <tags>reminders</tags>
+    <webservices></webservices>
+    <short>This creates a new reminder in Reminders.app</short>
   </workflow>
   <workflow>
     <name>Remove Download Warning</name>
