@@ -2296,6 +2296,21 @@
     <short>This creates a new reminder in Reminders.app</short>
   </workflow>
   <workflow>
+    <name>Remote Desktop</name>
+    <version>1.0</version>
+    <bundle>com.surrealroad.alfred-remotedesktop</bundle>
+    <updated>1403191391</updated>
+    <file>remote_desktop.alfredworkflow</file>
+    <author>surrealroad</author>
+    <applications>Remote Desktop</applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/remote-desktop</url>
+    <tags>remote desktop</tags>
+    <webservices></webservices>
+    <short>Connects to computer via Apple Remote Desktop</short>
+  </workflow>
+  <workflow>
     <name>Remove Download Warning</name>
     <version>1.0</version>
     <bundle>com.bclev.removedownloadwarning</bundle>
