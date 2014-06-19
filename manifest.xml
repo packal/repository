@@ -1129,7 +1129,7 @@
     <name>Glosbe Translation</name>
     <version>1.3</version>
     <bundle>net.deanishe.alfred-glosbe</bundle>
-    <updated>1396122495</updated>
+    <updated>1403211072</updated>
     <file>glosbe_translation.alfredworkflow</file>
     <author>deanishe</author>
     <applications></applications>
@@ -1724,6 +1724,21 @@
     <tags>file sequencing</tags>
     <webservices></webservices>
     <short>Sequences through items in one or more files.</short>
+  </workflow>
+  <workflow>
+    <name>Notes</name>
+    <version>6</version>
+    <bundle>com.surrealroad.alfred-note</bundle>
+    <updated>1403191932</updated>
+    <file>notes.alfredworkflow</file>
+    <author>surrealroad</author>
+    <applications>notes</applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/notes</url>
+    <tags>notes</tags>
+    <webservices></webservices>
+    <short>Creates a new note in Notes.app.</short>
   </workflow>
   <workflow>
     <name>Notes Workflow</name>
