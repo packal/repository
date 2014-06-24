@@ -692,9 +692,9 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>0.6</version>
+    <version>0.7</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1403505071</updated>
+    <updated>1403505606</updated>
     <file>datecalculator.alfredworkflow</file>
     <author>MuppetGate</author>
     <applications></applications>
@@ -2566,6 +2566,21 @@
     <short>Capture, save to Dropbox, get Link and manage files and past links</short>
   </workflow>
   <workflow>
+    <name>Search Baidu</name>
+    <version>1.0</version>
+    <bundle>com.rjiang.searchbaidu</bundle>
+    <updated>1403514971</updated>
+    <file>search_baidu.alfredworkflow</file>
+    <author>rjiang</author>
+    <applications></applications>
+    <categories>Reference ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/search-baidu</url>
+    <tags>quicksearch ||| search</tags>
+    <webservices></webservices>
+    <short>Searches Baidu from Alfred.</short>
+  </workflow>
+  <workflow>
     <name>Search for Gems on RubyGems.org</name>
     <version>0.0.2</version>
     <bundle>com.alfredapp.attilagyorffy.rubygems</bundle>
@@ -2777,9 +2792,9 @@
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
-    <version>4.35</version>
+    <version>4.36</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1403007432</updated>
+    <updated>1403596273</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
