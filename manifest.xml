@@ -2794,7 +2794,7 @@
     <name>Spotify Mini Player</name>
     <version>4.36</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1403596273</updated>
+    <updated>1403596333</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
@@ -3314,6 +3314,21 @@
     <tags>trakt.tv</tags>
     <webservices>trakt.tv</webservices>
     <short>Search trakt.tv, check out trends or manager your watchlists and libraries...</short>
+  </workflow>
+  <workflow>
+    <name>Translate</name>
+    <version>1.0</version>
+    <bundle>com.spr.translate</bundle>
+    <updated>1403644872</updated>
+    <file>translate.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/translate</url>
+    <tags>translate ||| translation ||| languages ||| language</tags>
+    <webservices>Google Translate</webservices>
+    <short>Utilize any of Google Translate's langues</short>
   </workflow>
   <workflow>
     <name>Transmit</name>
