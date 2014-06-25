@@ -31,6 +31,21 @@
     <short>Magic 8 Ball Alfred Workflow that gives a random response from a set of 20</short>
   </workflow>
   <workflow>
+    <name>ABN Lookup</name>
+    <version>0.1</version>
+    <bundle>zuccs.abnlookup</bundle>
+    <updated>1403663472</updated>
+    <file>abnlookup.alfredworkflow</file>
+    <author>zuccs</author>
+    <applications></applications>
+    <categories>Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/abn-lookup</url>
+    <tags>abn, abr, lookup, australian, business, number</tags>
+    <webservices></webservices>
+    <short>Perform a quick ABN lookup via ABR website.</short>
+  </workflow>
+  <workflow>
     <name>Add to Playlist</name>
     <version>2.0</version>
     <bundle>com.sztoltz.addtoplaylist</bundle>
@@ -3319,7 +3334,7 @@
     <name>Translate</name>
     <version>1.0</version>
     <bundle>com.spr.translate</bundle>
-    <updated>1403644872</updated>
+    <updated>1403644931</updated>
     <file>translate.alfredworkflow</file>
     <author>Shawn Patrick Rice</author>
     <applications></applications>
@@ -3328,7 +3343,7 @@
     <url>http://www.packal.org/workflow/translate</url>
     <tags>translate ||| translation ||| languages ||| language</tags>
     <webservices>Google Translate</webservices>
-    <short>Utilize any of Google Translate's langues</short>
+    <short>Utilize any of Google Translate's languages</short>
   </workflow>
   <workflow>
     <name>Transmit</name>
