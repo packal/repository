@@ -1069,7 +1069,7 @@
     <name>Folding Text Workflow</name>
     <version>1.4</version>
     <bundle>com.customct.FoldingTextWorkflow</bundle>
-    <updated>1403795891</updated>
+    <updated>1403795951</updated>
     <file>foldingtextworkflow.alfredworkflow</file>
     <author>raguay</author>
     <applications>FoldingText.app</applications>
@@ -2864,6 +2864,21 @@
     <tags>gtd ||| sprint</tags>
     <webservices>Sprintly</webservices>
     <short>Manage your Sprintly products from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Spritzr</name>
+    <version>1.0</version>
+    <bundle>com.hackademic.spritzr</bundle>
+    <updated>1403814492</updated>
+    <file>spritzr.alfredworkflow</file>
+    <author>hackademic</author>
+    <applications></applications>
+    <categories>Text Manipulation</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/spritzr</url>
+    <tags>speedread ||| text</tags>
+    <webservices></webservices>
+    <short>An Alfred Speed-Reader</short>
   </workflow>
   <workflow>
     <name>SSH Rocket</name>
