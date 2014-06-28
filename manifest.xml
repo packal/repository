@@ -2236,6 +2236,21 @@
     <short>Feeling indecisive? Let Alfred decide.</short>
   </workflow>
   <workflow>
+    <name>Random MAC</name>
+    <version>0.1</version>
+    <bundle>com.corylogan.randommac</bundle>
+    <updated>1403958012</updated>
+    <file>random_mac.alfredworkflow</file>
+    <author>corylogan</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/random-mac</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Generates and applies a new MAC address to en0.</short>
+  </workflow>
+  <workflow>
     <name>Random Opener</name>
     <version>1.0</version>
     <bundle>jw.randomopener</bundle>
@@ -2524,7 +2539,7 @@
     <name>Safari Reading List</name>
     <version>1.2</version>
     <bundle>com.targumanu.readinglist</bundle>
-    <updated>1403380391</updated>
+    <updated>1403958229</updated>
     <file>reading_list.alfredworkflow</file>
     <author>Targumanu</author>
     <applications>Safari</applications>
