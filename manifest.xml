@@ -616,6 +616,21 @@
     <short>Worflow for swithching back and forth between UNIX and Windows Paths, specifically between Mapped Drives and Mounted Network Volumes.</short>
   </workflow>
   <workflow>
+    <name>Convert Word document to PDF</name>
+    <version>1.5</version>
+    <bundle>com.vdesabou.convert.word.to.pdf</bundle>
+    <updated>1404304213</updated>
+    <file>convert_word_document_to_pdf_1.5.alfredworkflow</file>
+    <author>vdesabou</author>
+    <applications>Microsoft Word</applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/convert-word-document-pdf</url>
+    <tags>microsoft ||| word ||| PDF</tags>
+    <webservices></webservices>
+    <short>Alfred workflow to convert Word document to PDF</short>
+  </workflow>
+  <workflow>
     <name>Create Folder In …</name>
     <version>1.0</version>
     <bundle>com.muppetgate.workflow.createFolderIn</bundle>
