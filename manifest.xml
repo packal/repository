@@ -1171,6 +1171,21 @@
     <short>Returns temporary token for two-factor authentication mechanisms</short>
   </workflow>
   <workflow>
+    <name>Git Repos</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-git-repos</bundle>
+    <updated>1404560308</updated>
+    <file>git_repos.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications>Finder ||| SourceTree ||| GitHub ||| Path Finder ||| Sublime Text</applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/git-repos</url>
+    <tags>git ||| repositories ||| repos ||| scm</tags>
+    <webservices></webservices>
+    <short>Browse, search and open Git repositories from within Alfred.</short>
+  </workflow>
+  <workflow>
     <name>Glosbe Translation</name>
     <version>1.4</version>
     <bundle>net.deanishe.alfred-glosbe</bundle>
