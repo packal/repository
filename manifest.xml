@@ -586,6 +586,21 @@
     <short>Allows for converting and compressing images using ImageMagick</short>
   </workflow>
   <workflow>
+    <name>Control focus@will within Apple Safari</name>
+    <version>1.0</version>
+    <bundle>com.tangledhelix.focusatwill.safari</bundle>
+    <updated>1405022996</updated>
+    <file>control_focuswill_within_apple_safari.alfredworkflow</file>
+    <author>tangledhelix</author>
+    <applications>Safari</applications>
+    <categories>Audio ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/control-focuswill-within-apple-safari</url>
+    <tags></tags>
+    <webservices>focusatwill.com</webservices>
+    <short>Play/pause or next track for focus@will (focusatwill.com) running in Apple Safari</short>
+  </workflow>
+  <workflow>
     <name>Convert</name>
     <version>1.0</version>
     <bundle>net.deanishe.alfred-convert</bundle>
