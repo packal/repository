@@ -3466,6 +3466,21 @@
     <short>Does exactly what the title says. No more, no less.</short>
   </workflow>
   <workflow>
+    <name>Torrent</name>
+    <version>0.2</version>
+    <bundle>com.bowinther.torrent</bundle>
+    <updated>1405114857</updated>
+    <file>torrent.alfredworkflow</file>
+    <author>bfw</author>
+    <applications>uTorrent</applications>
+    <categories>Networking ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/torrent</url>
+    <tags>torrent ||| torrents ||| uTorrent ||| downloads ||| kickass.to</tags>
+    <webservices></webservices>
+    <short>Search for torrents, choose among the results in Alfred and start the download in uTorrent</short>
+  </workflow>
+  <workflow>
     <name>Trakt for Alfred</name>
     <version>1.4</version>
     <bundle>de.timbooo.traktforalfred</bundle>
