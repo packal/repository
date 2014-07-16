@@ -151,6 +151,21 @@
     <short>Designed to help with building Alfred workflows efficiently. Shows the last Alfred workflow you were working on at the top of the list. Same with the data folder.</short>
   </workflow>
   <workflow>
+    <name>alfred-pinboard</name>
+    <version>2.26</version>
+    <bundle>com.jmjeong.alfredv2.pinboard</bundle>
+    <updated>1405473912</updated>
+    <file>pinboard.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| System</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-pinboard</url>
+    <tags>pinboard</tags>
+    <webservices>https://pinboard.in</webservices>
+    <short>Yet another alfred-pinboard workflow. It provides INSTANT pinboard search and various function</short>
+  </workflow>
+  <workflow>
     <name>AlfredBookmarklet</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.alfredbookmarklet</bundle>
