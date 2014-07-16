@@ -2806,6 +2806,21 @@
     <short>Send documents to the cloud</short>
   </workflow>
   <workflow>
+    <name>SEO</name>
+    <version>1.0</version>
+    <bundle>com.spr.seo</bundle>
+    <updated>1405384931</updated>
+    <file>seo.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/seo</url>
+    <tags>seo ||| pagerank ||| ahrefs ||| mozscape ||| search engine optimization ||| alexa</tags>
+    <webservices>ahrefs.com ||| moz.com ||| alexa.com</webservices>
+    <short>Check URLs for SEO Stats with multiple services</short>
+  </workflow>
+  <workflow>
     <name>Sermon Scheduler</name>
     <version>1.0</version>
     <bundle>com.customct.SermonSchd</bundle>
