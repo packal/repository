@@ -1591,6 +1591,21 @@
     <short>Sets a label color for selected files and directories</short>
   </workflow>
   <workflow>
+    <name>Laser SSH</name>
+    <version>0.0.1</version>
+    <bundle>com.paperelectron.alfred.laserssh</bundle>
+    <updated>1405613231</updated>
+    <file>laser_ssh.alfredworkflow</file>
+    <author>paperElectron</author>
+    <applications>iTerm2</applications>
+    <categories>Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/laser-ssh</url>
+    <tags>ssh</tags>
+    <webservices></webservices>
+    <short>Choose SSH connection from filterable list</short>
+  </workflow>
+  <workflow>
     <name>Leo Dictionary</name>
     <version>1.4</version>
     <bundle>psistorm.alfed.leo</bundle>
