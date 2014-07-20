@@ -901,6 +901,21 @@
     <short>Download videos from popular sources</short>
   </workflow>
   <workflow>
+    <name>dpkg</name>
+    <version>0.1</version>
+    <bundle>com.dominyk.dpkg</bundle>
+    <updated>1405886111</updated>
+    <file>dpkg.alfredworkflow</file>
+    <author>DomT4</author>
+    <applications>Terminal</applications>
+    <categories>Development</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/dpkg</url>
+    <tags>dpkg ||| debian ||| development</tags>
+    <webservices></webservices>
+    <short>Semi-automates the debian package creation process using dpkg.</short>
+  </workflow>
+  <workflow>
     <name>Dropbox Client for Alfred</name>
     <version>0.9</version>
     <bundle>com.fniephaus.dropbox</bundle>
