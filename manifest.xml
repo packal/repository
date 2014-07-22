@@ -3361,6 +3361,21 @@
     <short>Save and reuse files, directory structures, and urls</short>
   </workflow>
   <workflow>
+    <name>TemporaryEmail</name>
+    <version>1.0</version>
+    <bundle>com.vitorgalvao.alfred.temporaryemail</bundle>
+    <updated>1406055132</updated>
+    <file>temporaryemail.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/temporaryemail</url>
+    <tags>temporary email ||| anonymity ||| privacy</tags>
+    <webservices>harakirimail</webservices>
+    <short>Get a temporary email inbox</short>
+  </workflow>
+  <workflow>
     <name>Terminal Control</name>
     <version>2.1</version>
     <bundle>org.koffel.alfred.terminal-control</bundle>
