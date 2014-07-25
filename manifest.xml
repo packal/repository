@@ -1246,6 +1246,21 @@
     <short>Browse, search and open Git repositories from within Alfred.</short>
   </workflow>
   <workflow>
+    <name>Github repos</name>
+    <version>1.0</version>
+    <bundle>sh.edgar.alfred.GithubRepos</bundle>
+    <updated>1406258772</updated>
+    <file>github_repos.alfredworkflow</file>
+    <author>edgarjs</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Search</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/github-repos</url>
+    <tags>github ||| git ||| repositories</tags>
+    <webservices>api.github.com</webservices>
+    <short>Quickly open your github repositories</short>
+  </workflow>
+  <workflow>
     <name>Glosbe Translation</name>
     <version>1.4</version>
     <bundle>net.deanishe.alfred-glosbe</bundle>
