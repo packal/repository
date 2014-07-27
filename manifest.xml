@@ -2551,6 +2551,21 @@
     <short>Manage your Readability list with Alfred</short>
   </workflow>
   <workflow>
+    <name>Readme</name>
+    <version>1.0</version>
+    <bundle>com.badwing.readme</bundle>
+    <updated>1406426892</updated>
+    <file>readme.alfredworkflow</file>
+    <author>boneskull</author>
+    <applications>Default application</applications>
+    <categories>Development ||| Reference</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/readme</url>
+    <tags>npm ||| readme ||| node ||| nodejs ||| readme.md ||| markdown ||| md ||| doc ||| documentation ||| Reference ||| docs</tags>
+    <webservices>registry.npmjs.org</webservices>
+    <short>Load the README.md for any NPM module in the default application</short>
+  </workflow>
+  <workflow>
     <name>Recent Documents</name>
     <version>1.3</version>
     <bundle>com.tedwise.recentdocs</bundle>
