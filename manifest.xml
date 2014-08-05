@@ -2461,6 +2461,21 @@
     <short>Open and manage your Pinboard “toread” bookmarks</short>
   </workflow>
   <workflow>
+    <name>pipe</name>
+    <version>1.0</version>
+    <bundle>net.isometry.alfred.pipe</bundle>
+    <updated>1407265872</updated>
+    <file>pipe.alfredworkflow</file>
+    <author>isometry</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pipe</url>
+    <tags>pipe ||| shell ||| perl ||| sed ||| awk ||| bash</tags>
+    <webservices></webservices>
+    <short>Transform the  selected text or clipboard contents by passing it through an arbitrary shell one-liner</short>
+  </workflow>
+  <workflow>
     <name>Play Song</name>
     <version>1.0</version>
     <bundle>com.calebevans.playsong</bundle>
