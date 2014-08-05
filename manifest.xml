@@ -3346,6 +3346,21 @@
     <short>An Alfred Speed-Reader</short>
   </workflow>
   <workflow>
+    <name>ssh</name>
+    <version>1.1</version>
+    <bundle>net.isometry.alfred.ssh</bundle>
+    <updated>1407262873</updated>
+    <file>ssh.alfredworkflow</file>
+    <author>isometry</author>
+    <applications>iTerm2 ||| Terminal</applications>
+    <categories>Development ||| Networking ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ssh</url>
+    <tags>ssh ||| secure shell ||| terminal ||| iterm2</tags>
+    <webservices></webservices>
+    <short>Open Secure SHell with smart hostname autocompletion</short>
+  </workflow>
+  <workflow>
     <name>SSH Rocket</name>
     <version>1.0</version>
     <bundle>com.evgeny.golubev.alfred.sshlauncher</bundle>
