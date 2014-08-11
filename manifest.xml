@@ -2221,6 +2221,21 @@
     <short>Opens a URL or else performs a Google search</short>
   </workflow>
   <workflow>
+    <name>Open Folder in iTerm</name>
+    <version>1.0</version>
+    <bundle>com.nicknish.openiniterm</bundle>
+    <updated>1407744793</updated>
+    <file>open_folder_in_iterm.alfredworkflow</file>
+    <author>nicknish</author>
+    <applications>iTerm ||| Terminal</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-folder-iterm</url>
+    <tags>iterm ||| cd ||| search ||| terminal</tags>
+    <webservices></webservices>
+    <short>Open an iTerm window that's already cd'd into the folder you searched.</short>
+  </workflow>
+  <workflow>
     <name>Open in Alfred</name>
     <version>1.1</version>
     <bundle>com.customct.OpenAlfred</bundle>
