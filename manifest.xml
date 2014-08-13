@@ -3046,6 +3046,21 @@
     <short>This workflow calculates the route from the current location to a contact from your address book, or a specified location with Google Maps</short>
   </workflow>
   <workflow>
+    <name>RSS</name>
+    <version>1.0</version>
+    <bundle>florian.rss</bundle>
+    <updated>1407925513</updated>
+    <file>rss.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Other ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/rss</url>
+    <tags>RSS</tags>
+    <webservices></webservices>
+    <short>Quick and simple view of RSS feeds</short>
+  </workflow>
+  <workflow>
     <name>RunCommand</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.runcommand</bundle>
