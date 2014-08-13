@@ -916,6 +916,21 @@
     <short>Make either Safari or Chrome do a Barrel Roll</short>
   </workflow>
   <workflow>
+    <name>Down for everyone</name>
+    <version>1.0</version>
+    <bundle>florian.down</bundle>
+    <updated>1407924673</updated>
+    <file>down_for_everyone.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/down-everyone</url>
+    <tags>internet ||| seo</tags>
+    <webservices>http://isup.me/ ||| http://www.downforeveryoneorjustme.com/</webservices>
+    <short>Checks a url against downforeveryoneorjustme.com</short>
+  </workflow>
+  <workflow>
     <name>DownVid</name>
     <version>1.7</version>
     <bundle>com.vitorgalvao.alfred.downvid</bundle>
@@ -2554,7 +2569,7 @@
     <name>Piratebay</name>
     <version>2.3</version>
     <bundle>florian.piratebay</bundle>
-    <updated>1407775993</updated>
+    <updated>1407924829</updated>
     <file>piratebay.alfredworkflow</file>
     <author>Florian</author>
     <applications></applications>
