@@ -3031,6 +3031,21 @@
     <short>Convert selected text to a QR code</short>
   </workflow>
   <workflow>
+    <name>Restart frontmost application</name>
+    <version>1.1</version>
+    <bundle>com.sebas89.restartapp</bundle>
+    <updated>1408803670</updated>
+    <file>restart_frontmost_application.alfredworkflow</file>
+    <author>sebas89</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| System</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restart-frontmost-application</url>
+    <tags>restart ||| relaunch ||| frontmost ||| application ||| app ||| active</tags>
+    <webservices></webservices>
+    <short>Type 'rs' and then press enter to close and restart your frontmost application.</short>
+  </workflow>
+  <workflow>
     <name>RightClick</name>
     <version>1.1</version>
     <bundle>com.vitorgalvao.alfred.rightclick</bundle>
