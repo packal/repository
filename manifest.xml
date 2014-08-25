@@ -4261,6 +4261,21 @@
     <short>Simple workflow to _write_ the clipboard content in those situations where ```⌘ → V``` doesn't work, typically in non Cocoa application dialogs. You have to go and paste with right clicking the mouse or pad... Atrocious!!</short>
   </workflow>
   <workflow>
+    <name>UberTime</name>
+    <version>1.0</version>
+    <bundle>fspinillo.alfredv2.ubertime</bundle>
+    <updated>1408967118</updated>
+    <file>ubertime.alfredworkflow</file>
+    <author>frankspin</author>
+    <applications></applications>
+    <categories>Other ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ubertime</url>
+    <tags>uber</tags>
+    <webservices>Uber ||| Google Maps API</webservices>
+    <short>Check estimated pick up time for Uber based on inputted address</short>
+  </workflow>
+  <workflow>
     <name>Uni Call</name>
     <version>5.31</version>
     <bundle>net.guiguan.Uni-Call</bundle>
