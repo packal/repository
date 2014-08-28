@@ -1156,6 +1156,21 @@
     <short>Sequences through file names in a format.</short>
   </workflow>
   <workflow>
+    <name>Find Lyrics of Current Song on Rap Genius</name>
+    <version>1.0</version>
+    <bundle>com.rudzitis.lyrics</bundle>
+    <updated>1409247436</updated>
+    <file>alfred_lyrics.alfredworkflow</file>
+    <author>ryanrudzitis</author>
+    <applications>Safari ||| iTunes ||| Spotify ||| Rdio</applications>
+    <categories>Audio ||| Reference ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/find-lyrics-current-song-rap-genius</url>
+    <tags></tags>
+    <webservices>Rap Genius</webservices>
+    <short>Looks up lyrics for current song on Rap Genius</short>
+  </workflow>
+  <workflow>
     <name>Fish Toolbox</name>
     <version>1.0</version>
     <bundle>com.customct.FishToolbox</bundle>
