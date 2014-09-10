@@ -3991,6 +3991,21 @@
     <short>Workflow for tokenizing different text value input, and converting them back to a string with multiple syntaxes. It was basically thought as a text exapander to convert space separated works into quoted comma separated values.</short>
   </workflow>
   <workflow>
+    <name>TextFoo</name>
+    <version>1</version>
+    <bundle>com.earthvectors.TextFoo</bundle>
+    <updated>1410357737</updated>
+    <file>textfoo.alfredworkflow</file>
+    <author>l3wp</author>
+    <applications></applications>
+    <categories>Development ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/textfoo</url>
+    <tags>ruby ||| text mainipulations</tags>
+    <webservices></webservices>
+    <short>Simple commands to manipulate text</short>
+  </workflow>
+  <workflow>
     <name>TextMate Favorites</name>
     <version>1.0</version>
     <bundle>nl.ulso.alfred.textmate-favorites</bundle>
