@@ -1534,7 +1534,7 @@
     <name>Homebrew for Alfred</name>
     <version>1.1</version>
     <bundle>com.fniephaus.homebrew</bundle>
-    <updated>1408984695</updated>
+    <updated>1411511535</updated>
     <file>homebrew-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications>brew</applications>
@@ -1639,7 +1639,7 @@
     <name>IMDb Search</name>
     <version>1.4.5</version>
     <bundle>com.targumanu.imdbsearch</bundle>
-    <updated>1408020973</updated>
+    <updated>1411511295</updated>
     <file>imdb_search.alfredworkflow</file>
     <author>Targumanu</author>
     <applications></applications>
@@ -2087,21 +2087,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1405504300</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2114,6 +2099,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1405504300</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -2644,7 +2644,7 @@
     <name>Percent Change</name>
     <version>1.4.0</version>
     <bundle>net.bradmontgomery.percent_change</bundle>
-    <updated>1411233257</updated>
+    <updated>1411511415</updated>
     <file>percent_change.alfredworkflow</file>
     <author>bkmontgomery</author>
     <applications></applications>
@@ -2764,7 +2764,7 @@
     <name>Piratebay</name>
     <version>2.4</version>
     <bundle>florian.piratebay</bundle>
-    <updated>1410570018</updated>
+    <updated>1411511477</updated>
     <file>piratebay.alfredworkflow</file>
     <author>Florian</author>
     <applications></applications>
@@ -3769,7 +3769,7 @@
     <name>ssh</name>
     <version>1.2</version>
     <bundle>net.isometry.alfred.ssh</bundle>
-    <updated>1407361871</updated>
+    <updated>1411511355</updated>
     <file>ssh.alfredworkflow</file>
     <author>isometry</author>
     <applications>iTerm2 ||| Terminal</applications>
@@ -4369,7 +4369,7 @@
     <name>Tower Repositories</name>
     <version>2.3</version>
     <bundle>net.cjlucas.alfred.tower</bundle>
-    <updated>1409848637</updated>
+    <updated>1411511595</updated>
     <file>tower-alfred-workflow.alfredworkflow</file>
     <author>cjlucas</author>
     <applications>Tower</applications>
