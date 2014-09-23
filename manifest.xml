@@ -154,7 +154,7 @@
     <name>Alfred URI Handler</name>
     <version>1.1</version>
     <bundle>com.customct.AlfredURIHandler</bundle>
-    <updated>1409989215</updated>
+    <updated>1411509196</updated>
     <file>alfredurihandler.alfredworkflow</file>
     <author>raguay</author>
     <applications>Alfred2</applications>
@@ -1249,7 +1249,7 @@
     <name>Folding Text Workflow</name>
     <version>1.8</version>
     <bundle>com.customct.FoldingTextWorkflow</bundle>
-    <updated>1409889076</updated>
+    <updated>1411509075</updated>
     <file>foldingtextworkflow.alfredworkflow</file>
     <author>raguay</author>
     <applications>FoldingText.app</applications>
@@ -1324,7 +1324,7 @@
     <name>gauth (Google Authenticator)</name>
     <version>1.6.0</version>
     <bundle>com.alfredapp.moul.gauth</bundle>
-    <updated>1395938575</updated>
+    <updated>1411509016</updated>
     <file>google_authenticator.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
@@ -2087,21 +2087,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1405504300</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2114,6 +2099,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1405504300</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -2689,7 +2689,7 @@
     <name>Pinboard</name>
     <version>0.3.5</version>
     <bundle>cc.hamid.gopinboard</bundle>
-    <updated>1407708852</updated>
+    <updated>1411509137</updated>
     <file>pinboardworkflow.alfredworkflow</file>
     <author>listboss</author>
     <applications></applications>
@@ -3724,7 +3724,7 @@
     <name>Spotify Mini Player</name>
     <version>4.48</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1411388178</updated>
+    <updated>1411509258</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
