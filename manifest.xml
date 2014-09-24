@@ -931,6 +931,21 @@
     <short>Create an iTunes playlist based on Last.fm's Similar Artist feature.</short>
   </workflow>
   <workflow>
+    <name>Django Secret Key Generator</name>
+    <version>1.0</version>
+    <bundle>net.tyndyll.django-secret-key</bundle>
+    <updated>1411578876</updated>
+    <file>generate_django_secret_key.alfredworkflow</file>
+    <author>tyndyll</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/django-secret-key-generator</url>
+    <tags>python ||| django</tags>
+    <webservices></webservices>
+    <short>Generates a new random string suitable for use as a SECRET_KEY in Django apps</short>
+  </workflow>
+  <workflow>
     <name>Do a Barrel Roll!</name>
     <version>1.0</version>
     <bundle>com.barrel.roll.shawn.patrick.rice</bundle>
