@@ -1366,6 +1366,21 @@
     <short>Returns temporary token for two-factor authentication mechanisms</short>
   </workflow>
   <workflow>
+    <name>Get biblia.com Verse of the Day</name>
+    <version>1.0</version>
+    <bundle>com.bgoetz.bilbiaverse</bundle>
+    <updated>1412543056</updated>
+    <file>get_biblia.com_verse_of_the_day.alfredworkflow</file>
+    <author>mrbobg</author>
+    <applications></applications>
+    <categories>Images</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/get-bibliacom-verse-day</url>
+    <tags>bible, biblia</tags>
+    <webservices>biblia.com</webservices>
+    <short>Get biblia.com Verse of the Day</short>
+  </workflow>
+  <workflow>
     <name>Git Repos</name>
     <version>1.4.1</version>
     <bundle>net.deanishe.alfred-git-repos</bundle>
