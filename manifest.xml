@@ -481,6 +481,21 @@
     <short>Uses Yosemite's Handoff feature to call the inputted phone number from your iPhone</short>
   </workflow>
   <workflow>
+    <name>Call or SMS contact</name>
+    <version>1.0</version>
+    <bundle>com.AmosManneschmidt.callorsmscontact</bundle>
+    <updated>1413880396</updated>
+    <file>call_or_sms_contact.alfredworkflow</file>
+    <author>amoose136</author>
+    <applications>Facetime ||| imessage</applications>
+    <categories>Audio ||| Networking ||| Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/call-or-sms-contact</url>
+    <tags>call ||| contacts ||| address book ||| search ||| sms ||| text ||| iphone ||| phone ||| tether ||| ios 8.1 ||| yosemite ||| imessage</tags>
+    <webservices></webservices>
+    <short>Searches through contacts and calls or texts them depending on input. </short>
+  </workflow>
+  <workflow>
     <name>CheckSpelling</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.checkspelling</bundle>
@@ -2222,21 +2237,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1405504300</updated>
@@ -2249,6 +2249,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
