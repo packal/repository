@@ -466,6 +466,21 @@
     <short>Toggles Caffeine to keep your computer awake.</short>
   </workflow>
   <workflow>
+    <name>Call from iPhone</name>
+    <version>1.0</version>
+    <bundle>com.semicolons.alfred.calliphone</bundle>
+    <updated>1413851390</updated>
+    <file>call_from_iphone.alfredworkflow</file>
+    <author>semicolons</author>
+    <applications>Facetime ||| iPhone</applications>
+    <categories>Other ||| Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/call-iphone</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Uses Yosemite's Handoff feature to call the inputted phone number from your iPhone</short>
+  </workflow>
+  <workflow>
     <name>CheckSpelling</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.checkspelling</bundle>
