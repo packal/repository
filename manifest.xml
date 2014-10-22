@@ -2326,6 +2326,21 @@
     <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
   </workflow>
   <workflow>
+    <name>Minecraft</name>
+    <version>1.0</version>
+    <bundle>de.oliverconzen.termicraft</bundle>
+    <updated>1413978199</updated>
+    <file>minecraft.alfredworkflow</file>
+    <author>miladiir</author>
+    <applications>Minecraft ||| Minecraft Launcher</applications>
+    <categories>Games</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/minecraft</url>
+    <tags>Minecraft ||| Java</tags>
+    <webservices></webservices>
+    <short>Launches the Minecraft Launcher with System Java instead of Apple Java 6</short>
+  </workflow>
+  <workflow>
     <name>Mjolnir Workflow</name>
     <version>1.4</version>
     <bundle>com.customct.Mjolnir</bundle>
