@@ -3331,6 +3331,21 @@
     <short>List and act on the contents of your ~/Downloads directory</short>
   </workflow>
   <workflow>
+    <name>Redis</name>
+    <version>1.0</version>
+    <bundle>manage.redis.server</bundle>
+    <updated>1414017317</updated>
+    <file>manage-redis-server.alfredworkflow</file>
+    <author>gabamnml</author>
+    <applications>Redis</applications>
+    <categories>Development ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/redis</url>
+    <tags>redis ||| key/value ||| manage ||| admin redis ||| admin</tags>
+    <webservices></webservices>
+    <short>Manage instance of Redis with Alfred 2</short>
+  </workflow>
+  <workflow>
     <name>RegEx Renamer</name>
     <version>2.0</version>
     <bundle>com.sztoltz.regexrenamer</bundle>
