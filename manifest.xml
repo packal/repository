@@ -184,12 +184,12 @@
     <name>alfred-pinboard</name>
     <version>2.26</version>
     <bundle>com.jmjeong.alfredv2.pinboard</bundle>
-    <updated>1405473912</updated>
+    <updated>1413943490</updated>
     <file>pinboard.alfredworkflow</file>
     <author>jmjeong</author>
     <applications></applications>
     <categories>Productivity ||| Search ||| System</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/alfred-pinboard</url>
     <tags>pinboard</tags>
     <webservices>https://pinboard.in</webservices>
@@ -2239,12 +2239,12 @@
     <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1405504300</updated>
+    <updated>1413943521</updated>
     <file>managealfredextension.alfredworkflow</file>
     <author>jmjeong</author>
     <applications></applications>
     <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
     <tags>alfred</tags>
     <webservices></webservices>
@@ -4439,6 +4439,21 @@
     <tags>tmux ||| screen ||| terminal ||| multiplexer</tags>
     <webservices></webservices>
     <short>Alfred workflow to manage tmux sessions, integrated with iTerm2. It can list current sessions, connect to them, kill them or create a new one. The connect or create action actually opens iTerm2 and connects to the session.</short>
+  </workflow>
+  <workflow>
+    <name>todo</name>
+    <version>1.0</version>
+    <bundle>florian.todo</bundle>
+    <updated>1413940865</updated>
+    <file>todo.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/todo</url>
+    <tags>todo ||| Lists ||| list ||| tasks</tags>
+    <webservices></webservices>
+    <short>Manage your todo items entirely in Alfred</short>
   </workflow>
   <workflow>
     <name>Todo Workflow</name>
