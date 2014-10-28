@@ -46,6 +46,21 @@
     <short>Perform a quick ABN lookup via ABR website.</short>
   </workflow>
   <workflow>
+    <name>Add Calendar Event</name>
+    <version>1.9</version>
+    <bundle>tox.new_event</bundle>
+    <updated>1414446618</updated>
+    <file>add_calendar_event_v.1.9.alfredworkflow</file>
+    <author>hamiseixas</author>
+    <applications>Calendar</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/add-calendar-event</url>
+    <tags>cal ||| calendar ||| event</tags>
+    <webservices></webservices>
+    <short>Just type: cal [event] at [time] [on [date]] in [location] @[calendar name] alarm [X min|hour|day|month|year] ...</short>
+  </workflow>
+  <workflow>
     <name>Add to Playlist</name>
     <version>2.0</version>
     <bundle>com.sztoltz.addtoplaylist</bundle>
@@ -2282,21 +2297,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -2309,6 +2309,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -3029,6 +3044,21 @@
     <tags>torrent ||| torrents ||| magnet ||| links ||| download ||| streaming</tags>
     <webservices>thepiratebay ||| piratebay</webservices>
     <short>Find torrents from thepiratebay.se</short>
+  </workflow>
+  <workflow>
+    <name>Play iTunes</name>
+    <version>1.1</version>
+    <bundle>tox.play_itunes</bundle>
+    <updated>1414446856</updated>
+    <file>play_itunes_v1.1.alfredworkflow</file>
+    <author>hamiseixas</author>
+    <applications>iTunes</applications>
+    <categories>Audio ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/play-itunes</url>
+    <tags>itunes ||| audio ||| som ||| música ||| music ||| song ||| album ||| artists ||| play ||| songs</tags>
+    <webservices></webservices>
+    <short>Just type: pl [song|artist|album…]</short>
   </workflow>
   <workflow>
     <name>Play Song</name>
