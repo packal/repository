@@ -601,6 +601,21 @@
     <short>Download &amp; Install the latest chromium build.</short>
   </workflow>
   <workflow>
+    <name>Cisco Call</name>
+    <version>0.1.0</version>
+    <bundle>mn.frd.ciscocall</bundle>
+    <updated>1414677315</updated>
+    <file>alfred-ciscocall.alfredworkflow</file>
+    <author>frdmn</author>
+    <applications>Cisco</applications>
+    <categories>Networking ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/cisco-call</url>
+    <tags>Cisco ||| phone ||| call ||| addressbook</tags>
+    <webservices></webservices>
+    <short>Workflow to call via your Cisco IP Phone</short>
+  </workflow>
+  <workflow>
     <name>Clean App</name>
     <version>1.0</version>
     <bundle>com.khayes.cleanapp</bundle>
@@ -2119,7 +2134,7 @@
     <name>LDAP contacts</name>
     <version>0.1.3</version>
     <bundle>mn.frd.ldap-contacts</bundle>
-    <updated>1414677015</updated>
+    <updated>1414685911</updated>
     <file>alfred-ldap.alfredworkflow</file>
     <author>frdmn</author>
     <applications>LDAP</applications>
