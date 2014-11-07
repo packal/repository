@@ -4174,7 +4174,7 @@
     <name>Spotify Mini Player</name>
     <version>5.1</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1415290395</updated>
+    <updated>1415343339</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
@@ -5354,6 +5354,21 @@
     <tags>iphone ||| bluetooth ||| tethering</tags>
     <webservices></webservices>
     <short>Toggle your Bluetooth PAN connection to your IPhone.</short>
+  </workflow>
+  <workflow>
+    <name>Yosemite Dark Mode Toggle</name>
+    <version>1.03</version>
+    <bundle>com.smpanaro.darkmode</bundle>
+    <updated>1415317708</updated>
+    <file>darkmode.alfredworkflow</file>
+    <author>steve</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/yosemite-dark-mode-toggle</url>
+    <tags>yosemite ||| dark mode ||| light mode ||| dark</tags>
+    <webservices></webservices>
+    <short>Quickly toggle between Yosemite's Dark and Light modes from Alfred.</short>
   </workflow>
   <workflow>
     <name>YOURLS</name>
