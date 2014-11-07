@@ -3736,6 +3736,21 @@
     <short>Quick and simple view of RSS feeds</short>
   </workflow>
   <workflow>
+    <name>Ru-En Translator</name>
+    <version>1.0</version>
+    <bundle>ru.asubbotin.ru-en-translator</bundle>
+    <updated>1415376313</updated>
+    <file>ru-en_translator.alfredworkflow</file>
+    <author>KELiON</author>
+    <applications></applications>
+    <categories>Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/ru-en-translator</url>
+    <tags>translate</tags>
+    <webservices>Google Translate</webservices>
+    <short>Simple workflow for quick translations en-ru and vise versa using google translate</short>
+  </workflow>
+  <workflow>
     <name>RunCommand</name>
     <version>1.2.1</version>
     <bundle>com.vitorgalvao.alfred.runcommand</bundle>
@@ -5029,12 +5044,12 @@
     <name>Uni Call</name>
     <version>5.31</version>
     <bundle>net.guiguan.Uni-Call</bundle>
-    <updated>1399295734</updated>
+    <updated>1415403609</updated>
     <file>uni-call.alfredworkflow</file>
     <author>guiguan</author>
-    <applications></applications>
+    <applications>Skype ||| Phone Amego ||| Telephone ||| PushDialer ||| GrowlVoice ||| Call Trunk AU/UK/US ||| Frizzix ||| Dialogue ||| Facetime</applications>
     <categories>Networking ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/uni-call</url>
     <tags>alfred workflow ||| Apple Contacts ||| bluetooth phone call ||| Call Trunk ||| FaceTime ||| Fritz!Box ||| Google Voice ||| GrowlVoice ||| phone amego ||| PushDialer ||| SIP ||| Skype ||| Telephone</tags>
     <webservices></webservices>
