@@ -1024,7 +1024,7 @@
     <name>Discogs Explorer</name>
     <version>1.02</version>
     <bundle>com.dotson.discogsexplorer</bundle>
-    <updated>1405186682</updated>
+    <updated>1415581299</updated>
     <file>discogs_explorer.alfredworkflow</file>
     <author>smirky</author>
     <applications></applications>
@@ -2429,6 +2429,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Convert Markdown to BBCode</short>
+  </workflow>
+  <workflow>
+    <name>Melon Music Search</name>
+    <version>1.0</version>
+    <bundle>so.muk.melon.search</bundle>
+    <updated>1415533627</updated>
+    <file>melon_music_search-1.0.alfredworkflow</file>
+    <author>allieus</author>
+    <applications></applications>
+    <categories>Audio ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/melon-music-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>melon music search (artists, albums, songs)</short>
   </workflow>
   <workflow>
     <name>Memeflow</name>
