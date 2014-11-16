@@ -3257,18 +3257,18 @@
   </workflow>
   <workflow>
     <name>Play Song</name>
-    <version>1.1</version>
+    <version>2.0</version>
     <bundle>com.calebevans.playsong</bundle>
-    <updated>1414081335</updated>
+    <updated>1416099373</updated>
     <file>play_song.alfredworkflow</file>
     <author>caleb531</author>
     <applications>iTunes</applications>
-    <categories>Audio</categories>
+    <categories>Audio ||| Search</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/play-song</url>
-    <tags>itunes ||| music</tags>
+    <tags>itunes ||| music ||| song ||| artist ||| album ||| genre</tags>
     <webservices></webservices>
-    <short>Plays a song in iTunes based on the given query</short>
+    <short>Play a song, album, artist or genre in iTunes</short>
   </workflow>
   <workflow>
     <name>Play/pause focus@will in Google Chrome</name>
