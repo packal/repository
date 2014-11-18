@@ -859,12 +859,12 @@
     <name>Copy/Move To</name>
     <version>1.1</version>
     <bundle>com.customct.CopyMoveWorkflow</bundle>
-    <updated>1415977334</updated>
+    <updated>1416231343</updated>
     <file>copy-moveto.alfredworkflow</file>
     <author>raguay</author>
     <applications></applications>
     <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x)</osx>
     <url>http://www.packal.org/workflow/copymove</url>
     <tags>copy to ||| move to</tags>
     <webservices></webservices>
@@ -2399,6 +2399,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Lock your keyboard and trackpad temporarily, so you can clean them</short>
+  </workflow>
+  <workflow>
+    <name>MacVim Toolkit</name>
+    <version>1.0</version>
+    <bundle>com.customct.MacVimToolbox</bundle>
+    <updated>1416222974</updated>
+    <file>macvimtoolbox.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>Vim ||| Macvim</applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/macvim-toolkit</url>
+    <tags>Vim ||| MacVim</tags>
+    <webservices></webservices>
+    <short>Allow editing files in MacVim gui or terminal mode. Works with either Finder or PathFinder</short>
   </workflow>
   <workflow>
     <name>Mail Interface Management</name>
@@ -4414,12 +4429,12 @@
     <name>SSH Rocket</name>
     <version>1.0</version>
     <bundle>com.evgeny.golubev.alfred.sshlauncher</bundle>
-    <updated>1398436511</updated>
+    <updated>1416248242</updated>
     <file>ssh_rocket.alfredworkflow</file>
     <author>m0nah</author>
     <applications>iTerm2 ||| Terminal</applications>
     <categories>Networking ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/ssh-rocket</url>
     <tags>ssh ||| terminal ||| networking</tags>
     <webservices></webservices>
