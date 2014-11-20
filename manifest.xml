@@ -3811,6 +3811,21 @@
     <short>Type 'rs' and then press enter to close and restart your frontmost application.</short>
   </workflow>
   <workflow>
+    <name>Restore Moom snapshot</name>
+    <version>1.0</version>
+    <bundle>hu.fns.restore_moom_snapshot</bundle>
+    <updated>1416496754</updated>
+    <file>restore_moom_snapshot.alfredworkflow</file>
+    <author>fns720</author>
+    <applications>Moom</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restore-moom-snapshot</url>
+    <tags>Moom, layout, snapshot ||| Window Layout ||| Window Manager</tags>
+    <webservices></webservices>
+    <short>This workflow let you to restore a previously saved Moom snapshot.</short>
+  </workflow>
+  <workflow>
     <name>RightClick</name>
     <version>1.1</version>
     <bundle>com.vitorgalvao.alfred.rightclick</bundle>
