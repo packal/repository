@@ -1831,19 +1831,19 @@
     <short>Run Homebrew Commands from Alfred</short>
   </workflow>
   <workflow>
-    <name>Homebrew for Alfred</name>
-    <version>1.1</version>
+    <name>Homebrew and Cask for Alfred</name>
+    <version>2.1</version>
     <bundle>com.fniephaus.homebrew</bundle>
-    <updated>1411511535</updated>
+    <updated>1416746211</updated>
     <file>homebrew-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
-    <applications>brew</applications>
+    <applications>brew ||| cask</applications>
     <categories>Development ||| Productivity ||| Search ||| System ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/homebrew-alfred</url>
-    <tags>homebrew ||| brew</tags>
+    <url>http://www.packal.org/workflow/homebrew-and-cask-alfred</url>
+    <tags>homebrew ||| brew ||| cask</tags>
     <webservices></webservices>
-    <short>Easily control Homebrew with Alfred</short>
+    <short>Easily control Homebrew and Cask with Alfred</short>
   </workflow>
   <workflow>
     <name>HTML Special Characters</name>
