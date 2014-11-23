@@ -3661,6 +3661,21 @@
     <short>Manage instance of Redis with Alfred 2</short>
   </workflow>
   <workflow>
+    <name>Redmine</name>
+    <version>1.0.0</version>
+    <bundle>com.jason0x43.alfred-redmine</bundle>
+    <updated>1416712755</updated>
+    <file>alfred-redmine.alfredworkflow</file>
+    <author>jason0x43</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/redmine</url>
+    <tags>redmine</tags>
+    <webservices></webservices>
+    <short>Provides read-only access to a Redmine server</short>
+  </workflow>
+  <workflow>
     <name>Regex</name>
     <version>1.7.0</version>
     <bundle>com.verykiwi.regex</bundle>
