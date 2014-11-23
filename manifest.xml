@@ -2266,6 +2266,21 @@
     <short>Choose SSH connection from filterable list</short>
   </workflow>
   <workflow>
+    <name>Last.fm Look-Up</name>
+    <version>1.0</version>
+    <bundle>com.dotson.lastsim</bundle>
+    <updated>1416764174</updated>
+    <file>last.fm_look-up.alfredworkflow</file>
+    <author>smirky</author>
+    <applications>iTunes</applications>
+    <categories>Audio ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lastfm-look</url>
+    <tags></tags>
+    <webservices>last.fm</webservices>
+    <short>Search Last.fm for similar artist info.</short>
+  </workflow>
+  <workflow>
     <name>LDAP contacts</name>
     <version>0.1.3</version>
     <bundle>mn.frd.ldap-contacts</bundle>
