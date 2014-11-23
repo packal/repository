@@ -1864,7 +1864,7 @@
     <name>Hue</name>
     <version>1.0.0</version>
     <bundle>com.jason0x43.alfred-hue</bundle>
-    <updated>1416710425</updated>
+    <updated>1416713384</updated>
     <file>alfred-hue.alfredworkflow</file>
     <author>jason0x43</author>
     <applications></applications>
@@ -5009,6 +5009,21 @@
     <tags>todo ||| TaskPaper</tags>
     <webservices></webservices>
     <short>Workflow for using TaskPaper with scheduled todos and journaling.</short>
+  </workflow>
+  <workflow>
+    <name>Toggl</name>
+    <version>1.0.0</version>
+    <bundle>com.jason0x43.alfred-toggl</bundle>
+    <updated>1416713426</updated>
+    <file>alfred-toggl.alfredworkflow</file>
+    <author>jason0x43</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggl</url>
+    <tags>toggl</tags>
+    <webservices></webservices>
+    <short>Interact with your Toggl.com account</short>
   </workflow>
   <workflow>
     <name>Toggle Bluetooth</name>
