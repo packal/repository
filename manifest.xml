@@ -1189,7 +1189,7 @@
     <name>Dongers</name>
     <version>0.1.ß</version>
     <bundle>mn.frd.alfred-dongers</bundle>
-    <updated>1417001595</updated>
+    <updated>1417025660</updated>
     <file>dongers.alfredworkflow</file>
     <author>frdmn</author>
     <applications></applications>
@@ -3524,6 +3524,21 @@
     <tags>premiumize ||| och ||| download ||| generate ||| links ||| premiumize.me ||| multihoster</tags>
     <webservices>premiumize.me</webservices>
     <short>Create premium downloadlinks from support OCH via premiumize.me</short>
+  </workflow>
+  <workflow>
+    <name>Private Browsing</name>
+    <version>1.0</version>
+    <bundle>com.limamedeiros.alfred.private</bundle>
+    <updated>1417025769</updated>
+    <file>private_browsing.alfredworkflow</file>
+    <author>limamedeiros</author>
+    <applications>Safari</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/private-browsing</url>
+    <tags>Safari ||| Private Mode</tags>
+    <webservices></webservices>
+    <short>Opens Safari's current tab in Private Browsing</short>
   </workflow>
   <workflow>
     <name>PWS History</name>
