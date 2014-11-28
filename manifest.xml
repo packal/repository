@@ -484,12 +484,12 @@
     <name>Boot2Docker</name>
     <version>1.2.0</version>
     <bundle>com.alfredapp.moul.boot2docker</bundle>
-    <updated>1395938652</updated>
+    <updated>1417099678</updated>
     <file>boot2docker.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
     <categories>Development ||| Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/boot2docker</url>
     <tags>docker ||| boot2docker ||| virtualbox ||| brew</tags>
     <webservices></webservices>
@@ -649,12 +649,12 @@
     <name>Chromecast</name>
     <version>1.2.0</version>
     <bundle>com.alfredapp.moul.chromecast</bundle>
-    <updated>1395876660</updated>
+    <updated>1417099682</updated>
     <file>chromecast.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
     <categories>Audio ||| Networking ||| System ||| Utilities ||| Video</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/chromecast</url>
     <tags>chromecast ||| chrome ||| remote ||| cast ||| youtube ||| google ||| python</tags>
     <webservices>Chromecast</webservices>
@@ -1639,12 +1639,12 @@
     <name>gauth (Google Authenticator)</name>
     <version>1.6.0</version>
     <bundle>com.alfredapp.moul.gauth</bundle>
-    <updated>1411509016</updated>
+    <updated>1417099730</updated>
     <file>google_authenticator.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
     <categories>Development ||| Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/gauth-google-authenticator</url>
     <tags>google ||| authenticator ||| auth ||| two-auth ||| crypto ||| cryptographic ||| python</tags>
     <webservices></webservices>
@@ -3319,12 +3319,12 @@
     <name>Ping TCP Port</name>
     <version>1.1.0</version>
     <bundle>com.alfredapp.moul.pingport</bundle>
-    <updated>1396283155</updated>
+    <updated>1417099675</updated>
     <file>pingport.alfredworkflow</file>
     <author>manfredtouron</author>
     <applications></applications>
     <categories>Development ||| Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/ping-tcp-port</url>
     <tags>port ||| tcp ||| networking ||| ping</tags>
     <webservices></webservices>
@@ -5746,21 +5746,6 @@
     <short>Your little Evernote Wiki-Helper</short>
   </workflow>
   <workflow>
-    <name>wishket project search</name>
-    <version>1.0</version>
-    <bundle>so.muk.wishket</bundle>
-    <updated>1417006215</updated>
-    <file>wishket_search-1.0.alfredworkflow</file>
-    <author>allieus</author>
-    <applications></applications>
-    <categories>Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/wishket-project-search</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>wishket project search</short>
-  </workflow>
-  <workflow>
     <name>Wolfram|Alpha</name>
     <version>1.0</version>
     <bundle>tylereich.wolframalpha</bundle>
@@ -5909,5 +5894,20 @@
     <tags>zotero ||| citations ||| python</tags>
     <webservices>Zotero API</webservices>
     <short>Search Zotero. From the Comfort of Your Keyboard.</short>
+  </workflow>
+  <workflow>
+    <name>위시켓 최근 프로젝트 검색</name>
+    <version>1.1</version>
+    <bundle>so.muk.wishket</bundle>
+    <updated>1417084094</updated>
+    <file>wishket_search-1.1.alfredworkflow</file>
+    <author>allieus</author>
+    <applications></applications>
+    <categories>Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/wisikes-coegeun-peurojegteu-geomsaeg</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>위시켓, 최근 프로젝트 검색</short>
   </workflow>
 </manifest>
