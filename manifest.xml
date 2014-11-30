@@ -229,7 +229,7 @@
     <name>alfred-ime</name>
     <version>1.0</version>
     <bundle>zmin.ime</bundle>
-    <updated>1417211232</updated>
+    <updated>1417217319</updated>
     <file>ime.alfredworkflow</file>
     <author>owenwater</author>
     <applications></applications>
@@ -1037,18 +1037,18 @@
   </workflow>
   <workflow>
     <name>Day of year</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.poer.jd</bundle>
-    <updated>1417215888</updated>
+    <updated>1417269761</updated>
     <file>day_of_year.alfredworkflow</file>
     <author>Purwedi Kurniawan</author>
     <applications></applications>
     <categories>Reference</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/day-year</url>
+    <url>http://www.packal.org/workflow/day-year-julian-day</url>
     <tags>day of year ||| julian date</tags>
     <webservices></webservices>
-    <short>Get today day of year (julian date) number</short>
+    <short>Get today day of year (julian day) number</short>
   </workflow>
   <workflow>
     <name>DeskDrawer</name>
@@ -2612,21 +2612,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2639,6 +2624,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
