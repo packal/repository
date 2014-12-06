@@ -2612,21 +2612,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2639,6 +2624,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -3164,6 +3164,21 @@
     <tags>open with</tags>
     <webservices></webservices>
     <short>This basically is a shortcut to Alfred's "Open with..." command using a hotkey instead of navigating through Alfred's menu.</short>
+  </workflow>
+  <workflow>
+    <name>Open YMLP in Chrome</name>
+    <version>1.0</version>
+    <bundle>ma7.me.YMLP</bundle>
+    <updated>1417703387</updated>
+    <file>open_ymlp_in_chrome.alfredworkflow</file>
+    <author>MattKneale</author>
+    <applications>Google Chrome</applications>
+    <categories>Networking ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-ymlp-chrome</url>
+    <tags>url ||| open with ||| web ||| launching</tags>
+    <webservices>YMLP</webservices>
+    <short>A workflow to open the mail list site 'YMLP' in Google Chrome</short>
   </workflow>
   <workflow>
     <name>Package Managers</name>
@@ -5449,7 +5464,7 @@
     <name>TV Shows Manager</name>
     <version>1.5</version>
     <bundle>florian.shows</bundle>
-    <updated>1414776684</updated>
+    <updated>1417901613</updated>
     <file>tv_show_manager.alfredworkflow</file>
     <author>Florian</author>
     <applications>nodejs ||| peerflix ||| VLC</applications>
