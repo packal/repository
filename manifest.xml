@@ -3301,6 +3301,21 @@
     <short>Pause Backblaze for two hours at a time.</short>
   </workflow>
   <workflow>
+    <name>Peppermint Toolbox</name>
+    <version>1.0</version>
+    <bundle>com.customct.PeppermintToolbox</bundle>
+    <updated>1418047273</updated>
+    <file>pepperminttoolbox.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>Peppermint</applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/peppermint-toolbox</url>
+    <tags>Peppermint ||| Code Editor</tags>
+    <webservices></webservices>
+    <short>Collection of tools for working with the Peppermint Code Editor.</short>
+  </workflow>
+  <workflow>
     <name>Percent Change</name>
     <version>1.4.0</version>
     <bundle>net.bradmontgomery.percent_change</bundle>
@@ -5464,7 +5479,7 @@
     <name>TV Shows Manager</name>
     <version>2.0.1</version>
     <bundle>florian.shows</bundle>
-    <updated>1418046565</updated>
+    <updated>1418141498</updated>
     <file>tv_show_manager.alfredworkflow</file>
     <author>Florian</author>
     <applications>nodejs ||| peerflix ||| VLC</applications>
