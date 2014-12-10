@@ -901,6 +901,21 @@
     <short>Alfred workflow to convert Word document to PDF</short>
   </workflow>
   <workflow>
+    <name>Copy Mail Message URL</name>
+    <version>1.0</version>
+    <bundle>com.webkenny.copymessageurl</bundle>
+    <updated>1418168595</updated>
+    <file>copy_mail_message_url.alfredworkflow</file>
+    <author>webkenny</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/copy-mail-message-url</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Copies the selected message's URL to your clipboard from Mail.app</short>
+  </workflow>
+  <workflow>
     <name>Copy/Move To</name>
     <version>1.1</version>
     <bundle>com.customct.CopyMoveWorkflow</bundle>
@@ -1937,9 +1952,9 @@
   </workflow>
   <workflow>
     <name>Hue</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <bundle>com.jason0x43.alfred-hue</bundle>
-    <updated>1416713384</updated>
+    <updated>1418181785</updated>
     <file>alfred-hue.alfredworkflow</file>
     <author>jason0x43</author>
     <applications></applications>
