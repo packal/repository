@@ -841,6 +841,21 @@
     <short>Allows for converting and compressing images using ImageMagick</short>
   </workflow>
   <workflow>
+    <name>Continuity Support</name>
+    <version>1.0</version>
+    <bundle>com.danielmarshallblog.continuity</bundle>
+    <updated>1418542781</updated>
+    <file>continuity_support.alfredworkflow</file>
+    <author>dmarshall</author>
+    <applications>Contacts ||| Messages ||| Facetime</applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/continuity-support</url>
+    <tags>Continuity ||| Handoff ||| phone ||| sms ||| Message</tags>
+    <webservices></webservices>
+    <short>Enables calling and messaging via contacts or number input</short>
+  </workflow>
+  <workflow>
     <name>Control focus@will within Apple Safari</name>
     <version>1.0</version>
     <bundle>com.tangledhelix.focusatwill.safari</bundle>
@@ -1094,21 +1109,6 @@
     <tags>desktop ||| clutter</tags>
     <webservices></webservices>
     <short>Creates a special "Drawer" folder with Alfred for stashing your Desktop clutter.</short>
-  </workflow>
-  <workflow>
-    <name>Desktop Highlighter</name>
-    <version>1.0</version>
-    <bundle>com.bitbazar.desktophighlighter</bundle>
-    <updated>1417003160</updated>
-    <file>desktop_highlighter.alfredworkflow</file>
-    <author>juliosecco</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/desktop-highlighter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Highlights files/folders on your desktop matching search string</short>
   </workflow>
   <workflow>
     <name>DHCP Toggle</name>
