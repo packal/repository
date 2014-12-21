@@ -1636,6 +1636,21 @@
     <short>A workflow for working with the FoldingText.app</short>
   </workflow>
   <workflow>
+    <name>Forecast</name>
+    <version>0.0.6</version>
+    <bundle>com.kejadlen.forecast</bundle>
+    <updated>1419033013</updated>
+    <file>forecast.alfredworkflow</file>
+    <author>kejadlen</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/forecast</url>
+    <tags></tags>
+    <webservices>forecast.io ||| google geocoding api</webservices>
+    <short>Checks the weather using Forecast.io</short>
+  </workflow>
+  <workflow>
     <name>FormatSize</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.formatsize</bundle>
@@ -2672,21 +2687,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2699,6 +2699,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
@@ -4684,7 +4699,7 @@
     <name>Spotifious</name>
     <version>0.11.1</version>
     <bundle>com.citelao.spotifious</bundle>
-    <updated>1418671635</updated>
+    <updated>1419141996</updated>
     <file>spotifious.alfredworkflow</file>
     <author>citelao</author>
     <applications>Spotify</applications>
