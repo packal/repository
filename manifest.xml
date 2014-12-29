@@ -4831,6 +4831,21 @@
     <short>Launch SSH connection from bookmarks</short>
   </workflow>
   <workflow>
+    <name>StackOverflow Search</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-stackoverflow</bundle>
+    <updated>1419851132</updated>
+    <file>stackoverflow-1.0.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Development ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/stackoverflow-search</url>
+    <tags>stackoverflow ||| python ||| php ||| c++ ||| c ||| objective-c ||| swift ||| css ||| html ||| javascript</tags>
+    <webservices>StackOverflow.com</webservices>
+    <short>Search StackOverflow.com from Alfred</short>
+  </workflow>
+  <workflow>
     <name>Strip clipboard text formatting</name>
     <version>1.0</version>
     <bundle>nl.staron.david.clipboardstripformatting</bundle>
