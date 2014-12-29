@@ -3916,6 +3916,21 @@
     <short>List and act on the contents of your ~/Downloads directory</short>
   </workflow>
   <workflow>
+    <name>Reddit</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-reddit</bundle>
+    <updated>1419830835</updated>
+    <file>reddit.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Other</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/reddit</url>
+    <tags>reddit</tags>
+    <webservices>Reddit.com</webservices>
+    <short>Browse Reddit from Alfred</short>
+  </workflow>
+  <workflow>
     <name>Redis</name>
     <version>1.0</version>
     <bundle>manage.redis.server</bundle>
