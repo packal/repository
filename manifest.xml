@@ -2476,6 +2476,21 @@
     <short>Search Last.fm for similar artist info.</short>
   </workflow>
   <workflow>
+    <name>LastPass Vault Manager</name>
+    <version>3.0</version>
+    <bundle>com.bachya.lpvm</bundle>
+    <updated>1419881596</updated>
+    <file>lastpass_vault_manager.alfredworkflow</file>
+    <author>bachya</author>
+    <applications>LastPass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lastpass-vault-manager</url>
+    <tags>password ||| password generator</tags>
+    <webservices>LastPass</webservices>
+    <short>A workflow to interact with a LastPass vault.</short>
+  </workflow>
+  <workflow>
     <name>LDAP contacts</name>
     <version>0.1.3</version>
     <bundle>mn.frd.ldap-contacts</bundle>
@@ -2717,21 +2732,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2744,6 +2744,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
