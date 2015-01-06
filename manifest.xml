@@ -1697,16 +1697,16 @@
   </workflow>
   <workflow>
     <name>Forecast</name>
-    <version>0.0.6</version>
+    <version>0.0.7</version>
     <bundle>com.kejadlen.forecast</bundle>
-    <updated>1419033013</updated>
+    <updated>1420503014</updated>
     <file>forecast.alfredworkflow</file>
     <author>kejadlen</author>
     <applications></applications>
     <categories>Utilities</categories>
     <osx>Yosemite (10.10.x)</osx>
     <url>http://www.packal.org/workflow/forecast</url>
-    <tags></tags>
+    <tags>weather ||| forecast</tags>
     <webservices>forecast.io ||| google geocoding api</webservices>
     <short>Checks the weather using Forecast.io</short>
   </workflow>
@@ -1984,7 +1984,7 @@
     <name>Hammerspoon Workflow</name>
     <version>1.1</version>
     <bundle>com.customct.hammerspoon</bundle>
-    <updated>1420470194</updated>
+    <updated>1420543511</updated>
     <file>hammerspoonworkflow.alfredworkflow</file>
     <author>raguay</author>
     <applications>Hammerspoon</applications>
@@ -2807,21 +2807,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -2834,6 +2819,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>Markdown to BBCode</name>
