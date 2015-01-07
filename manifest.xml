@@ -4546,6 +4546,21 @@
     <short>Search the RubyGems API from within Alfred! Use the gem command within Alfred to find gems easily.</short>
   </workflow>
   <workflow>
+    <name>Search hostelworld.com</name>
+    <version>0.1</version>
+    <bundle>cat.claudi.alfredworkflow.hostelworld.search</bundle>
+    <updated>1420640556</updated>
+    <file>hostelworld-search.alfredworkflow</file>
+    <author>claui</author>
+    <applications></applications>
+    <categories>Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/search-hostelworldcom</url>
+    <tags>search ||| hostels</tags>
+    <webservices>hostelworld.com</webservices>
+    <short>Provides a `hostel` keyword to search the hostelworld.com database.</short>
+  </workflow>
+  <workflow>
     <name>Search Maven Repository</name>
     <version>1.0</version>
     <bundle>com.tedwise.mavenrepository</bundle>
@@ -5719,7 +5734,7 @@
     <name>Trello for Alfred</name>
     <version>0.8</version>
     <bundle>com.davidberube.trello-alfred</bundle>
-    <updated>1420569375</updated>
+    <updated>1420656946</updated>
     <file>trello.alfredworkflow</file>
     <author>dberube</author>
     <applications>Trello</applications>
