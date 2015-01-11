@@ -2449,7 +2449,7 @@
     <name>Jenkins</name>
     <version>1.0</version>
     <bundle>me.amwam.jenkins</bundle>
-    <updated>1409761843</updated>
+    <updated>1420926545</updated>
     <file>jenkins.alfredworkflow</file>
     <author>Amwam</author>
     <applications>Jenkins</applications>
@@ -2984,6 +2984,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Move selected finder item to a folder chosen in Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Movies</name>
+    <version>1.0</version>
+    <bundle>com.mcknight.movies</bundle>
+    <updated>1420921542</updated>
+    <file>movies.alfredworkflow</file>
+    <author>tone</author>
+    <applications></applications>
+    <categories>Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/movies</url>
+    <tags>movies ||| movie</tags>
+    <webservices>IMDb ||| TMDb ||| OMDb ||| YouTube ||| Metacritic</webservices>
+    <short>Search for movies to find ratings from a few sites.</short>
   </workflow>
   <workflow>
     <name>Mr Poole</name>
