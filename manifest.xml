@@ -2822,21 +2822,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -2851,10 +2836,25 @@
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
     <name>markdown note of Github Repo</name>
     <version>1.0</version>
     <bundle>com.lastobelus.alfred.markdown-note-of-github-repo</bundle>
-    <updated>1421104274</updated>
+    <updated>1421120795</updated>
     <file>markdown_note_of_github_repo.alfredworkflow</file>
     <author>lastobelus</author>
     <applications>Safari ||| Google Chrome</applications>
@@ -5852,9 +5852,9 @@
   </workflow>
   <workflow>
     <name>Uni Call</name>
-    <version>6.0</version>
+    <version>6.01</version>
     <bundle>net.guiguan.Uni-Call</bundle>
-    <updated>1421116344</updated>
+    <updated>1421148012</updated>
     <file>uni_call.alfredworkflow</file>
     <author>guiguan</author>
     <applications>Skype ||| Phone Amego ||| Telephone ||| PushDialer ||| GrowlVoice ||| Call Trunk AU/UK/US ||| Frizzix ||| Dialogue ||| Messages ||| WeChat ||| Facetime</applications>
