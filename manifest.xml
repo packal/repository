@@ -3004,12 +3004,12 @@
     <name>Movies</name>
     <version>1.2</version>
     <bundle>com.mcknight.movies</bundle>
-    <updated>1421008454</updated>
+    <updated>1421249173</updated>
     <file>movies.alfredworkflow</file>
     <author>tone</author>
     <applications></applications>
     <categories>Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/movies</url>
     <tags>movies ||| movie</tags>
     <webservices>IMDb ||| TMDb ||| OMDb ||| YouTube ||| Metacritic</webservices>
@@ -5354,6 +5354,21 @@
     <tags>TextSoap</tags>
     <webservices></webservices>
     <short>Evoke TextSoap on clipboard or current selection.</short>
+  </workflow>
+  <workflow>
+    <name>Textwell Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.TextWell</bundle>
+    <updated>1421232314</updated>
+    <file>textwellworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>Textwell</applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/textwell-workflow</url>
+    <tags>Textwell ||| QuickCursor</tags>
+    <webservices></webservices>
+    <short>Handy function for use with the Textwell program</short>
   </workflow>
   <workflow>
     <name>The Hit List</name>
