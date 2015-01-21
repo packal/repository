@@ -406,6 +406,21 @@
     <short>Switch between your input sources and output devices.</short>
   </workflow>
   <workflow>
+    <name>Autojump</name>
+    <version>1.0</version>
+    <bundle>com.lepht.alfred.autojump</bundle>
+    <updated>1421799433</updated>
+    <file>autojump.alfredworkflow</file>
+    <author>lepht</author>
+    <applications>Finder</applications>
+    <categories>Development ||| Files and Folders ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/autojump</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>This is an Alfred 2 workflow to provide you a faster way to navigate your filesystem via autojump</short>
+  </workflow>
+  <workflow>
     <name>Base CRM</name>
     <version>1.0.0</version>
     <bundle>me.johnpinkerton.alfred2-basecrm</bundle>
