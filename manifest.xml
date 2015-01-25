@@ -2701,6 +2701,21 @@
     <short>Removes extraneous information from URLs</short>
   </workflow>
   <workflow>
+    <name>List Processing Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.ListProcessingWorkflow</bundle>
+    <updated>1422091574</updated>
+    <file>listprocessingworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/list-processing-workflow</url>
+    <tags>Lists</tags>
+    <webservices></webservices>
+    <short>Sequence through a list using a specified separator.</short>
+  </workflow>
+  <workflow>
     <name>Lock screen with Knock</name>
     <version>1.0</version>
     <bundle>net.lemonlee.knockscreenlocker</bundle>
@@ -5434,7 +5449,7 @@
     <name>Things</name>
     <version>1.1.2</version>
     <bundle>hu.fns.things</bundle>
-    <updated>1422078613</updated>
+    <updated>1422165890</updated>
     <file>things.alfredworkflow</file>
     <author>fns720</author>
     <applications>Things</applications>
