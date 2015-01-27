@@ -1216,6 +1216,21 @@
     <short>Control your Digital Ocean droplets</short>
   </workflow>
   <workflow>
+    <name>Directory Processing Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.DirectoryProcessingWF</bundle>
+    <updated>1422341654</updated>
+    <file>directoryprocessingworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/directory-processing-workflow</url>
+    <tags>Tools ||| directory ||| sequencing</tags>
+    <webservices></webservices>
+    <short>Sequentially running through the directories or files in a given directory.</short>
+  </workflow>
+  <workflow>
     <name>Discogs Explorer</name>
     <version>1.11</version>
     <bundle>com.dotson.discogsexplorer</bundle>
@@ -3871,6 +3886,21 @@
     <short>A workflow to edit Powerline config files and more.</short>
   </workflow>
   <workflow>
+    <name>PowerPoint Remote</name>
+    <version>1.0</version>
+    <bundle>com.spr.powerpoint.remote</bundle>
+    <updated>1422367483</updated>
+    <file>powerpoint_remote.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications>PowerPoint ||| Microsoft PowerPoint</applications>
+    <categories>Alfred Remote ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/powerpoint-remote</url>
+    <tags>Presentation ||| PowerPoint ||| Alfred Remote</tags>
+    <webservices></webservices>
+    <short>Control PowerPoint with Alfred Remote</short>
+  </workflow>
+  <workflow>
     <name>Precise Age Calculator</name>
     <version>1.0b</version>
     <bundle>com.chintanbuch.alfred.agecalculator</bundle>
@@ -4997,9 +5027,9 @@
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
-    <version>5.2</version>
+    <version>6.0</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1416758356</updated>
+    <updated>1422368547</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
