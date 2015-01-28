@@ -4351,6 +4351,21 @@
     <short>Connects to computer via Apple Remote Desktop</short>
   </workflow>
   <workflow>
+    <name>Remote volume control</name>
+    <version>1.0</version>
+    <bundle>com.alexw.me.volume</bundle>
+    <updated>1422428774</updated>
+    <file>remote_volume_control.alfredworkflow</file>
+    <author>altryne</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Audio ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/remote-volume-control</url>
+    <tags>Volume ||| mute ||| unmute ||| volume up ||| remote</tags>
+    <webservices></webservices>
+    <short>Control volume on your mac from alfred remote</short>
+  </workflow>
+  <workflow>
     <name>Remove Download Warning</name>
     <version>1.0</version>
     <bundle>com.bclev.removedownloadwarning</bundle>
@@ -5059,14 +5074,14 @@
     <name>Spotify Mini Player</name>
     <version>6.0</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1422369735</updated>
+    <updated>1422442785</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify</applications>
     <categories>Audio</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/spotify-mini-player</url>
-    <tags>spotify</tags>
+    <tags>spotify ||| Alfred Remote</tags>
     <webservices></webservices>
     <short>iTunes Mini Player for Spotify</short>
   </workflow>
