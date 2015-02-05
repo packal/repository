@@ -1756,6 +1756,21 @@
     <short>A list of functions for working with the Fish shell.</short>
   </workflow>
   <workflow>
+    <name>Flickr Theatre - Remote Control</name>
+    <version>1.0</version>
+    <bundle>com.clickysteve.flickrremote</bundle>
+    <updated>1423135327</updated>
+    <file>flickr_theatre_-_remote_control.alfredworkflow</file>
+    <author>clickysteve</author>
+    <applications>Flickr</applications>
+    <categories>Alfred Remote ||| Images</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/flickr-theatre-remote-control</url>
+    <tags>flickr ||| pictures ||| photos ||| browse ||| theatre</tags>
+    <webservices></webservices>
+    <short>Control Flickr using Alfred Remote</short>
+  </workflow>
+  <workflow>
     <name>Flush DNS</name>
     <version>1.1.3</version>
     <bundle>de.draegerit.alfred.flushdns</bundle>
@@ -5897,21 +5912,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -5924,6 +5924,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
@@ -6409,7 +6424,7 @@
     <name>VLC Remote Control</name>
     <version>1.0</version>
     <bundle>com.clickysteve.vlcremote</bundle>
-    <updated>1423088052</updated>
+    <updated>1423135027</updated>
     <file>vlc_remote_control.alfredworkflow</file>
     <author>clickysteve</author>
     <applications>VLC</applications>
