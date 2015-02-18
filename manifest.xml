@@ -5626,6 +5626,21 @@
     <short>Get a temporary email inbox</short>
   </workflow>
   <workflow>
+    <name>Terminal Commands</name>
+    <version>1.0</version>
+    <bundle>com.gnestor.alfred-terminal-commands</bundle>
+    <updated>1424220615</updated>
+    <file>alfred-terminal-commands.alfredworkflow</file>
+    <author>senornestor</author>
+    <applications>Terminal</applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/terminal-commands</url>
+    <tags>terminal ||| command</tags>
+    <webservices></webservices>
+    <short>Search OS X Terminal commands by keyword</short>
+  </workflow>
+  <workflow>
     <name>Terminal Control</name>
     <version>2.1</version>
     <bundle>org.koffel.alfred.terminal-control</bundle>
