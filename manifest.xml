@@ -3691,6 +3691,21 @@
     <short>Quickly open projects using Alfred</short>
   </workflow>
   <workflow>
+    <name>Open Trello Tab in Safari (without Duplicates)</name>
+    <version>1</version>
+    <bundle>com.patgilmour.alfred.trello.script</bundle>
+    <updated>1424399829</updated>
+    <file>trello.alfredworkflow</file>
+    <author>patgilmour</author>
+    <applications>Safari ||| Trello</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/open-trello-tab-safari-without-duplicates</url>
+    <tags>trello</tags>
+    <webservices>Trello</webservices>
+    <short>Open or activate a Trello tab in Safari without duplicates</short>
+  </workflow>
+  <workflow>
     <name>Open URL in &quot;ish.&quot;</name>
     <version>1.0</version>
     <bundle>com.willbraden.ish.</bundle>
