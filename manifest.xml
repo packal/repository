@@ -2431,6 +2431,21 @@
     <short>An Alfred 2 workflow for syncing your iDevices.</short>
   </workflow>
   <workflow>
+    <name>Ignore File</name>
+    <version>1.0</version>
+    <bundle>net.alfred-ignore.v1</bundle>
+    <updated>1424482093</updated>
+    <file>ignore_file.alfredworkflow</file>
+    <author>gnostic</author>
+    <applications></applications>
+    <categories>Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ignore-file</url>
+    <tags>Hidden Files ||| files ||| Alfred Browser</tags>
+    <webservices></webservices>
+    <short>File will no longer be returned in alfred results</short>
+  </workflow>
+  <workflow>
     <name>ImageOptim</name>
     <version>1.1</version>
     <bundle>com.tumblr.ramiroaraujo.alfred-image-optim-workflow</bundle>
@@ -3092,21 +3107,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -3119,6 +3119,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6004,7 +6019,7 @@
     <name>Toggl</name>
     <version>1.1.0</version>
     <bundle>com.jason0x43.alfred-toggl</bundle>
-    <updated>1424153900</updated>
+    <updated>1424540315</updated>
     <file>alfred-toggl.alfredworkflow</file>
     <author>jason0x43</author>
     <applications></applications>
