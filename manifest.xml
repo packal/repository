@@ -91,6 +91,21 @@
     <short>Add Current Song to an iTunes Playlist (or Build Playlists)</short>
   </workflow>
   <workflow>
+    <name>AlfCard</name>
+    <version>1.0</version>
+    <bundle>clipcard.alfred2.alfcard</bundle>
+    <updated>1424828257</updated>
+    <file>alfcard.alfredworkflow</file>
+    <author>menzer</author>
+    <applications></applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfcard</url>
+    <tags>ClipCard ||| productivity</tags>
+    <webservices>ClipCard</webservices>
+    <short>ClipCard for Alfred - search across your apps and cloud accounts instantly from your Mac.</short>
+  </workflow>
+  <workflow>
     <name>Alfred Backblaze</name>
     <version>1.0</version>
     <bundle>com.xedmada.alfred.backblaze</bundle>
@@ -1174,7 +1189,7 @@
     <name>Date Calculator</name>
     <version>2.5</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1424587812</updated>
+    <updated>1424847582</updated>
     <file>date_calculator.alfredworkflow</file>
     <author>MuppetGate</author>
     <applications></applications>
