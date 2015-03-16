@@ -3076,6 +3076,21 @@
     <short>Translate with http://dict.leo.org/</short>
   </workflow>
   <workflow>
+    <name>Letterboxd Search</name>
+    <version>1.0</version>
+    <bundle>com.ikasch.letterboxdSearch</bundle>
+    <updated>1426510815</updated>
+    <file>letterboxd-search.alfredworkflow</file>
+    <author>ikasch</author>
+    <applications></applications>
+    <categories>Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/letterboxd-search</url>
+    <tags>letterboxd ||| movies ||| films ||| actors ||| directors ||| search</tags>
+    <webservices>Letterboxd</webservices>
+    <short>Use keyword "lb" to open a search on letterboxd.com</short>
+  </workflow>
+  <workflow>
     <name>LibGen</name>
     <version>1.1</version>
     <bundle>com.hackademic.libgen</bundle>
