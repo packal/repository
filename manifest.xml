@@ -2341,6 +2341,21 @@
     <short>An Alfred Extension that uses Google's URL Shortener API to shorten long URLs.</short>
   </workflow>
   <workflow>
+    <name>Grab Link</name>
+    <version>1.0</version>
+    <bundle>net.citizen428.alfred.grablink</bundle>
+    <updated>1426587314</updated>
+    <file>grab_link.alfredworkflow</file>
+    <author>citizen428</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/grab-link</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Copies the link of the active browser tab to the clipboard</short>
+  </workflow>
+  <workflow>
     <name>GradlePlease</name>
     <version>1.1</version>
     <bundle>info.evelio.gradleplease</bundle>
