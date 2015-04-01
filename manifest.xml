@@ -3392,21 +3392,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -3419,6 +3404,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -4369,13 +4369,13 @@
     <name>Play/pause focus@will in Google Chrome</name>
     <version>1.1</version>
     <bundle>com.tangledhelix.focusatwill.chrome</bundle>
-    <updated>1396931290</updated>
+    <updated>1427919508</updated>
     <file>focusatwill-in-google-chrome.alfredworkflow</file>
     <author>tangledhelix</author>
     <applications>Google Chrome</applications>
     <categories>Audio ||| Productivity</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/playpause-focuswill-google-chrome</url>
+    <url>http://www.packal.org/workflow/control-focuswill-google-chrome</url>
     <tags></tags>
     <webservices></webservices>
     <short>Play/pause your focusatwill.com tab in Google Chrome using a hotkey or keyword.</short>
@@ -5519,6 +5519,21 @@
     <tags>vpn ||| shimo</tags>
     <webservices></webservices>
     <short>VPN Workflow for Shimo</short>
+  </workflow>
+  <workflow>
+    <name>Show Fantastical 2&#039;s Main Window</name>
+    <version>1.0</version>
+    <bundle>com.pehein.Fantastical2MW</bundle>
+    <updated>1427902874</updated>
+    <file>show_fantastical_2s_main_window.alfredworkflow</file>
+    <author>ptr--</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/show-fantastical-2s-main-window</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Shows the main window for Fantastical 2</short>
   </workflow>
   <workflow>
     <name>Show PopClip</name>
