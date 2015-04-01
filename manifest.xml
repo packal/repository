@@ -1066,6 +1066,21 @@
     <short>Enables calling and messaging via contacts or number input</short>
   </workflow>
   <workflow>
+    <name>Control focus@will in Google Chrome</name>
+    <version>1.2</version>
+    <bundle>com.tangledhelix.focusatwill.chrome</bundle>
+    <updated>1427919614</updated>
+    <file>focusatwill-in-google-chrome.alfredworkflow</file>
+    <author>tangledhelix</author>
+    <applications>Google Chrome</applications>
+    <categories>Audio ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/control-focuswill-google-chrome</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Control your focusatwill.com tab in Google Chrome using hotkeys or keywords.</short>
+  </workflow>
+  <workflow>
     <name>Control focus@will within Apple Safari</name>
     <version>1.0</version>
     <bundle>com.tangledhelix.focusatwill.safari</bundle>
@@ -4364,21 +4379,6 @@
     <tags>itunes ||| music ||| song ||| artist ||| album ||| genre</tags>
     <webservices></webservices>
     <short>Quickly play songs in iTunes</short>
-  </workflow>
-  <workflow>
-    <name>Play/pause focus@will in Google Chrome</name>
-    <version>1.1</version>
-    <bundle>com.tangledhelix.focusatwill.chrome</bundle>
-    <updated>1427919508</updated>
-    <file>focusatwill-in-google-chrome.alfredworkflow</file>
-    <author>tangledhelix</author>
-    <applications>Google Chrome</applications>
-    <categories>Audio ||| Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/control-focuswill-google-chrome</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Play/pause your focusatwill.com tab in Google Chrome using a hotkey or keyword.</short>
   </workflow>
   <workflow>
     <name>Pocket for Alfred</name>
