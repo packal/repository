@@ -3392,21 +3392,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -3419,6 +3404,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -5717,17 +5717,17 @@
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
-    <version>6.12</version>
+    <version>6.2</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1427815500</updated>
+    <updated>1427878939</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
-    <applications>Spotify</applications>
-    <categories>Audio</categories>
+    <applications>Spotify ||| Mopidy</applications>
+    <categories>Alfred Remote ||| Audio</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
     <url>http://www.packal.org/workflow/spotify-mini-player</url>
-    <tags>spotify ||| Alfred Remote</tags>
-    <webservices></webservices>
+    <tags>spotify ||| Alfred Remote ||| music ||| Music Player ||| mopidy ||| streaming</tags>
+    <webservices>Spotify</webservices>
     <short>Control your Spotify library at your fingertips</short>
   </workflow>
   <workflow>
