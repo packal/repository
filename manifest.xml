@@ -331,6 +331,21 @@
     <short>Use a browser bookmarklet via Alfred</short>
   </workflow>
   <workflow>
+    <name>AlfredBullet</name>
+    <version>1.0.1</version>
+    <bundle>fi.matiaskorhonen.alfred-bullet</bundle>
+    <updated>1428312137</updated>
+    <file>alfredbullet-1.0.1.alfredworkflow</file>
+    <author>matias</author>
+    <applications>Pushbullet</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/alfredbullet</url>
+    <tags></tags>
+    <webservices>Pushbullet</webservices>
+    <short>Send links or text to devices via PushBullet</short>
+  </workflow>
+  <workflow>
     <name>AlfredDig</name>
     <version>1.0</version>
     <bundle>pjkh.dig</bundle>
