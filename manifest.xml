@@ -2836,6 +2836,21 @@
     <short>Interect with Instacast for Mac via Alfred.</short>
   </workflow>
   <workflow>
+    <name>Install App</name>
+    <version>1.3</version>
+    <bundle>com.mcskrzypczak.install</bundle>
+    <updated>1429285239</updated>
+    <file>mcskrzypczak-install_apps_v1.3.alfredworkflow</file>
+    <author>mcskrzypczak</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/install-app</url>
+    <tags>install ||| app ||| unzip ||| mount ||| copy</tags>
+    <webservices></webservices>
+    <short>Install apps from zip, dmg, pkg or just copy .app to /Applications folder</short>
+  </workflow>
+  <workflow>
     <name>Install Mac Apps</name>
     <version>1.3</version>
     <bundle>me.alexw.install_apps</bundle>
