@@ -4081,6 +4081,21 @@
     <short>Search for folders in your home folder and open in finder tab</short>
   </workflow>
   <workflow>
+    <name>Open in Gitx</name>
+    <version>1.0</version>
+    <bundle>io.loslabs.alfred.gitx</bundle>
+    <updated>1429645454</updated>
+    <file>openingitx.alfredworkflow</file>
+    <author>carsol</author>
+    <applications>GitX</applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-gitx</url>
+    <tags>gitx ||| git</tags>
+    <webservices></webservices>
+    <short>Open folder with Gitx</short>
+  </workflow>
+  <workflow>
     <name>Open in iTerm</name>
     <version>1.0</version>
     <bundle>com.iansoper.openiniterm</bundle>
