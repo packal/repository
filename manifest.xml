@@ -3514,7 +3514,7 @@
     <name>Luxinate</name>
     <version>7.01</version>
     <bundle>co.nf.ritashugisha.luxinate</bundle>
-    <updated>1404925992</updated>
+    <updated>1430837008</updated>
     <file>luxinate_v7.0r1.2a.alfredworkflow</file>
     <author>Ritashugisha</author>
     <applications></applications>
@@ -3632,21 +3632,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -3659,6 +3644,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -5849,6 +5849,21 @@
     <tags>vpn ||| shimo</tags>
     <webservices></webservices>
     <short>VPN Workflow for Shimo</short>
+  </workflow>
+  <workflow>
+    <name>Should I watch this movie advanced?</name>
+    <version>1.0</version>
+    <bundle>com.renegaed.should-i-watch-this-movie-advanced</bundle>
+    <updated>1430834565</updated>
+    <file>should_i_watch_this_movie_advanced.alfredworkflow</file>
+    <author>renegaed</author>
+    <applications></applications>
+    <categories>Other ||| Search ||| Video</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/should-i-watch-movie-advanced</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search YouTube for movie trailer, open IMDB &amp; Rotten Tomatoes page</short>
   </workflow>
   <workflow>
     <name>Show Fantastical 2&#039;s Main Window</name>
