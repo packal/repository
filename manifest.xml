@@ -5416,6 +5416,21 @@
     <short>This workflow calculates the route from the current location to a contact from your address book, or a specified location with Google Maps</short>
   </workflow>
   <workflow>
+    <name>Router Web Interface</name>
+    <version>1.0</version>
+    <bundle>com.em0vskangoura.alfred-router-interface</bundle>
+    <updated>1430775849</updated>
+    <file>router_web_interface.alfredworkflow</file>
+    <author>f1ndm3h</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/router-web-interface</url>
+    <tags>router web interface ||| router ||| router configuration</tags>
+    <webservices></webservices>
+    <short>Finds your default gateway's IP and opens it in your default browser.</short>
+  </workflow>
+  <workflow>
     <name>RSS</name>
     <version>1.0</version>
     <bundle>florian.rss</bundle>
