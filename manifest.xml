@@ -616,6 +616,21 @@
     <short>Alfred workflow to interact with Bamboo CI. Search for projects and plans.</short>
   </workflow>
   <workflow>
+    <name>Banana Browser Tabs</name>
+    <version>1.0</version>
+    <bundle>com.wordpress.shaz00m.banana_browser_tabs</bundle>
+    <updated>1431000224</updated>
+    <file>banana_browser_tabs.alfredworkflow</file>
+    <author>shazoom</author>
+    <applications>defaultbrowser</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/banana-browser-tabs</url>
+    <tags>chrome ||| Safari ||| tabs ||| migration</tags>
+    <webservices></webservices>
+    <short>Send tabs from Chrome to Safari and back</short>
+  </workflow>
+  <workflow>
     <name>Banana Terminal</name>
     <version>1.0</version>
     <bundle>com.wordpress.shaz00m.banana_terminal</bundle>
@@ -706,21 +721,6 @@
     <short>Search BibDesk from the comfort of your keyboard</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -734,6 +734,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
