@@ -4981,6 +4981,21 @@
     <short>Displays status of local RabbitMQ and it's queues. Can start and stop local RabbitMQ instance.</short>
   </workflow>
   <workflow>
+    <name>Ramda Docs</name>
+    <version>1.0</version>
+    <bundle>com.raine.ramdadocs</bundle>
+    <updated>1431191950</updated>
+    <file>ramda_docs.alfredworkflow</file>
+    <author>raine</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ramda-docs</url>
+    <tags>ramda ||| javascript ||| functional programming</tags>
+    <webservices></webservices>
+    <short>Search Ramda documentation</short>
+  </workflow>
+  <workflow>
     <name>Random Choice</name>
     <version>1.0</version>
     <bundle>com.clintonstrong.RandomChoice</bundle>
@@ -7819,7 +7834,7 @@
     <name>Youdao Dict</name>
     <version>1.1.0</version>
     <bundle>com.whyliam.workflows.youdao</bundle>
-    <updated>1430968815</updated>
+    <updated>1431212235</updated>
     <file>youdao.alfredworkflow</file>
     <author>WhyLiam</author>
     <applications></applications>
