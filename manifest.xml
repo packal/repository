@@ -5761,6 +5761,21 @@
     <short>Capture, save to Dropbox, get Link and manage files and past links</short>
   </workflow>
   <workflow>
+    <name>Screenshots Imgur uploader</name>
+    <version>1.0</version>
+    <bundle>com.gadfly.alfred-screenshots-imgur-uploader</bundle>
+    <updated>1431293849</updated>
+    <file>screenshots_imgur_uploader.alfredworkflow</file>
+    <author>Gadfly</author>
+    <applications></applications>
+    <categories>Images ||| Networking ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/screenshots-imgur-uploader</url>
+    <tags>Screenshot ||| imgur.com</tags>
+    <webservices>imgur.com</webservices>
+    <short>Take and upload screenshots to imgur.com</short>
+  </workflow>
+  <workflow>
     <name>Search Baidu</name>
     <version>1.0</version>
     <bundle>com.rjiang.searchbaidu</bundle>
