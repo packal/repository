@@ -721,21 +721,6 @@
     <short>Search BibDesk from the comfort of your keyboard</short>
   </workflow>
   <workflow>
-    <name>Block All Incoming Connections</name>
-    <version>1.0</version>
-    <bundle>me.pasine.blockconnections</bundle>
-    <updated>1431350565</updated>
-    <file>block_all_incoming_connections.alfredworkflow</file>
-    <author>pasine</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/block-all-incoming-connections</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Enable/Disable Block All Incoming Connections option</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -6799,7 +6784,7 @@
     <name>Things</name>
     <version>1.1.4</version>
     <bundle>hu.fns.things</bundle>
-    <updated>1422282314</updated>
+    <updated>1431499705</updated>
     <file>things.alfredworkflow</file>
     <author>fns720</author>
     <applications>Things</applications>
@@ -7064,6 +7049,21 @@
     <tags>Wifi ||| networking ||| toggle</tags>
     <webservices></webservices>
     <short>Does exactly what the title says. No more, no less.</short>
+  </workflow>
+  <workflow>
+    <name>Toggle/Enable/Disable Block All Incoming Connections</name>
+    <version>1.1</version>
+    <bundle>me.pasine.blockconnections</bundle>
+    <updated>1431384494</updated>
+    <file>block_all_incoming_connections.alfredworkflow</file>
+    <author>pasine</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggleenabledisable-block-all-incoming-connections</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Toggle/Enable/Disable Block All Incoming Connections option</short>
   </workflow>
   <workflow>
     <name>Torrent</name>
@@ -7399,7 +7399,7 @@
     <name>URL craft</name>
     <version>0.1.0</version>
     <bundle>DC9DD931-D44F-4F0C-800A-1B3EC3FA50D8</bundle>
-    <updated>1430460078</updated>
+    <updated>1431392137</updated>
     <file>url_craft.alfredworkflow</file>
     <author>takanabe</author>
     <applications></applications>
