@@ -2416,6 +2416,21 @@
     <short>Added a german verb conjugation workflow. Try it out, if you are eager enough to learn the intricacies of the german verbs and how it has to be conjugated!</short>
   </workflow>
   <workflow>
+    <name>Get App Icon</name>
+    <version>1.5</version>
+    <bundle>com.mcskrzypczak.extracticon</bundle>
+    <updated>1431505563</updated>
+    <file>mcskrzypczak-extract_icon.alfredworkflow</file>
+    <author>mcskrzypczak</author>
+    <applications>Python</applications>
+    <categories>Images ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/get-app-icon</url>
+    <tags>icon ||| app store ||| mac app store ||| download</tags>
+    <webservices></webservices>
+    <short>Get App's icon from /Applications or App Store / Mac App Store</short>
+  </workflow>
+  <workflow>
     <name>Get biblia.com Verse of the Day</name>
     <version>1.0</version>
     <bundle>com.bgoetz.bilbiaverse</bundle>
@@ -5747,9 +5762,9 @@
   </workflow>
   <workflow>
     <name>Screenshots Imgur uploader</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.gadfly.alfred-screenshots-imgur-uploader</bundle>
-    <updated>1431293954</updated>
+    <updated>1431524785</updated>
     <file>screenshots_imgur_uploader.alfredworkflow</file>
     <author>Gadfly</author>
     <applications></applications>
