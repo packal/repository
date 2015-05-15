@@ -3091,6 +3091,21 @@
     <short>Show/Hide Invisible files</short>
   </workflow>
   <workflow>
+    <name>iOS Simulator</name>
+    <version>1.3</version>
+    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
+    <updated>1431533912</updated>
+    <file>ios_simulator_v1.3.alfredworkflow</file>
+    <author>jfro</author>
+    <applications>Xcode</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator</url>
+    <tags>ios ||| simulator ||| apps ||| development</tags>
+    <webservices></webservices>
+    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
+  </workflow>
+  <workflow>
     <name>iPhone Tether Toggle</name>
     <version>1.0</version>
     <bundle>net.lemonlee.iphonetethertoggle</bundle>
