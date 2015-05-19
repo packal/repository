@@ -721,21 +721,6 @@
     <short>Search BibDesk from the comfort of your keyboard</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -749,6 +734,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -7309,7 +7309,7 @@
     <name>Trello search</name>
     <version>1.0</version>
     <bundle>com.janhenckens.alfredtrello</bundle>
-    <updated>1431682331</updated>
+    <updated>1432026116</updated>
     <file>trello_for_alfred.alfredworkflow</file>
     <author>janhenckens</author>
     <applications></applications>
@@ -7454,6 +7454,21 @@
     <tags>Alfred Remote</tags>
     <webservices></webservices>
     <short>Unlock your Mac with Alfred Remote iOS App</short>
+  </workflow>
+  <workflow>
+    <name>UPC to ASIN</name>
+    <version>1.0</version>
+    <bundle>com.faridoon.upctoasin</bundle>
+    <updated>1431976237</updated>
+    <file>upc_to_asin.alfredworkflow</file>
+    <author>faridoon</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/upc-asin</url>
+    <tags>amazon ||| asin ||| upc ||| converter</tags>
+    <webservices>upctoasin.com</webservices>
+    <short>Converts UPC code to ASIN code right inside Alfred.</short>
   </workflow>
   <workflow>
     <name>UploadFile</name>
