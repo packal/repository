@@ -5941,6 +5941,21 @@
     <short>Search the maven repository.</short>
   </workflow>
   <workflow>
+    <name>Search Omnifocus</name>
+    <version>1.1.0</version>
+    <bundle>net.rhydlewis.alfred.searchomnifocus</bundle>
+    <updated>1432915096</updated>
+    <file>search_omnifocus_v1.1.0.alfredworkflow</file>
+    <author>rhyd</author>
+    <applications>OmniFocus</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/search-omnifocus</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>This is a workflow that performs free text searches on OmniFocus data.</short>
+  </workflow>
+  <workflow>
     <name>Search PubMed</name>
     <version>1.2</version>
     <bundle>com.tedwise.pubmed</bundle>
