@@ -526,6 +526,21 @@
     <short>Remove App and cleanup with AppDelete</short>
   </workflow>
   <workflow>
+    <name>AppFreeze</name>
+    <version>1.0</version>
+    <bundle>com.vitorgalvao.alfred.appfreeze</bundle>
+    <updated>1433881007</updated>
+    <file>appfreeze.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/appfreeze</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Pauses and resumes execution of the frontmost app</short>
+  </workflow>
+  <workflow>
     <name>Apple Account Switcher</name>
     <version>1.4</version>
     <bundle>com.summxt.alfred.appleaccountswitcher</bundle>
@@ -7894,11 +7909,11 @@
     <name>WatchList</name>
     <version>1.8</version>
     <bundle>com.vitorgalvao.alfred.watchlist</bundle>
-    <updated>1433204175</updated>
+    <updated>1433880821</updated>
     <file>watchlist.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
-    <categories>Audio ||| Images ||| Utilities ||| Video</categories>
+    <categories>Alfred Remote ||| Audio ||| Images ||| Utilities ||| Video</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/watchlist</url>
     <tags></tags>
