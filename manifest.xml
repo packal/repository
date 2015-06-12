@@ -529,7 +529,7 @@
     <name>AppFreeze</name>
     <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.appfreeze</bundle>
-    <updated>1433975235</updated>
+    <updated>1434051039</updated>
     <file>appfreeze.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -2024,6 +2024,21 @@
     <tags>test ||| fake ||| data ||| generation</tags>
     <webservices></webservices>
     <short>Generate fake test data in Alfred</short>
+  </workflow>
+  <workflow>
+    <name>famous</name>
+    <version>1.0</version>
+    <bundle>com.berzerk.famous</bundle>
+    <updated>1434042601</updated>
+    <file>famous.alfredworkflow</file>
+    <author>surfjedi</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/famous</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Workflows for famous mixed mode</short>
   </workflow>
   <workflow>
     <name>Fantastical &gt; Apple Calendar</name>
