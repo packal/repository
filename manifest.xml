@@ -691,6 +691,21 @@
     <short>Search for folders and open them in a new terminal.</short>
   </workflow>
   <workflow>
+    <name>Base Converter</name>
+    <version>0.1</version>
+    <bundle>com.ahalbert.baseconverter</bundle>
+    <updated>1434921494</updated>
+    <file>baseconversion.alfredworkflow</file>
+    <author>ahalbert</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/base-converter</url>
+    <tags>hex ||| binary ||| math</tags>
+    <webservices></webservices>
+    <short>Convert arbitrary bases(up to base 32) in Alfred 2 and copy them to the clipboard.</short>
+  </workflow>
+  <workflow>
     <name>Base CRM</name>
     <version>1.0.0</version>
     <bundle>me.johnpinkerton.alfred2-basecrm</bundle>
