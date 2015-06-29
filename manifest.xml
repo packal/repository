@@ -61,6 +61,21 @@
     <short>Perform a quick ABN lookup via ABR website.</short>
   </workflow>
   <workflow>
+    <name>Absolut Drinks Database</name>
+    <version>1.0</version>
+    <bundle>com.jyeakley.addb</bundle>
+    <updated>1435597814</updated>
+    <file>absolut_drinks_database.alfredworkflow</file>
+    <author>jyeakley</author>
+    <applications></applications>
+    <categories>Other ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/absolut-drinks-database</url>
+    <tags>Mixed Drinks ||| cocktails ||| Absolut ||| Absolut Drinks Database ||| Drinks</tags>
+    <webservices></webservices>
+    <short>API to search the Absolut Drinks Database</short>
+  </workflow>
+  <workflow>
     <name>Activate Keeping You Awake</name>
     <version>0.1</version>
     <bundle>kyleking.KeepingYouAwake.mac</bundle>
@@ -8074,7 +8089,7 @@
     <name>WatchList</name>
     <version>1.9.2</version>
     <bundle>com.vitorgalvao.alfred.watchlist</bundle>
-    <updated>1435544838</updated>
+    <updated>1435544897</updated>
     <file>watchlist.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
