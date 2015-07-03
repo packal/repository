@@ -3947,21 +3947,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -3974,6 +3959,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -4904,6 +4904,21 @@
     <tags>mood lighting ||| color ||| home</tags>
     <webservices></webservices>
     <short>Quickly and easily control Philips Hue lights with Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>PHP Doc Search</name>
+    <version>0.4</version>
+    <bundle>com.bstonehill.alfred.php-doc-search</bundle>
+    <updated>1435898610</updated>
+    <file>php_doc_search.alfredworkflow</file>
+    <author>bstonehill</author>
+    <applications></applications>
+    <categories>Development ||| Reference</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/php-doc-search</url>
+    <tags>php</tags>
+    <webservices></webservices>
+    <short>Search and launch php.net doc pages from alfred</short>
   </workflow>
   <workflow>
     <name>PHP Master -  PHP Quick Tester and PHP Manual (2 in 1)</name>
@@ -6094,7 +6109,7 @@
     <name>Screenshots Imgur uploader</name>
     <version>1.1</version>
     <bundle>com.gadfly.alfred-screenshots-imgur-uploader</bundle>
-    <updated>1431524785</updated>
+    <updated>1435915497</updated>
     <file>screenshots_imgur_uploader.alfredworkflow</file>
     <author>Gadfly</author>
     <applications></applications>
