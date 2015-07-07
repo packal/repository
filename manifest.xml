@@ -346,21 +346,6 @@
     <short>Designed to help with building Alfred workflows efficiently. Shows the last Alfred workflow you were working on at the top of the list. Same with the data folder.</short>
   </workflow>
   <workflow>
-    <name>alfred-ime</name>
-    <version>1.0</version>
-    <bundle>zmin.ime</bundle>
-    <updated>1418225519</updated>
-    <file>ime.alfredworkflow</file>
-    <author>owenwater</author>
-    <applications></applications>
-    <categories>Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/ime</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>A Input method workflow based on Google Input Tools</short>
-  </workflow>
-  <workflow>
     <name>alfred-pinboard</name>
     <version>2.26</version>
     <bundle>com.jmjeong.alfredv2.pinboard</bundle>
@@ -2434,7 +2419,7 @@
     <name>Forvo</name>
     <version>1.1.1</version>
     <bundle>zmin.forvo</bundle>
-    <updated>1436235553</updated>
+    <updated>1436235613</updated>
     <file>forvo.alfredworkflow</file>
     <author>owenwater</author>
     <applications></applications>
@@ -3179,6 +3164,21 @@
     <tags></tags>
     <webservices>IMDb</webservices>
     <short>Search IMDb for movies, TV shows &amp; celebrities</short>
+  </workflow>
+  <workflow>
+    <name>IME</name>
+    <version>1.0</version>
+    <bundle>zmin.ime</bundle>
+    <updated>1436239100</updated>
+    <file>ime.alfredworkflow</file>
+    <author>owenwater</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ime</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>A Input method workflow based on Google Input Tools</short>
   </workflow>
   <workflow>
     <name>iMessage Workflow</name>
