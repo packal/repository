@@ -616,6 +616,21 @@
     <short>List, search and run/open AppleScripts for the active application</short>
   </workflow>
   <workflow>
+    <name>Atlassian Stash Workflow</name>
+    <version>1.0.0</version>
+    <bundle>ch.mibex.stash.alfred-workflow</bundle>
+    <updated>1436783173</updated>
+    <file>atlassian-stash.alfredworkflow</file>
+    <author>mibexsoftware</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/atlassian-stash-workflow</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow to search for projects, repositories and pull requests to review in Atlassian Stash</short>
+  </workflow>
+  <workflow>
     <name>Audio Swith</name>
     <version>1</version>
     <bundle>rsampayo.audioswitch</bundle>
@@ -3676,6 +3691,21 @@
     <short>Search Last.fm for similar artist info.</short>
   </workflow>
   <workflow>
+    <name>Lastpass CLI Workflow for Alfred</name>
+    <version>1.1</version>
+    <bundle>com.stuartryan.alfred.lastpass</bundle>
+    <updated>1436738572</updated>
+    <file>lastpass-cli-alfred-workflow.alfredworkflow</file>
+    <author>StuartCRyan</author>
+    <applications>LastPass</applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lastpass-cli-workflow-alfred</url>
+    <tags>lastpass ||| cli</tags>
+    <webservices>LastPass</webservices>
+    <short>Simple workflow to interact with the Lastpass CLI interface.</short>
+  </workflow>
+  <workflow>
     <name>LastPass Vault Manager</name>
     <version>4.2</version>
     <bundle>com.bachya.lpvm</bundle>
@@ -4007,21 +4037,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -4034,6 +4049,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
