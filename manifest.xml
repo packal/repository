@@ -1606,6 +1606,21 @@
     <short>Get today day of year (julian day) number</short>
   </workflow>
   <workflow>
+    <name>DefaultBrowser Workflow for Alfred</name>
+    <version>1.0</version>
+    <bundle>com.stuartryan.alfred.defaultbrowser</bundle>
+    <updated>1437812054</updated>
+    <file>set-default-browser-alfred-workflow.alfredworkflow</file>
+    <author>StuartCRyan</author>
+    <applications></applications>
+    <categories>System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/defaultbrowser-workflow-alfred</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Allows you to quickly and easily set your default browser on OSX.</short>
+  </workflow>
+  <workflow>
     <name>DeskDrawer</name>
     <version>1.5</version>
     <bundle>carlosnz.deskdrawer</bundle>
@@ -6302,10 +6317,10 @@
   </workflow>
   <workflow>
     <name>Search Omnifocus</name>
-    <version>1.1.4</version>
+    <version>1.1.5</version>
     <bundle>net.rhydlewis.alfred.searchomnifocus</bundle>
-    <updated>1437719788</updated>
-    <file>search_omnifocus_v1.1.4.alfredworkflow</file>
+    <updated>1437719893</updated>
+    <file>search_omnifocus_v1.1.5.alfredworkflow</file>
     <author>rhyd</author>
     <applications>OmniFocus</applications>
     <categories>Productivity ||| Search</categories>
