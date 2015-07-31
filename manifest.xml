@@ -1098,21 +1098,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1437511665</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1124,6 +1109,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1437511665</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -1349,6 +1349,21 @@
     <tags>ImageMagick ||| Convert</tags>
     <webservices></webservices>
     <short>Allows for converting and compressing images using ImageMagick</short>
+  </workflow>
+  <workflow>
+    <name>Contacts Filter for Text Content</name>
+    <version>1</version>
+    <bundle>com.alfredapp.vero.contactnotes</bundle>
+    <updated>1438336214</updated>
+    <file>contacts_filter_for_text_content.alfredworkflow</file>
+    <author>Vero</author>
+    <applications>Contacts ||| AddressBook</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/contacts-filter-text-content</url>
+    <tags>contacts ||| address book</tags>
+    <webservices></webservices>
+    <short>Search your contacts for all text fields</short>
   </workflow>
   <workflow>
     <name>Continuity Support</name>
