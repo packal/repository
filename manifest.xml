@@ -1099,7 +1099,7 @@
     <name>Chinese Converter</name>
     <version>1.0.0</version>
     <bundle>com.amowu.chineseconverter</bundle>
-    <updated>1438843636</updated>
+    <updated>1438843752</updated>
     <file>alfred-chinese-converter.alfredworkflow</file>
     <author>amowu</author>
     <applications></applications>
@@ -1109,21 +1109,6 @@
     <tags>Chinese</tags>
     <webservices></webservices>
     <short>Convert Chinese between Traditional and Simplified by OpenCC</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1437511665</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
@@ -1139,6 +1124,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1437511665</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -7502,9 +7502,9 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.1.8</version>
+    <version>1.1.9</version>
     <bundle>hu.fns.things</bundle>
-    <updated>1434553874</updated>
+    <updated>1438852816</updated>
     <file>things.alfredworkflow</file>
     <author>fns720</author>
     <applications>Things</applications>
