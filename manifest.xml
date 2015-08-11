@@ -871,21 +871,6 @@
     <short>Search BibDesk from the comfort of your keyboard</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -899,6 +884,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1264,7 +1264,7 @@
     <name>Clojure Doc Search</name>
     <version>1.0.1</version>
     <bundle>pm.day.alfred2workflow.clojuredocsearch</bundle>
-    <updated>1439255415</updated>
+    <updated>1439258005</updated>
     <file>clojure_doc_search_1_0_1.alfredworkflow</file>
     <author>tar</author>
     <applications></applications>
@@ -1564,12 +1564,12 @@
     <name>Create new file (en)</name>
     <version>1.0</version>
     <bundle>pro.firepanther.new_en</bundle>
-    <updated>1393888754</updated>
+    <updated>1439260611</updated>
     <file>new_en.alfredworkflow</file>
     <author>FirePanther</author>
     <applications></applications>
     <categories>Files and Folders ||| Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/create-new-file-en</url>
     <tags>create ||| file ||| new</tags>
     <webservices></webservices>
@@ -1624,12 +1624,12 @@
     <name>Currency Calculator (en)</name>
     <version>1.0</version>
     <bundle>pro.firepanther.currency_en</bundle>
-    <updated>1393890313</updated>
+    <updated>1439260630</updated>
     <file>currency_en.alfredworkflow</file>
     <author>FirePanther</author>
     <applications></applications>
     <categories>Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/currency-calculator-en</url>
     <tags>currency ||| calculator ||| dollar ||| euro ||| chf ||| gbp ||| try ||| eur ||| usd</tags>
     <webservices>x-rates.com</webservices>
@@ -3709,12 +3709,12 @@
     <name>jQuery Documentation</name>
     <version>1.0</version>
     <bundle>pro.firepanther.jquery_en</bundle>
-    <updated>1393891873</updated>
+    <updated>1439260619</updated>
     <file>jquery_en.alfredworkflow</file>
     <author>FirePanther</author>
     <applications></applications>
     <categories>Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/jquery-documentation</url>
     <tags>jquery ||| documentation ||| Help ||| manual ||| local ||| search</tags>
     <webservices>jqapi.com</webservices>
@@ -4232,21 +4232,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -4259,6 +4244,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -5224,12 +5224,12 @@
     <name>PHP Master -  PHP Quick Tester and PHP Manual (2 in 1)</name>
     <version>1.0</version>
     <bundle>pro.firepanther.phpmaster_en</bundle>
-    <updated>1394682035</updated>
+    <updated>1439260579</updated>
     <file>phpmaster_en.alfredworkflow</file>
     <author>FirePanther</author>
     <applications></applications>
     <categories>Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/php-master-php-quick-tester-and-php-manual-2-1</url>
     <tags>php ||| tester ||| quick ||| test ||| live ||| debug ||| manual ||| documentation ||| Help ||| search ||| local</tags>
     <webservices>php.net</webservices>
@@ -8794,7 +8794,7 @@
     <name>YouVersion Suggest</name>
     <version>4.0.0</version>
     <bundle>com.calebevans.youversionsuggest</bundle>
-    <updated>1439160112</updated>
+    <updated>1439329191</updated>
     <file>youversion_suggest.alfredworkflow</file>
     <author>caleb531</author>
     <applications></applications>
