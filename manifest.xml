@@ -619,7 +619,7 @@
     <name>Apple Account Switcher</name>
     <version>1.5</version>
     <bundle>com.summxt.alfred.appleaccountswitcher</bundle>
-    <updated>1439796074</updated>
+    <updated>1439854660</updated>
     <file>apple_account_switcher_v1.5.alfredworkflow</file>
     <author>Sylv</author>
     <applications>iTunes ||| App Store ||| iBooks</applications>
@@ -646,10 +646,25 @@
     <short>List, search and run/open AppleScripts for the active application</short>
   </workflow>
   <workflow>
+    <name>Atlassian Bamboo Workflow</name>
+    <version>1.0.2</version>
+    <bundle>ch.mibex.bamboo.alfred-workflow</bundle>
+    <updated>1439974273</updated>
+    <file>atlassian-bamboo-workflow-1.0.2.alfredworkflow</file>
+    <author>mibexsoftware</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/atlassian-bamboo-workflow</url>
+    <tags>Atlassian ||| Bamboo ||| CI</tags>
+    <webservices></webservices>
+    <short>Search for projects, plans, build results and more in Atlassian Bamboo </short>
+  </workflow>
+  <workflow>
     <name>Atlassian Stash Workflow</name>
     <version>1.0.2</version>
     <bundle>ch.mibex.stash.alfred-workflow</bundle>
-    <updated>1436962813</updated>
+    <updated>1439973557</updated>
     <file>atlassian-stash.alfredworkflow</file>
     <author>mibexsoftware</author>
     <applications>Atlassian Stash</applications>
@@ -1037,9 +1052,9 @@
   </workflow>
   <workflow>
     <name>Calendar</name>
-    <version>1.2.1</version>
+    <version>1.3</version>
     <bundle>zmin.calendar</bundle>
-    <updated>1439845307</updated>
+    <updated>1439845986</updated>
     <file>calendar.alfredworkflow</file>
     <author>owenwater</author>
     <applications>Calendar</applications>
@@ -1113,21 +1128,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1437511665</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1139,6 +1139,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1437511665</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
