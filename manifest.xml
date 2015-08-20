@@ -619,7 +619,7 @@
     <name>Apple Account Switcher</name>
     <version>1.5</version>
     <bundle>com.summxt.alfred.appleaccountswitcher</bundle>
-    <updated>1439854660</updated>
+    <updated>1440043280</updated>
     <file>apple_account_switcher_v1.5.alfredworkflow</file>
     <author>Sylv</author>
     <applications>iTunes ||| App Store ||| iBooks</applications>
@@ -649,22 +649,22 @@
     <name>Atlassian Bamboo Workflow</name>
     <version>1.0.2</version>
     <bundle>ch.mibex.bamboo.alfred-workflow</bundle>
-    <updated>1439974273</updated>
+    <updated>1439974672</updated>
     <file>atlassian-bamboo-workflow-1.0.2.alfredworkflow</file>
     <author>mibexsoftware</author>
-    <applications></applications>
+    <applications>Atlassian Bamboo</applications>
     <categories>Development ||| Productivity</categories>
     <osx>Yosemite (10.10.x)</osx>
     <url>http://www.packal.org/workflow/atlassian-bamboo-workflow</url>
     <tags>Atlassian ||| Bamboo ||| CI</tags>
-    <webservices></webservices>
+    <webservices>https://YOUR_BAMBOO_HOST/rest/api/latest</webservices>
     <short>Search for projects, plans, build results and more in Atlassian Bamboo </short>
   </workflow>
   <workflow>
     <name>Atlassian Stash Workflow</name>
     <version>1.0.2</version>
     <bundle>ch.mibex.stash.alfred-workflow</bundle>
-    <updated>1439973557</updated>
+    <updated>1439975045</updated>
     <file>atlassian-stash.alfredworkflow</file>
     <author>mibexsoftware</author>
     <applications>Atlassian Stash</applications>
@@ -5402,9 +5402,9 @@
   </workflow>
   <workflow>
     <name>Play iTunes</name>
-    <version>1.1</version>
+    <version>1.2</version>
     <bundle>tox.play_itunes</bundle>
-    <updated>1414446856</updated>
+    <updated>1440014033</updated>
     <file>play_itunes_v1.1.alfredworkflow</file>
     <author>hamiseixas</author>
     <applications>iTunes</applications>
@@ -7802,21 +7802,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -7829,6 +7814,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
@@ -8549,6 +8549,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Watch and manage local videos and streams</short>
+  </workflow>
+  <workflow>
+    <name>Watermarker 2</name>
+    <version>1.0</version>
+    <bundle>com.reactivcode.inc.watermarker</bundle>
+    <updated>1440079816</updated>
+    <file>watermarker.alfredworkflow</file>
+    <author>dirtdon</author>
+    <applications></applications>
+    <categories>Images ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/watermarker-2</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Watermark images using the new Watermarker 2 app</short>
   </workflow>
   <workflow>
     <name>Web Server</name>
