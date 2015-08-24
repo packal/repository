@@ -496,6 +496,21 @@
     <short>Tweeting from Alfred like never before!</short>
   </workflow>
   <workflow>
+    <name>alfredwl</name>
+    <version>1.0</version>
+    <bundle>com.nicke5012.alfredwl</bundle>
+    <updated>1440303413</updated>
+    <file>alfredwl.alfredworkflow</file>
+    <author>nicke5012</author>
+    <applications>Wunderlist 3 ||| Wunderlist</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfredwl</url>
+    <tags>wunderlist ||| wunderlist 3</tags>
+    <webservices></webservices>
+    <short>Wunderlist integration for Alfred2. Allows you to add tasks, show your lists, and show incomplete tasks through Alfred.</short>
+  </workflow>
+  <workflow>
     <name>Amazon to UK</name>
     <version>1</version>
     <bundle>ideasasylum_amazon_to_uk</bundle>
@@ -1128,21 +1143,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1437511665</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1154,6 +1154,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1437511665</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -5269,7 +5284,7 @@
     <name>PHPStorm project opener </name>
     <version>1.0</version>
     <bundle>phpstorm-project-opener</bundle>
-    <updated>1439539634</updated>
+    <updated>1440405014</updated>
     <file>open_phpstorm_project.alfredworkflow</file>
     <author>hansdubois</author>
     <applications>PHPStorm</applications>
