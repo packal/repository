@@ -301,6 +301,21 @@
     <short>Generate fake data</short>
   </workflow>
   <workflow>
+    <name>Alfred Keyword Help</name>
+    <version>1.0.0</version>
+    <bundle>com.pochemuto.alfred.workflow.AlfredHelp</bundle>
+    <updated>1440509235</updated>
+    <file>alfred-keywords-help-1.0.0.alfredworkflow</file>
+    <author>pochemuto</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-keyword-help</url>
+    <tags>alfred ||| Keyword ||| Help</tags>
+    <webservices></webservices>
+    <short>Show and filter available keywords</short>
+  </workflow>
+  <workflow>
     <name>Alfred Soundboard</name>
     <version>1.0</version>
     <bundle>com.alfred.firemylazer.soundboard</bundle>
@@ -4277,21 +4292,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -4304,6 +4304,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6557,10 +6572,10 @@
   </workflow>
   <workflow>
     <name>Search Omnifocus</name>
-    <version>1.1.7</version>
+    <version>1.1.8</version>
     <bundle>net.rhydlewis.alfred.searchomnifocus</bundle>
-    <updated>1440484938</updated>
-    <file>search_omnifocus_v1.1.7.alfredworkflow</file>
+    <updated>1440520693</updated>
+    <file>search_omnifocus_v1.1.8.alfredworkflow</file>
     <author>rhyd</author>
     <applications>OmniFocus</applications>
     <categories>Productivity ||| Search</categories>
@@ -8674,7 +8689,7 @@
     <name>Wi-Fi</name>
     <version>1.0</version>
     <bundle>com.ravelll.wifi</bundle>
-    <updated>1440509093</updated>
+    <updated>1440509172</updated>
     <file>wi-fi.alfredworkflow</file>
     <author>gs3</author>
     <applications></applications>
