@@ -3244,7 +3244,7 @@
     <name>Hexo</name>
     <version>1.0</version>
     <bundle>com.zfanswer.hexo</bundle>
-    <updated>1441118287</updated>
+    <updated>1441160827</updated>
     <file>hexo.alfredworkflow</file>
     <author>zfanswer</author>
     <applications></applications>
@@ -4634,6 +4634,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>search my bitbucket repository </short>
+  </workflow>
+  <workflow>
+    <name>Myinstants</name>
+    <version>1.0.1</version>
+    <bundle>com.flipxfx.myinstants</bundle>
+    <updated>1441169773</updated>
+    <file>myinstants.alfredworkflow</file>
+    <author>flipxfx</author>
+    <applications>myinstants.com</applications>
+    <categories>Audio ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/myinstants</url>
+    <tags>sound ||| soundboard ||| myinstants ||| audio ||| funny</tags>
+    <webservices></webservices>
+    <short>A workflow to search Myinstants.com</short>
   </workflow>
   <workflow>
     <name>Mysql Database Create Drop</name>
