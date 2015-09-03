@@ -61,6 +61,21 @@
     <short>Perform a quick ABN lookup via ABR website.</short>
   </workflow>
   <workflow>
+    <name>About This Mac</name>
+    <version>1.3</version>
+    <bundle>yeraze.AboutThisMac.v1.3</bundle>
+    <updated>1441211287</updated>
+    <file>about_this_mac.alfredworkflow</file>
+    <author>Yeraze</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/about-mac</url>
+    <tags>about ||| Mac</tags>
+    <webservices></webservices>
+    <short>Retrieve and show your Mac details</short>
+  </workflow>
+  <workflow>
     <name>Absolut Drinks Database</name>
     <version>1.0</version>
     <bundle>com.jyeakley.addb</bundle>
@@ -3244,12 +3259,12 @@
     <name>Hexo</name>
     <version>1.0</version>
     <bundle>com.zfanswer.hexo</bundle>
-    <updated>1441160827</updated>
+    <updated>1441244736</updated>
     <file>hexo.alfredworkflow</file>
     <author>zfanswer</author>
     <applications></applications>
     <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/hexo</url>
     <tags>Hexo</tags>
     <webservices></webservices>
@@ -4352,21 +4367,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -4379,6 +4379,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6649,7 +6664,7 @@
     <name>Search Omnifocus</name>
     <version>1.1.8</version>
     <bundle>net.rhydlewis.alfred.searchomnifocus</bundle>
-    <updated>1440520754</updated>
+    <updated>1441286463</updated>
     <file>search_omnifocus_v1.1.8.alfredworkflow</file>
     <author>rhyd</author>
     <applications>OmniFocus</applications>
