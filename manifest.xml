@@ -1203,21 +1203,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1430838734</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Python 2.7.x or above.</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Search Google Chrome bookmarks</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1437511665</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1229,6 +1214,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1430838734</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Python 2.7.x or above.</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -5389,7 +5389,7 @@
     <name>PERT Calculator</name>
     <version>1.0</version>
     <bundle>net.agileadam.pert-calculator</bundle>
-    <updated>1441546753</updated>
+    <updated>1441546849</updated>
     <file>pert_calculator.alfredworkflow</file>
     <author>agileadam</author>
     <applications>Python</applications>
