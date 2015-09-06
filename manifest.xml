@@ -949,7 +949,7 @@
     <name>Bluetooth On/Off</name>
     <version>1.0</version>
     <bundle>leoflint.bluetoothonoff</bundle>
-    <updated>1441538773</updated>
+    <updated>1441539016</updated>
     <file>bluetooth_onoff.alfredworkflow</file>
     <author>illumino</author>
     <applications>OS X</applications>
@@ -5384,6 +5384,21 @@
     <tags>math ||| calculator ||| percentages ||| percent</tags>
     <webservices></webservices>
     <short>Easily do percentage calculations.</short>
+  </workflow>
+  <workflow>
+    <name>PERT Calculator</name>
+    <version>1.0</version>
+    <bundle>net.agileadam.pert-calculator</bundle>
+    <updated>1441546753</updated>
+    <file>pert_calculator.alfredworkflow</file>
+    <author>agileadam</author>
+    <applications>Python</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pert-calculator</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Generates accurate time estimates based on optimistic, realistic, and pessimistic expectations</short>
   </workflow>
   <workflow>
     <name>Philips Hue Controller</name>
