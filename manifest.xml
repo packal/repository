@@ -3109,7 +3109,7 @@
     <name>Google Translate Alfred Workflow</name>
     <version>2.3.2</version>
     <bundle>scriptme.alfred.googletranslate</bundle>
-    <updated>1438786033</updated>
+    <updated>1441604794</updated>
     <file>googletranslate.alfredworkflow</file>
     <author>thomashempel</author>
     <applications></applications>
@@ -8729,6 +8729,21 @@
     <tags>vmware ||| vm ||| productivity</tags>
     <webservices></webservices>
     <short>Control VMWare Fusion instances.</short>
+  </workflow>
+  <workflow>
+    <name>Volume Control</name>
+    <version>1.0</version>
+    <bundle>me.hchen.volumecontrol</bundle>
+    <updated>1441601313</updated>
+    <file>volume_control.alfredworkflow</file>
+    <author>raulchen</author>
+    <applications></applications>
+    <categories>Audio ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/volume-control</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Control the volume of your Mac </short>
   </workflow>
   <workflow>
     <name>VPN Connections</name>
