@@ -4397,21 +4397,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -4424,6 +4409,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -4682,9 +4682,9 @@
   </workflow>
   <workflow>
     <name>Myinstants</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <bundle>com.flipxfx.myinstants</bundle>
-    <updated>1441510178</updated>
+    <updated>1441734853</updated>
     <file>myinstants.alfredworkflow</file>
     <author>flipxfx</author>
     <applications>myinstants.com</applications>
@@ -7574,6 +7574,21 @@
     <tags>Telegram</tags>
     <webservices>Telegram Web</webservices>
     <short>Multiple Telegram actions</short>
+  </workflow>
+  <workflow>
+    <name>Template Workflow</name>
+    <version>1.1</version>
+    <bundle>com.customct.TemplaterWF</bundle>
+    <updated>1441634539</updated>
+    <file>templateworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications>TextExpander</applications>
+    <categories>Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/template-workflow</url>
+    <tags>template ||| Handlebars ||| textexpander</tags>
+    <webservices></webservices>
+    <short>A Handlebar templating engine expander of text snippets with optional expansion through TextExpander.</short>
   </workflow>
   <workflow>
     <name>TemplatesManager</name>
