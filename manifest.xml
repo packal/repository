@@ -4489,7 +4489,7 @@
     <name>MD5 hasher</name>
     <version>1.0.1</version>
     <bundle>io.trilium.nikola.alfredworkflow.md5hasher</bundle>
-    <updated>1441878372</updated>
+    <updated>1441878431</updated>
     <file>md5_hasher.alfredworkflow</file>
     <author>nrozic</author>
     <applications>Sublime Text ||| Sublime Text 2 ||| Sublime Text 3 ||| Atom</applications>
@@ -7319,6 +7319,21 @@
     <tags>Atlassian Stash</tags>
     <webservices>Atlassian Stash</webservices>
     <short>Workflow for searching through Stash repositories.</short>
+  </workflow>
+  <workflow>
+    <name>Steam</name>
+    <version>2.0</version>
+    <bundle>com.brianandjenny.steamactivator</bundle>
+    <updated>1441927457</updated>
+    <file>steam.alfredworkflow</file>
+    <author>tresni</author>
+    <applications>Steam</applications>
+    <categories>Games ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/steam</url>
+    <tags></tags>
+    <webservices>Steam</webservices>
+    <short>Activate your Steam codes &amp; launch steam games with a quick keystroke or keyword</short>
   </workflow>
   <workflow>
     <name>Strip clipboard text formatting</name>
