@@ -1772,12 +1772,12 @@
   </workflow>
   <workflow>
     <name>DefaultBrowser Workflow for Alfred</name>
-    <version>1.1</version>
+    <version>1.2</version>
     <bundle>com.stuartryan.alfred.defaultbrowser</bundle>
-    <updated>1441839229</updated>
+    <updated>1441839312</updated>
     <file>set-default-browser-alfred-workflow.alfredworkflow</file>
     <author>StuartCRyan</author>
-    <applications>Firefox ||| Google Chrome ||| OS/X ||| Safari ||| Opera ||| defaultbrowser ||| Chromium ||| Google Chrome Canary ||| SeaMonkey</applications>
+    <applications>Firefox ||| Google Chrome ||| OS/X ||| Safari ||| Opera ||| defaultbrowser ||| Chromium ||| Google Chrome Canary ||| SeaMonkey ||| FirefoxDeveloperEdition ||| WebKit</applications>
     <categories>System ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/defaultbrowser-workflow-alfred</url>
@@ -4487,9 +4487,9 @@
   </workflow>
   <workflow>
     <name>MD5 hasher</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <bundle>io.trilium.nikola.alfredworkflow.md5hasher</bundle>
-    <updated>1438721051</updated>
+    <updated>1441878372</updated>
     <file>md5_hasher.alfredworkflow</file>
     <author>nrozic</author>
     <applications>Sublime Text ||| Sublime Text 2 ||| Sublime Text 3 ||| Atom</applications>
