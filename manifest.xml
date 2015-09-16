@@ -2147,10 +2147,10 @@
   </workflow>
   <workflow>
     <name>Duden Search</name>
-    <version>1.1</version>
+    <version>1.3</version>
     <bundle>net.deanishe.alfred-duden</bundle>
-    <updated>1439468774</updated>
-    <file>duden_search-1.1.alfredworkflow</file>
+    <updated>1442433133</updated>
+    <file>duden_search-1.3.alfredworkflow</file>
     <author>deanishe</author>
     <applications></applications>
     <categories>Reference</categories>
@@ -2879,6 +2879,21 @@
     <tags>files ||| recent documents ||| search ||| folders ||| applications</tags>
     <webservices></webservices>
     <short>Retrieves latest files from Trickster and presents them</short>
+  </workflow>
+  <workflow>
+    <name>Gist</name>
+    <version>0.2</version>
+    <bundle>com.danielecook.gist</bundle>
+    <updated>1442430433</updated>
+    <file>gist.alfredworkflow</file>
+    <author>danielecook</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gist</url>
+    <tags>github ||| gist ||| programming</tags>
+    <webservices></webservices>
+    <short>An alfred workflow for accessing github gists as snippets. Supports tags, stars, and private gists</short>
   </workflow>
   <workflow>
     <name>Git Repos</name>
