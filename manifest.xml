@@ -391,6 +391,21 @@
     <short>Designed to help with building Alfred workflows efficiently. Shows the last Alfred workflow you were working on at the top of the list. Same with the data folder.</short>
   </workflow>
   <workflow>
+    <name>Alfred-Flixsearch</name>
+    <version>1.0</version>
+    <bundle>net.deanishe.alfred-flixsearch</bundle>
+    <updated>1442615413</updated>
+    <file>flixsearch-1.0.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Video</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-flixsearch</url>
+    <tags>Netflix ||| flixsearch ||| video ||| streaming</tags>
+    <webservices>netflix ||| flixsearch</webservices>
+    <short>What's available on Netflix and in which countries</short>
+  </workflow>
+  <workflow>
     <name>alfred-pinboard</name>
     <version>2.26</version>
     <bundle>com.jmjeong.alfredv2.pinboard</bundle>
@@ -4559,6 +4574,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple Alfred 2 workflow for generating .htpasswd string, or simply to generate md5 hash from given string</short>
+  </workflow>
+  <workflow>
+    <name>MDN Search</name>
+    <version>1.0</version>
+    <bundle>com.gilbarbara.mdn-search</bundle>
+    <updated>1442611060</updated>
+    <file>mdnsearch.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/mdn-search</url>
+    <tags>mdn ||| Reference ||| api</tags>
+    <webservices></webservices>
+    <short>Search MDN with Alfred 2</short>
   </workflow>
   <workflow>
     <name>Melon Music Search</name>
