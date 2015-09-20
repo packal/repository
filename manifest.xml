@@ -1218,21 +1218,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1437511665</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1244,6 +1229,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1437511665</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -3422,9 +3422,9 @@
   </workflow>
   <workflow>
     <name>Hotkey to nvalt scratchpad</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.pjvandehaar.nvalt-scratchpad</bundle>
-    <updated>1440640787</updated>
+    <updated>1442718126</updated>
     <file>nvalt-scratchpad.alfredworkflow</file>
     <author>pjvandehaar</author>
     <applications>nvalt</applications>
@@ -3433,7 +3433,7 @@
     <url>http://www.packal.org/workflow/hotkey-nvalt-scratchpad</url>
     <tags>nvalt</tags>
     <webservices></webservices>
-    <short>Open a new scratchpad in nvalt by a hotkey</short>
+    <short>Open a new scratchpad in nvALT with a hotkey</short>
   </workflow>
   <workflow>
     <name>HTML Special Characters</name>
@@ -7394,6 +7394,21 @@
     <tags>ssh ||| terminal ||| networking</tags>
     <webservices></webservices>
     <short>Launch SSH connection from bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Stack Overflow</name>
+    <version>1.1.2</version>
+    <bundle>stack_overflow</bundle>
+    <updated>1442665179</updated>
+    <file>stackoverflow.alfredworkflow</file>
+    <author>Que3216</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/stack-overflow</url>
+    <tags>stackoverflow ||| programming ||| coding</tags>
+    <webservices></webservices>
+    <short>Get answers to simple questions like "python function syntax", without having to open your web browser</short>
   </workflow>
   <workflow>
     <name>StackOverflow Search</name>
