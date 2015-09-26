@@ -5536,6 +5536,21 @@
     <short>Quickly and easily control Philips Hue lights with Alfred.</short>
   </workflow>
   <workflow>
+    <name>Phone Number Cleaner</name>
+    <version>1.0</version>
+    <bundle>com.my.PhoneNumberCleaner</bundle>
+    <updated>1443281570</updated>
+    <file>phonenumbercleaner.alfredworkflow</file>
+    <author>bash</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/phone-number-cleaner</url>
+    <tags>phone ||| text manipulation</tags>
+    <webservices></webservices>
+    <short>Remove characters from phone number (spaces, dashes, parentheses) &amp; copy number to clipboard</short>
+  </workflow>
+  <workflow>
     <name>PHP Doc Search</name>
     <version>0.4</version>
     <bundle>com.bstonehill.alfred.php-doc-search</bundle>
@@ -5704,7 +5719,7 @@
     <name>Play iTunes</name>
     <version>1.2</version>
     <bundle>tox.play_itunes</bundle>
-    <updated>1440014033</updated>
+    <updated>1443297216</updated>
     <file>play_itunes_v1.1.alfredworkflow</file>
     <author>hamiseixas</author>
     <applications>iTunes</applications>
