@@ -2794,7 +2794,7 @@
     <name>Funnel</name>
     <version>1.1</version>
     <bundle>com.tedwise.funnel</bundle>
-    <updated>1443986593</updated>
+    <updated>1443986654</updated>
     <file>funnel.alfredworkflow</file>
     <author>ctwise</author>
     <applications></applications>
@@ -6409,12 +6409,12 @@
     <name>Remove Download Warning</name>
     <version>1.0</version>
     <bundle>com.bclev.removedownloadwarning</bundle>
-    <updated>1400182511</updated>
+    <updated>1443993362</updated>
     <file>remove_download_warning_0.alfredworkflow</file>
     <author>BClev</author>
     <applications></applications>
-    <categories>System ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <categories>Development ||| Files and Folders ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/remove-download-warning</url>
     <tags>quarantine ||| gatekeeper ||| security</tags>
     <webservices></webservices>
@@ -8729,6 +8729,21 @@
     <tags>alfred workflow ||| Apple Contacts ||| bluetooth phone call ||| Call Trunk ||| FaceTime ||| Fritz!Box ||| Google Voice ||| GrowlVoice ||| phone amego ||| PushDialer ||| SIP ||| Skype ||| Telephone ||| dialogue ||| yosemite continuity ||| iphone ||| Messages ||| wechat</tags>
     <webservices></webservices>
     <short>The missing universal audio, video call and text workflow for Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Uninstall with CleanMyMac 3</name>
+    <version>1.0</version>
+    <bundle>com.bclev.uninstallwithcmm3</bundle>
+    <updated>1443995653</updated>
+    <file>uninstall_with_cleanmymac_3.alfredworkflow</file>
+    <author>BClev</author>
+    <applications>CleanMyMac 3</applications>
+    <categories>Files and Folders ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/uninstall-cleanmymac-3</url>
+    <tags>uninstall ||| app ||| application ||| applications ||| clean ||| remove ||| Mac ||| cleaner</tags>
+    <webservices></webservices>
+    <short>Select application to uninstall with CleanMyMac 3 while in Alfred. </short>
   </workflow>
   <workflow>
     <name>Unit converter</name>
