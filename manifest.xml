@@ -1248,21 +1248,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1274,6 +1259,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -3004,12 +3004,12 @@
     <name>Glosbe Translation</name>
     <version>1.4</version>
     <bundle>net.deanishe.alfred-glosbe</bundle>
-    <updated>1403212871</updated>
+    <updated>1444046776</updated>
     <file>glosbe_translation.alfredworkflow</file>
     <author>deanishe</author>
     <applications></applications>
     <categories>Reference</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/glosbe-translation</url>
     <tags>translate ||| translation ||| english ||| german ||| french ||| spanish ||| dictionary ||| bilingual</tags>
     <webservices>glosbe.com</webservices>
@@ -4517,21 +4517,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -4544,6 +4529,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6409,7 +6409,7 @@
     <name>Remove Download Warning</name>
     <version>1.0</version>
     <bundle>com.bclev.removedownloadwarning</bundle>
-    <updated>1443993362</updated>
+    <updated>1443996220</updated>
     <file>remove_download_warning_0.alfredworkflow</file>
     <author>BClev</author>
     <applications></applications>
@@ -8177,18 +8177,18 @@
   </workflow>
   <workflow>
     <name>TinyPNG</name>
-    <version>1.2</version>
+    <version>1.3</version>
     <bundle>carlosnz.tinypng</bundle>
-    <updated>1395182594</updated>
-    <file>tiny_png_v1.2.alfredworkflow</file>
+    <updated>1444091652</updated>
+    <file>tiny_png_v1.3.alfredworkflow</file>
     <author>CarlosNZ</author>
     <applications></applications>
     <categories>Development ||| Files and Folders ||| Images ||| Productivity ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
     <url>http://www.packal.org/workflow/tinypng</url>
     <tags>png</tags>
     <webservices>https://tinypng.com/</webservices>
-    <short>Compress PNG image files using the online TinyPNG.com service</short>
+    <short>Compress PNG or JPG image files using the online TinyPNG.com service</short>
   </workflow>
   <workflow>
     <name>Title Case Server</name>
@@ -8734,7 +8734,7 @@
     <name>Uninstall with CleanMyMac 3</name>
     <version>1.0</version>
     <bundle>com.bclev.uninstallwithcmm3</bundle>
-    <updated>1443995653</updated>
+    <updated>1443996289</updated>
     <file>uninstall_with_cleanmymac_3.alfredworkflow</file>
     <author>BClev</author>
     <applications>CleanMyMac 3</applications>
