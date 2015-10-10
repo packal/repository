@@ -379,7 +379,7 @@
     <name>Alfred URI Parser</name>
     <version>1.0</version>
     <bundle>com.dk.URIParser</bundle>
-    <updated>1444470210</updated>
+    <updated>1444507530</updated>
     <file>uri-parser.alfredworkflow</file>
     <author>dkulkarni</author>
     <applications></applications>
@@ -388,7 +388,7 @@
     <url>http://www.packal.org/workflow/alfred-uri-parser</url>
     <tags>URI ||| ssh ||| http</tags>
     <webservices></webservices>
-    <short>A URI parser for Alfred</short>
+    <short>Splits URI into host, port and path. Copy any of the URI components into clipboard.</short>
   </workflow>
   <workflow>
     <name>Alfred Workflow Builder QuickRef</name>
@@ -721,6 +721,21 @@
     <short>List, search and run/open AppleScripts for the active application</short>
   </workflow>
   <workflow>
+    <name>Asana Workflow</name>
+    <version>1.0</version>
+    <bundle>com.herokuapp.jotc.asana</bundle>
+    <updated>1444488193</updated>
+    <file>asana.alfredworkflow</file>
+    <author>7Joe7</author>
+    <applications>https://github.com/7Joe7/AnyBar/releases/download/0.1.4-J/AnyBar.app.zip</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/asana-workflow</url>
+    <tags>gtd ||| Asana ||| AnyBar ||| Atlassian Jira</tags>
+    <webservices></webservices>
+    <short>Advanced workflow for Asana with GTD principles (optionally integrates also with Atlassian Jira and AnyBar)</short>
+  </workflow>
+  <workflow>
     <name>ASCII smileys ツ</name>
     <version>0.1</version>
     <bundle>com.thomaspeikert.ascii_smileys</bundle>
@@ -1006,21 +1021,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -1034,6 +1034,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -3109,7 +3124,7 @@
     <name>Google Drive</name>
     <version>0.5</version>
     <bundle>com.drive.azai91</bundle>
-    <updated>1444160232</updated>
+    <updated>1444517558</updated>
     <file>google_drive.alfredworkflow</file>
     <author>azai91</author>
     <applications></applications>
@@ -8327,21 +8342,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>0.1</version>
-    <bundle>uk.co.clokey.alfredworkflow</bundle>
-    <updated>1399316811</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>clokey74</author>
-    <applications></applications>
-    <categories>System</categories>
-    <osx>Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys</url>
-    <tags>fn ||| function key</tags>
-    <webservices></webservices>
-    <short>Toggle the fn key globally</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>1.0</version>
     <bundle>com.tanseycg.togglefunctionkeys</bundle>
     <updated>1422540315</updated>
@@ -8354,6 +8354,21 @@
     <tags>function keys</tags>
     <webservices></webservices>
     <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>0.1</version>
+    <bundle>uk.co.clokey.alfredworkflow</bundle>
+    <updated>1399316811</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>clokey74</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys</url>
+    <tags>fn ||| function key</tags>
+    <webservices></webservices>
+    <short>Toggle the fn key globally</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
