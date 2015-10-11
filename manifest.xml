@@ -1278,21 +1278,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1304,6 +1289,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -1967,9 +1967,9 @@
   </workflow>
   <workflow>
     <name>DJ Pedro</name>
-    <version>1.41</version>
+    <version>1.42</version>
     <bundle>com.dotson.DJPedro</bundle>
-    <updated>1422810135</updated>
+    <updated>1444596793</updated>
     <file>dj_pedro.alfredworkflow</file>
     <author>smirky</author>
     <applications>iTunes</applications>
@@ -5174,6 +5174,21 @@
     <tags>Ritashugisha ||| OmniTube ||| account ||| search ||| automation</tags>
     <webservices>YouTube</webservices>
     <short>Alfred ⇄ YouTube account automation</short>
+  </workflow>
+  <workflow>
+    <name>Open all my files</name>
+    <version>1.0</version>
+    <bundle>com.amfbyallan</bundle>
+    <updated>1444585873</updated>
+    <file>all_my_files.alfredworkflow</file>
+    <author>allandebono</author>
+    <applications>Finder</applications>
+    <categories>Files and Folders ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-all-my-files</url>
+    <tags>All my files</tags>
+    <webservices></webservices>
+    <short>A means to open the "all my files" folder when any window has focus.</short>
   </workflow>
   <workflow>
     <name>Open clipboard in browser</name>
