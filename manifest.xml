@@ -1278,21 +1278,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1430838734</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Python 2.7.x or above.</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Search Google Chrome bookmarks</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1443111833</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1304,6 +1289,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1430838734</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Python 2.7.x or above.</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -2824,7 +2824,7 @@
     <name>Fullscreen app</name>
     <version>1.0</version>
     <bundle>fr.ketouem.alfred.fullscreen</bundle>
-    <updated>1444661232</updated>
+    <updated>1444661379</updated>
     <file>fullscreen-app.alfredworkflow</file>
     <author>Ketouem</author>
     <applications></applications>
@@ -8564,6 +8564,21 @@
     <tags>translate ||| translation ||| languages ||| language</tags>
     <webservices>Google Translate</webservices>
     <short>Utilize any of Google Translate's languages</short>
+  </workflow>
+  <workflow>
+    <name>Translate API</name>
+    <version>1.0.0</version>
+    <bundle>com.spr.translate.api</bundle>
+    <updated>1444710433</updated>
+    <file>translate_api.alfredworkflow</file>
+    <author>Shawn Patrick Rice</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/translate-api</url>
+    <tags>translate ||| translate api ||| google translate ||| translation</tags>
+    <webservices></webservices>
+    <short>Use the Official Google Translate API in Alfred</short>
   </workflow>
   <workflow>
     <name>Transmission</name>
