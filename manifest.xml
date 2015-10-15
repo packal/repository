@@ -5146,6 +5146,21 @@
     <short>A workflow for keeping track and making notes.</short>
   </workflow>
   <workflow>
+    <name>npm repo</name>
+    <version>1.0</version>
+    <bundle>ru.drfisher.alfred.npmrepo</bundle>
+    <updated>1444941912</updated>
+    <file>npm_modules_repo.alfredworkflow</file>
+    <author>drfisher</author>
+    <applications>nodejs</applications>
+    <categories>Development ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/npm-repo</url>
+    <tags>npm ||| repo ||| repositories ||| nodejs ||| node</tags>
+    <webservices></webservices>
+    <short>Opens a repository page for a npm module by name</short>
+  </workflow>
+  <workflow>
     <name>NSONE</name>
     <version>1.0</version>
     <bundle>com.alexvayl.nsone</bundle>
