@@ -1293,21 +1293,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1430838734</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Python 2.7.x or above.</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Search Google Chrome bookmarks</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1443111833</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1319,6 +1304,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1430838734</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Python 2.7.x or above.</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -5896,21 +5896,6 @@
     <short>Just type: pl [song|artist|album…]</short>
   </workflow>
   <workflow>
-    <name>Play Song</name>
-    <version>3.3.0</version>
-    <bundle>com.calebevans.playsong</bundle>
-    <updated>1429912393</updated>
-    <file>play_song.alfredworkflow</file>
-    <author>caleb531</author>
-    <applications>iTunes</applications>
-    <categories>Audio ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/play-song</url>
-    <tags>itunes ||| music ||| song ||| artist ||| album ||| genre</tags>
-    <webservices></webservices>
-    <short>Quickly play songs in iTunes</short>
-  </workflow>
-  <workflow>
     <name>Pocket for Alfred</name>
     <version>4.6</version>
     <bundle>com.fniephaus.pocket</bundle>
@@ -8462,21 +8447,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -8489,6 +8459,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
@@ -9212,9 +9197,9 @@
   </workflow>
   <workflow>
     <name>VM Control</name>
-    <version>1.3</version>
+    <version>1.4</version>
     <bundle>com.fniephaus.vmcontrol</bundle>
-    <updated>1445865274</updated>
+    <updated>1445865372</updated>
     <file>vm-control-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications>VirtualBox ||| Parallels Desktop for Mac</applications>
@@ -9644,21 +9629,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>Controls Youtube Videos loaded in Google Chrome</short>
-  </workflow>
-  <workflow>
-    <name>YouVersion Suggest</name>
-    <version>4.0.0</version>
-    <bundle>com.calebevans.youversionsuggest</bundle>
-    <updated>1439695165</updated>
-    <file>youversion_suggest.alfredworkflow</file>
-    <author>caleb531</author>
-    <applications></applications>
-    <categories>Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/youversion-suggest</url>
-    <tags>Bible ||| search</tags>
-    <webservices></webservices>
-    <short>Search for any Bible reference quickly and easily</short>
   </workflow>
   <workflow>
     <name>ZenDesk</name>
