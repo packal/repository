@@ -1338,21 +1338,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1364,6 +1349,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -2476,6 +2476,21 @@
     <short>Quickly execute Fabric tasks</short>
   </workflow>
   <workflow>
+    <name>Faker</name>
+    <version>1.0.0</version>
+    <bundle>com.arbitrarydefinitions.faker</bundle>
+    <updated>1446417618</updated>
+    <file>faker.alfredworkflow</file>
+    <author>kejadlen</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/faker</url>
+    <tags>faker</tags>
+    <webservices></webservices>
+    <short>Generates fake data for security questions, testing, etc.</short>
+  </workflow>
+  <workflow>
     <name>Fakeum</name>
     <version>1.1</version>
     <bundle>net.deanishe.alfred-fakeum</bundle>
@@ -2809,7 +2824,7 @@
     <name>Forecast</name>
     <version>1.0.0</version>
     <bundle>com.kejadlen.forecast</bundle>
-    <updated>1446407593</updated>
+    <updated>1446407652</updated>
     <file>forecast.alfredworkflow</file>
     <author>kejadlen</author>
     <applications></applications>
