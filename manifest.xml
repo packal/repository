@@ -3212,6 +3212,21 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448470873</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
     <updated>1448447772</updated>
@@ -3254,6 +3269,21 @@
     <tags>Gmail ||| email ||| Reading ||| list</tags>
     <webservices>Google API ||| Gmail</webservices>
     <short>Manage your Gmail inbox with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>go code</name>
+    <version>0.1</version>
+    <bundle>geta_coding_fasta</bundle>
+    <updated>1448469632</updated>
+    <file>go_code.alfredworkflow</file>
+    <author>spam</author>
+    <applications>CodeKit ||| SourceTree ||| KomodoIDE ||| Terminal ||| Google Chrome ||| virtualenvwrapper ||| virtualenv</applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/go-code</url>
+    <tags>python ||| virtualenv ||| virtual environment ||| virtualenvwrapper ||| developer</tags>
+    <webservices></webservices>
+    <short>Initialize Python coding environment (virtualenv) open toolset (IDE / SASS Compiler / SourceRepo)</short>
   </workflow>
   <workflow>
     <name>Go To Here</name>
