@@ -3079,7 +3079,7 @@
     <name>Geocoder</name>
     <version>1.0</version>
     <bundle>com.apple.alfred2.workflow.geo</bundle>
-    <updated>1448823432</updated>
+    <updated>1448832981</updated>
     <file>geocoder.alfredworkflow</file>
     <author>Acidham</author>
     <applications>JSON Helper ||| Location Helper</applications>
@@ -3689,6 +3689,21 @@
     <tags>terminal ||| utility ||| hiddenfiles</tags>
     <webservices></webservices>
     <short>This wokflow shows or hides hidden files in Finder</short>
+  </workflow>
+  <workflow>
+    <name>Highlight Search Results in Preview.app</name>
+    <version>0.1</version>
+    <bundle>com.sanjeevverma.searchPDF</bundle>
+    <updated>1448858772</updated>
+    <file>highlight_search_results_in_preview.app_.alfredworkflow</file>
+    <author>sanjeevverma1</author>
+    <applications>Preview</applications>
+    <categories>Files and Folders ||| Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/highlight-search-results-previewapp</url>
+    <tags>PDF ||| search ||| highlight ||| find ||| productivity</tags>
+    <webservices></webservices>
+    <short>Send Alfred Query as Keyword Search to Preview.app. Clicking on a search result in Alfred triggers PDF file to be opened in Preview/default reader &amp; returns all HIGHLIGHTED search results. </short>
   </workflow>
   <workflow>
     <name>Homebrew</name>
@@ -7114,7 +7129,7 @@
     <name>Safirechrome</name>
     <version>1.0</version>
     <bundle>com.apple.alfred2.workflow.safirechrome</bundle>
-    <updated>1448626093</updated>
+    <updated>1448832566</updated>
     <file>safirechrome.alfredworkflow</file>
     <author>Acidham</author>
     <applications></applications>
@@ -7123,7 +7138,7 @@
     <url>http://www.packal.org/workflow/safirechrome</url>
     <tags></tags>
     <webservices></webservices>
-    <short>Safirechrome opens and URL from frontmost Browser or a new URL in Safari, Chrome or Firefox</short>
+    <short>Safirechrome opens an URL from frontmost Browser or a new URL in Safari, Chrome or Firefox</short>
   </workflow>
   <workflow>
     <name>Say</name>
