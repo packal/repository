@@ -1383,21 +1383,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1430838734</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Python 2.7.x or above.</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Search Google Chrome bookmarks</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1443111833</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1409,6 +1394,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1430838734</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Python 2.7.x or above.</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -4351,6 +4351,21 @@
     <short>A Jira Task Manager for Alfred</short>
   </workflow>
   <workflow>
+    <name>Jisho v1.0</name>
+    <version>1.0</version>
+    <bundle>com.interly.jisho</bundle>
+    <updated>1450080433</updated>
+    <file>jisho_v1.0.alfredworkflow</file>
+    <author>kylesezhi</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/jisho-v10</url>
+    <tags>japanese ||| english ||| dictionary ||| translate ||| Reference</tags>
+    <webservices>jisho.org</webservices>
+    <short>Translate English and Japanese words with Jisho.org</short>
+  </workflow>
+  <workflow>
     <name>Jorudan Train Search</name>
     <version>1.0</version>
     <bundle>ws.takuro.app.alfred.workflow.jorudan</bundle>
@@ -6901,6 +6916,21 @@
     <short>Proof of concept to make a script filter update itself without further user input</short>
   </workflow>
   <workflow>
+    <name>Resize Image</name>
+    <version>1.0</version>
+    <bundle>com.apple.alfred2.workflow.resizeimage</bundle>
+    <updated>1450122314</updated>
+    <file>resize_image.alfredworkflow</file>
+    <author>Acidham</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Images</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/resize-image</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Resize an image, selected in Finder, to a target width</short>
+  </workflow>
+  <workflow>
     <name>Resolve URL</name>
     <version>1.4</version>
     <bundle>net.deanishe.alfred-resolve-url</bundle>
@@ -8897,21 +8927,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>0.1</version>
-    <bundle>uk.co.clokey.alfredworkflow</bundle>
-    <updated>1399316811</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>clokey74</author>
-    <applications></applications>
-    <categories>System</categories>
-    <osx>Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys</url>
-    <tags>fn ||| function key</tags>
-    <webservices></webservices>
-    <short>Toggle the fn key globally</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>1.0</version>
     <bundle>com.tanseycg.togglefunctionkeys</bundle>
     <updated>1422540315</updated>
@@ -8924,6 +8939,21 @@
     <tags>function keys</tags>
     <webservices></webservices>
     <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>0.1</version>
+    <bundle>uk.co.clokey.alfredworkflow</bundle>
+    <updated>1399316811</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>clokey74</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys</url>
+    <tags>fn ||| function key</tags>
+    <webservices></webservices>
+    <short>Toggle the fn key globally</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
