@@ -1383,21 +1383,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1409,6 +1394,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -5731,6 +5731,21 @@
     <short>Quickly open any app in another language (e.g. Contacts in Danish, CoverScout in German…)</short>
   </workflow>
   <workflow>
+    <name>Open Incognito Window</name>
+    <version>1.0</version>
+    <bundle>incog420</bundle>
+    <updated>1450138274</updated>
+    <file>chrome_incognito_window.alfredworkflow</file>
+    <author>Nedwood</author>
+    <applications>Google Chrome</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-incognito-window</url>
+    <tags>chrome ||| browsers ||| privacy ||| Private Mode ||| incognito</tags>
+    <webservices></webservices>
+    <short>Open an Incognito Window in Chrome</short>
+  </workflow>
+  <workflow>
     <name>Open Multiple Projects</name>
     <version>1.4.0</version>
     <bundle>com.khaliqgant.openproject</bundle>
@@ -6919,7 +6934,7 @@
     <name>Resize Image</name>
     <version>1.0</version>
     <bundle>com.apple.alfred2.workflow.resizeimage</bundle>
-    <updated>1450122894</updated>
+    <updated>1450175492</updated>
     <file>resize_image.alfredworkflow</file>
     <author>Acidham</author>
     <applications></applications>
@@ -9857,9 +9872,9 @@
   </workflow>
   <workflow>
     <name>WebScreenshot</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <bundle>com.vitorgalvao.alfred.webscreenshot</bundle>
-    <updated>1449686533</updated>
+    <updated>1450206074</updated>
     <file>webscreenshot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
