@@ -1924,7 +1924,7 @@
     <name>Date Calculator</name>
     <version>2.5.6</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1429250115</updated>
+    <updated>1450805499</updated>
     <file>date_calculator.alfredworkflow</file>
     <author>MuppetGate</author>
     <applications></applications>
@@ -4354,7 +4354,7 @@
     <name>Jisho v1.0</name>
     <version>1.0</version>
     <bundle>com.interly.jisho</bundle>
-    <updated>1450080433</updated>
+    <updated>1450741565</updated>
     <file>jisho_v1.0.alfredworkflow</file>
     <author>kylesezhi</author>
     <applications></applications>
@@ -10094,6 +10094,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>An Alfred workflow that helps you search World of Warcraft® database provided by wowhead.com.</short>
+  </workflow>
+  <workflow>
+    <name>Wunderlist Workflow for Alfred</name>
+    <version>0.5.1</version>
+    <bundle>com.ipaterson.alfred.wunderlist</bundle>
+    <updated>1450741629</updated>
+    <file>wunderlist.alfredworkflow</file>
+    <author>ipaterson</author>
+    <applications>Wunderlist 3 ||| Wunderlist</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/wunderlist-workflow-alfred</url>
+    <tags>wunderlist ||| todo ||| python ||| task management</tags>
+    <webservices>Wunderlist</webservices>
+    <short>Unbelievably fast entry for tasks with due dates, reminders, and recurrence in Wunderlist</short>
   </workflow>
   <workflow>
     <name>Wunderlist3.alfredworkflow</name>
