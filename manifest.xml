@@ -481,6 +481,21 @@
     <short>Pay and charge friends easily in venmo</short>
   </workflow>
   <workflow>
+    <name>Alfred.QRCode</name>
+    <version>1.2</version>
+    <bundle>com.hilen.qrcode</bundle>
+    <updated>1451399838</updated>
+    <file>qr_code.alfredworkflow</file>
+    <author>HilenLai</author>
+    <applications>Python</applications>
+    <categories>Development ||| Files and Folders ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfredqrcode</url>
+    <tags>qrcode ||| image</tags>
+    <webservices></webservices>
+    <short>A QRcode generator with python-qrcode for Alfred Workflows</short>
+  </workflow>
+  <workflow>
     <name>alfred2-layout</name>
     <version>1.4</version>
     <bundle>de.leanovate.alfred.layout</bundle>
@@ -1922,21 +1937,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.5.8</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1450805593</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -1949,6 +1949,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.5.8</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1450805593</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -7831,6 +7846,21 @@
     <short>Invoke PopClip</short>
   </workflow>
   <workflow>
+    <name>shrug</name>
+    <version>1.0.0</version>
+    <bundle>com.darrinholst.aflred.shrug</bundle>
+    <updated>1451481014</updated>
+    <file>shrug.alfredworkflow</file>
+    <author>darrinholst</author>
+    <applications></applications>
+    <categories>Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/shrug</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Copies ¯\_(ツ)_/¯ to the clipboard and pastes it to the frontmost app</short>
+  </workflow>
+  <workflow>
     <name>Simple Screen Capture</name>
     <version>1.0</version>
     <bundle>nu.fickla.SimpleScreenCapture</bundle>
@@ -9032,21 +9062,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -9059,6 +9074,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
