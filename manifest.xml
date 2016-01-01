@@ -6061,6 +6061,21 @@
     <short>Generate password from string</short>
   </workflow>
   <workflow>
+    <name>Password Generator</name>
+    <version>1.0</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451620574</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
+    <webservices></webservices>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 10 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
     <name>PasswordPusher</name>
     <version>1.0</version>
     <bundle>com.pglombardo.pwpush</bundle>
@@ -9199,7 +9214,7 @@
     <name>Tower Repositories</name>
     <version>2.5</version>
     <bundle>net.cjlucas.alfred.tower</bundle>
-    <updated>1451503633</updated>
+    <updated>1451503692</updated>
     <file>tower-alfred-workflow.alfredworkflow</file>
     <author>cjlucas</author>
     <applications>Tower</applications>
