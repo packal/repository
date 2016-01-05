@@ -9226,6 +9226,21 @@
     <short>Search Google and return top 4 results inside alfred 2 window</short>
   </workflow>
   <workflow>
+    <name>Top Number Open Files Workflow</name>
+    <version>1.0</version>
+    <bundle>com.customct.TopOpenFiles</bundle>
+    <updated>1451991074</updated>
+    <file>topopenfilesworkflow.alfredworkflow</file>
+    <author>raguay</author>
+    <applications></applications>
+    <categories>System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/top-number-open-files-workflow</url>
+    <tags>lsof ||| open files</tags>
+    <webservices></webservices>
+    <short>Lists the processes with the most files open.</short>
+  </workflow>
+  <workflow>
     <name>Torrent</name>
     <version>0.2</version>
     <bundle>com.bowinther.torrent</bundle>
