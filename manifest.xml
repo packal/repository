@@ -4306,6 +4306,21 @@
     <short>Plays a random track from an album or podcast, or a random album from a genre</short>
   </workflow>
   <workflow>
+    <name>iTunes Rating</name>
+    <version>1.0</version>
+    <bundle>com.artform.itunes-rating</bundle>
+    <updated>1452156614</updated>
+    <file>itunes_rating.alfredworkflow</file>
+    <author>artform</author>
+    <applications>iTunes</applications>
+    <categories>Audio</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/itunes-rating</url>
+    <tags>itunes ||| rating ||| star</tags>
+    <webservices></webservices>
+    <short>Uses a hotkey to apply a rating to the current track. If it's less than 3, it's goes to the next track automatically.</short>
+  </workflow>
+  <workflow>
     <name>iTunes Seeking</name>
     <version>1.0</version>
     <bundle>com.tylast.itunesseeking</bundle>
@@ -6814,7 +6829,7 @@
     <name>Recent Documents</name>
     <version>1.4</version>
     <bundle>com.tedwise.recentdocs</bundle>
-    <updated>1452094094</updated>
+    <updated>1452094152</updated>
     <file>recent_documents.alfredworkflow</file>
     <author>ctwise</author>
     <applications>Alfred ||| OS/X</applications>
