@@ -6167,9 +6167,9 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.1</version>
+    <version>0.2</version>
     <bundle>pl.intrepidus.pass</bundle>
-    <updated>1452837247</updated>
+    <updated>1453096572</updated>
     <file>pass.alfredworkflow</file>
     <author>seeg</author>
     <applications>pass</applications>
@@ -10079,6 +10079,21 @@
     <tags>vpn</tags>
     <webservices></webservices>
     <short>Connect &amp; Disconnect VPNs</short>
+  </workflow>
+  <workflow>
+    <name>VPN Switch</name>
+    <version>1.0</version>
+    <bundle>com.flyeek.vpn-switch</bundle>
+    <updated>1453084235</updated>
+    <file>vpn_switch.alfredworkflow</file>
+    <author>flyeek</author>
+    <applications></applications>
+    <categories>Networking</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/vpn-switch</url>
+    <tags>vpn</tags>
+    <webservices></webservices>
+    <short>Switch VPN on/off</short>
   </workflow>
   <workflow>
     <name>VPN Toggle</name>
