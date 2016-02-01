@@ -1126,21 +1126,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -1154,6 +1139,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1428,21 +1428,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1454,6 +1439,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -1997,21 +1997,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.5.8</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1450805593</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -2024,6 +2009,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.5.8</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1450805593</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -3437,21 +3437,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1448471652</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
     <updated>1448447772</updated>
@@ -3464,6 +3449,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448471652</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -5132,21 +5132,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.8</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1413943521</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -5159,6 +5144,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.8</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1413943521</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6091,6 +6091,21 @@
     <short>A workflow to open the mail list site 'YMLP' in Google Chrome</short>
   </workflow>
   <workflow>
+    <name>opencc (chs ↔ cht)</name>
+    <version>1.0</version>
+    <bundle>com.shouya.opencc</bundle>
+    <updated>1454315295</updated>
+    <file>opencc.alfredworkflow</file>
+    <author>shouya</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/opencc-chs-cht</url>
+    <tags>Chinese ||| text manipulation ||| opencc</tags>
+    <webservices></webservices>
+    <short>convert text between simplified and traditional chinese (and copy)</short>
+  </workflow>
+  <workflow>
     <name>Order of Magnituce</name>
     <version>0.5</version>
     <bundle>tdhopper.order-of-magnitude</bundle>
@@ -6242,21 +6257,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
-    <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
-    <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.0</version>
     <bundle>org.kollectiv.genpass</bundle>
     <updated>1416609016</updated>
@@ -6269,6 +6269,21 @@
     <tags>password generator</tags>
     <webservices></webservices>
     <short>Generate password from string</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
+    <webservices></webservices>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -9229,7 +9244,7 @@
     <name>Titleize</name>
     <version>1.0.1</version>
     <bundle>com.bartjacobs.titleize</bundle>
-    <updated>1454074693</updated>
+    <updated>1454074753</updated>
     <file>titleize.alfredworkflow</file>
     <author>bartjacobs</author>
     <applications></applications>
@@ -9332,21 +9347,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>0.1</version>
-    <bundle>uk.co.clokey.alfredworkflow</bundle>
-    <updated>1399316811</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>clokey74</author>
-    <applications></applications>
-    <categories>System</categories>
-    <osx>Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys</url>
-    <tags>fn ||| function key</tags>
-    <webservices></webservices>
-    <short>Toggle the fn key globally</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>1.0</version>
     <bundle>com.tanseycg.togglefunctionkeys</bundle>
     <updated>1422540315</updated>
@@ -9359,6 +9359,21 @@
     <tags>function keys</tags>
     <webservices></webservices>
     <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>0.1</version>
+    <bundle>uk.co.clokey.alfredworkflow</bundle>
+    <updated>1399316811</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>clokey74</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys</url>
+    <tags>fn ||| function key</tags>
+    <webservices></webservices>
+    <short>Toggle the fn key globally</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
