@@ -139,7 +139,7 @@
     <name>Add to Fantastical</name>
     <version>1.0</version>
     <bundle>com.dean-christensen.fantastical2</bundle>
-    <updated>1456263725</updated>
+    <updated>1456330285</updated>
     <file>add_to_fantastical.alfredworkflow</file>
     <author>ding</author>
     <applications>Fantastical 2</applications>
@@ -5434,7 +5434,7 @@
     <name>moment</name>
     <version>1.1</version>
     <bundle>com.lostjs.moment</bundle>
-    <updated>1456315574</updated>
+    <updated>1456315633</updated>
     <file>moment.alfredworkflow</file>
     <author>perfectworks</author>
     <applications></applications>
@@ -7484,6 +7484,21 @@
     <tags>reverse dictionary ||| dictionary ||| onelook ||| definition</tags>
     <webservices>onelook.com</webservices>
     <short>Queries the OneLook reverse dictionary, and displays the results.</short>
+  </workflow>
+  <workflow>
+    <name>RGB to Hex</name>
+    <version>0.1</version>
+    <bundle>com.sonicwu.rgb2hex</bundle>
+    <updated>1456334234</updated>
+    <file>rgb_to_hex.alfredworkflow</file>
+    <author>sonicwu</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/rgb-hex</url>
+    <tags>rgb ||| hex</tags>
+    <webservices></webservices>
+    <short>Convert RGB values of a color to a hexadecimal string</short>
   </workflow>
   <workflow>
     <name>RightClick</name>
