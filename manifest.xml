@@ -1171,21 +1171,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -1199,6 +1184,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1488,21 +1488,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1514,6 +1499,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -3512,21 +3512,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1448471652</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
     <updated>1448447772</updated>
@@ -3539,6 +3524,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448471652</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -5912,9 +5912,9 @@
   </workflow>
   <workflow>
     <name>NumToCYN</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>Yourtion.tools.cny</bundle>
-    <updated>1456545966</updated>
+    <updated>1456546092</updated>
     <file>ren_min_bi_jin_e_da_xie_.alfredworkflow</file>
     <author>Yourtion</author>
     <applications></applications>
@@ -6254,6 +6254,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Convert a number to natural language (rounded to any number of places)</short>
+  </workflow>
+  <workflow>
+    <name>OSM Element</name>
+    <version>1.0</version>
+    <bundle>biz.skowron.osmelement</bundle>
+    <updated>1456571173</updated>
+    <file>osm_element.alfredworkflow</file>
+    <author>thomersch</author>
+    <applications>Default browser</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/osm-element</url>
+    <tags>OpenStreetMap ||| OSM</tags>
+    <webservices>OpenStreetMap</webservices>
+    <short>Opening OpenStreetMap Elements by ID</short>
   </workflow>
   <workflow>
     <name>Package Managers</name>
