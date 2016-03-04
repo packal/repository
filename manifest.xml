@@ -7804,7 +7804,7 @@
     <name>Safirechrome</name>
     <version>1.2</version>
     <bundle>com.apple.alfred2.workflow.safirechrome</bundle>
-    <updated>1457091015</updated>
+    <updated>1457091170</updated>
     <file>safirechrome.alfredworkflow</file>
     <author>Acidham</author>
     <applications></applications>
@@ -7813,7 +7813,7 @@
     <url>http://www.packal.org/workflow/safirechrome</url>
     <tags></tags>
     <webservices></webservices>
-    <short>Safirechrome opens an URL from frontmost Browser or a new URL in Safari, Chrome or Firefox</short>
+    <short>Safirechrome opens an URL from frontmost Browser or a new URL in Safari, Chrome, Opera or Firefox</short>
   </workflow>
   <workflow>
     <name>Say</name>
@@ -7994,6 +7994,21 @@
     <tags>search ||| hostels</tags>
     <webservices>hostelworld.com</webservices>
     <short>Provides a `hostel` keyword to search the hostelworld.com database.</short>
+  </workflow>
+  <workflow>
+    <name>search HoudahSpot for</name>
+    <version>1.0</version>
+    <bundle>com.thomas_u.searchhoudahspotfor</bundle>
+    <updated>1457100073</updated>
+    <file>search_houdahspot_for.alfredworkflow</file>
+    <author>Thomas_U</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/search-houdahspot</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>pass a search phrase on to HoudahSpot</short>
   </workflow>
   <workflow>
     <name>Search iTunes Music Store</name>
