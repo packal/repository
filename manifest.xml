@@ -814,7 +814,7 @@
     <name>Apple Reminders</name>
     <version>1.2</version>
     <bundle>com.alfred2.workflow.applereminder</bundle>
-    <updated>1457359093</updated>
+    <updated>1457359153</updated>
     <file>apple_reminders.alfredworkflow</file>
     <author>Acidham</author>
     <applications></applications>
@@ -2403,21 +2403,6 @@
   <workflow>
     <name>Docker Wizard</name>
     <version>1.0</version>
-    <bundle>keithcirkel.docker-wizard</bundle>
-    <updated>1452852614</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
     <bundle>com.keithcirkel.docker-wizard</bundle>
     <updated>1452852673</updated>
     <file>docker_wizard.alfredworkflow</file>
@@ -2426,6 +2411,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard-0</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>keithcirkel.docker-wizard</bundle>
+    <updated>1452852614</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -8014,16 +8014,16 @@
     <name>Screenshot Settings</name>
     <version>1.0</version>
     <bundle>com.cmchap.screenshotsettings</bundle>
-    <updated>1389349215</updated>
+    <updated>1457376734</updated>
     <file>screenshot_settings.alfredworkflow</file>
     <author>cmchap</author>
     <applications></applications>
     <categories>Images ||| Productivity ||| Utilities</categories>
     <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/screenshot-settings</url>
-    <tags></tags>
+    <tags>screenshots</tags>
     <webservices></webservices>
-    <short>Changes OSX screenshot format and save location</short>
+    <short>Change OSX screenshot format, save location, and shadows on windows</short>
   </workflow>
   <workflow>
     <name>Screenshots</name>
