@@ -1277,18 +1277,18 @@
   </workflow>
   <workflow>
     <name>Browser Switcher</name>
-    <version>0.1</version>
+    <version>0.2.0</version>
     <bundle>com.dearrrfish.browser-switcher-alfredworkflow</bundle>
-    <updated>1456353614</updated>
+    <updated>1457466912</updated>
     <file>browserswitcher.alfredworkflow</file>
     <author>dearrrfish</author>
     <applications></applications>
     <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <osx>Yosemite (10.10.x)</osx>
     <url>http://www.packal.org/workflow/browser-switcher</url>
-    <tags></tags>
+    <tags>browser ||| open urls ||| clipboard</tags>
     <webservices></webservices>
-    <short>Switch between browsers for url of current active tab.</short>
+    <short>Automation scripts of switching tabs between Safari/Chrome; copy tab information; open url from selection or clipboard, etc.</short>
   </workflow>
   <workflow>
     <name>Budget Workflow</name>
@@ -5342,21 +5342,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.8</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1413943521</updated>
@@ -5369,6 +5354,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>markdown note of Github Repo</name>
@@ -6497,21 +6497,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.1</version>
-    <bundle>org.passwordstore.pass</bundle>
-    <updated>1425965476</updated>
-    <file>pass.alfredworkflow</file>
-    <author>mwest</author>
-    <applications>Terminal ||| pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass</url>
-    <tags>password ||| terminal ||| gpg</tags>
-    <webservices></webservices>
-    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.2</version>
     <bundle>pl.intrepidus.pass</bundle>
     <updated>1453096633</updated>
@@ -6524,6 +6509,21 @@
     <tags>password ||| pass</tags>
     <webservices></webservices>
     <short>Pass (the standard Unix password manager) integration</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.1</version>
+    <bundle>org.passwordstore.pass</bundle>
+    <updated>1425965476</updated>
+    <file>pass.alfredworkflow</file>
+    <author>mwest</author>
+    <applications>Terminal ||| pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass</url>
+    <tags>password ||| terminal ||| gpg</tags>
+    <webservices></webservices>
+    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -10799,6 +10799,21 @@
     <tags>Mac ||| Wi-Fi</tags>
     <webservices></webservices>
     <short>Set Mac's Wi-Fi function to ON/OFF.</short>
+  </workflow>
+  <workflow>
+    <name>Wi-Fi Restart</name>
+    <version>1.0</version>
+    <bundle>me.smarsh.wifi-restart</bundle>
+    <updated>1457456054</updated>
+    <file>wi-fi_restart.alfredworkflow</file>
+    <author>sam-marsh</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/wi-fi-restart</url>
+    <tags>Wifi</tags>
+    <webservices></webservices>
+    <short>Turns it off and on again.</short>
   </workflow>
   <workflow>
     <name>Wikify</name>
