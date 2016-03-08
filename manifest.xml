@@ -1186,21 +1186,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -1214,6 +1199,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1952,9 +1952,9 @@
   </workflow>
   <workflow>
     <name>Copy URL</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <bundle>com.fallroot.copyurl</bundle>
-    <updated>1457421207</updated>
+    <updated>1457421313</updated>
     <file>copyurl.alfredworkflow</file>
     <author>fallroot</author>
     <applications>Google Chrome ||| Safari</applications>
@@ -3194,6 +3194,21 @@
     <tags>focus</tags>
     <webservices></webservices>
     <short>Toggles the Focus app status.</short>
+  </workflow>
+  <workflow>
+    <name>Focus Workflow (heyfocus.com)</name>
+    <version>1.0</version>
+    <bundle>com.mfaarkrog.alfredapp-workflows.focus</bundle>
+    <updated>1457421792</updated>
+    <file>focus.alfredworkflow</file>
+    <author>MFaarkrog</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/focus-workflow-heyfocuscom</url>
+    <tags>focus</tags>
+    <webservices></webservices>
+    <short>Shortcuts for Focus (heyfocus.com)</short>
   </workflow>
   <workflow>
     <name>Folder2ISO</name>
