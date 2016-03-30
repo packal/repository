@@ -1291,17 +1291,17 @@
     <short>Control boot2docker</short>
   </workflow>
   <workflow>
-    <name>Browser Switcher</name>
-    <version>0.2.3</version>
+    <name>Browser Sugar</name>
+    <version>0.3.0</version>
     <bundle>com.dearrrfish.browser-switcher-alfredworkflow</bundle>
-    <updated>1457501593</updated>
-    <file>browserswitcher.alfredworkflow</file>
+    <updated>1459326614</updated>
+    <file>browser_sugar.alfredworkflow</file>
     <author>dearrrfish</author>
     <applications></applications>
     <categories>Productivity ||| Utilities</categories>
     <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/browser-switcher</url>
-    <tags>browser ||| open urls ||| clipboard</tags>
+    <url>http://www.packal.org/workflow/browser-sugar</url>
+    <tags>browser ||| open urls ||| clipboard ||| markdown ||| bookmarks</tags>
     <webservices></webservices>
     <short>Automation scripts of switching tabs between Safari/Chrome; copy tab information; open url from selection or clipboard, etc.</short>
   </workflow>
@@ -1889,6 +1889,21 @@
     <tags>Convert ||| metric ||| imperial ||| currency ||| offline ||| bitcoin</tags>
     <webservices></webservices>
     <short>Convert between different units. No Internet connection required.</short>
+  </workflow>
+  <workflow>
+    <name>Convert Number</name>
+    <version>1.0</version>
+    <bundle>at.robhor.alfred.numbers</bundle>
+    <updated>1459159154</updated>
+    <file>convertnumber.alfredworkflow</file>
+    <author>robhor</author>
+    <applications></applications>
+    <categories>Reference ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/convert-number</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Converts numbers between different bases</short>
   </workflow>
   <workflow>
     <name>Convert OS Paths</name>
