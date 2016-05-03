@@ -1246,21 +1246,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -1274,6 +1259,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -2734,7 +2734,7 @@
     <name>DuckDuckGo with Auto Suggestion</name>
     <version>2.1.0</version>
     <bundle>lorenzschmid.ddgautosuggest</bundle>
-    <updated>1462189573</updated>
+    <updated>1462189633</updated>
     <file>duckduckgo_with_auto_suggestion.alfredworkflow</file>
     <author>lorenzschmid</author>
     <applications></applications>
@@ -10469,6 +10469,21 @@
     <tags>tyme</tags>
     <webservices></webservices>
     <short>Controll Tyme.app</short>
+  </workflow>
+  <workflow>
+    <name>Tunnelblick Toggle</name>
+    <version>1.0</version>
+    <bundle>com.shau-kote.alfred.tunnelblick-toggle</bundle>
+    <updated>1462257073</updated>
+    <file>tunnelblick_toggle.alfredworkflow</file>
+    <author>shaukote</author>
+    <applications>Tunnelblick</applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/tunnelblick-toggle</url>
+    <tags>vpn ||| networking</tags>
+    <webservices></webservices>
+    <short>Check and toggle status of Tunnelblick connections</short>
   </workflow>
   <workflow>
     <name>TurnShoot</name>
