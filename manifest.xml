@@ -3271,6 +3271,21 @@
     <short>Flips typed text upside-down</short>
   </workflow>
   <workflow>
+    <name>Flush</name>
+    <version>1.0</version>
+    <bundle>com.joshtronic.flush.alfred</bundle>
+    <updated>1462917553</updated>
+    <file>flush.alfredworkflow</file>
+    <author>joshtronic</author>
+    <applications></applications>
+    <categories>Development ||| Networking ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/flush</url>
+    <tags>flush ||| flush dns ||| memcache ||| memcached ||| flush memcache ||| flush memcached</tags>
+    <webservices></webservices>
+    <short>Flush stuff, specifically DNS and Memcached</short>
+  </workflow>
+  <workflow>
     <name>Flush DNS</name>
     <version>1.1.3</version>
     <bundle>de.draegerit.alfred.flushdns</bundle>
@@ -7799,6 +7814,21 @@
     <tags>reminders</tags>
     <webservices></webservices>
     <short>Add reminders to the default Reminders list</short>
+  </workflow>
+  <workflow>
+    <name>Reminders</name>
+    <version>0.2</version>
+    <bundle>com.github.jimo1001.alfred-reminders-workflow</bundle>
+    <updated>1462846994</updated>
+    <file>alfred-reminders-workflow-0.2.alfredworkflow</file>
+    <author>jimo1001</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/reminders-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search and create items from Reminders.app</short>
   </workflow>
   <workflow>
     <name>Reminders</name>
