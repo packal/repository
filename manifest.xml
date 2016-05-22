@@ -2237,21 +2237,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>1.0</version>
-    <bundle>de.leenno.datecalculator</bundle>
-    <updated>1450970440</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>LeEnno</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Display or calculate with current date and time.</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>2.5.9</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
     <updated>1459064053</updated>
@@ -2264,6 +2249,21 @@
     <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
     <webservices></webservices>
     <short>A basic date calculator</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>1.0</version>
+    <bundle>de.leenno.datecalculator</bundle>
+    <updated>1450970440</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>LeEnno</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Display or calculate with current date and time.</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -7922,21 +7922,6 @@
   </workflow>
   <workflow>
     <name>Reminders</name>
-    <version>0.2</version>
-    <bundle>com.github.jimo1001.alfred-reminders-workflow</bundle>
-    <updated>1462846994</updated>
-    <file>alfred-reminders-workflow-0.2.alfredworkflow</file>
-    <author>jimo1001</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/reminders-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Search and create items from Reminders.app</short>
-  </workflow>
-  <workflow>
-    <name>Reminders</name>
     <version>59</version>
     <bundle>com.surrealroad.alfred-reminder</bundle>
     <updated>1444947673</updated>
@@ -7949,6 +7934,21 @@
     <tags>reminders</tags>
     <webservices></webservices>
     <short>This creates a new reminder in Reminders.app</short>
+  </workflow>
+  <workflow>
+    <name>Reminders</name>
+    <version>0.2</version>
+    <bundle>com.github.jimo1001.alfred-reminders-workflow</bundle>
+    <updated>1462846994</updated>
+    <file>alfred-reminders-workflow-0.2.alfredworkflow</file>
+    <author>jimo1001</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/reminders-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search and create items from Reminders.app</short>
   </workflow>
   <workflow>
     <name>Remote Desktop</name>
@@ -8909,6 +8909,21 @@
     <tags>vpn ||| shimo</tags>
     <webservices></webservices>
     <short>VPN Workflow for Shimo</short>
+  </workflow>
+  <workflow>
+    <name>Shorten URL</name>
+    <version>1.0</version>
+    <bundle>es.nyr.tinyurl</bundle>
+    <updated>1463958016</updated>
+    <file>shorten_url.alfredworkflow</file>
+    <author>Nyr</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/shorten-url</url>
+    <tags>shorten ||| shortener ||| url ||| link</tags>
+    <webservices>TinyURL</webservices>
+    <short>Create a short URL with TinyURL.com</short>
   </workflow>
   <workflow>
     <name>Should I watch this movie advanced?</name>
