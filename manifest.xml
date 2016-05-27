@@ -1578,21 +1578,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1430838734</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Python 2.7.x or above.</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Search Google Chrome bookmarks</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1443111833</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1604,6 +1589,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1430838734</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Python 2.7.x or above.</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Search Google Chrome bookmarks</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -6978,21 +6978,6 @@
   <workflow>
     <name>pass</name>
     <version>0.2</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1453096633</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
-    <version>0.2</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1463165834</updated>
     <file>pass.alfredworkflow</file>
@@ -7004,6 +6989,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.2</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1453096633</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -9137,9 +9137,9 @@
   </workflow>
   <workflow>
     <name>Simple Reminders</name>
-    <version>0.6</version>
+    <version>0.6.1</version>
     <bundle>com.github.jimo1001.alfred-reminders-workflow</bundle>
-    <updated>1464287238</updated>
+    <updated>1464287606</updated>
     <file>alfred-reminders-workflow-0.6.alfredworkflow</file>
     <author>jimo1001</author>
     <applications>Reminders</applications>
