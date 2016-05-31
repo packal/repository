@@ -2237,21 +2237,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.5.9</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1459064053</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -2264,6 +2249,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.5.9</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1459064053</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -8134,7 +8134,7 @@
     <name>RenameAction</name>
     <version>1.1</version>
     <bundle>com.vitorgalvao.alfred.renameaction</bundle>
-    <updated>1399299971</updated>
+    <updated>1464697111</updated>
     <file>renameaction.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
