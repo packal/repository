@@ -1578,21 +1578,6 @@
   <workflow>
     <name>Chrome Bookmarks</name>
     <version>1.0</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1443111833</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
-    <version>1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1430838734</updated>
     <file>chrome_bookmarks.alfredworkflow</file>
@@ -1604,6 +1589,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Search Google Chrome bookmarks</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.0</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1443111833</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -2237,21 +2237,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.5.9</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1459064053</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -2264,6 +2249,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.5.9</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1459064053</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -3347,9 +3347,9 @@
   </workflow>
   <workflow>
     <name>Flush</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.joshtronic.flush.alfred</bundle>
-    <updated>1462917553</updated>
+    <updated>1465920614</updated>
     <file>flush.alfredworkflow</file>
     <author>joshtronic</author>
     <applications></applications>
@@ -5792,21 +5792,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -5819,6 +5804,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -7142,6 +7142,21 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
+    <webservices></webservices>
+    <short>Generate passwords from strings</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
     <version>1.1</version>
     <bundle>com.nicholaspufal.passwordgenerator</bundle>
     <updated>1451674154</updated>
@@ -7169,21 +7184,6 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
-    <webservices></webservices>
-    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -8282,21 +8282,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>1.0</version>
-    <bundle>com.sulaiman.restartapp</bundle>
-    <updated>1464107021</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>sulaiman</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app-0</url>
-    <tags>app relaunch ||| System Helpers</tags>
-    <webservices></webservices>
-    <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>3.1</version>
     <bundle>com.renegaed.restart-app</bundle>
     <updated>1457904373</updated>
@@ -8309,6 +8294,21 @@
     <tags>restart ||| app ||| restart app</tags>
     <webservices></webservices>
     <short>Restart a currently running App</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>1.0</version>
+    <bundle>com.sulaiman.restartapp</bundle>
+    <updated>1464107021</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>sulaiman</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app-0</url>
+    <tags>app relaunch ||| System Helpers</tags>
+    <webservices></webservices>
+    <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -9466,6 +9466,21 @@
     <short>Control SoundCloud via Chrome</short>
   </workflow>
   <workflow>
+    <name>Sourcegraph</name>
+    <version>0.0.1</version>
+    <bundle>com.sourcegraph.workflow</bundle>
+    <updated>1465885936</updated>
+    <file>sourcegraphv0.0.1.alfredworkflow</file>
+    <author>rohanpai</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/sourcegraph</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Sourcegraph Alfred Workflow</short>
+  </workflow>
+  <workflow>
     <name>Spectacle</name>
     <version>1.0</version>
     <bundle>com.apple.alfred2.workflow.spectacle</bundle>
@@ -9481,21 +9496,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.0</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1463985647</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -9509,6 +9509,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.0</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1463985647</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
