@@ -1261,21 +1261,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -1289,6 +1274,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -2297,21 +2297,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>1.0</version>
-    <bundle>de.leenno.datecalculator</bundle>
-    <updated>1450970440</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>LeEnno</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Display or calculate with current date and time.</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>2.5.9</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
     <updated>1459064053</updated>
@@ -2324,6 +2309,21 @@
     <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
     <webservices></webservices>
     <short>A basic date calculator</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>1.0</version>
+    <bundle>de.leenno.datecalculator</bundle>
+    <updated>1450970440</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>LeEnno</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Display or calculate with current date and time.</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -6782,21 +6782,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>org.boneskull.npms</bundle>
-    <updated>1466926753</updated>
-    <file>npms.alfredworkflow</file>
-    <author>boneskull</author>
-    <applications></applications>
-    <categories>Development ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/npms</url>
-    <tags>nodejs ||| node ||| package ||| npm</tags>
-    <webservices>npms.io</webservices>
-    <short>npms.io search</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.1.3</version>
     <bundle>com.sindresorhus.npms</bundle>
     <updated>1467295454</updated>
@@ -6809,6 +6794,21 @@
     <tags>npm ||| npms ||| javascript ||| nodejs</tags>
     <webservices>npms.io</webservices>
     <short>Search for npm packages with npms.io</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>org.boneskull.npms</bundle>
+    <updated>1466926753</updated>
+    <file>npms.alfredworkflow</file>
+    <author>boneskull</author>
+    <applications></applications>
+    <categories>Development ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/npms</url>
+    <tags>nodejs ||| node ||| package ||| npm</tags>
+    <webservices>npms.io</webservices>
+    <short>npms.io search</short>
   </workflow>
   <workflow>
     <name>NSONE</name>
@@ -7352,21 +7352,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
-    <webservices></webservices>
-    <short>Generate passwords from strings</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.1</version>
     <bundle>com.nicholaspufal.passwordgenerator</bundle>
     <updated>1451674154</updated>
@@ -7394,6 +7379,21 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
+    <webservices></webservices>
+    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -8537,21 +8537,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>3.1</version>
-    <bundle>com.renegaed.restart-app</bundle>
-    <updated>1457904373</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>renegaed</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app</url>
-    <tags>restart ||| app ||| restart app</tags>
-    <webservices></webservices>
-    <short>Restart a currently running App</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>1.0</version>
     <bundle>com.sulaiman.restartapp</bundle>
     <updated>1464107021</updated>
@@ -8564,6 +8549,21 @@
     <tags>app relaunch ||| System Helpers</tags>
     <webservices></webservices>
     <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>3.1</version>
+    <bundle>com.renegaed.restart-app</bundle>
+    <updated>1457904373</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>renegaed</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app</url>
+    <tags>restart ||| app ||| restart app</tags>
+    <webservices></webservices>
+    <short>Restart a currently running App</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -9781,21 +9781,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.0</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1463985647</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -9809,6 +9794,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.0</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1463985647</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
@@ -10022,9 +10022,9 @@
   </workflow>
   <workflow>
     <name>Status</name>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <bundle>com.iamemmanouil.statuses</bundle>
-    <updated>1467584792</updated>
+    <updated>1467588495</updated>
     <file>status.alfredworkflow</file>
     <author>iamemmanouil</author>
     <applications></applications>
