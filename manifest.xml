@@ -484,7 +484,7 @@
     <name>alfred-pokedex</name>
     <version>0.3.0</version>
     <bundle>com.vutran.pokedex</bundle>
-    <updated>1469487441</updated>
+    <updated>1469487500</updated>
     <file>pokedex.alfredworkflow</file>
     <author>vutran</author>
     <applications></applications>
@@ -2402,21 +2402,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>1.0</version>
-    <bundle>de.leenno.datecalculator</bundle>
-    <updated>1450970440</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>LeEnno</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Display or calculate with current date and time.</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>2.5.9</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
     <updated>1459064053</updated>
@@ -2429,6 +2414,21 @@
     <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
     <webservices></webservices>
     <short>A basic date calculator</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>1.0</version>
+    <bundle>de.leenno.datecalculator</bundle>
+    <updated>1450970440</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>LeEnno</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Display or calculate with current date and time.</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -7007,21 +7007,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1467897254</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.3.2</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1468264573</updated>
@@ -7034,6 +7019,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1467897254</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io</short>
   </workflow>
   <workflow>
     <name>NSONE</name>
@@ -7592,21 +7592,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.0</version>
-    <bundle>es.nyr.password</bundle>
-    <updated>1463961736</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>Nyr</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-1</url>
-    <tags>password</tags>
-    <webservices></webservices>
-    <short>Simple password generator</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.1</version>
     <bundle>com.nicholaspufal.passwordgenerator</bundle>
     <updated>1451674154</updated>
@@ -7619,6 +7604,21 @@
     <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
     <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.0</version>
+    <bundle>es.nyr.password</bundle>
+    <updated>1463961736</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>Nyr</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-1</url>
+    <tags>password</tags>
+    <webservices></webservices>
+    <short>Simple password generator</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
