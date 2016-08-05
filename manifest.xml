@@ -1351,21 +1351,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -1379,6 +1364,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1712,21 +1712,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>1.1</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1468279033</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>0.1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1467306827</updated>
@@ -1739,6 +1724,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.1</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1468279033</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -5224,7 +5224,7 @@
     <name>Iris</name>
     <version>2.0</version>
     <bundle>com.donsa.imdb</bundle>
-    <updated>1470334821</updated>
+    <updated>1470334877</updated>
     <file>iris.alfredworkflow</file>
     <author>donsa</author>
     <applications></applications>
@@ -6017,21 +6017,6 @@
   </workflow>
   <workflow>
     <name>Localhost</name>
-    <version>1.0</version>
-    <bundle>com.kwtucker.localhost</bundle>
-    <updated>1470273374</updated>
-    <file>local_host.alfredworkflow</file>
-    <author>kwtucker</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/localhost-0</url>
-    <tags>localhost ||| dev</tags>
-    <webservices></webservices>
-    <short>Opens http://localhost: with your port passed in as a argument.</short>
-  </workflow>
-  <workflow>
-    <name>Localhost</name>
     <version>1.1</version>
     <bundle>com.victorhazbun.localhost</bundle>
     <updated>1452964276</updated>
@@ -6044,6 +6029,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open localhost at specified port</short>
+  </workflow>
+  <workflow>
+    <name>Localhost</name>
+    <version>1.0</version>
+    <bundle>com.kwtucker.localhost</bundle>
+    <updated>1470273374</updated>
+    <file>local_host.alfredworkflow</file>
+    <author>kwtucker</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/localhost-0</url>
+    <tags>localhost ||| dev</tags>
+    <webservices></webservices>
+    <short>Opens http://localhost: with your port passed in as a argument.</short>
   </workflow>
   <workflow>
     <name>Lock 1Password</name>
@@ -7637,21 +7637,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.2</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1453096633</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1464620594</updated>
@@ -7664,6 +7649,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.2</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1453096633</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -10156,21 +10156,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.0</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1463985647</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -10184,6 +10169,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.0</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1463985647</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
