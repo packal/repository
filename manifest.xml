@@ -1037,21 +1037,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0.1</version>
-    <bundle>com.alfredapp.mdeboer.atom</bundle>
-    <updated>1458942073</updated>
-    <file>atom.alfredworkflow</file>
-    <author>maartendeboer</author>
-    <applications>Atom</applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Simple workflow that allows you to browse and open Atom projects</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>1.0</version>
     <bundle>com.yukihe.workflow.atom</bundle>
     <updated>1459862833</updated>
@@ -1064,6 +1049,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open Folder of current Finder by Atom</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0.1</version>
+    <bundle>com.alfredapp.mdeboer.atom</bundle>
+    <updated>1458942073</updated>
+    <file>atom.alfredworkflow</file>
+    <author>maartendeboer</author>
+    <applications>Atom</applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Simple workflow that allows you to browse and open Atom projects</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -2432,21 +2432,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>1.0</version>
-    <bundle>de.leenno.datecalculator</bundle>
-    <updated>1450970440</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>LeEnno</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Display or calculate with current date and time.</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>2.5.9</version>
     <bundle>muppet.gate.net.DateCalculator</bundle>
     <updated>1459064053</updated>
@@ -2459,6 +2444,21 @@
     <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
     <webservices></webservices>
     <short>A basic date calculator</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>1.0</version>
+    <bundle>de.leenno.datecalculator</bundle>
+    <updated>1450970440</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>LeEnno</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Display or calculate with current date and time.</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -3784,7 +3784,7 @@
     <name>Force Quit</name>
     <version>1.0</version>
     <bundle>com.stephenoakman.forcequit</bundle>
-    <updated>1470493155</updated>
+    <updated>1470657814</updated>
     <file>force_quit.alfredworkflow</file>
     <author>stephenoakman</author>
     <applications></applications>
@@ -3793,7 +3793,7 @@
     <url>http://www.packal.org/workflow/force-quit</url>
     <tags></tags>
     <webservices></webservices>
-    <short>Force quit an application (hold Alt to restart)</short>
+    <short>Force quit an application (hold Alt to restart). Type 'fq' to initiate the workflow.</short>
   </workflow>
   <workflow>
     <name>Force the Trash </name>
@@ -5854,7 +5854,7 @@
     <name>Lazy Link</name>
     <version>1.2.1</version>
     <bundle>com.uniqon.lazylink</bundle>
-    <updated>1470591135</updated>
+    <updated>1470591194</updated>
     <file>lazy_link.alfredworkflow</file>
     <author>Sungmyung Lee</author>
     <applications></applications>
@@ -7712,21 +7712,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.0</version>
-    <bundle>es.nyr.password</bundle>
-    <updated>1463961736</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>Nyr</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-1</url>
-    <tags>password</tags>
-    <webservices></webservices>
-    <short>Simple password generator</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.1</version>
     <bundle>com.nicholaspufal.passwordgenerator</bundle>
     <updated>1451674154</updated>
@@ -7739,6 +7724,21 @@
     <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
     <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.0</version>
+    <bundle>es.nyr.password</bundle>
+    <updated>1463961736</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>Nyr</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-1</url>
+    <tags>password</tags>
+    <webservices></webservices>
+    <short>Simple password generator</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
@@ -10186,21 +10186,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.0</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1463985647</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -10214,6 +10199,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.0</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1463985647</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
@@ -12524,6 +12524,21 @@
     <tags>Mac ||| Wi-Fi</tags>
     <webservices></webservices>
     <short>Set Mac's Wi-Fi function to ON/OFF.</short>
+  </workflow>
+  <workflow>
+    <name>Wi-Fi Control</name>
+    <version>1.0</version>
+    <bundle>com.miromannino.wifi-control</bundle>
+    <updated>1470823220</updated>
+    <file>wi-fi_control.alfredworkflow</file>
+    <author>miromann</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/wi-fi-control</url>
+    <tags>Wifi ||| networking ||| toggle ||| restart ||| reset ||| on ||| off ||| activate ||| deactivate</tags>
+    <webservices></webservices>
+    <short>Alfred workflow to control Wi-Fi. It can turn on, turn off, toggle or restart the Wi-Fi.</short>
   </workflow>
   <workflow>
     <name>Wi-Fi Restart</name>
