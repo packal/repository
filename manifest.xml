@@ -572,9 +572,9 @@
   </workflow>
   <workflow>
     <name>alfred-workflow-todoist</name>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
     <bundle>com.alfred-workflow-todoist</bundle>
-    <updated>1472145435</updated>
+    <updated>1472223135</updated>
     <file>alfred_workflow_todoist.alfredworkflow</file>
     <author>moranje</author>
     <applications></applications>
@@ -2749,7 +2749,7 @@
     <name>Div</name>
     <version>1.0</version>
     <bundle>com.pawelgrzybek.div</bundle>
-    <updated>1472213715</updated>
+    <updated>1472215383</updated>
     <file>div.alfredworkflow</file>
     <author>pawelgrzybek</author>
     <applications></applications>
@@ -4247,21 +4247,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0</version>
-    <bundle>im.cccc.gitignorer</bundle>
-    <updated>1448447772</updated>
-    <file>gitignorer.alfredworkflow</file>
-    <author>chao787</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0.0</version>
     <bundle>de.jandavid.alfred.gitignore</bundle>
     <updated>1448471652</updated>
@@ -4274,6 +4259,21 @@
     <tags>git ||| github</tags>
     <webservices>github.com</webservices>
     <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0</version>
+    <bundle>im.cccc.gitignorer</bundle>
+    <updated>1448447772</updated>
+    <file>gitignorer.alfredworkflow</file>
+    <author>chao787</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -7802,21 +7802,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.3</version>
-    <bundle>org.passwordstore.pass</bundle>
-    <updated>1464620594</updated>
-    <file>pass.alfredworkflow</file>
-    <author>mwest</author>
-    <applications>Terminal ||| pass</applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass</url>
-    <tags>password ||| terminal ||| gpg</tags>
-    <webservices></webservices>
-    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.2</version>
     <bundle>pl.intrepidus.pass</bundle>
     <updated>1453096633</updated>
@@ -7829,6 +7814,21 @@
     <tags>password ||| pass</tags>
     <webservices></webservices>
     <short>Pass (the standard Unix password manager) integration</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.3</version>
+    <bundle>org.passwordstore.pass</bundle>
+    <updated>1464620594</updated>
+    <file>pass.alfredworkflow</file>
+    <author>mwest</author>
+    <applications>Terminal ||| pass</applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass</url>
+    <tags>password ||| terminal ||| gpg</tags>
+    <webservices></webservices>
+    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
