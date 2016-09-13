@@ -421,6 +421,21 @@
     <short>This workflow helps you to track time spent on each project each day. </short>
   </workflow>
   <workflow>
+    <name>Alfred Today</name>
+    <version>3.8</version>
+    <bundle>org.jeef.today</bundle>
+    <updated>1473733433</updated>
+    <file>alfred_today-3.8.0.alfredworkflow</file>
+    <author>jeffsui</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Search ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-today</url>
+    <tags>microsoft office ||| microsoft exchange ||| microsoft ||| outlook ||| calendar ||| schedule ||| google calendar ||| gcal ||| google ||| hangout ||| Skype ||| lync ||| meeting</tags>
+    <webservices></webservices>
+    <short>Loads a daily list of events from Google and/or Exchange calendars</short>
+  </workflow>
+  <workflow>
     <name>Alfred URI Handler</name>
     <version>1.1</version>
     <bundle>com.customct.AlfredURIHandler</bundle>
@@ -2837,14 +2852,14 @@
   </workflow>
   <workflow>
     <name>DLsite Opener</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.fromkk.dlsite</bundle>
-    <updated>1472311634</updated>
+    <updated>1473750435</updated>
     <file>dlsite.alfredworkflow</file>
     <author>bebound</author>
     <applications></applications>
     <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x)</osx>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
     <url>http://www.packal.org/workflow/dlsite-opener</url>
     <tags></tags>
     <webservices></webservices>
@@ -11699,21 +11714,6 @@
     <tags>tmux ||| screen ||| terminal ||| multiplexer</tags>
     <webservices></webservices>
     <short>Alfred workflow to manage tmux sessions, integrated with iTerm2. It can list current sessions, connect to them, kill them or create a new one. The connect or create action actually opens iTerm2 and connects to the session.</short>
-  </workflow>
-  <workflow>
-    <name>Today Menu</name>
-    <version>3.0</version>
-    <bundle>org.jeef.today</bundle>
-    <updated>1473732992</updated>
-    <file>today_menu.alfredworkflow</file>
-    <author>jeffsui</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| Search ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/alfred-today</url>
-    <tags>microsoft office ||| microsoft exchange ||| microsoft ||| outlook ||| calendar ||| schedule ||| google calendar ||| gcal ||| google</tags>
-    <webservices></webservices>
-    <short>Loads a daily list of events from Google and/or Exchange calendars</short>
   </workflow>
   <workflow>
     <name>today&#039;s newsmth.net top 10 hot articles</name>
