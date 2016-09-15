@@ -424,7 +424,7 @@
     <name>Alfred Today</name>
     <version>3.9.3</version>
     <bundle>org.jeef.today</bundle>
-    <updated>1473958818</updated>
+    <updated>1473958877</updated>
     <file>alfred_today-3.9.3.alfredworkflow</file>
     <author>jeffsui</author>
     <applications></applications>
@@ -4574,6 +4574,21 @@
     <tags>google ||| hangout</tags>
     <webservices></webservices>
     <short>Generate a google hangout link via Safari or Google Chrome and place the hangout URL in your clipboard</short>
+  </workflow>
+  <workflow>
+    <name>Google Maps Place Search</name>
+    <version>0.1</version>
+    <bundle>com.invious.gmaps.placesearch</bundle>
+    <updated>1473961755</updated>
+    <file>gmapsplacesearch.alfredworkflow</file>
+    <author>invious</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/google-maps-place-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>simple workflow to take selected or clipboard text and return an address</short>
   </workflow>
   <workflow>
     <name>Google Maps Routes</name>
