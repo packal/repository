@@ -664,7 +664,7 @@
     <name>AlfredBookmarklet</name>
     <version>1.4</version>
     <bundle>com.vitorgalvao.alfred.alfredbookmarklet</bundle>
-    <updated>1448902931</updated>
+    <updated>1475161361</updated>
     <file>alfredbookmarklet.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -934,7 +934,7 @@
     <name>AppFreeze</name>
     <version>1.0.2</version>
     <bundle>com.vitorgalvao.alfred.appfreeze</bundle>
-    <updated>1434363314</updated>
+    <updated>1475160887</updated>
     <file>appfreeze.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -1534,7 +1534,7 @@
     <name>BugNot</name>
     <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.bugnot</bundle>
-    <updated>1421459653</updated>
+    <updated>1475161461</updated>
     <file>bugnot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -1774,7 +1774,7 @@
     <name>CheckSpelling</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.checkspelling</bundle>
-    <updated>1396381614</updated>
+    <updated>1475161230</updated>
     <file>checkspelling.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -2044,7 +2044,7 @@
     <name>CoffeeCoffee</name>
     <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.coffeecoffee</bundle>
-    <updated>1468194452</updated>
+    <updated>1475161417</updated>
     <file>coffeecoffee.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -3049,7 +3049,7 @@
     <name>DownVid</name>
     <version>1.17.1</version>
     <bundle>com.vitorgalvao.alfred.downvid</bundle>
-    <updated>1468340235</updated>
+    <updated>1475161343</updated>
     <file>downvid.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -3347,10 +3347,10 @@
   </workflow>
   <workflow>
     <name>Emoji Taco</name>
-    <version>0.9.30</version>
+    <version>0.9.31</version>
     <bundle>org.jeef.emoji</bundle>
-    <updated>1475149115</updated>
-    <file>emoji_taco-0.9.30.alfredworkflow</file>
+    <updated>1475149218</updated>
+    <file>emoji_taco-0.9.31.alfredworkflow</file>
     <author>jeffsui</author>
     <applications></applications>
     <categories>Productivity</categories>
@@ -4039,7 +4039,7 @@
     <name>FormatSize</name>
     <version>1.3.0</version>
     <bundle>com.vitorgalvao.alfred.formatsize</bundle>
-    <updated>1467807730</updated>
+    <updated>1475161599</updated>
     <file>formatsize.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -4397,21 +4397,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1448471652</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
     <updated>1448447772</updated>
@@ -4424,6 +4409,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448471652</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -5344,7 +5344,7 @@
     <name>IncognitoClone</name>
     <version>1.1.3</version>
     <bundle>com.vitorgalvao.alfred.incognitoclone</bundle>
-    <updated>1468365854</updated>
+    <updated>1475161300</updated>
     <file>incognitoclone.alfredworkflow</file>
     <author>vitor</author>
     <applications>Google Chrome</applications>
@@ -6019,7 +6019,7 @@
     <name>LabelColor</name>
     <version>1.1.0</version>
     <bundle>com.vitorgalvao.alfred.labelcolor</bundle>
-    <updated>1473518774</updated>
+    <updated>1475161164</updated>
     <file>labelcolor.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -6274,7 +6274,7 @@
     <name>LinkClean</name>
     <version>1.1</version>
     <bundle>com.vitorgalvao.alfred.linkclean</bundle>
-    <updated>1398124391</updated>
+    <updated>1475161579</updated>
     <file>linkclean.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -6332,21 +6332,6 @@
   </workflow>
   <workflow>
     <name>Localhost</name>
-    <version>1.0</version>
-    <bundle>com.kwtucker.localhost</bundle>
-    <updated>1470273374</updated>
-    <file>local_host.alfredworkflow</file>
-    <author>kwtucker</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/localhost-0</url>
-    <tags>localhost ||| dev</tags>
-    <webservices></webservices>
-    <short>Opens http://localhost: with your port passed in as a argument.</short>
-  </workflow>
-  <workflow>
-    <name>Localhost</name>
     <version>1.1</version>
     <bundle>com.victorhazbun.localhost</bundle>
     <updated>1452964276</updated>
@@ -6359,6 +6344,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open localhost at specified port</short>
+  </workflow>
+  <workflow>
+    <name>Localhost</name>
+    <version>1.0</version>
+    <bundle>com.kwtucker.localhost</bundle>
+    <updated>1470273374</updated>
+    <file>local_host.alfredworkflow</file>
+    <author>kwtucker</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/localhost-0</url>
+    <tags>localhost ||| dev</tags>
+    <webservices></webservices>
+    <short>Opens http://localhost: with your port passed in as a argument.</short>
   </workflow>
   <workflow>
     <name>LocalPort</name>
@@ -6484,7 +6484,7 @@
     <name>MachineClean</name>
     <version>1.3</version>
     <bundle>com.vitorgalvao.alfred.machineclean</bundle>
-    <updated>1451244133</updated>
+    <updated>1475161046</updated>
     <file>machineclean.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -6602,21 +6602,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -6629,6 +6614,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -6694,7 +6694,7 @@
     <name>MarkdownBulletin</name>
     <version>1.12.0</version>
     <bundle>com.vitorgalvao.alfred.markdownbulletin</bundle>
-    <updated>1475062635</updated>
+    <updated>1475161645</updated>
     <file>markdownbulletin.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7309,7 +7309,7 @@
     <name>NewFile</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.newfile</bundle>
-    <updated>1396381819</updated>
+    <updated>1475160901</updated>
     <file>newfile.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7564,7 +7564,7 @@
     <name>OneUpdater</name>
     <version>1.1.0</version>
     <bundle>com.vitorgalvao.alfred.oneupdater</bundle>
-    <updated>1475148855</updated>
+    <updated>1475161075</updated>
     <file>oneupdater.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7997,21 +7997,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.2</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1453096633</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1464620594</updated>
@@ -8024,6 +8009,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.2</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1453096633</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -8039,6 +8039,21 @@
     <tags>password ||| passphrase ||| password generator ||| xkcd ||| ruby</tags>
     <webservices></webservices>
     <short>Create random passphrases with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
+    <webservices></webservices>
+    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
@@ -8069,21 +8084,6 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
-    <webservices></webservices>
-    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -8314,7 +8314,7 @@
     <name>PinAdd</name>
     <version>1.1.4</version>
     <bundle>com.vitorgalvao.alfred.pinadd</bundle>
-    <updated>1421289132</updated>
+    <updated>1475161429</updated>
     <file>pinadd.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -8359,7 +8359,7 @@
     <name>PingPong</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.pingpong</bundle>
-    <updated>1396542075</updated>
+    <updated>1475161512</updated>
     <file>pingpong.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -8374,7 +8374,7 @@
     <name>PinUnread</name>
     <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.pinunread</bundle>
-    <updated>1411509623</updated>
+    <updated>1475161290</updated>
     <file>pinunread.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9049,7 +9049,7 @@
     <name>RecentDownloads</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.recentdownloads</bundle>
-    <updated>1396381899</updated>
+    <updated>1475161193</updated>
     <file>recentdownloads.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9274,7 +9274,7 @@
     <name>RemoveQuarantine</name>
     <version>1.0.0</version>
     <bundle>com.vitorgalvao.alfred.removequarantine</bundle>
-    <updated>1475084807</updated>
+    <updated>1475161124</updated>
     <file>removequarantine.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9289,7 +9289,7 @@
     <name>RenameAction</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.renameaction</bundle>
-    <updated>1464697214</updated>
+    <updated>1475161373</updated>
     <file>renameaction.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9304,7 +9304,7 @@
     <name>RepeatRepeat</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.repeatrepeat</bundle>
-    <updated>1396381950</updated>
+    <updated>1475161635</updated>
     <file>repeatrepeat.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9349,7 +9349,7 @@
     <name>RespondQuickly</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.respondquickly</bundle>
-    <updated>1396381972</updated>
+    <updated>1475161251</updated>
     <file>respondquickly.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9454,7 +9454,7 @@
     <name>RightClick</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.rightclick</bundle>
-    <updated>1431276733</updated>
+    <updated>1475161135</updated>
     <file>rightclick.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9514,7 +9514,7 @@
     <name>RottenMovies</name>
     <version>1.0.4</version>
     <bundle>com.vitorgalvao.alfred.rottenmovies</bundle>
-    <updated>1470101893</updated>
+    <updated>1475160781</updated>
     <file>rottenmovies.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9634,7 +9634,7 @@
     <name>RunCommand</name>
     <version>1.9.0</version>
     <bundle>com.vitorgalvao.alfred.runcommand</bundle>
-    <updated>1470520334</updated>
+    <updated>1475161590</updated>
     <file>runcommand.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10264,7 +10264,7 @@
     <name>ShortFilms</name>
     <version>1.1.0</version>
     <bundle>com.vitorgalvao.alfred.shortfilms</bundle>
-    <updated>1468178354</updated>
+    <updated>1475161015</updated>
     <file>shortfilms.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10636,21 +10636,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>Speedtest</name>
-    <version>1.0.2</version>
-    <bundle>pro.elms.paul.speedtest</bundle>
-    <updated>1420738658</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>paulelms</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices>speedtest.net</webservices>
-    <short>Measure internet speed with speedtest.net service</short>
-  </workflow>
-  <workflow>
     <name>SpeedTest</name>
     <version>1.0</version>
     <bundle>com.chusiang.speedtest</bundle>
@@ -10664,6 +10649,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices></webservices>
     <short>Run SpeedTest with speedtest-cli.</short>
+  </workflow>
+  <workflow>
+    <name>Speedtest</name>
+    <version>1.0.2</version>
+    <bundle>pro.elms.paul.speedtest</bundle>
+    <updated>1420738658</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>paulelms</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices>speedtest.net</webservices>
+    <short>Measure internet speed with speedtest.net service</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
@@ -10954,7 +10954,7 @@
     <name>StrongPassword</name>
     <version>1.4</version>
     <bundle>com.vitorgalvao.alfred.strongpassword</bundle>
-    <updated>1436809873</updated>
+    <updated>1475160999</updated>
     <file>strongpassword.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -11134,7 +11134,7 @@
     <name>SynAnt</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.synant</bundle>
-    <updated>1396382105</updated>
+    <updated>1475161471</updated>
     <file>synant.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -11239,7 +11239,7 @@
     <name>TemplatesManager</name>
     <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.templatesmanager</bundle>
-    <updated>1473454550</updated>
+    <updated>1475161625</updated>
     <file>templatesmanager.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -11269,7 +11269,7 @@
     <name>TemporaryEmail</name>
     <version>1.1.2</version>
     <bundle>com.vitorgalvao.alfred.temporaryemail</bundle>
-    <updated>1452785892</updated>
+    <updated>1475160828</updated>
     <file>temporaryemail.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -11882,21 +11882,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -11909,6 +11894,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
@@ -12289,7 +12289,7 @@
     <name>TurnShoot</name>
     <version>1.0</version>
     <bundle>com.vitorgalvao.alfred.turnshoot</bundle>
-    <updated>1396558155</updated>
+    <updated>1475161182</updated>
     <file>turnshoot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12484,7 +12484,7 @@
     <name>UploadFile</name>
     <version>1.1.2</version>
     <bundle>com.vitorgalvao.alfred.uploadfile</bundle>
-    <updated>1457841073</updated>
+    <updated>1475161242</updated>
     <file>uploadfile.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12664,7 +12664,7 @@
     <name>VideoDuration</name>
     <version>1.2</version>
     <bundle>com.vitorgalvao.alfred.videoduration</bundle>
-    <updated>1429183733</updated>
+    <updated>1475161059</updated>
     <file>videoduration.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12859,7 +12859,7 @@
     <name>WatchList</name>
     <version>1.11.1</version>
     <bundle>com.vitorgalvao.alfred.watchlist</bundle>
-    <updated>1468340177</updated>
+    <updated>1475161527</updated>
     <file>watchlist.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12934,7 +12934,7 @@
     <name>WebScreenshot</name>
     <version>1.3.0</version>
     <bundle>com.vitorgalvao.alfred.webscreenshot</bundle>
-    <updated>1475061135</updated>
+    <updated>1475160871</updated>
     <file>webscreenshot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -13144,7 +13144,7 @@
     <name>WordsWith</name>
     <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.wordwith</bundle>
-    <updated>1403820431</updated>
+    <updated>1475161481</updated>
     <file>wordswith.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
