@@ -1411,21 +1411,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -1439,6 +1424,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -2913,21 +2913,6 @@
   <workflow>
     <name>Docker Wizard</name>
     <version>1.0</version>
-    <bundle>com.keithcirkel.docker-wizard</bundle>
-    <updated>1452852673</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard-0</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
     <bundle>keithcirkel.docker-wizard</bundle>
     <updated>1452852614</updated>
     <file>docker_wizard.alfredworkflow</file>
@@ -2936,6 +2921,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>com.keithcirkel.docker-wizard</bundle>
+    <updated>1452852673</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard-0</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -6602,21 +6602,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -6629,6 +6614,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -8057,18 +8057,18 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
     <applications></applications>
-    <categories>Development ||| Productivity</categories>
+    <categories>Productivity ||| System ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
-    <short>Generate passwords from strings</short>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
@@ -8087,18 +8087,18 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
     <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
+    <categories>Development ||| Productivity</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
     <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -9289,7 +9289,7 @@
     <name>RemoveQuarantine</name>
     <version>1.0.2</version>
     <bundle>com.vitorgalvao.alfred.removequarantine</bundle>
-    <updated>1475580615</updated>
+    <updated>1475700076</updated>
     <file>removequarantine.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9467,9 +9467,9 @@
   </workflow>
   <workflow>
     <name>RightClick</name>
-    <version>1.2</version>
+    <version>1.0.0</version>
     <bundle>com.vitorgalvao.alfred.rightclick</bundle>
-    <updated>1475687964</updated>
+    <updated>1475688074</updated>
     <file>rightclick.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10651,21 +10651,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.0</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1463985647</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -10679,6 +10664,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.0</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1463985647</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
