@@ -9647,9 +9647,9 @@
   </workflow>
   <workflow>
     <name>RunCommand</name>
-    <version>1.9.0</version>
+    <version>1.9.1</version>
     <bundle>com.vitorgalvao.alfred.runcommand</bundle>
-    <updated>1475161590</updated>
+    <updated>1475752457</updated>
     <file>runcommand.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10184,6 +10184,21 @@
     <tags>schedule</tags>
     <webservices></webservices>
     <short>A workflow to help schedule weekly based tasks. It is designed for sermons, but can be used for anything.</short>
+  </workflow>
+  <workflow>
+    <name>Set color label</name>
+    <version>1.0</version>
+    <bundle>hu.fns.setcolorlabel</bundle>
+    <updated>1475822595</updated>
+    <file>set_color_label.alfredworkflow</file>
+    <author>fns720</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/set-color-label</url>
+    <tags>color ||| label ||| tag ||| Finder</tags>
+    <webservices></webservices>
+    <short>Set color label of selected Finder items with a keyword</short>
   </workflow>
   <workflow>
     <name>Set Resolution</name>
@@ -11704,7 +11719,7 @@
     <name>Timestamp</name>
     <version>1.0</version>
     <bundle>com.jousch.alfred.timestamp</bundle>
-    <updated>1475487858</updated>
+    <updated>1475756570</updated>
     <file>timestamp.alfredworkflow</file>
     <author>jousch</author>
     <applications></applications>
