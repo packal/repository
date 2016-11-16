@@ -4442,21 +4442,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0</version>
-    <bundle>im.cccc.gitignorer</bundle>
-    <updated>1448447772</updated>
-    <file>gitignorer.alfredworkflow</file>
-    <author>chao787</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0.0</version>
     <bundle>de.jandavid.alfred.gitignore</bundle>
     <updated>1448471652</updated>
@@ -4469,6 +4454,21 @@
     <tags>git ||| github</tags>
     <webservices>github.com</webservices>
     <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0</version>
+    <bundle>im.cccc.gitignorer</bundle>
+    <updated>1448447772</updated>
+    <file>gitignorer.alfredworkflow</file>
+    <author>chao787</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -6287,9 +6287,9 @@
   </workflow>
   <workflow>
     <name>lgtm</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>lgtm.in.leonhartX</bundle>
-    <updated>1477047075</updated>
+    <updated>1479264857</updated>
     <file>lgtm.alfredworkflow</file>
     <author>leonhartX</author>
     <applications></applications>
@@ -6677,21 +6677,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -6704,6 +6689,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -7579,7 +7579,7 @@
     <name>NumToCYN</name>
     <version>1.3</version>
     <bundle>Yourtion.tools.cny</bundle>
-    <updated>1479223278</updated>
+    <updated>1479223337</updated>
     <file>ren_min_bi_jin_e_da_xie_.alfredworkflow</file>
     <author>Yourtion</author>
     <applications></applications>
@@ -10801,21 +10801,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>Speedtest</name>
-    <version>1.0.2</version>
-    <bundle>pro.elms.paul.speedtest</bundle>
-    <updated>1420738658</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>paulelms</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices>speedtest.net</webservices>
-    <short>Measure internet speed with speedtest.net service</short>
-  </workflow>
-  <workflow>
     <name>SpeedTest</name>
     <version>1.0</version>
     <bundle>com.chusiang.speedtest</bundle>
@@ -10829,6 +10814,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices></webservices>
     <short>Run SpeedTest with speedtest-cli.</short>
+  </workflow>
+  <workflow>
+    <name>Speedtest</name>
+    <version>1.0.2</version>
+    <bundle>pro.elms.paul.speedtest</bundle>
+    <updated>1420738658</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>paulelms</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices>speedtest.net</webservices>
+    <short>Measure internet speed with speedtest.net service</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
