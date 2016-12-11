@@ -1456,21 +1456,6 @@
     <short>Turn bluetooth on or off</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -1484,6 +1469,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -1579,7 +1579,7 @@
     <name>BugNot</name>
     <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.bugnot</bundle>
-    <updated>1475581335</updated>
+    <updated>1481498998</updated>
     <file>bugnot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -4532,21 +4532,6 @@
   </workflow>
   <workflow>
     <name>gitignore</name>
-    <version>1.0.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1448471652</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
     <updated>1448447772</updated>
@@ -4559,6 +4544,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448471652</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -6587,21 +6587,6 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
-    <version>1.0</version>
-    <bundle>com.robert-arellano.lorem-ipsum</bundle>
-    <updated>1477679355</updated>
-    <file>lorem_ipsum.alfredworkflow</file>
-    <author>raarellano</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Generate lorem ipsum text from Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
     <version>0.1.0</version>
     <bundle>com.tillkruss.loremipsum</bundle>
     <updated>1480188468</updated>
@@ -6614,6 +6599,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>An ultra-fast Lorem Ipsum text generator.</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
+    <version>1.0</version>
+    <bundle>com.robert-arellano.lorem-ipsum</bundle>
+    <updated>1477679355</updated>
+    <file>lorem_ipsum.alfredworkflow</file>
+    <author>raarellano</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Generate lorem ipsum text from Alfred</short>
   </workflow>
   <workflow>
     <name>Love in iTunes</name>
@@ -6797,21 +6797,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -6824,6 +6809,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
