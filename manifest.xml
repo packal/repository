@@ -3003,21 +3003,6 @@
   <workflow>
     <name>Docker Wizard</name>
     <version>1.0</version>
-    <bundle>com.keithcirkel.docker-wizard</bundle>
-    <updated>1452852673</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard-0</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
     <bundle>keithcirkel.docker-wizard</bundle>
     <updated>1452852614</updated>
     <file>docker_wizard.alfredworkflow</file>
@@ -3026,6 +3011,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>com.keithcirkel.docker-wizard</bundle>
+    <updated>1452852673</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard-0</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -5567,21 +5567,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.3.1</version>
-    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
-    <updated>1431965892</updated>
-    <file>ios_simulator_v1.3.1.alfredworkflow</file>
-    <author>jfro</author>
-    <applications>Xcode</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator</url>
-    <tags>ios ||| simulator ||| apps ||| development</tags>
-    <webservices></webservices>
-    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.0</version>
     <bundle>com.ricardosampayo.iossimulator</bundle>
     <updated>1478372755</updated>
@@ -5594,6 +5579,21 @@
     <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
     <webservices></webservices>
     <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.3.1</version>
+    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
+    <updated>1431965892</updated>
+    <file>ios_simulator_v1.3.1.alfredworkflow</file>
+    <author>jfro</author>
+    <applications>Xcode</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator</url>
+    <tags>ios ||| simulator ||| apps ||| development</tags>
+    <webservices></webservices>
+    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
   </workflow>
   <workflow>
     <name>IP</name>
@@ -7637,21 +7637,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1473005156</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.3.3</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1478059816</updated>
@@ -7664,6 +7649,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1473005156</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
   </workflow>
   <workflow>
     <name>NSONE</name>
@@ -8432,10 +8432,10 @@
   </workflow>
   <workflow>
     <name>Philips Hue Controller</name>
-    <version>2.4.1</version>
+    <version>2.5</version>
     <bundle>hue-alfred-workflow</bundle>
-    <updated>1477875531</updated>
-    <file>philips.hue_.controller.v2.4.1.alfredworkflow</file>
+    <updated>1481442139</updated>
+    <file>philips_hue_controller_v2.5.alfredworkflow</file>
     <author>benknight</author>
     <applications></applications>
     <categories>Other ||| Productivity</categories>
@@ -12542,9 +12542,9 @@
   </workflow>
   <workflow>
     <name>Translate Workflow</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.sozora.google-translate</bundle>
-    <updated>1481399181</updated>
+    <updated>1481399297</updated>
     <file>translate-workflow.alfredworkflow</file>
     <author>rustycamper</author>
     <applications></applications>
