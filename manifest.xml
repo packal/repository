@@ -4561,21 +4561,6 @@
     <short>Quickly open your github repositories</short>
   </workflow>
   <workflow>
-    <name>gitignore</name>
-    <version>1.0</version>
-    <bundle>im.cccc.gitignorer</bundle>
-    <updated>1448447772</updated>
-    <file>gitignorer.alfredworkflow</file>
-    <author>chao787</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
     <name>Gitignore</name>
     <version>0.1</version>
     <bundle>com.yourtion.gitignore</bundle>
@@ -4604,6 +4589,21 @@
     <tags>git ||| github</tags>
     <webservices>github.com</webservices>
     <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0</version>
+    <bundle>im.cccc.gitignorer</bundle>
+    <updated>1448447772</updated>
+    <file>gitignorer.alfredworkflow</file>
+    <author>chao787</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -9662,9 +9662,9 @@
   </workflow>
   <workflow>
     <name>RenameAction</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.renameaction</bundle>
-    <updated>1483061375</updated>
+    <updated>1483061478</updated>
     <file>renameaction.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
