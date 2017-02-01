@@ -541,6 +541,21 @@
     <short>list/start android emulator</short>
   </workflow>
   <workflow>
+    <name>alfred-change-sound-output</name>
+    <version>1.0</version>
+    <bundle>com.cakmet14.change_sound</bundle>
+    <updated>1485746898</updated>
+    <file>change_sound_output.alfredworkflow</file>
+    <author>dr_selump14</author>
+    <applications></applications>
+    <categories>Audio</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-change-sound-output</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>change sound output using aalfred</short>
+  </workflow>
+  <workflow>
     <name>Alfred-Drive-Workflow</name>
     <version>1.2</version>
     <bundle>com.drive.azai91</bundle>
@@ -1157,21 +1172,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0</version>
-    <bundle>com.yukihe.workflow.atom</bundle>
-    <updated>1459862833</updated>
-    <file>atom.alfredworkflow</file>
-    <author>pinkdoremi</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open Folder of current Finder by Atom</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>2.1.0</version>
     <bundle>com.alfredapp.mdeboer.atom</bundle>
     <updated>1485304102</updated>
@@ -1184,6 +1184,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple workflow that allows you to browse and open Atom projects</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0</version>
+    <bundle>com.yukihe.workflow.atom</bundle>
+    <updated>1459862833</updated>
+    <file>atom.alfredworkflow</file>
+    <author>pinkdoremi</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open Folder of current Finder by Atom</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -2657,21 +2672,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.7</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1472898854</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -2684,6 +2684,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.7</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1472898854</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -3032,21 +3047,6 @@
   </workflow>
   <workflow>
     <name>Docker Cloud</name>
-    <version>0.1.0</version>
-    <bundle>com.jayniz.dockercloud</bundle>
-    <updated>1481930918</updated>
-    <file>docker_cloud.alfredworkflow</file>
-    <author>jayniz</author>
-    <applications></applications>
-    <categories>Development ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-cloud-0</url>
-    <tags>dockercloud ||| docker ||| stacks ||| cloud</tags>
-    <webservices>docker cloud</webservices>
-    <short>Quickly jump into docker cloud stacks</short>
-  </workflow>
-  <workflow>
-    <name>Docker Cloud</name>
     <version>1.0</version>
     <bundle>com.fairfly.dcloud</bundle>
     <updated>1464530312</updated>
@@ -3059,6 +3059,21 @@
     <tags>docker ||| docker cloud</tags>
     <webservices>docker cloud</webservices>
     <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
+  </workflow>
+  <workflow>
+    <name>Docker Cloud</name>
+    <version>0.1.0</version>
+    <bundle>com.jayniz.dockercloud</bundle>
+    <updated>1481930918</updated>
+    <file>docker_cloud.alfredworkflow</file>
+    <author>jayniz</author>
+    <applications></applications>
+    <categories>Development ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-cloud-0</url>
+    <tags>dockercloud ||| docker ||| stacks ||| cloud</tags>
+    <webservices>docker cloud</webservices>
+    <short>Quickly jump into docker cloud stacks</short>
   </workflow>
   <workflow>
     <name>Docker Wizard</name>
@@ -4651,21 +4666,6 @@
     <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
-    <name>Gitignore</name>
-    <version>0.1</version>
-    <bundle>com.yourtion.gitignore</bundle>
-    <updated>1482289991</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>Yourtion</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-1</url>
-    <tags>git ||| github ||| gitignore</tags>
-    <webservices></webservices>
-    <short>Easy get git ignore from Alfred workflow</short>
-  </workflow>
-  <workflow>
     <name>gitignore</name>
     <version>1.0</version>
     <bundle>im.cccc.gitignorer</bundle>
@@ -4679,6 +4679,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
+  </workflow>
+  <workflow>
+    <name>Gitignore</name>
+    <version>0.1</version>
+    <bundle>com.yourtion.gitignore</bundle>
+    <updated>1482289991</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>Yourtion</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-1</url>
+    <tags>git ||| github ||| gitignore</tags>
+    <webservices></webservices>
+    <short>Easy get git ignore from Alfred workflow</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -5717,21 +5732,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.3.1</version>
-    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
-    <updated>1431965892</updated>
-    <file>ios_simulator_v1.3.1.alfredworkflow</file>
-    <author>jfro</author>
-    <applications>Xcode</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator</url>
-    <tags>ios ||| simulator ||| apps ||| development</tags>
-    <webservices></webservices>
-    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.0</version>
     <bundle>com.ricardosampayo.iossimulator</bundle>
     <updated>1478372755</updated>
@@ -5744,6 +5744,21 @@
     <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
     <webservices></webservices>
     <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.3.1</version>
+    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
+    <updated>1431965892</updated>
+    <file>ios_simulator_v1.3.1.alfredworkflow</file>
+    <author>jfro</author>
+    <applications>Xcode</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator</url>
+    <tags>ios ||| simulator ||| apps ||| development</tags>
+    <webservices></webservices>
+    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
   </workflow>
   <workflow>
     <name>IP</name>
@@ -6977,21 +6992,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -7004,6 +7004,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -7832,21 +7847,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1473005156</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.4.1</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1484636477</updated>
@@ -7859,6 +7859,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1473005156</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
   </workflow>
   <workflow>
     <name>NSONE</name>
@@ -8477,21 +8492,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
-    <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
-    <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.0</version>
     <bundle>es.nyr.password</bundle>
     <updated>1463961736</updated>
@@ -8504,6 +8504,21 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
+    <webservices></webservices>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
@@ -9887,21 +9902,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>1.0</version>
-    <bundle>com.sulaiman.restartapp</bundle>
-    <updated>1464107021</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>sulaiman</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app-0</url>
-    <tags>app relaunch ||| System Helpers</tags>
-    <webservices></webservices>
-    <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>3.1</version>
     <bundle>com.renegaed.restart-app</bundle>
     <updated>1457904373</updated>
@@ -9914,6 +9914,21 @@
     <tags>restart ||| app ||| restart app</tags>
     <webservices></webservices>
     <short>Restart a currently running App</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>1.0</version>
+    <bundle>com.sulaiman.restartapp</bundle>
+    <updated>1464107021</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>sulaiman</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app-0</url>
+    <tags>app relaunch ||| System Helpers</tags>
+    <webservices></webservices>
+    <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -11987,13 +12002,13 @@
   </workflow>
   <workflow>
     <name>Temporary Mute</name>
-    <version>1.0</version>
+    <version>2.0</version>
     <bundle>com.cmagnuson.temporarymute</bundle>
-    <updated>1473813215</updated>
+    <updated>1485985157</updated>
     <file>temporary_mute.alfredworkflow</file>
     <author>cmagnuson</author>
     <applications></applications>
-    <categories>Audio ||| Utilities ||| Video</categories>
+    <categories>Audio ||| Other ||| Productivity ||| System ||| Utilities ||| Video</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/temporary-mute</url>
     <tags>mute ||| sound ||| audio ||| temporary ||| sports ||| football ||| baseball ||| basketball ||| skip ||| commercials ||| ads ||| streaming</tags>
