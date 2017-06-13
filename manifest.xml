@@ -1757,9 +1757,9 @@
   </workflow>
   <workflow>
     <name>BugNot</name>
-    <version>1.1.2</version>
+    <version>1.2.0</version>
     <bundle>com.vitorgalvao.alfred.bugnot</bundle>
-    <updated>1497208242</updated>
+    <updated>1497308503</updated>
     <file>bugnot.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -3002,9 +3002,9 @@
   </workflow>
   <workflow>
     <name>DenteAzul</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.denteazul</bundle>
-    <updated>1496536882</updated>
+    <updated>1497371495</updated>
     <file>denteazul.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -4502,9 +4502,9 @@
   </workflow>
   <workflow>
     <name>FormatSize</name>
-    <version>1.5.0</version>
+    <version>1.5.1</version>
     <bundle>com.vitorgalvao.alfred.formatsize</bundle>
-    <updated>1496534541</updated>
+    <updated>1497371462</updated>
     <file>formatsize.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -5957,9 +5957,9 @@
   </workflow>
   <workflow>
     <name>IncognitoClone</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.incognitoclone</bundle>
-    <updated>1496537481</updated>
+    <updated>1497371412</updated>
     <file>incognitoclone.alfredworkflow</file>
     <author>vitor</author>
     <applications>Google Chrome</applications>
@@ -6707,9 +6707,9 @@
   </workflow>
   <workflow>
     <name>KeyCodes</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.keycodes</bundle>
-    <updated>1496537000</updated>
+    <updated>1497371350</updated>
     <file>keycodes.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -6812,9 +6812,9 @@
   </workflow>
   <workflow>
     <name>LabelColor</name>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <bundle>com.vitorgalvao.alfred.labelcolor</bundle>
-    <updated>1496536642</updated>
+    <updated>1497371286</updated>
     <file>labelcolor.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7082,9 +7082,9 @@
   </workflow>
   <workflow>
     <name>LinkClean</name>
-    <version>1.0.6</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.linkclean</bundle>
-    <updated>1496537661</updated>
+    <updated>1497371225</updated>
     <file>linkclean.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7562,9 +7562,9 @@
   </workflow>
   <workflow>
     <name>MarkdownBulletin</name>
-    <version>1.17.0</version>
+    <version>1.17.1</version>
     <bundle>com.vitorgalvao.alfred.markdownbulletin</bundle>
-    <updated>1496534662</updated>
+    <updated>1497371179</updated>
     <file>markdownbulletin.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -7907,10 +7907,10 @@
   </workflow>
   <workflow>
     <name>MPD</name>
-    <version>0.1.0</version>
+    <version>0.1.2</version>
     <bundle>net.deanishe.alfred.mpd</bundle>
-    <updated>1496479186</updated>
-    <file>mpd-0.1.0.alfredworkflow</file>
+    <updated>1497296423</updated>
+    <file>mpd-0.1.2.alfredworkflow</file>
     <author>deanishe</author>
     <applications>mpd</applications>
     <categories>Audio</categories>
@@ -8252,9 +8252,9 @@
   </workflow>
   <workflow>
     <name>NewFile</name>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <bundle>com.vitorgalvao.alfred.newfile</bundle>
-    <updated>1496534782</updated>
+    <updated>1497371149</updated>
     <file>newfile.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -9107,21 +9107,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
-    <webservices></webservices>
-    <short>Generate passwords from strings</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.0</version>
     <bundle>es.nyr.password</bundle>
     <updated>1463961736</updated>
@@ -9149,6 +9134,21 @@
     <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
     <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
+    <webservices></webservices>
+    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -9437,9 +9437,9 @@
   </workflow>
   <workflow>
     <name>PingPong</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.pingpong</bundle>
-    <updated>1496537781</updated>
+    <updated>1497371104</updated>
     <file>pingpong.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10307,9 +10307,9 @@
   </workflow>
   <workflow>
     <name>RecentDownloads</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.recentdownloads</bundle>
-    <updated>1496535020</updated>
+    <updated>1497371024</updated>
     <file>recentdownloads.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10547,9 +10547,9 @@
   </workflow>
   <workflow>
     <name>RemoveQuarantine</name>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
     <bundle>com.vitorgalvao.alfred.removequarantine</bundle>
-    <updated>1496536761</updated>
+    <updated>1497371554</updated>
     <file>removequarantine.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10562,9 +10562,9 @@
   </workflow>
   <workflow>
     <name>RenameAction</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.renameaction</bundle>
-    <updated>1496535141</updated>
+    <updated>1497371606</updated>
     <file>renameaction.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10607,9 +10607,9 @@
   </workflow>
   <workflow>
     <name>RespondQuickly</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.respondquickly</bundle>
-    <updated>1496535382</updated>
+    <updated>1497371638</updated>
     <file>respondquickly.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -10712,9 +10712,9 @@
   </workflow>
   <workflow>
     <name>RightClick</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <bundle>com.vitorgalvao.alfred.rightclick</bundle>
-    <updated>1496536521</updated>
+    <updated>1497371667</updated>
     <file>rightclick.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -11192,21 +11192,6 @@
   </workflow>
   <workflow>
     <name>Search Bear</name>
-    <version>1.0</version>
-    <bundle>com.searchbear.lee</bundle>
-    <updated>1478496979</updated>
-    <file>search_bear.alfredworkflow</file>
-    <author>patriamsetis</author>
-    <applications>Bear</applications>
-    <categories>Search</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/search-bear</url>
-    <tags>Bear ||| search</tags>
-    <webservices></webservices>
-    <short>Search for specific notes or tags in the Bear.app</short>
-  </workflow>
-  <workflow>
-    <name>Search Bear</name>
     <version>0.1</version>
     <bundle>io.github.ilstar.search_bear</bundle>
     <updated>1483772707</updated>
@@ -11219,6 +11204,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Bear notes by keywords and/or tags</short>
+  </workflow>
+  <workflow>
+    <name>Search Bear</name>
+    <version>1.0</version>
+    <bundle>com.searchbear.lee</bundle>
+    <updated>1478496979</updated>
+    <file>search_bear.alfredworkflow</file>
+    <author>patriamsetis</author>
+    <applications>Bear</applications>
+    <categories>Search</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/search-bear</url>
+    <tags>Bear ||| search</tags>
+    <webservices></webservices>
+    <short>Search for specific notes or tags in the Bear.app</short>
   </workflow>
   <workflow>
     <name>Search Bible Gateway</name>
@@ -11672,9 +11672,9 @@
   </workflow>
   <workflow>
     <name>ShortFilms</name>
-    <version>1.12.4</version>
+    <version>1.12.5</version>
     <bundle>com.vitorgalvao.alfred.shortfilms</bundle>
-    <updated>1496535624</updated>
+    <updated>1497371730</updated>
     <file>shortfilms.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12677,9 +12677,9 @@
   </workflow>
   <workflow>
     <name>SwitchAgent</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <bundle>com.vitorgalvao.alfred.switchagent</bundle>
-    <updated>1496537122</updated>
+    <updated>1497308602</updated>
     <file>switchagent.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
