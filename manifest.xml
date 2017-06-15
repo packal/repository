@@ -5116,6 +5116,21 @@
     <short>Generate a google hangout link via Safari or Google Chrome and place the hangout URL in your clipboard</short>
   </workflow>
   <workflow>
+    <name>Google Image Suggest</name>
+    <version>0.001</version>
+    <bundle>com.jrejaud.googleimagesuggest</bundle>
+    <updated>1497472759</updated>
+    <file>google_image_suggest.alfredworkflow</file>
+    <author>jrejaud</author>
+    <applications></applications>
+    <categories>Images ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/google-image-suggest</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Get Google Image Search Suggestions</short>
+  </workflow>
+  <workflow>
     <name>Google Maps Place Search</name>
     <version>0.1</version>
     <bundle>com.invious.gmaps.placesearch</bundle>
@@ -15167,9 +15182,9 @@
   </workflow>
   <workflow>
     <name>Youdao for Alfred</name>
-    <version>1.2.0</version>
+    <version>1.2.2</version>
     <bundle>me.yuez.alfred.workflows</bundle>
-    <updated>1497443179</updated>
+    <updated>1497484820</updated>
     <file>youdaodict.alfredworkflow</file>
     <author>yuez</author>
     <applications></applications>
