@@ -2267,21 +2267,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>0.1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1467306827</updated>
-    <file>chrome-bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
-    <categories>Productivity ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>1.1</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1468279033</updated>
@@ -2294,6 +2279,21 @@
     <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>0.1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1467306827</updated>
+    <file>chrome-bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -3062,21 +3062,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>2.7</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1472898854</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -3089,6 +3074,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>2.7</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1472898854</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Datetime Format Converter</name>
@@ -3512,21 +3512,6 @@
   </workflow>
   <workflow>
     <name>Docker Cloud</name>
-    <version>1.0</version>
-    <bundle>com.fairfly.dcloud</bundle>
-    <updated>1464530312</updated>
-    <file>docker_cloud.alfredworkflow</file>
-    <author>amigold</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-cloud</url>
-    <tags>docker ||| docker cloud</tags>
-    <webservices>docker cloud</webservices>
-    <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
-  </workflow>
-  <workflow>
-    <name>Docker Cloud</name>
     <version>0.1.0</version>
     <bundle>com.jayniz.dockercloud</bundle>
     <updated>1481930918</updated>
@@ -3539,6 +3524,21 @@
     <tags>dockercloud ||| docker ||| stacks ||| cloud</tags>
     <webservices>docker cloud</webservices>
     <short>Quickly jump into docker cloud stacks</short>
+  </workflow>
+  <workflow>
+    <name>Docker Cloud</name>
+    <version>1.0</version>
+    <bundle>com.fairfly.dcloud</bundle>
+    <updated>1464530312</updated>
+    <file>docker_cloud.alfredworkflow</file>
+    <author>amigold</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-cloud</url>
+    <tags>docker ||| docker cloud</tags>
+    <webservices>docker cloud</webservices>
+    <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
   </workflow>
   <workflow>
     <name>Docker Wizard</name>
@@ -5882,9 +5882,9 @@
   </workflow>
   <workflow>
     <name>Homebrew and Cask for Alfred</name>
-    <version>4.3</version>
+    <version>4.4</version>
     <bundle>com.fniephaus.homebrew</bundle>
-    <updated>1502252106</updated>
+    <updated>1502252235</updated>
     <file>homebrew-for-alfred.alfredworkflow</file>
     <author>fniephaus</author>
     <applications>brew ||| cask</applications>
@@ -9467,21 +9467,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
-    <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
-    <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.0</version>
     <bundle>es.nyr.password</bundle>
     <updated>1463961736</updated>
@@ -9494,6 +9479,21 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
+    <webservices></webservices>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -9782,9 +9782,9 @@
   </workflow>
   <workflow>
     <name>PinPlus</name>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <bundle>com.vitorgalvao.alfred.pinplus</bundle>
-    <updated>1501417478</updated>
+    <updated>1502282680</updated>
     <file>pinplus.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
@@ -12481,21 +12481,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.1</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1484283915</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -12509,6 +12494,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.1</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1484283915</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
@@ -12854,21 +12854,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>open recent file or fold in sublime text3</short>
-  </workflow>
-  <workflow>
-    <name>Subscribe To Feed URLs</name>
-    <version>1.2</version>
-    <bundle>de.curioustimes.alfred.subscribetofeedurls</bundle>
-    <updated>1466921174</updated>
-    <file>subscribe_to_feed_urls.alfredworkflow</file>
-    <author>of944</author>
-    <applications></applications>
-    <categories>Networking ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/subscribe-feed-urls</url>
-    <tags>RSS ||| BazQux Reader ||| Aol Reader ||| InoReader ||| Feedly ||| Feedbin ||| Digg Reader ||| FeedHQ ||| Feed Wrangler ||| MnmlRdr ||| NewsBlur ||| The Old Reader ||| Fever ||| Tiny Tiny RSS</tags>
-    <webservices></webservices>
-    <short>Subscribe to a feed URL in one of the supported RSS aggregator services.</short>
   </workflow>
   <workflow>
     <name>Sudoers</name>
@@ -15554,21 +15539,6 @@
     <tags>Youdao ||| dict ||| dictionary</tags>
     <webservices></webservices>
     <short>Youdao dictionary for Alfred</short>
-  </workflow>
-  <workflow>
-    <name>YOURLS</name>
-    <version>1.1</version>
-    <bundle>de.curioustimes.alfred.yourls</bundle>
-    <updated>1466921713</updated>
-    <file>yourls.alfredworkflow</file>
-    <author>of944</author>
-    <applications></applications>
-    <categories>Networking ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/yourls</url>
-    <tags>url ||| shorten ||| shortener ||| YOURLS</tags>
-    <webservices>YOURLS</webservices>
-    <short>Shorten URLs by using YOURLS + some extras</short>
   </workflow>
   <workflow>
     <name>Youtrack - create issues</name>
