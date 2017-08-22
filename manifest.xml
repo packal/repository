@@ -1367,21 +1367,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0</version>
-    <bundle>com.yukihe.workflow.atom</bundle>
-    <updated>1459862833</updated>
-    <file>atom.alfredworkflow</file>
-    <author>pinkdoremi</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open Folder of current Finder by Atom</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>2.3.1</version>
     <bundle>com.alfredapp.mdeboer.atom</bundle>
     <updated>1500993937</updated>
@@ -1394,6 +1379,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple workflow that allows you to browse and open Atom projects</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0</version>
+    <bundle>com.yukihe.workflow.atom</bundle>
+    <updated>1459862833</updated>
+    <file>atom.alfredworkflow</file>
+    <author>pinkdoremi</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open Folder of current Finder by Atom</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -2267,21 +2267,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>1.1</version>
-    <bundle>com.chrome.bookmarks</bundle>
-    <updated>1468279033</updated>
-    <file>chrome_bookmarks.alfredworkflow</file>
-    <author>blainesch</author>
-    <applications></applications>
-    <categories>Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
-    <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
-    <webservices></webservices>
-    <short>Fast Chrome bookmark searcher for Alfred.</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>0.1.0</version>
     <bundle>com.mdreizin.chrome.bookmarks</bundle>
     <updated>1467306827</updated>
@@ -2294,6 +2279,21 @@
     <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
     <webservices></webservices>
     <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>1.1</version>
+    <bundle>com.chrome.bookmarks</bundle>
+    <updated>1468279033</updated>
+    <file>chrome_bookmarks.alfredworkflow</file>
+    <author>blainesch</author>
+    <applications></applications>
+    <categories>Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks-0</url>
+    <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
+    <webservices></webservices>
+    <short>Fast Chrome bookmark searcher for Alfred.</short>
   </workflow>
   <workflow>
     <name>Chrome Notepad</name>
@@ -3512,21 +3512,6 @@
   </workflow>
   <workflow>
     <name>Docker Cloud</name>
-    <version>1.0</version>
-    <bundle>com.fairfly.dcloud</bundle>
-    <updated>1464530312</updated>
-    <file>docker_cloud.alfredworkflow</file>
-    <author>amigold</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-cloud</url>
-    <tags>docker ||| docker cloud</tags>
-    <webservices>docker cloud</webservices>
-    <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
-  </workflow>
-  <workflow>
-    <name>Docker Cloud</name>
     <version>0.1.0</version>
     <bundle>com.jayniz.dockercloud</bundle>
     <updated>1481930918</updated>
@@ -3541,19 +3526,19 @@
     <short>Quickly jump into docker cloud stacks</short>
   </workflow>
   <workflow>
-    <name>Docker Wizard</name>
+    <name>Docker Cloud</name>
     <version>1.0</version>
-    <bundle>com.keithcirkel.docker-wizard</bundle>
-    <updated>1452852673</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
+    <bundle>com.fairfly.dcloud</bundle>
+    <updated>1464530312</updated>
+    <file>docker_cloud.alfredworkflow</file>
+    <author>amigold</author>
+    <applications></applications>
+    <categories>Productivity</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard-0</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
+    <url>http://www.packal.org/workflow/docker-cloud</url>
+    <tags>docker ||| docker cloud</tags>
+    <webservices>docker cloud</webservices>
+    <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
   </workflow>
   <workflow>
     <name>Docker Wizard</name>
@@ -3566,6 +3551,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>com.keithcirkel.docker-wizard</bundle>
+    <updated>1452852673</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard-0</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -7787,21 +7787,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -7814,6 +7799,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -9634,7 +9634,7 @@
     <name>Philips Hue Controller</name>
     <version>3.0</version>
     <bundle>hue-alfred-workflow</bundle>
-    <updated>1503383775</updated>
+    <updated>1503413242</updated>
     <file>philips_hue_controller_v3.0.alfredworkflow</file>
     <author>benknight</author>
     <applications></applications>
@@ -12526,21 +12526,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>SpeedTest</name>
-    <version>1.1</version>
-    <bundle>com.chusiang.speedtest</bundle>
-    <updated>1484283915</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>chusiang</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest-0</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices></webservices>
-    <short>Run SpeedTest with speedtest-cli.</short>
-  </workflow>
-  <workflow>
     <name>Speedtest</name>
     <version>1.0.2</version>
     <bundle>pro.elms.paul.speedtest</bundle>
@@ -12554,6 +12539,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices>speedtest.net</webservices>
     <short>Measure internet speed with speedtest.net service</short>
+  </workflow>
+  <workflow>
+    <name>SpeedTest</name>
+    <version>1.1</version>
+    <bundle>com.chusiang.speedtest</bundle>
+    <updated>1484283915</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>chusiang</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest-0</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices></webservices>
+    <short>Run SpeedTest with speedtest-cli.</short>
   </workflow>
   <workflow>
     <name>Spillo</name>
@@ -14641,21 +14641,6 @@
     <short>A workflow that transforms a url into new one that allows some formats such as "Github Flavored Markdown link" or "shorten url" and so on.</short>
   </workflow>
   <workflow>
-    <name>UUID Generator</name>
-    <version>0.1</version>
-    <bundle>me.ghulamabbas.uuidgenerator</bundle>
-    <updated>1470062686</updated>
-    <file>uuid_generator.alfredworkflow</file>
-    <author>Lightman</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/uuid-generator</url>
-    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
-    <webservices></webservices>
-    <short>Generates a unique UUID and saves it to clipboard</short>
-  </workflow>
-  <workflow>
     <name>UUID generator</name>
     <version>1.0</version>
     <bundle>com.md.uuid</bundle>
@@ -14669,6 +14654,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates random UUID and copy to clipboard or paste to most front app</short>
+  </workflow>
+  <workflow>
+    <name>UUID Generator</name>
+    <version>0.1</version>
+    <bundle>me.ghulamabbas.uuidgenerator</bundle>
+    <updated>1470062686</updated>
+    <file>uuid_generator.alfredworkflow</file>
+    <author>Lightman</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/uuid-generator</url>
+    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
+    <webservices></webservices>
+    <short>Generates a unique UUID and saves it to clipboard</short>
   </workflow>
   <workflow>
     <name>UUIDgen</name>
@@ -15047,9 +15047,9 @@
   </workflow>
   <workflow>
     <name>WatchList</name>
-    <version>1.12.3</version>
+    <version>1.12.4</version>
     <bundle>com.vitorgalvao.alfred.watchlist</bundle>
-    <updated>1502905079</updated>
+    <updated>1503411174</updated>
     <file>watchlist.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
