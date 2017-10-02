@@ -7787,21 +7787,6 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
-    <version>1.0</version>
-    <bundle>com.robert-arellano.lorem-ipsum</bundle>
-    <updated>1477679355</updated>
-    <file>lorem_ipsum.alfredworkflow</file>
-    <author>raarellano</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Generate lorem ipsum text from Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
     <version>0.1.0</version>
     <bundle>com.tillkruss.loremipsum</bundle>
     <updated>1480188468</updated>
@@ -7814,6 +7799,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>An ultra-fast Lorem Ipsum text generator.</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
+    <version>1.0</version>
+    <bundle>com.robert-arellano.lorem-ipsum</bundle>
+    <updated>1477679355</updated>
+    <file>lorem_ipsum.alfredworkflow</file>
+    <author>raarellano</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Generate lorem ipsum text from Alfred</short>
   </workflow>
   <workflow>
     <name>Love in iTunes</name>
@@ -8086,19 +8086,19 @@
     <short>Converts a Markdown file to a slideshow.</short>
   </workflow>
   <workflow>
-    <name>MarkdownBulletin</name>
-    <version>1.19.1</version>
-    <bundle>com.vitorgalvao.alfred.markdownbulletin</bundle>
-    <updated>1503521927</updated>
-    <file>markdownbulletin.alfredworkflow</file>
+    <name>MarkdownTransform</name>
+    <version>1.20.0</version>
+    <bundle>com.vitorgalvao.alfred.markdowntransform</bundle>
+    <updated>1506907575</updated>
+    <file>markdowntransform.alfredworkflow</file>
     <author>vitor</author>
     <applications></applications>
     <categories>Text Manipulation</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/markdownbulletin</url>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/markdowntransform</url>
     <tags></tags>
     <webservices></webservices>
-    <short>Convert Markdown to BBCode</short>
+    <short>Convert Markdown to other formats</short>
   </workflow>
   <workflow>
     <name>Mathematica</name>
