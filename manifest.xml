@@ -1412,21 +1412,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0</version>
-    <bundle>com.yukihe.workflow.atom</bundle>
-    <updated>1459862833</updated>
-    <file>atom.alfredworkflow</file>
-    <author>pinkdoremi</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open Folder of current Finder by Atom</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>2.3.1</version>
     <bundle>com.alfredapp.mdeboer.atom</bundle>
     <updated>1500993937</updated>
@@ -1439,6 +1424,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple workflow that allows you to browse and open Atom projects</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0</version>
+    <bundle>com.yukihe.workflow.atom</bundle>
+    <updated>1459862833</updated>
+    <file>atom.alfredworkflow</file>
+    <author>pinkdoremi</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open Folder of current Finder by Atom</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -4669,9 +4669,9 @@
     <name>FFProbe</name>
     <version>2017.11.04</version>
     <bundle>cz.vookimedlo.alfred.ffprobe</bundle>
-    <updated>1509913454</updated>
+    <updated>1509913608</updated>
     <file>ffprobe.alfredworkflow</file>
-    <author>vookimedlo</author>
+    <author>service@vookimedlo.cz</author>
     <applications>ffmpeg ||| ffprobe</applications>
     <categories>Utilities ||| Video</categories>
     <osx>Yosemite (10.10.x)</osx>
@@ -13172,9 +13172,9 @@
   </workflow>
   <workflow>
     <name>Spotify Mini Player</name>
-    <version>7.4</version>
+    <version>7.5</version>
     <bundle>com.vdesabou.spotify.mini.player</bundle>
-    <updated>1504338557</updated>
+    <updated>1509966376</updated>
     <file>spotifyminiplayer.alfredworkflow</file>
     <author>vdesabou</author>
     <applications>Spotify ||| Mopidy</applications>
