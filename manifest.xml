@@ -1427,21 +1427,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0</version>
-    <bundle>com.yukihe.workflow.atom</bundle>
-    <updated>1459862833</updated>
-    <file>atom.alfredworkflow</file>
-    <author>pinkdoremi</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open Folder of current Finder by Atom</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>2.3.1</version>
     <bundle>com.alfredapp.mdeboer.atom</bundle>
     <updated>1500993937</updated>
@@ -1454,6 +1439,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple workflow that allows you to browse and open Atom projects</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0</version>
+    <bundle>com.yukihe.workflow.atom</bundle>
+    <updated>1459862833</updated>
+    <file>atom.alfredworkflow</file>
+    <author>pinkdoremi</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open Folder of current Finder by Atom</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -1831,21 +1831,6 @@
     <short>Alfred 3 Workflow to turn Bluetooth signal 'On' or 'Off'</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -1859,6 +1844,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -2131,21 +2131,6 @@
     <short>Read Mac Calendar DB and copy schedule or availability to clipboard</short>
   </workflow>
   <workflow>
-    <name>Calibre Search</name>
-    <version>0.1</version>
-    <bundle>com.areo-collection</bundle>
-    <updated>1508770509</updated>
-    <file>calibresearch.alfredworkflow</file>
-    <author>gzr2017</author>
-    <applications></applications>
-    <categories>Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/calibre-search-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>search your e-books in Calibre by name.</short>
-  </workflow>
-  <workflow>
     <name>Calibre search</name>
     <version>1.0</version>
     <bundle>com.mpco.calibreSearch</bundle>
@@ -2159,6 +2144,21 @@
     <tags>Calibre</tags>
     <webservices></webservices>
     <short>Search book in Calibre library.</short>
+  </workflow>
+  <workflow>
+    <name>Calibre Search</name>
+    <version>0.1</version>
+    <bundle>com.areo-collection</bundle>
+    <updated>1508770509</updated>
+    <file>calibresearch.alfredworkflow</file>
+    <author>gzr2017</author>
+    <applications></applications>
+    <categories>Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/calibre-search-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>search your e-books in Calibre by name.</short>
   </workflow>
   <workflow>
     <name>Call Contact Direct</name>
@@ -3843,21 +3843,6 @@
   <workflow>
     <name>Docker Wizard</name>
     <version>1.0</version>
-    <bundle>com.keithcirkel.docker-wizard</bundle>
-    <updated>1452852673</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard-0</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
     <bundle>keithcirkel.docker-wizard</bundle>
     <updated>1452852614</updated>
     <file>docker_wizard.alfredworkflow</file>
@@ -3866,6 +3851,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>com.keithcirkel.docker-wizard</bundle>
+    <updated>1452852673</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard-0</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -4684,7 +4684,7 @@
     <name>FFProbe</name>
     <version>2017.11.11</version>
     <bundle>cz.vookimedlo.alfred.ffprobe</bundle>
-    <updated>1510435548</updated>
+    <updated>1510596945</updated>
     <file>ffprobe.alfredworkflow</file>
     <author>service@vookimedlo.cz</author>
     <applications>ffmpeg ||| ffprobe</applications>
@@ -5506,6 +5506,21 @@
     <short>Alfred workflow to search for Github repository.</short>
   </workflow>
   <workflow>
+    <name>gitignore</name>
+    <version>1.0.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1448471652</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
     <name>Gitignore</name>
     <version>0.1</version>
     <bundle>com.yourtion.gitignore</bundle>
@@ -5534,21 +5549,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
-    <version>1.0.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1448471652</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>GitLab</name>
@@ -6737,21 +6737,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.3.1</version>
-    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
-    <updated>1431965892</updated>
-    <file>ios_simulator_v1.3.1.alfredworkflow</file>
-    <author>jfro</author>
-    <applications>Xcode</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator</url>
-    <tags>ios ||| simulator ||| apps ||| development</tags>
-    <webservices></webservices>
-    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.0</version>
     <bundle>com.ricardosampayo.iossimulator</bundle>
     <updated>1478372755</updated>
@@ -6764,6 +6749,21 @@
     <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
     <webservices></webservices>
     <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.3.1</version>
+    <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
+    <updated>1431965892</updated>
+    <file>ios_simulator_v1.3.1.alfredworkflow</file>
+    <author>jfro</author>
+    <applications>Xcode</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator</url>
+    <tags>ios ||| simulator ||| apps ||| development</tags>
+    <webservices></webservices>
+    <short>Workflow for finding simulator app data folders, erasing apps and more</short>
   </workflow>
   <workflow>
     <name>IP</name>
@@ -9182,21 +9182,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1473005156</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.4.1</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1484636477</updated>
@@ -9209,6 +9194,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1473005156</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
   </workflow>
   <workflow>
     <name>NpmSearch</name>
@@ -9902,21 +9902,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.3</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1486587256</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3.1</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1504827915</updated>
@@ -9929,6 +9914,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.3</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1486587256</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -9947,33 +9947,18 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1.3</version>
-    <bundle>org.kollectiv.genpass</bundle>
-    <updated>1457288351</updated>
-    <file>genpass.alfredworkflow</file>
-    <author>gilbarbara</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator</url>
-    <tags>password generator</tags>
-    <webservices></webservices>
-    <short>Generate passwords from strings</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
+    <version>1.0</version>
+    <bundle>com.alfred.field.generator.password</bundle>
+    <updated>1499395276</updated>
     <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
+    <author>FFIN</author>
     <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
+    <categories>Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
+    <url>http://www.packal.org/workflow/password-generator-2</url>
+    <tags>password</tags>
     <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+    <short>Generate secure password suggestions</short>
   </workflow>
   <workflow>
     <name>Password Generator</name>
@@ -9992,18 +9977,33 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.0</version>
-    <bundle>com.alfred.field.generator.password</bundle>
-    <updated>1499395276</updated>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
     <file>password_generator.alfredworkflow</file>
-    <author>FFIN</author>
+    <author>npufal</author>
     <applications></applications>
-    <categories>Utilities</categories>
+    <categories>Productivity ||| System ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-2</url>
-    <tags>password</tags>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
-    <short>Generate secure password suggestions</short>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1.3</version>
+    <bundle>org.kollectiv.genpass</bundle>
+    <updated>1457288351</updated>
+    <file>genpass.alfredworkflow</file>
+    <author>gilbarbara</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator</url>
+    <tags>password generator</tags>
+    <webservices></webservices>
+    <short>Generate passwords from strings</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -11507,21 +11507,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>3.1</version>
-    <bundle>com.renegaed.restart-app</bundle>
-    <updated>1457904373</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>renegaed</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app</url>
-    <tags>restart ||| app ||| restart app</tags>
-    <webservices></webservices>
-    <short>Restart a currently running App</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>1.0</version>
     <bundle>com.sulaiman.restartapp</bundle>
     <updated>1464107021</updated>
@@ -11534,6 +11519,21 @@
     <tags>app relaunch ||| System Helpers</tags>
     <webservices></webservices>
     <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>3.1</version>
+    <bundle>com.renegaed.restart-app</bundle>
+    <updated>1457904373</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>renegaed</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app</url>
+    <tags>restart ||| app ||| restart app</tags>
+    <webservices></webservices>
+    <short>Restart a currently running App</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -12122,21 +12122,6 @@
   </workflow>
   <workflow>
     <name>Search Bear</name>
-    <version>1.0</version>
-    <bundle>com.searchbear.lee</bundle>
-    <updated>1478496979</updated>
-    <file>search_bear.alfredworkflow</file>
-    <author>patriamsetis</author>
-    <applications>Bear</applications>
-    <categories>Search</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/search-bear</url>
-    <tags>Bear ||| search</tags>
-    <webservices></webservices>
-    <short>Search for specific notes or tags in the Bear.app</short>
-  </workflow>
-  <workflow>
-    <name>Search Bear</name>
     <version>0.1</version>
     <bundle>io.github.ilstar.search_bear</bundle>
     <updated>1483772707</updated>
@@ -12149,6 +12134,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Bear notes by keywords and/or tags</short>
+  </workflow>
+  <workflow>
+    <name>Search Bear</name>
+    <version>1.0</version>
+    <bundle>com.searchbear.lee</bundle>
+    <updated>1478496979</updated>
+    <file>search_bear.alfredworkflow</file>
+    <author>patriamsetis</author>
+    <applications>Bear</applications>
+    <categories>Search</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/search-bear</url>
+    <tags>Bear ||| search</tags>
+    <webservices></webservices>
+    <short>Search for specific notes or tags in the Bear.app</short>
   </workflow>
   <workflow>
     <name>Search Bible Gateway</name>
@@ -12392,21 +12392,6 @@
   </workflow>
   <workflow>
     <name>Secure Password Generator</name>
-    <version>2.1</version>
-    <bundle>net.deanishe.alfred-pwgen</bundle>
-    <updated>1491113422</updated>
-    <file>password-generator-2.1.alfredworkflow</file>
-    <author>deanishe</author>
-    <applications></applications>
-    <categories>Other ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/secure-password-generator</url>
-    <tags>security ||| password generator ||| password</tags>
-    <webservices></webservices>
-    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
-  </workflow>
-  <workflow>
-    <name>Secure Password Generator</name>
     <version>1.0</version>
     <bundle>com.camerontod.passwordgen</bundle>
     <updated>1507852276</updated>
@@ -12419,6 +12404,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates passwords that score highly in zxcvbn and copies them to clipboard.</short>
+  </workflow>
+  <workflow>
+    <name>Secure Password Generator</name>
+    <version>2.1</version>
+    <bundle>net.deanishe.alfred-pwgen</bundle>
+    <updated>1491113422</updated>
+    <file>password-generator-2.1.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Other ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/secure-password-generator</url>
+    <tags>security ||| password generator ||| password</tags>
+    <webservices></webservices>
+    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
   </workflow>
   <workflow>
     <name>Secure SHell</name>
@@ -14177,21 +14177,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.4.1</version>
-    <bundle>com.xilopaint.alfredapp.things</bundle>
-    <updated>1510193714</updated>
-    <file>things.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/things-0</url>
-    <tags>things</tags>
-    <webservices></webservices>
-    <short>Interact with Things 3 using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.1.16</version>
     <bundle>hu.fns.things</bundle>
     <updated>1480293439</updated>
@@ -14204,6 +14189,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Things one-line task generation.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.4.1</version>
+    <bundle>com.xilopaint.alfredapp.things</bundle>
+    <updated>1510193714</updated>
+    <file>things.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/things-0</url>
+    <tags>things</tags>
+    <webservices></webservices>
+    <short>Interact with Things 3 using Alfred</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -14328,21 +14328,6 @@
   <workflow>
     <name>Timer</name>
     <version>1.0</version>
-    <bundle>siyahmadde-timer</bundle>
-    <updated>1490522118</updated>
-    <file>timer.alfredworkflow</file>
-    <author>siyahmadde</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timer</url>
-    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
-    <webservices></webservices>
-    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
-  </workflow>
-  <workflow>
-    <name>Timer</name>
-    <version>1.0</version>
     <bundle>gheardi.riccardo.timer</bundle>
     <updated>1506583755</updated>
     <file>timer.alfredworkflow</file>
@@ -14354,6 +14339,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Set up custom timers. Pomodoro support.</short>
+  </workflow>
+  <workflow>
+    <name>Timer</name>
+    <version>1.0</version>
+    <bundle>siyahmadde-timer</bundle>
+    <updated>1490522118</updated>
+    <file>timer.alfredworkflow</file>
+    <author>siyahmadde</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timer</url>
+    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
+    <webservices></webservices>
+    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
   </workflow>
   <workflow>
     <name>Timer control</name>
@@ -14642,21 +14642,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -14669,6 +14654,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Hidden</name>
