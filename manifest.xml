@@ -1457,21 +1457,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>2.3.2</version>
-    <bundle>com.alfredapp.mdeboer.atom</bundle>
-    <updated>1513085001</updated>
-    <file>atom.alfredworkflow</file>
-    <author>maartendeboer</author>
-    <applications>Atom</applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Simple workflow that allows you to browse and open Atom projects</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>1.0</version>
     <bundle>com.yukihe.workflow.atom</bundle>
     <updated>1459862833</updated>
@@ -1484,6 +1469,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open Folder of current Finder by Atom</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>2.3.2</version>
+    <bundle>com.alfredapp.mdeboer.atom</bundle>
+    <updated>1513085001</updated>
+    <file>atom.alfredworkflow</file>
+    <author>maartendeboer</author>
+    <applications>Atom</applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Simple workflow that allows you to browse and open Atom projects</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -1589,6 +1589,21 @@
     <tags>aws ||| Amazon S3 ||| awscli</tags>
     <webservices></webservices>
     <short>Easy access to documentation for the S3 commands in awscli</short>
+  </workflow>
+  <workflow>
+    <name>Bagoum Shadowverse Card Search</name>
+    <version>2017-12-29-1</version>
+    <bundle>com.fbcpck.bagoumcardsearch</bundle>
+    <updated>1514566481</updated>
+    <file>bagoum-card-search.alfredworkflow</file>
+    <author>FabulousCupcake</author>
+    <applications></applications>
+    <categories>Games ||| Search</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bagoum-shadowverse-card-search</url>
+    <tags>shadowverse</tags>
+    <webservices></webservices>
+    <short>Search Shadowverse card and open its link in Bagoum</short>
   </workflow>
   <workflow>
     <name>Baidu-X</name>
@@ -8297,21 +8312,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -8324,6 +8324,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -14342,21 +14357,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.4.2</version>
-    <bundle>com.xilopaint.alfredapp.things</bundle>
-    <updated>1511155455</updated>
-    <file>things.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/things-0</url>
-    <tags>things</tags>
-    <webservices></webservices>
-    <short>Interact with Things 3 using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.1.16</version>
     <bundle>hu.fns.things</bundle>
     <updated>1480293439</updated>
@@ -14369,6 +14369,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Things one-line task generation.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.4.2</version>
+    <bundle>com.xilopaint.alfredapp.things</bundle>
+    <updated>1511155455</updated>
+    <file>things.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/things-0</url>
+    <tags>things</tags>
+    <webservices></webservices>
+    <short>Interact with Things 3 using Alfred</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -14493,21 +14508,6 @@
   <workflow>
     <name>Timer</name>
     <version>1.0</version>
-    <bundle>siyahmadde-timer</bundle>
-    <updated>1490522118</updated>
-    <file>timer.alfredworkflow</file>
-    <author>siyahmadde</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timer</url>
-    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
-    <webservices></webservices>
-    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
-  </workflow>
-  <workflow>
-    <name>Timer</name>
-    <version>1.0</version>
     <bundle>gheardi.riccardo.timer</bundle>
     <updated>1506583755</updated>
     <file>timer.alfredworkflow</file>
@@ -14519,6 +14519,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Set up custom timers. Pomodoro support.</short>
+  </workflow>
+  <workflow>
+    <name>Timer</name>
+    <version>1.0</version>
+    <bundle>siyahmadde-timer</bundle>
+    <updated>1490522118</updated>
+    <file>timer.alfredworkflow</file>
+    <author>siyahmadde</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timer</url>
+    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
+    <webservices></webservices>
+    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
   </workflow>
   <workflow>
     <name>Timer control</name>
