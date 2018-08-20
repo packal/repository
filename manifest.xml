@@ -16801,6 +16801,21 @@
     <short>Visually show the difference between two files and optionally merge the files</short>
   </workflow>
   <workflow>
+    <name>Visual Studio Code</name>
+    <version>1.0.0</version>
+    <bundle>com.alexchantastic.openwithvscode</bundle>
+    <updated>1534734861</updated>
+    <file>alfred-open-with-vscode-workflow.alfredworkflow</file>
+    <author>alexchantastic</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/visual-studio-code</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>An Alfred 3 workflow opening files or folders with Visual Studio Code.</short>
+  </workflow>
+  <workflow>
     <name>Visual Studio Code Open</name>
     <version>1.0.0</version>
     <bundle>com.dpskvn.vscode</bundle>
