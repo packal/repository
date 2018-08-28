@@ -8176,6 +8176,21 @@
     <short>Easily control Laravel Homestead from within Alfred.</short>
   </workflow>
   <workflow>
+    <name>Laravel Nova Docs</name>
+    <version>1.0</version>
+    <bundle>com.billrclark.novasearch</bundle>
+    <updated>1535469617</updated>
+    <file>nova.docs_.alfredworkflow</file>
+    <author>billrobclark</author>
+    <applications></applications>
+    <categories>Development ||| Other ||| Productivity ||| Reference ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/laravel-nova-docs</url>
+    <tags>laravel ||| nova</tags>
+    <webservices></webservices>
+    <short>An Alfred Workflow to Quickly Search the Laravel Nova Documentation</short>
+  </workflow>
+  <workflow>
     <name>Laser SSH</name>
     <version>0.0.1</version>
     <bundle>com.paperelectron.alfred.laserssh</bundle>
@@ -8882,21 +8897,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -8909,6 +8909,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -13082,9 +13097,9 @@
   </workflow>
   <workflow>
     <name>Search Apple Notes</name>
-    <version>1.0</version>
+    <version>1.2.1</version>
     <bundle>in.sball.searchnotes</bundle>
-    <updated>1535406256</updated>
+    <updated>1535406484</updated>
     <file>search_notes.alfredworkflow</file>
     <author>sballin</author>
     <applications>notes</applications>
