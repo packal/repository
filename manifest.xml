@@ -166,6 +166,21 @@
     <short>Use the popular Keeping You Awake Extension's scripting powers from Alfred</short>
   </workflow>
   <workflow>
+    <name>adb</name>
+    <version>1.0.0</version>
+    <bundle>xyz.jienan.adb</bundle>
+    <updated>1544100556</updated>
+    <file>adb.alfredworkflow</file>
+    <author>zjn0505</author>
+    <applications>adb ||| aapt</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/adb</url>
+    <tags>android ||| adb</tags>
+    <webservices></webservices>
+    <short>Android ADB</short>
+  </workflow>
+  <workflow>
     <name>ADB WiFi</name>
     <version>1.1</version>
     <bundle>com.sheyne.adb-wifi</bundle>
