@@ -2852,21 +2852,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>0.1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1467306827</updated>
-    <file>chrome-bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
-    <categories>Productivity ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>1.1</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1468279033</updated>
@@ -2879,6 +2864,21 @@
     <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>0.1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1467306827</updated>
+    <file>chrome-bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
   </workflow>
   <workflow>
     <name>Chrome Incognito</name>
@@ -5267,21 +5267,6 @@
   </workflow>
   <workflow>
     <name>Epoch Converter</name>
-    <version>1.0</version>
-    <bundle>com.boulderhopkins.epoch</bundle>
-    <updated>1423357454</updated>
-    <file>epoch_conversion.alfredworkflow</file>
-    <author>danielhopkins</author>
-    <applications></applications>
-    <categories>Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/epoch-converter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Simple script to convert epochs to large type</short>
-  </workflow>
-  <workflow>
-    <name>Epoch Converter</name>
     <version>1.0.0</version>
     <bundle>snooze92.epoch.converter</bundle>
     <updated>1549554676</updated>
@@ -5294,6 +5279,21 @@
     <tags>epoch ||| Timestamp ||| Time</tags>
     <webservices></webservices>
     <short>Makes it easy to work with epoch timestamps!</short>
+  </workflow>
+  <workflow>
+    <name>Epoch Converter</name>
+    <version>1.0</version>
+    <bundle>com.boulderhopkins.epoch</bundle>
+    <updated>1423357454</updated>
+    <file>epoch_conversion.alfredworkflow</file>
+    <author>danielhopkins</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/epoch-converter</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Simple script to convert epochs to large type</short>
   </workflow>
   <workflow>
     <name>Epoch/Unix Time to DateTime</name>
@@ -6616,21 +6616,6 @@
     <short>GitLab Project search for Alfred</short>
   </workflow>
   <workflow>
-    <name>gitmoji</name>
-    <version>1.0</version>
-    <bundle>su.jing.gitmoji</bundle>
-    <updated>1513975772</updated>
-    <file>gitmoji-v1.0.alfredworkflow</file>
-    <author>o</author>
-    <applications></applications>
-    <categories>Development ||| Other ||| Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitmoji</url>
-    <tags>gitmoji ||| emoji</tags>
-    <webservices></webservices>
-    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
-  </workflow>
-  <workflow>
     <name>Gitmoji</name>
     <version>2.3</version>
     <bundle>org.leolabs.alfred.gitmoji</bundle>
@@ -6644,6 +6629,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search for Gitmojis easily and copy them to your clipboard</short>
+  </workflow>
+  <workflow>
+    <name>gitmoji</name>
+    <version>1.0</version>
+    <bundle>su.jing.gitmoji</bundle>
+    <updated>1513975772</updated>
+    <file>gitmoji-v1.0.alfredworkflow</file>
+    <author>o</author>
+    <applications></applications>
+    <categories>Development ||| Other ||| Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitmoji</url>
+    <tags>gitmoji ||| emoji</tags>
+    <webservices></webservices>
+    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -13412,21 +13412,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>3.1</version>
-    <bundle>com.renegaed.restart-app</bundle>
-    <updated>1457904373</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>renegaed</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app</url>
-    <tags>restart ||| app ||| restart app</tags>
-    <webservices></webservices>
-    <short>Restart a currently running App</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>1.0</version>
     <bundle>com.sulaiman.restartapp</bundle>
     <updated>1464107021</updated>
@@ -13439,6 +13424,21 @@
     <tags>app relaunch ||| System Helpers</tags>
     <webservices></webservices>
     <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>3.1</version>
+    <bundle>com.renegaed.restart-app</bundle>
+    <updated>1457904373</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>renegaed</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app</url>
+    <tags>restart ||| app ||| restart app</tags>
+    <webservices></webservices>
+    <short>Restart a currently running App</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -14357,9 +14357,9 @@
   </workflow>
   <workflow>
     <name>Search Salesforce Lightning</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <bundle>com.scottstilson.search.salesforcelightning</bundle>
-    <updated>1554733481</updated>
+    <updated>1554733584</updated>
     <file>search_salesforce_lightning.alfredworkflow</file>
     <author>Scott Stilson</author>
     <applications>PHP</applications>
@@ -15301,21 +15301,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>Speedtest</name>
-    <version>1.0.2</version>
-    <bundle>pro.elms.paul.speedtest</bundle>
-    <updated>1420738658</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>paulelms</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices>speedtest.net</webservices>
-    <short>Measure internet speed with speedtest.net service</short>
-  </workflow>
-  <workflow>
     <name>SpeedTest</name>
     <version>1.1</version>
     <bundle>com.chusiang.speedtest</bundle>
@@ -15329,6 +15314,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices></webservices>
     <short>Run SpeedTest with speedtest-cli.</short>
+  </workflow>
+  <workflow>
+    <name>Speedtest</name>
+    <version>1.0.2</version>
+    <bundle>pro.elms.paul.speedtest</bundle>
+    <updated>1420738658</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>paulelms</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices>speedtest.net</webservices>
+    <short>Measure internet speed with speedtest.net service</short>
   </workflow>
   <workflow>
     <name>SpeedTest to Slack</name>
@@ -16816,21 +16816,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>Timezones</name>
-    <version>1.0</version>
-    <bundle>gherardi.riccardo.timezones</bundle>
-    <updated>1506720503</updated>
-    <file>timezones.alfredworkflow</file>
-    <author>riccardog</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timezones-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Show world timezones. Does not require an internet connection.</short>
-  </workflow>
-  <workflow>
     <name>TimeZones</name>
     <version>1.7a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -16844,6 +16829,21 @@
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
     <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
+    <name>Timezones</name>
+    <version>1.0</version>
+    <bundle>gherardi.riccardo.timezones</bundle>
+    <updated>1506720503</updated>
+    <file>timezones.alfredworkflow</file>
+    <author>riccardog</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timezones-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
     <name>TinyPNG</name>
@@ -17057,21 +17057,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>0.1</version>
-    <bundle>uk.co.clokey.alfredworkflow</bundle>
-    <updated>1399316811</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>clokey74</author>
-    <applications></applications>
-    <categories>System</categories>
-    <osx>Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys</url>
-    <tags>fn ||| function key</tags>
-    <webservices></webservices>
-    <short>Toggle the fn key globally</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>1.0</version>
     <bundle>com.tanseycg.togglefunctionkeys</bundle>
     <updated>1422540315</updated>
@@ -17084,6 +17069,21 @@
     <tags>function keys</tags>
     <webservices></webservices>
     <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>0.1</version>
+    <bundle>uk.co.clokey.alfredworkflow</bundle>
+    <updated>1399316811</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>clokey74</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys</url>
+    <tags>fn ||| function key</tags>
+    <webservices></webservices>
+    <short>Toggle the fn key globally</short>
   </workflow>
   <workflow>
     <name>Toggle Greyscale</name>
@@ -19024,7 +19024,7 @@
     <name>Youtube Safari MP3</name>
     <version>1.0</version>
     <bundle>com.bhishanpdl.youtube_safari_mp3</bundle>
-    <updated>1537108036</updated>
+    <updated>1554751440</updated>
     <file>youtube_safari_mp3.alfredworkflow</file>
     <author>bhishan</author>
     <applications></applications>
