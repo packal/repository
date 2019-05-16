@@ -4772,21 +4772,6 @@
   </workflow>
   <workflow>
     <name>Docker Cloud</name>
-    <version>0.1.0</version>
-    <bundle>com.jayniz.dockercloud</bundle>
-    <updated>1481930918</updated>
-    <file>docker_cloud.alfredworkflow</file>
-    <author>jayniz</author>
-    <applications></applications>
-    <categories>Development ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-cloud-0</url>
-    <tags>dockercloud ||| docker ||| stacks ||| cloud</tags>
-    <webservices>docker cloud</webservices>
-    <short>Quickly jump into docker cloud stacks</short>
-  </workflow>
-  <workflow>
-    <name>Docker Cloud</name>
     <version>1.0</version>
     <bundle>com.fairfly.dcloud</bundle>
     <updated>1464530312</updated>
@@ -4801,19 +4786,19 @@
     <short>Shortcuts to quickly navigate Docker Cloud services and node clusters</short>
   </workflow>
   <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
-    <bundle>com.keithcirkel.docker-wizard</bundle>
-    <updated>1452852673</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
+    <name>Docker Cloud</name>
+    <version>0.1.0</version>
+    <bundle>com.jayniz.dockercloud</bundle>
+    <updated>1481930918</updated>
+    <file>docker_cloud.alfredworkflow</file>
+    <author>jayniz</author>
+    <applications></applications>
+    <categories>Development ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard-0</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
+    <url>http://www.packal.org/workflow/docker-cloud-0</url>
+    <tags>dockercloud ||| docker ||| stacks ||| cloud</tags>
+    <webservices>docker cloud</webservices>
+    <short>Quickly jump into docker cloud stacks</short>
   </workflow>
   <workflow>
     <name>Docker Wizard</name>
@@ -4826,6 +4811,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>com.keithcirkel.docker-wizard</bundle>
+    <updated>1452852673</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard-0</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -4939,7 +4939,7 @@
     <name>Download From Overcast</name>
     <version>1.0</version>
     <bundle>net.tyndyll.overcast</bundle>
-    <updated>1557926954</updated>
+    <updated>1557927087</updated>
     <file>download_from_overcast.alfredworkflow</file>
     <author>tyndyll</author>
     <applications></applications>
@@ -6661,6 +6661,21 @@
     <short>Alfred workflow to search for Github repository.</short>
   </workflow>
   <workflow>
+    <name>gitignore</name>
+    <version>1.1.0</version>
+    <bundle>de.jandavid.alfred.gitignore</bundle>
+    <updated>1543263617</updated>
+    <file>gitignore.alfredworkflow</file>
+    <author>jdno</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore-0</url>
+    <tags>git ||| github</tags>
+    <webservices>github.com</webservices>
+    <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
     <name>Gitignore</name>
     <version>0.1</version>
     <bundle>com.yourtion.gitignore</bundle>
@@ -6689,21 +6704,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
-    <name>gitignore</name>
-    <version>1.1.0</version>
-    <bundle>de.jandavid.alfred.gitignore</bundle>
-    <updated>1543263617</updated>
-    <file>gitignore.alfredworkflow</file>
-    <author>jdno</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore-0</url>
-    <tags>git ||| github</tags>
-    <webservices>github.com</webservices>
-    <short>Create .gitignore files using Alfred</short>
   </workflow>
   <workflow>
     <name>GitKraken</name>
@@ -15481,21 +15481,6 @@
     <short>Control App windows with Spectacle</short>
   </workflow>
   <workflow>
-    <name>Speedtest</name>
-    <version>1.0.2</version>
-    <bundle>pro.elms.paul.speedtest</bundle>
-    <updated>1420738658</updated>
-    <file>speedtest.alfredworkflow</file>
-    <author>paulelms</author>
-    <applications></applications>
-    <categories>Networking ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/speedtest</url>
-    <tags>networking ||| speedtest</tags>
-    <webservices>speedtest.net</webservices>
-    <short>Measure internet speed with speedtest.net service</short>
-  </workflow>
-  <workflow>
     <name>SpeedTest</name>
     <version>1.1</version>
     <bundle>com.chusiang.speedtest</bundle>
@@ -15509,6 +15494,21 @@
     <tags>networking ||| speedtest</tags>
     <webservices></webservices>
     <short>Run SpeedTest with speedtest-cli.</short>
+  </workflow>
+  <workflow>
+    <name>Speedtest</name>
+    <version>1.0.2</version>
+    <bundle>pro.elms.paul.speedtest</bundle>
+    <updated>1420738658</updated>
+    <file>speedtest.alfredworkflow</file>
+    <author>paulelms</author>
+    <applications></applications>
+    <categories>Networking ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/speedtest</url>
+    <tags>networking ||| speedtest</tags>
+    <webservices>speedtest.net</webservices>
+    <short>Measure internet speed with speedtest.net service</short>
   </workflow>
   <workflow>
     <name>SpeedTest to Slack</name>
@@ -16742,6 +16742,21 @@
   </workflow>
   <workflow>
     <name>Things</name>
+    <version>1.6</version>
+    <bundle>com.xilopaint.alfredapp.things</bundle>
+    <updated>1557837367</updated>
+    <file>things.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/things-0</url>
+    <tags>things</tags>
+    <webservices></webservices>
+    <short>Interact with Things 3 using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
     <version>1.0</version>
     <bundle>com.joshalbrechtsen.alfred.things</bundle>
     <updated>1520667499</updated>
@@ -16784,21 +16799,6 @@
     <tags>things ||| todo ||| productivity</tags>
     <webservices></webservices>
     <short>Manage your Things list with ease.</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
-    <version>1.6</version>
-    <bundle>com.xilopaint.alfredapp.things</bundle>
-    <updated>1557837367</updated>
-    <file>things.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/things-0</url>
-    <tags>things</tags>
-    <webservices></webservices>
-    <short>Interact with Things 3 using Alfred</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -17477,21 +17477,6 @@
   </workflow>
   <workflow>
     <name>Tower Repositories</name>
-    <version>2.6</version>
-    <bundle>net.cjlucas.alfred.tower</bundle>
-    <updated>1476151275</updated>
-    <file>tower-alfred-workflow.alfredworkflow</file>
-    <author>cjlucas</author>
-    <applications>Tower</applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/tower-repositories</url>
-    <tags>git ||| tower</tags>
-    <webservices></webservices>
-    <short>Quickly access your Tower git repositories</short>
-  </workflow>
-  <workflow>
-    <name>Tower Repositories</name>
     <version>1.0</version>
     <bundle>net.level3studios.alfredtower</bundle>
     <updated>1539818596</updated>
@@ -17504,6 +17489,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>View/Open Tower Repositories</short>
+  </workflow>
+  <workflow>
+    <name>Tower Repositories</name>
+    <version>2.6</version>
+    <bundle>net.cjlucas.alfred.tower</bundle>
+    <updated>1476151275</updated>
+    <file>tower-alfred-workflow.alfredworkflow</file>
+    <author>cjlucas</author>
+    <applications>Tower</applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/tower-repositories</url>
+    <tags>git ||| tower</tags>
+    <webservices></webservices>
+    <short>Quickly access your Tower git repositories</short>
   </workflow>
   <workflow>
     <name>trailer</name>
@@ -18076,21 +18076,6 @@
     <short>A workflow that transforms a url into new one that allows some formats such as "Github Flavored Markdown link" or "shorten url" and so on.</short>
   </workflow>
   <workflow>
-    <name>UUID Generator</name>
-    <version>0.1</version>
-    <bundle>me.ghulamabbas.uuidgenerator</bundle>
-    <updated>1470062686</updated>
-    <file>uuid_generator.alfredworkflow</file>
-    <author>Lightman</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/uuid-generator</url>
-    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
-    <webservices></webservices>
-    <short>Generates a unique UUID and saves it to clipboard</short>
-  </workflow>
-  <workflow>
     <name>UUID generator</name>
     <version>1.0</version>
     <bundle>com.md.uuid</bundle>
@@ -18104,6 +18089,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates random UUID and copy to clipboard or paste to most front app</short>
+  </workflow>
+  <workflow>
+    <name>UUID Generator</name>
+    <version>0.1</version>
+    <bundle>me.ghulamabbas.uuidgenerator</bundle>
+    <updated>1470062686</updated>
+    <file>uuid_generator.alfredworkflow</file>
+    <author>Lightman</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/uuid-generator</url>
+    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
+    <webservices></webservices>
+    <short>Generates a unique UUID and saves it to clipboard</short>
   </workflow>
   <workflow>
     <name>uuid-helper</name>
