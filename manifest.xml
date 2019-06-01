@@ -1742,21 +1742,6 @@
   </workflow>
   <workflow>
     <name>Atom</name>
-    <version>1.0</version>
-    <bundle>com.yukihe.workflow.atom</bundle>
-    <updated>1459862833</updated>
-    <file>atom.alfredworkflow</file>
-    <author>pinkdoremi</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/atom-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open Folder of current Finder by Atom</short>
-  </workflow>
-  <workflow>
-    <name>Atom</name>
     <version>2.4.0</version>
     <bundle>com.alfredapp.mdeboer.atom</bundle>
     <updated>1526150061</updated>
@@ -1769,6 +1754,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Simple workflow that allows you to browse and open Atom projects</short>
+  </workflow>
+  <workflow>
+    <name>Atom</name>
+    <version>1.0</version>
+    <bundle>com.yukihe.workflow.atom</bundle>
+    <updated>1459862833</updated>
+    <file>atom.alfredworkflow</file>
+    <author>pinkdoremi</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/atom-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open Folder of current Finder by Atom</short>
   </workflow>
   <workflow>
     <name>Audio Swith</name>
@@ -7634,6 +7634,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Maps Home/End keys to work like windows using HotKeys in Alfred (Select to start/end of the line not file)</short>
+  </workflow>
+  <workflow>
+    <name>Homeassistant Companion</name>
+    <version>0.1</version>
+    <bundle>com.j3n50m4t.HomeAssistant</bundle>
+    <updated>1559259569</updated>
+    <file>homeassistant.alfredworkflow</file>
+    <author>J3n50m4t</author>
+    <applications></applications>
+    <categories>Other</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/homeassistant-companion</url>
+    <tags>homeassistant ||| automation ||| shortcut</tags>
+    <webservices></webservices>
+    <short>Allows to interact with homeassistant (open Webui, restart, check config and update git)</short>
   </workflow>
   <workflow>
     <name>Homebrew</name>
