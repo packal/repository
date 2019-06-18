@@ -2356,21 +2356,6 @@
     <short>Switch Bluetooth status</short>
   </workflow>
   <workflow>
-    <name>Bluetooth Toggle</name>
-    <version>1.0</version>
-    <bundle>cubb.bluetoothtoggle</bundle>
-    <updated>1414992528</updated>
-    <file>bluetooth_switch.alfredworkflow</file>
-    <author>cubb</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Turn on/off Bluetooth using applescript.</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth toggle</name>
     <version>1.0</version>
     <bundle>florian.bluetooth</bundle>
@@ -2384,6 +2369,21 @@
     <tags>bluetooth ||| toggle</tags>
     <webservices></webservices>
     <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth Toggle</name>
+    <version>1.0</version>
+    <bundle>cubb.bluetoothtoggle</bundle>
+    <updated>1414992528</updated>
+    <file>bluetooth_switch.alfredworkflow</file>
+    <author>cubb</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Turn on/off Bluetooth using applescript.</short>
   </workflow>
   <workflow>
     <name>Blur</name>
@@ -9602,21 +9602,6 @@
   </workflow>
   <workflow>
     <name>Localhost</name>
-    <version>1.1</version>
-    <bundle>com.victorhazbun.localhost</bundle>
-    <updated>1452964276</updated>
-    <file>localhost_1_1.alfredworkflow</file>
-    <author>victorhazbun</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/localhost</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Open localhost at specified port</short>
-  </workflow>
-  <workflow>
-    <name>Localhost</name>
     <version>1.0</version>
     <bundle>com.kwtucker.localhost</bundle>
     <updated>1470273374</updated>
@@ -9629,6 +9614,21 @@
     <tags>localhost ||| dev</tags>
     <webservices></webservices>
     <short>Opens http://localhost: with your port passed in as a argument.</short>
+  </workflow>
+  <workflow>
+    <name>Localhost</name>
+    <version>1.1</version>
+    <bundle>com.victorhazbun.localhost</bundle>
+    <updated>1452964276</updated>
+    <file>localhost_1_1.alfredworkflow</file>
+    <author>victorhazbun</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/localhost</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Open localhost at specified port</short>
   </workflow>
   <workflow>
     <name>localhost2</name>
@@ -11989,31 +11989,16 @@
     <name>Parcel</name>
     <version>2.0.0</version>
     <bundle>alfredapp.ts.parcel</bundle>
-    <updated>1560780752</updated>
+    <updated>1560783534</updated>
     <file>parcel.alfredworkflow</file>
     <author>vtacquet</author>
     <applications></applications>
-    <categories>Productivity ||| Reference</categories>
+    <categories>Productivity ||| Reference ||| Search</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/parcel</url>
     <tags></tags>
     <webservices></webservices>
     <short>Track your parcel online</short>
-  </workflow>
-  <workflow>
-    <name>Parcels</name>
-    <version>1.0.1</version>
-    <bundle>alfredapp.ts.parcels</bundle>
-    <updated>1549899834</updated>
-    <file>parcels.alfredworkflow</file>
-    <author>vtacquet</author>
-    <applications>chrome</applications>
-    <categories>Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/parcels</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Track your parcels/packages online via ParcelsApp (http://parcelsapp.com).</short>
   </workflow>
   <workflow>
     <name>Parsers</name>
@@ -14222,21 +14207,6 @@
   </workflow>
   <workflow>
     <name>Safari History Search</name>
-    <version>1.0.1</version>
-    <bundle>com.akaralar.safariHistorySearch</bundle>
-    <updated>1468887016</updated>
-    <file>safari_history_search.alfredworkflow</file>
-    <author>akaralar</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/safari-history-search</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred workflow to search Safari history</short>
-  </workflow>
-  <workflow>
-    <name>Safari History Search</name>
     <version>1.0</version>
     <bundle>com.rx2130.alfred.hsi</bundle>
     <updated>1508381417</updated>
@@ -14249,6 +14219,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Safari Browse History from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Safari History Search</name>
+    <version>1.0.1</version>
+    <bundle>com.akaralar.safariHistorySearch</bundle>
+    <updated>1468887016</updated>
+    <file>safari_history_search.alfredworkflow</file>
+    <author>akaralar</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/safari-history-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow to search Safari history</short>
   </workflow>
   <workflow>
     <name>Safari Reading List</name>
@@ -17072,21 +17057,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.6</version>
-    <bundle>com.xilopaint.alfredapp.things</bundle>
-    <updated>1557837367</updated>
-    <file>things.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/things-0</url>
-    <tags>things</tags>
-    <webservices></webservices>
-    <short>Interact with Things 3 using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.0</version>
     <bundle>com.joshalbrechtsen.alfred.things</bundle>
     <updated>1520667499</updated>
@@ -17129,6 +17099,21 @@
     <tags>things ||| todo ||| productivity</tags>
     <webservices></webservices>
     <short>Manage your Things list with ease.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.6</version>
+    <bundle>com.xilopaint.alfredapp.things</bundle>
+    <updated>1557837367</updated>
+    <file>things.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/things-0</url>
+    <tags>things</tags>
+    <webservices></webservices>
+    <short>Interact with Things 3 using Alfred</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -17341,21 +17326,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>Timezones</name>
-    <version>1.0</version>
-    <bundle>gherardi.riccardo.timezones</bundle>
-    <updated>1506720503</updated>
-    <file>timezones.alfredworkflow</file>
-    <author>riccardog</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timezones-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Show world timezones. Does not require an internet connection.</short>
-  </workflow>
-  <workflow>
     <name>TimeZones</name>
     <version>1.7a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -17369,6 +17339,21 @@
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
     <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
+    <name>Timezones</name>
+    <version>1.0</version>
+    <bundle>gherardi.riccardo.timezones</bundle>
+    <updated>1506720503</updated>
+    <file>timezones.alfredworkflow</file>
+    <author>riccardog</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timezones-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
@@ -19024,11 +19009,11 @@
     <name>Who</name>
     <version>1.0.0</version>
     <bundle>alfredapp.ts.who</bundle>
-    <updated>1560780869</updated>
+    <updated>1560783446</updated>
     <file>who.alfredworkflow</file>
     <author>vtacquet</author>
     <applications></applications>
-    <categories>Networking ||| Reference</categories>
+    <categories>Networking ||| Reference ||| Search</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/who</url>
     <tags></tags>
