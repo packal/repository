@@ -3721,21 +3721,6 @@
     <short>Copies POSIX path of frontmost Finder window</short>
   </workflow>
   <workflow>
-    <name>Copy Last Download to Here</name>
-    <version>1.0</version>
-    <bundle>com.bhishanpdl.copylastdownloadtohere</bundle>
-    <updated>1554561386</updated>
-    <file>copy_last_download_to_pwd.alfredworkflow</file>
-    <author>bhishan</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/copy-last-download-here</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Copy last downloaded file to the current directory</short>
-  </workflow>
-  <workflow>
     <name>Copy Mail Message URL</name>
     <version>1.0</version>
     <bundle>com.webkenny.copymessageurl</bundle>
@@ -3794,6 +3779,21 @@
     <tags>url ||| browser</tags>
     <webservices></webservices>
     <short>You can copy browser's URL and title with various formats like markdown, anchor tag and your own.</short>
+  </workflow>
+  <workflow>
+    <name>Copy/Move Last Download to Here</name>
+    <version>2.0</version>
+    <bundle>com.bhishanpdl.copylastdownloadtohere</bundle>
+    <updated>1561847849</updated>
+    <file>copymove_last_downloads_to_pwd.alfredworkflow</file>
+    <author>bhishan</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/copymove-last-download-here</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Copy/Move last downloaded file to the current directory</short>
   </workflow>
   <workflow>
     <name>Copy/Move To</name>
@@ -4052,21 +4052,6 @@
   </workflow>
   <workflow>
     <name>Currency Converter</name>
-    <version>1.2</version>
-    <bundle>com.etenal.currencyexchange</bundle>
-    <updated>1526397497</updated>
-    <file>currency.exchange.alfredworkflow</file>
-    <author>代战</author>
-    <applications></applications>
-    <categories>Networking ||| Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/currency-converter-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Currency Exchange include BTC, ETH</short>
-  </workflow>
-  <workflow>
-    <name>Currency Converter</name>
     <version>0.93</version>
     <bundle>net.exit4web.currencyconverter</bundle>
     <updated>1458609314</updated>
@@ -4079,6 +4064,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>A simple Alfred 2 Currency Converter workflow</short>
+  </workflow>
+  <workflow>
+    <name>Currency Converter</name>
+    <version>1.2</version>
+    <bundle>com.etenal.currencyexchange</bundle>
+    <updated>1526397497</updated>
+    <file>currency.exchange.alfredworkflow</file>
+    <author>代战</author>
+    <applications></applications>
+    <categories>Networking ||| Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/currency-converter-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Currency Exchange include BTC, ETH</short>
   </workflow>
   <workflow>
     <name>Currency Exchange</name>
@@ -9332,16 +9332,16 @@
   </workflow>
   <workflow>
     <name>Lawfred Intelligence</name>
-    <version>1.2</version>
+    <version>1.3.1</version>
     <bundle>lawfred-intelligence</bundle>
-    <updated>1560718349</updated>
+    <updated>1561722398</updated>
     <file>lawfred_intelligence.alfredworkflow</file>
     <author>ABeehive</author>
     <applications></applications>
     <categories>Productivity ||| Search ||| Text Manipulation</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/lawfred-intelligence</url>
-    <tags>legal intelligence</tags>
+    <tags>legal intelligence ||| law ||| court</tags>
     <webservices>Legal Intelligence</webservices>
     <short>Search Legal Intelligence straight from Alfred</short>
   </workflow>
@@ -14567,21 +14567,6 @@
   </workflow>
   <workflow>
     <name>Search Bear</name>
-    <version>0.1</version>
-    <bundle>io.github.ilstar.search_bear</bundle>
-    <updated>1483772707</updated>
-    <file>search_bear.alfredworkflow</file>
-    <author>fred1020</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/search-bear-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Search Bear notes by keywords and/or tags</short>
-  </workflow>
-  <workflow>
-    <name>Search Bear</name>
     <version>1.0</version>
     <bundle>com.searchbear.lee</bundle>
     <updated>1478496979</updated>
@@ -14594,6 +14579,21 @@
     <tags>Bear ||| search</tags>
     <webservices></webservices>
     <short>Search for specific notes or tags in the Bear.app</short>
+  </workflow>
+  <workflow>
+    <name>Search Bear</name>
+    <version>0.1</version>
+    <bundle>io.github.ilstar.search_bear</bundle>
+    <updated>1483772707</updated>
+    <file>search_bear.alfredworkflow</file>
+    <author>fred1020</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/search-bear-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search Bear notes by keywords and/or tags</short>
   </workflow>
   <workflow>
     <name>Search Bible Gateway</name>
@@ -17102,21 +17102,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.0</version>
-    <bundle>com.joshalbrechtsen.alfred.things</bundle>
-    <updated>1520667499</updated>
-    <file>things.alfredworkflow</file>
-    <author>josh33</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/things-2</url>
-    <tags>things ||| productivitiy</tags>
-    <webservices></webservices>
-    <short>Things 3 Workflow with Deep Linking</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.1.19</version>
     <bundle>hu.fns.things</bundle>
     <updated>1548809476</updated>
@@ -17129,6 +17114,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Things one-line task generation.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.0</version>
+    <bundle>com.joshalbrechtsen.alfred.things</bundle>
+    <updated>1520667499</updated>
+    <file>things.alfredworkflow</file>
+    <author>josh33</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/things-2</url>
+    <tags>things ||| productivitiy</tags>
+    <webservices></webservices>
+    <short>Things 3 Workflow with Deep Linking</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -17341,21 +17341,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>Timezones</name>
-    <version>1.0</version>
-    <bundle>gherardi.riccardo.timezones</bundle>
-    <updated>1506720503</updated>
-    <file>timezones.alfredworkflow</file>
-    <author>riccardog</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timezones-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Show world timezones. Does not require an internet connection.</short>
-  </workflow>
-  <workflow>
     <name>TimeZones</name>
     <version>1.7a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -17369,6 +17354,21 @@
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
     <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
+    <name>Timezones</name>
+    <version>1.0</version>
+    <bundle>gherardi.riccardo.timezones</bundle>
+    <updated>1506720503</updated>
+    <file>timezones.alfredworkflow</file>
+    <author>riccardog</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timezones-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
