@@ -1069,7 +1069,7 @@
     <name>Alfred-Time V2</name>
     <version>2.0.1</version>
     <bundle>mo.com.sleeplessmind.time-v2</bundle>
-    <updated>1560911914</updated>
+    <updated>1562145804</updated>
     <file>time.alfredworkflow</file>
     <author>godbout</author>
     <applications></applications>
@@ -4232,21 +4232,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>3.3</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1540192876</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -4259,6 +4244,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>3.3</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1540192876</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Date Converter</name>
@@ -8282,21 +8282,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.0</version>
-    <bundle>com.ricardosampayo.iossimulator</bundle>
-    <updated>1478372755</updated>
-    <file>ios_simulator.alfredworkflow</file>
-    <author>sampayo</author>
-    <applications>Xcode</applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator-0</url>
-    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
-    <webservices></webservices>
-    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.3.1</version>
     <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
     <updated>1431965892</updated>
@@ -8309,6 +8294,21 @@
     <tags>ios ||| simulator ||| apps ||| development</tags>
     <webservices></webservices>
     <short>Workflow for finding simulator app data folders, erasing apps and more</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.0</version>
+    <bundle>com.ricardosampayo.iossimulator</bundle>
+    <updated>1478372755</updated>
+    <file>ios_simulator.alfredworkflow</file>
+    <author>sampayo</author>
+    <applications>Xcode</applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator-0</url>
+    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
+    <webservices></webservices>
+    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
   </workflow>
   <workflow>
     <name>iOS Simulator launcher</name>
@@ -9962,21 +9962,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -9989,6 +9974,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -17087,6 +17087,21 @@
   </workflow>
   <workflow>
     <name>Things</name>
+    <version>1.1.19</version>
+    <bundle>hu.fns.things</bundle>
+    <updated>1548809476</updated>
+    <file>things.alfredworkflow</file>
+    <author>fns720</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/things</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Things one-line task generation.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
     <version>1.0</version>
     <bundle>com.pawelgrzybek.things</bundle>
     <updated>1519297696</updated>
@@ -17114,21 +17129,6 @@
     <tags>things</tags>
     <webservices></webservices>
     <short>Interact with Things 3 using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
-    <version>1.1.19</version>
-    <bundle>hu.fns.things</bundle>
-    <updated>1548809476</updated>
-    <file>things.alfredworkflow</file>
-    <author>fns720</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/things</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Things one-line task generation.</short>
   </workflow>
   <workflow>
     <name>Things</name>
@@ -17356,21 +17356,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>TimeZones</name>
-    <version>1.7a</version>
-    <bundle>carlosnz.timezones</bundle>
-    <updated>1438651166</updated>
-    <file>timezones_v1.7a.alfredworkflow</file>
-    <author>CarlosNZ</author>
-    <applications></applications>
-    <categories>Productivity ||| Reference ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/timezones</url>
-    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
-    <webservices>Google Maps API</webservices>
-    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
-  </workflow>
-  <workflow>
     <name>Timezones</name>
     <version>1.0</version>
     <bundle>gherardi.riccardo.timezones</bundle>
@@ -17384,6 +17369,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Show world timezones. Does not require an internet connection.</short>
+  </workflow>
+  <workflow>
+    <name>TimeZones</name>
+    <version>1.7a</version>
+    <bundle>carlosnz.timezones</bundle>
+    <updated>1438651166</updated>
+    <file>timezones_v1.7a.alfredworkflow</file>
+    <author>CarlosNZ</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/timezones</url>
+    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
+    <webservices>Google Maps API</webservices>
+    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
