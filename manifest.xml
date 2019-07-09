@@ -3032,21 +3032,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>0.1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1467306827</updated>
-    <file>chrome-bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
-    <categories>Productivity ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>1.1</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1468279033</updated>
@@ -3059,6 +3044,21 @@
     <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>0.1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1467306827</updated>
+    <file>chrome-bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
   </workflow>
   <workflow>
     <name>Chrome Incognito</name>
@@ -10007,21 +10007,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -10034,6 +10019,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -12062,21 +12062,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.3.4</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1549259896</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3.1</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1504827915</updated>
@@ -12089,6 +12074,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.3.4</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1549259896</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -17867,21 +17867,6 @@
   </workflow>
   <workflow>
     <name>Tower Repositories</name>
-    <version>2.6</version>
-    <bundle>net.cjlucas.alfred.tower</bundle>
-    <updated>1476151275</updated>
-    <file>tower-alfred-workflow.alfredworkflow</file>
-    <author>cjlucas</author>
-    <applications>Tower</applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/tower-repositories</url>
-    <tags>git ||| tower</tags>
-    <webservices></webservices>
-    <short>Quickly access your Tower git repositories</short>
-  </workflow>
-  <workflow>
-    <name>Tower Repositories</name>
     <version>1.0</version>
     <bundle>net.level3studios.alfredtower</bundle>
     <updated>1539818596</updated>
@@ -17894,6 +17879,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>View/Open Tower Repositories</short>
+  </workflow>
+  <workflow>
+    <name>Tower Repositories</name>
+    <version>2.6</version>
+    <bundle>net.cjlucas.alfred.tower</bundle>
+    <updated>1476151275</updated>
+    <file>tower-alfred-workflow.alfredworkflow</file>
+    <author>cjlucas</author>
+    <applications>Tower</applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/tower-repositories</url>
+    <tags>git ||| tower</tags>
+    <webservices></webservices>
+    <short>Quickly access your Tower git repositories</short>
   </workflow>
   <workflow>
     <name>trailer</name>
@@ -18423,21 +18423,6 @@
   <workflow>
     <name>Urban Dictionary</name>
     <version>1.0</version>
-    <bundle>florian.urban</bundle>
-    <updated>1409825656</updated>
-    <file>urban_dictionary.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/urban-dictionary</url>
-    <tags>define ||| dictionary ||| word</tags>
-    <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
-    <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
-  </workflow>
-  <workflow>
-    <name>Urban Dictionary</name>
-    <version>1.0</version>
     <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
     <updated>1535495956</updated>
     <file>urban_dictionary.alfredworkflow</file>
@@ -18449,6 +18434,21 @@
     <tags></tags>
     <webservices>urban dictionary</webservices>
     <short>Search Urban Dictionary from Alfred 3</short>
+  </workflow>
+  <workflow>
+    <name>Urban Dictionary</name>
+    <version>1.0</version>
+    <bundle>florian.urban</bundle>
+    <updated>1409825656</updated>
+    <file>urban_dictionary.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/urban-dictionary</url>
+    <tags>define ||| dictionary ||| word</tags>
+    <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
+    <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
   </workflow>
   <workflow>
     <name>URL craft</name>
@@ -19654,7 +19654,7 @@
     <name>Youtube Safari MP3</name>
     <version>1.0</version>
     <bundle>com.bhishanpdl.youtube_safari_mp3</bundle>
-    <updated>1554751440</updated>
+    <updated>1562705397</updated>
     <file>youtube_safari_mp3.alfredworkflow</file>
     <author>bhishan</author>
     <applications></applications>
