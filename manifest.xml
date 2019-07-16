@@ -13201,6 +13201,21 @@
     <short>Quits Applications or sets focus to the selected window.</short>
   </workflow>
   <workflow>
+    <name>QuitArena</name>
+    <version>1.0.0</version>
+    <bundle>com.vitorgalvao.alfred.quitarena</bundle>
+    <updated>1563212072</updated>
+    <file>quitarena.alfredworkflow</file>
+    <author>vitor</author>
+    <applications></applications>
+    <categories>System</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/quitarena</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Quit all apps, with exceptions</short>
+  </workflow>
+  <workflow>
     <name>Quote</name>
     <version>1.2</version>
     <bundle>com.apple.alfred2.workflow.quote</bundle>
