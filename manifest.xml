@@ -5342,9 +5342,9 @@
   </workflow>
   <workflow>
     <name>Domoticz</name>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
     <bundle>Tellier.Wouter.Domoticz</bundle>
-    <updated>1579887897</updated>
+    <updated>1579889420</updated>
     <file>domoticz.alfredworkflow</file>
     <author>wtellier</author>
     <applications>domoticz</applications>
@@ -12692,21 +12692,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.3.4</version>
-    <bundle>pl.intrepidus.pass</bundle>
-    <updated>1549259896</updated>
-    <file>pass.alfredworkflow</file>
-    <author>seeg</author>
-    <applications>pass</applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass-0</url>
-    <tags>password ||| pass</tags>
-    <webservices></webservices>
-    <short>Pass (the standard Unix password manager) integration</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3.1</version>
     <bundle>org.passwordstore.pass</bundle>
     <updated>1504827915</updated>
@@ -12719,6 +12704,21 @@
     <tags>password ||| terminal ||| gpg</tags>
     <webservices></webservices>
     <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.3.4</version>
+    <bundle>pl.intrepidus.pass</bundle>
+    <updated>1549259896</updated>
+    <file>pass.alfredworkflow</file>
+    <author>seeg</author>
+    <applications>pass</applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass-0</url>
+    <tags>password ||| pass</tags>
+    <webservices></webservices>
+    <short>Pass (the standard Unix password manager) integration</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
