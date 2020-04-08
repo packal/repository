@@ -6632,21 +6632,6 @@
   </workflow>
   <workflow>
     <name>Focus</name>
-    <version>1.1</version>
-    <bundle>com.tedwise.focus</bundle>
-    <updated>1422550514</updated>
-    <file>focus.alfredworkflow</file>
-    <author>ctwise</author>
-    <applications>Focus</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/focus</url>
-    <tags>focus</tags>
-    <webservices></webservices>
-    <short>Toggles the Focus app status.</short>
-  </workflow>
-  <workflow>
-    <name>Focus</name>
     <version>2.3</version>
     <bundle>haus.adrian.alfred-focus</bundle>
     <updated>1584977970</updated>
@@ -6659,6 +6644,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Control Focus</short>
+  </workflow>
+  <workflow>
+    <name>Focus</name>
+    <version>1.1</version>
+    <bundle>com.tedwise.focus</bundle>
+    <updated>1422550514</updated>
+    <file>focus.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/focus</url>
+    <tags>focus</tags>
+    <webservices></webservices>
+    <short>Toggles the Focus app status.</short>
   </workflow>
   <workflow>
     <name>Focus Workflow (heyfocus.com)</name>
@@ -8837,21 +8837,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.0.1</version>
-    <bundle>com.ricardosampayo.iossimulator</bundle>
-    <updated>1569614744</updated>
-    <file>ios_simulator.alfredworkflow</file>
-    <author>sampayo</author>
-    <applications>Xcode</applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator-0</url>
-    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
-    <webservices></webservices>
-    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.0</version>
     <bundle>com.bkiefer.iossimulator</bundle>
     <updated>1566936579</updated>
@@ -8864,6 +8849,21 @@
     <tags>ios ||| xterm</tags>
     <webservices></webservices>
     <short>Quickly list and launch an iOS simulator</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.0.1</version>
+    <bundle>com.ricardosampayo.iossimulator</bundle>
+    <updated>1569614744</updated>
+    <file>ios_simulator.alfredworkflow</file>
+    <author>sampayo</author>
+    <applications>Xcode</applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator-0</url>
+    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
+    <webservices></webservices>
+    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
@@ -10592,21 +10592,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -10619,6 +10604,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -12767,21 +12767,6 @@
   </workflow>
   <workflow>
     <name>pass</name>
-    <version>0.3.1</version>
-    <bundle>org.passwordstore.pass</bundle>
-    <updated>1504827915</updated>
-    <file>pass-0.3.1.alfredworkflow</file>
-    <author>mwest</author>
-    <applications>Terminal ||| pass</applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/pass</url>
-    <tags>password ||| terminal ||| gpg</tags>
-    <webservices></webservices>
-    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
-  </workflow>
-  <workflow>
-    <name>pass</name>
     <version>0.3.4</version>
     <bundle>pl.intrepidus.pass</bundle>
     <updated>1549259896</updated>
@@ -12794,6 +12779,21 @@
     <tags>password ||| pass</tags>
     <webservices></webservices>
     <short>Pass (the standard Unix password manager) integration</short>
+  </workflow>
+  <workflow>
+    <name>pass</name>
+    <version>0.3.1</version>
+    <bundle>org.passwordstore.pass</bundle>
+    <updated>1504827915</updated>
+    <file>pass-0.3.1.alfredworkflow</file>
+    <author>mwest</author>
+    <applications>Terminal ||| pass</applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/pass</url>
+    <tags>password ||| terminal ||| gpg</tags>
+    <webservices></webservices>
+    <short>Provide a minimal wrapper over the pass password manager (passwordstore.org)</short>
   </workflow>
   <workflow>
     <name>Passphrase Generator</name>
@@ -15122,21 +15122,6 @@
   </workflow>
   <workflow>
     <name>Safari History Search</name>
-    <version>1.0.1</version>
-    <bundle>com.akaralar.safariHistorySearch</bundle>
-    <updated>1468887016</updated>
-    <file>safari_history_search.alfredworkflow</file>
-    <author>akaralar</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/safari-history-search</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred workflow to search Safari history</short>
-  </workflow>
-  <workflow>
-    <name>Safari History Search</name>
     <version>1.0</version>
     <bundle>com.rx2130.alfred.hsi</bundle>
     <updated>1508381417</updated>
@@ -15149,6 +15134,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Safari Browse History from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Safari History Search</name>
+    <version>1.0.1</version>
+    <bundle>com.akaralar.safariHistorySearch</bundle>
+    <updated>1468887016</updated>
+    <file>safari_history_search.alfredworkflow</file>
+    <author>akaralar</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/safari-history-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow to search Safari history</short>
   </workflow>
   <workflow>
     <name>Safari Reading List</name>
@@ -15739,7 +15739,7 @@
     <name>Search Raindrop.io</name>
     <version>1.4</version>
     <bundle>me.westerlind.alfred.raindrop-search</bundle>
-    <updated>1586296653</updated>
+    <updated>1586383060</updated>
     <file>search_raindrop.alfredworkflow</file>
     <author>Andreas Westerlind</author>
     <applications></applications>
@@ -18152,36 +18152,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.6</version>
-    <bundle>com.xilopaint.alfredapp.things</bundle>
-    <updated>1557837367</updated>
-    <file>things.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/things-0</url>
-    <tags>things</tags>
-    <webservices></webservices>
-    <short>Interact with Things 3 using Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
-    <version>1.0</version>
-    <bundle>com.joshalbrechtsen.alfred.things</bundle>
-    <updated>1520667499</updated>
-    <file>things.alfredworkflow</file>
-    <author>josh33</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/things-2</url>
-    <tags>things ||| productivitiy</tags>
-    <webservices></webservices>
-    <short>Things 3 Workflow with Deep Linking</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.0</version>
     <bundle>com.pawelgrzybek.things</bundle>
     <updated>1519297696</updated>
@@ -18197,6 +18167,21 @@
   </workflow>
   <workflow>
     <name>Things</name>
+    <version>1.6</version>
+    <bundle>com.xilopaint.alfredapp.things</bundle>
+    <updated>1557837367</updated>
+    <file>things.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/things-0</url>
+    <tags>things</tags>
+    <webservices></webservices>
+    <short>Interact with Things 3 using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
     <version>1.1.19</version>
     <bundle>hu.fns.things</bundle>
     <updated>1548809476</updated>
@@ -18209,6 +18194,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Things one-line task generation.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.0</version>
+    <bundle>com.joshalbrechtsen.alfred.things</bundle>
+    <updated>1520667499</updated>
+    <file>things.alfredworkflow</file>
+    <author>josh33</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/things-2</url>
+    <tags>things ||| productivitiy</tags>
+    <webservices></webservices>
+    <short>Things 3 Workflow with Deep Linking</short>
   </workflow>
   <workflow>
     <name>Thumbtack 2</name>
@@ -18783,21 +18783,6 @@
   <workflow>
     <name>Toggle Keyboard Viewer</name>
     <version>1.0</version>
-    <bundle>us.yearl.togglekv</bundle>
-    <updated>1452435732</updated>
-    <file>toggle_keyboard_viewer.alfredworkflow</file>
-    <author>centzon400</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
-    <tags>keybaord viewer</tags>
-    <webservices></webservices>
-    <short>Displays/hides the keyboard viewer</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Keyboard Viewer</name>
-    <version>1.0</version>
     <bundle>com.gingerbeardman.keyboardviewer</bundle>
     <updated>1523906038</updated>
     <file>toggle_keyboard_viewer.alfredworkflow</file>
@@ -18809,6 +18794,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Toggles the macOS Keyboard Viewer applet</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Keyboard Viewer</name>
+    <version>1.0</version>
+    <bundle>us.yearl.togglekv</bundle>
+    <updated>1452435732</updated>
+    <file>toggle_keyboard_viewer.alfredworkflow</file>
+    <author>centzon400</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
+    <tags>keybaord viewer</tags>
+    <webservices></webservices>
+    <short>Displays/hides the keyboard viewer</short>
   </workflow>
   <workflow>
     <name>Toggle Today and Notification Center Views</name>
@@ -19458,21 +19458,6 @@
   <workflow>
     <name>Urban Dictionary</name>
     <version>1.0</version>
-    <bundle>florian.urban</bundle>
-    <updated>1409825656</updated>
-    <file>urban_dictionary.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/urban-dictionary</url>
-    <tags>define ||| dictionary ||| word</tags>
-    <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
-    <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
-  </workflow>
-  <workflow>
-    <name>Urban Dictionary</name>
-    <version>1.0</version>
     <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
     <updated>1535495956</updated>
     <file>urban_dictionary.alfredworkflow</file>
@@ -19484,6 +19469,21 @@
     <tags></tags>
     <webservices>urban dictionary</webservices>
     <short>Search Urban Dictionary from Alfred 3</short>
+  </workflow>
+  <workflow>
+    <name>Urban Dictionary</name>
+    <version>1.0</version>
+    <bundle>florian.urban</bundle>
+    <updated>1409825656</updated>
+    <file>urban_dictionary.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/urban-dictionary</url>
+    <tags>define ||| dictionary ||| word</tags>
+    <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
+    <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
   </workflow>
   <workflow>
     <name>URL Actions</name>
