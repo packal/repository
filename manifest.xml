@@ -3181,6 +3181,21 @@
     <short>FOOBAR ⇌ foobar OR fooBar ⇌ foo_bar OR foo-bar ⇌ fooBar</short>
   </workflow>
   <workflow>
+    <name>cd</name>
+    <version>1.0</version>
+    <bundle>com.klementtan.cd</bundle>
+    <updated>1587133434</updated>
+    <file>cd.alfredworkflow</file>
+    <author>Klement Tan</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/cd</url>
+    <tags>coding</tags>
+    <webservices></webservices>
+    <short>open any directory in terminal</short>
+  </workflow>
+  <workflow>
     <name>cd to Current Path</name>
     <version>1.0</version>
     <bundle>com.bhishanpdl.cd_to_current_path</bundle>
@@ -12319,7 +12334,7 @@
     <name>Open in VS Code</name>
     <version>1.0</version>
     <bundle>com.klementtan.openvscode</bundle>
-    <updated>1587130811</updated>
+    <updated>1587133392</updated>
     <file>open_with_vs_code.alfredworkflow</file>
     <author>Klement Tan</author>
     <applications>Visual Studio Code</applications>
