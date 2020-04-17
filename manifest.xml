@@ -12316,6 +12316,21 @@
     <short>Open the selected file in Finder in the terminal using vim editor.</short>
   </workflow>
   <workflow>
+    <name>Open in VS Code</name>
+    <version>1.0</version>
+    <bundle>com.klementtan.openvscode</bundle>
+    <updated>1587130811</updated>
+    <file>open_with_vs_code.alfredworkflow</file>
+    <author>Klement Tan</author>
+    <applications>Visual Studio Code</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/open-vs-code</url>
+    <tags>coding ||| vs code</tags>
+    <webservices></webservices>
+    <short>Open any folder/file in VS Code</short>
+  </workflow>
+  <workflow>
     <name>Open in VSCode</name>
     <version>0.1.2</version>
     <bundle>com.vivaxy.alfred-workflow.open-in-vscode</bundle>
