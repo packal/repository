@@ -1142,9 +1142,9 @@
   </workflow>
   <workflow>
     <name>alfred-ocr</name>
-    <version>4.4</version>
+    <version>4.5</version>
     <bundle>com.chandler.alfredocr</bundle>
-    <updated>1587471571</updated>
+    <updated>1587471691</updated>
     <file>capture_then_ocr.alfredworkflow</file>
     <author>Chandler Lu</author>
     <applications></applications>
@@ -2626,21 +2626,6 @@
     <short>Switch Bluetooth status</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -2654,6 +2639,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>BluetoothDevicesToggler</name>
@@ -10322,21 +10322,6 @@
   </workflow>
   <workflow>
     <name>Localhost</name>
-    <version>1.0</version>
-    <bundle>com.kwtucker.localhost</bundle>
-    <updated>1470273374</updated>
-    <file>local_host.alfredworkflow</file>
-    <author>kwtucker</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/localhost-0</url>
-    <tags>localhost ||| dev</tags>
-    <webservices></webservices>
-    <short>Opens http://localhost: with your port passed in as a argument.</short>
-  </workflow>
-  <workflow>
-    <name>Localhost</name>
     <version>1.1</version>
     <bundle>com.victorhazbun.localhost</bundle>
     <updated>1452964276</updated>
@@ -10349,6 +10334,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open localhost at specified port</short>
+  </workflow>
+  <workflow>
+    <name>Localhost</name>
+    <version>1.0</version>
+    <bundle>com.kwtucker.localhost</bundle>
+    <updated>1470273374</updated>
+    <file>local_host.alfredworkflow</file>
+    <author>kwtucker</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/localhost-0</url>
+    <tags>localhost ||| dev</tags>
+    <webservices></webservices>
+    <short>Opens http://localhost: with your port passed in as a argument.</short>
   </workflow>
   <workflow>
     <name>localhost2</name>
@@ -12918,6 +12918,21 @@
   <workflow>
     <name>Password Generator</name>
     <version>1.0</version>
+    <bundle>com.alfred.field.generator.password</bundle>
+    <updated>1499395276</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>FFIN</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-2</url>
+    <tags>password</tags>
+    <webservices></webservices>
+    <short>Generate secure password suggestions</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.0</version>
     <bundle>es.nyr.password</bundle>
     <updated>1463961736</updated>
     <file>password_generator.alfredworkflow</file>
@@ -12944,21 +12959,6 @@
     <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
     <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.0</version>
-    <bundle>com.alfred.field.generator.password</bundle>
-    <updated>1499395276</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>FFIN</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-2</url>
-    <tags>password</tags>
-    <webservices></webservices>
-    <short>Generate secure password suggestions</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -18526,21 +18526,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>Timezones</name>
-    <version>1.0</version>
-    <bundle>gherardi.riccardo.timezones</bundle>
-    <updated>1506720503</updated>
-    <file>timezones.alfredworkflow</file>
-    <author>riccardog</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timezones-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Show world timezones. Does not require an internet connection.</short>
-  </workflow>
-  <workflow>
     <name>TimeZones</name>
     <version>1.7a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -18554,6 +18539,21 @@
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
     <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
+    <name>Timezones</name>
+    <version>1.0</version>
+    <bundle>gherardi.riccardo.timezones</bundle>
+    <updated>1506720503</updated>
+    <file>timezones.alfredworkflow</file>
+    <author>riccardog</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timezones-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
@@ -19563,21 +19563,6 @@
   <workflow>
     <name>Urban Dictionary</name>
     <version>1.0</version>
-    <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
-    <updated>1535495956</updated>
-    <file>urban_dictionary.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications></applications>
-    <categories>Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/urban-dictionary-0</url>
-    <tags></tags>
-    <webservices>urban dictionary</webservices>
-    <short>Search Urban Dictionary from Alfred 3</short>
-  </workflow>
-  <workflow>
-    <name>Urban Dictionary</name>
-    <version>1.0</version>
     <bundle>florian.urban</bundle>
     <updated>1409825656</updated>
     <file>urban_dictionary.alfredworkflow</file>
@@ -19589,6 +19574,21 @@
     <tags>define ||| dictionary ||| word</tags>
     <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
     <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
+  </workflow>
+  <workflow>
+    <name>Urban Dictionary</name>
+    <version>1.0</version>
+    <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
+    <updated>1535495956</updated>
+    <file>urban_dictionary.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications></applications>
+    <categories>Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/urban-dictionary-0</url>
+    <tags></tags>
+    <webservices>urban dictionary</webservices>
+    <short>Search Urban Dictionary from Alfred 3</short>
   </workflow>
   <workflow>
     <name>URL Actions</name>
