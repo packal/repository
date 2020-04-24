@@ -484,7 +484,7 @@
     <name>Alfred AirPods Pro Connector</name>
     <version>1.2</version>
     <bundle>mo.com.sleeplessmind.airpods-pro-connector</bundle>
-    <updated>1587745233</updated>
+    <updated>1587745317</updated>
     <file>airpods_pro_connector.alfredworkflow</file>
     <author>godbout</author>
     <applications></applications>
@@ -5388,21 +5388,6 @@
   <workflow>
     <name>Docker Wizard</name>
     <version>1.0</version>
-    <bundle>keithcirkel.docker-wizard</bundle>
-    <updated>1452852614</updated>
-    <file>docker_wizard.alfredworkflow</file>
-    <author>keithamus</author>
-    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/docker-wizard</url>
-    <tags>docker ||| boot2docker</tags>
-    <webservices></webservices>
-    <short>Control Docker machines &amp; containers with Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Docker Wizard</name>
-    <version>1.0</version>
     <bundle>com.keithcirkel.docker-wizard</bundle>
     <updated>1452852673</updated>
     <file>docker_wizard.alfredworkflow</file>
@@ -5411,6 +5396,21 @@
     <categories>Development</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
     <url>http://www.packal.org/workflow/docker-wizard-0</url>
+    <tags>docker ||| boot2docker</tags>
+    <webservices></webservices>
+    <short>Control Docker machines &amp; containers with Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Docker Wizard</name>
+    <version>1.0</version>
+    <bundle>keithcirkel.docker-wizard</bundle>
+    <updated>1452852614</updated>
+    <file>docker_wizard.alfredworkflow</file>
+    <author>keithamus</author>
+    <applications>Docker ||| Docker Toolbox ||| boot2docker</applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/docker-wizard</url>
     <tags>docker ||| boot2docker</tags>
     <webservices></webservices>
     <short>Control Docker machines &amp; containers with Alfred</short>
@@ -6722,21 +6722,6 @@
   </workflow>
   <workflow>
     <name>Focus</name>
-    <version>1.1</version>
-    <bundle>com.tedwise.focus</bundle>
-    <updated>1422550514</updated>
-    <file>focus.alfredworkflow</file>
-    <author>ctwise</author>
-    <applications>Focus</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/focus</url>
-    <tags>focus</tags>
-    <webservices></webservices>
-    <short>Toggles the Focus app status.</short>
-  </workflow>
-  <workflow>
-    <name>Focus</name>
     <version>2.3</version>
     <bundle>haus.adrian.alfred-focus</bundle>
     <updated>1584977970</updated>
@@ -6749,6 +6734,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Control Focus</short>
+  </workflow>
+  <workflow>
+    <name>Focus</name>
+    <version>1.1</version>
+    <bundle>com.tedwise.focus</bundle>
+    <updated>1422550514</updated>
+    <file>focus.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/focus</url>
+    <tags>focus</tags>
+    <webservices></webservices>
+    <short>Toggles the Focus app status.</short>
   </workflow>
   <workflow>
     <name>Focus Workflow (heyfocus.com)</name>
@@ -15272,21 +15272,6 @@
   </workflow>
   <workflow>
     <name>Safari History Search</name>
-    <version>1.0.1</version>
-    <bundle>com.akaralar.safariHistorySearch</bundle>
-    <updated>1468887016</updated>
-    <file>safari_history_search.alfredworkflow</file>
-    <author>akaralar</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/safari-history-search</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred workflow to search Safari history</short>
-  </workflow>
-  <workflow>
-    <name>Safari History Search</name>
     <version>1.0</version>
     <bundle>com.rx2130.alfred.hsi</bundle>
     <updated>1508381417</updated>
@@ -15299,6 +15284,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Safari Browse History from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Safari History Search</name>
+    <version>1.0.1</version>
+    <bundle>com.akaralar.safariHistorySearch</bundle>
+    <updated>1468887016</updated>
+    <file>safari_history_search.alfredworkflow</file>
+    <author>akaralar</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/safari-history-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow to search Safari history</short>
   </workflow>
   <workflow>
     <name>Safari Reading List</name>
@@ -16864,7 +16864,7 @@
     <name>SonosController</name>
     <version>1.0</version>
     <bundle>com.karimkaylani.sonoscontroller</bundle>
-    <updated>1587598503</updated>
+    <updated>1587750153</updated>
     <file>sonoscontroller.alfredworkflow</file>
     <author>karimkaylani</author>
     <applications></applications>
@@ -18857,21 +18857,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -18884,6 +18869,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Greyscale</name>
@@ -18948,21 +18948,6 @@
   <workflow>
     <name>Toggle Keyboard Viewer</name>
     <version>1.0</version>
-    <bundle>us.yearl.togglekv</bundle>
-    <updated>1452435732</updated>
-    <file>toggle_keyboard_viewer.alfredworkflow</file>
-    <author>centzon400</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
-    <tags>keybaord viewer</tags>
-    <webservices></webservices>
-    <short>Displays/hides the keyboard viewer</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Keyboard Viewer</name>
-    <version>1.0</version>
     <bundle>com.gingerbeardman.keyboardviewer</bundle>
     <updated>1523906038</updated>
     <file>toggle_keyboard_viewer.alfredworkflow</file>
@@ -18974,6 +18959,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Toggles the macOS Keyboard Viewer applet</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Keyboard Viewer</name>
+    <version>1.0</version>
+    <bundle>us.yearl.togglekv</bundle>
+    <updated>1452435732</updated>
+    <file>toggle_keyboard_viewer.alfredworkflow</file>
+    <author>centzon400</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
+    <tags>keybaord viewer</tags>
+    <webservices></webservices>
+    <short>Displays/hides the keyboard viewer</short>
   </workflow>
   <workflow>
     <name>Toggle Today and Notification Center Views</name>
