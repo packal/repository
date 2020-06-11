@@ -542,9 +542,9 @@
   </workflow>
   <workflow>
     <name>Alfred Bitly</name>
-    <version>0.9.0</version>
+    <version>0.9.1</version>
     <bundle>hchs.alfred.bitly</bundle>
-    <updated>1591870762</updated>
+    <updated>1591870876</updated>
     <file>shorten.alfredworkflow</file>
     <author>gimmyhchs</author>
     <applications></applications>
@@ -4577,21 +4577,6 @@
   </workflow>
   <workflow>
     <name>Currency Converter</name>
-    <version>0.93</version>
-    <bundle>net.exit4web.currencyconverter</bundle>
-    <updated>1458609314</updated>
-    <file>currency.converter.alfredworkflow</file>
-    <author>inket</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/currency-converter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>A simple Alfred 2 Currency Converter workflow</short>
-  </workflow>
-  <workflow>
-    <name>Currency Converter</name>
     <version>1.2</version>
     <bundle>com.etenal.currencyexchange</bundle>
     <updated>1526397497</updated>
@@ -4604,6 +4589,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Currency Exchange include BTC, ETH</short>
+  </workflow>
+  <workflow>
+    <name>Currency Converter</name>
+    <version>0.93</version>
+    <bundle>net.exit4web.currencyconverter</bundle>
+    <updated>1458609314</updated>
+    <file>currency.converter.alfredworkflow</file>
+    <author>inket</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/currency-converter</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>A simple Alfred 2 Currency Converter workflow</short>
   </workflow>
   <workflow>
     <name>Currency exchange</name>
@@ -6092,21 +6092,6 @@
   </workflow>
   <workflow>
     <name>Epoch Converter</name>
-    <version>1.0</version>
-    <bundle>com.boulderhopkins.epoch</bundle>
-    <updated>1423357454</updated>
-    <file>epoch_conversion.alfredworkflow</file>
-    <author>danielhopkins</author>
-    <applications></applications>
-    <categories>Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/epoch-converter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Simple script to convert epochs to large type</short>
-  </workflow>
-  <workflow>
-    <name>Epoch Converter</name>
     <version>1.0.0</version>
     <bundle>snooze92.epoch.converter</bundle>
     <updated>1549554676</updated>
@@ -6119,6 +6104,21 @@
     <tags>epoch ||| Timestamp ||| Time</tags>
     <webservices></webservices>
     <short>Makes it easy to work with epoch timestamps!</short>
+  </workflow>
+  <workflow>
+    <name>Epoch Converter</name>
+    <version>1.0</version>
+    <bundle>com.boulderhopkins.epoch</bundle>
+    <updated>1423357454</updated>
+    <file>epoch_conversion.alfredworkflow</file>
+    <author>danielhopkins</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/epoch-converter</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Simple script to convert epochs to large type</short>
   </workflow>
   <workflow>
     <name>Epoch/Unix Time to DateTime</name>
@@ -6842,21 +6842,6 @@
   </workflow>
   <workflow>
     <name>Focus</name>
-    <version>2.3</version>
-    <bundle>haus.adrian.alfred-focus</bundle>
-    <updated>1584977970</updated>
-    <file>focus.alfredworkflow</file>
-    <author>adrianhaus</author>
-    <applications>Focus</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/focus-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Control Focus</short>
-  </workflow>
-  <workflow>
-    <name>Focus</name>
     <version>1.1</version>
     <bundle>com.tedwise.focus</bundle>
     <updated>1422550514</updated>
@@ -6869,6 +6854,21 @@
     <tags>focus</tags>
     <webservices></webservices>
     <short>Toggles the Focus app status.</short>
+  </workflow>
+  <workflow>
+    <name>Focus</name>
+    <version>2.3</version>
+    <bundle>haus.adrian.alfred-focus</bundle>
+    <updated>1584977970</updated>
+    <file>focus.alfredworkflow</file>
+    <author>adrianhaus</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/focus-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Control Focus</short>
   </workflow>
   <workflow>
     <name>Focus Workflow (heyfocus.com)</name>
@@ -7591,21 +7591,6 @@
     <short>GitLab Project search for Alfred</short>
   </workflow>
   <workflow>
-    <name>gitmoji</name>
-    <version>1.0</version>
-    <bundle>su.jing.gitmoji</bundle>
-    <updated>1513975772</updated>
-    <file>gitmoji-v1.0.alfredworkflow</file>
-    <author>o</author>
-    <applications></applications>
-    <categories>Development ||| Other ||| Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitmoji</url>
-    <tags>gitmoji ||| emoji</tags>
-    <webservices></webservices>
-    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
-  </workflow>
-  <workflow>
     <name>Gitmoji</name>
     <version>2.3</version>
     <bundle>org.leolabs.alfred.gitmoji</bundle>
@@ -7619,6 +7604,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search for Gitmojis easily and copy them to your clipboard</short>
+  </workflow>
+  <workflow>
+    <name>gitmoji</name>
+    <version>1.0</version>
+    <bundle>su.jing.gitmoji</bundle>
+    <updated>1513975772</updated>
+    <file>gitmoji-v1.0.alfredworkflow</file>
+    <author>o</author>
+    <applications></applications>
+    <categories>Development ||| Other ||| Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitmoji</url>
+    <tags>gitmoji ||| emoji</tags>
+    <webservices></webservices>
+    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -9152,21 +9152,6 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
-    <version>1.0</version>
-    <bundle>com.bkiefer.iossimulator</bundle>
-    <updated>1566936579</updated>
-    <file>ios_simulator.alfredworkflow</file>
-    <author>bskiefer</author>
-    <applications>xterm</applications>
-    <categories>Development ||| Other ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator-1</url>
-    <tags>ios ||| xterm</tags>
-    <webservices></webservices>
-    <short>Quickly list and launch an iOS simulator</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
     <version>1.0.1</version>
     <bundle>com.ricardosampayo.iossimulator</bundle>
     <updated>1569614744</updated>
@@ -9194,6 +9179,21 @@
     <tags>ios ||| simulator ||| apps ||| development</tags>
     <webservices></webservices>
     <short>Workflow for finding simulator app data folders, erasing apps and more</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
+    <version>1.0</version>
+    <bundle>com.bkiefer.iossimulator</bundle>
+    <updated>1566936579</updated>
+    <file>ios_simulator.alfredworkflow</file>
+    <author>bskiefer</author>
+    <applications>xterm</applications>
+    <categories>Development ||| Other ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator-1</url>
+    <tags>ios ||| xterm</tags>
+    <webservices></webservices>
+    <short>Quickly list and launch an iOS simulator</short>
   </workflow>
   <workflow>
     <name>iOS Simulator launcher</name>
@@ -10592,21 +10592,6 @@
   </workflow>
   <workflow>
     <name>Localhost</name>
-    <version>1.0</version>
-    <bundle>com.kwtucker.localhost</bundle>
-    <updated>1470273374</updated>
-    <file>local_host.alfredworkflow</file>
-    <author>kwtucker</author>
-    <applications></applications>
-    <categories>Development ||| Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/localhost-0</url>
-    <tags>localhost ||| dev</tags>
-    <webservices></webservices>
-    <short>Opens http://localhost: with your port passed in as a argument.</short>
-  </workflow>
-  <workflow>
-    <name>Localhost</name>
     <version>1.1</version>
     <bundle>com.victorhazbun.localhost</bundle>
     <updated>1452964276</updated>
@@ -10619,6 +10604,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Open localhost at specified port</short>
+  </workflow>
+  <workflow>
+    <name>Localhost</name>
+    <version>1.0</version>
+    <bundle>com.kwtucker.localhost</bundle>
+    <updated>1470273374</updated>
+    <file>local_host.alfredworkflow</file>
+    <author>kwtucker</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/localhost-0</url>
+    <tags>localhost ||| dev</tags>
+    <webservices></webservices>
+    <short>Opens http://localhost: with your port passed in as a argument.</short>
   </workflow>
   <workflow>
     <name>localhost2</name>
@@ -10727,21 +10727,6 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
-    <version>0.2.0</version>
-    <bundle>com.tillkruss.loremipsum</bundle>
-    <updated>1532979256</updated>
-    <file>lorem.ipsum_.alfredworkflow</file>
-    <author>tillkruss</author>
-    <applications></applications>
-    <categories>Development ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>An ultra-fast Lorem Ipsum text generator.</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
     <version>2.2.0</version>
     <bundle>com.alexchantastic.loremipsum</bundle>
     <updated>1530599656</updated>
@@ -10769,6 +10754,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generate lorem ipsum text from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
+    <version>0.2.0</version>
+    <bundle>com.tillkruss.loremipsum</bundle>
+    <updated>1532979256</updated>
+    <file>lorem.ipsum_.alfredworkflow</file>
+    <author>tillkruss</author>
+    <applications></applications>
+    <categories>Development ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>An ultra-fast Lorem Ipsum text generator.</short>
   </workflow>
   <workflow>
     <name>Love in iTunes</name>
@@ -12212,21 +12212,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1473005156</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.4.1</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1484636477</updated>
@@ -12239,6 +12224,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1473005156</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>Development ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
   </workflow>
   <workflow>
     <name>NpmSearch</name>
@@ -13247,21 +13247,6 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
-    <version>1.1</version>
-    <bundle>com.nicholaspufal.passwordgenerator</bundle>
-    <updated>1451674154</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>npufal</author>
-    <applications></applications>
-    <categories>Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-0</url>
-    <tags>password generator ||| security ||| authentication</tags>
-    <webservices></webservices>
-    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
     <version>1.0</version>
     <bundle>com.alfred.field.generator.password</bundle>
     <updated>1499395276</updated>
@@ -13289,6 +13274,21 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Simple password generator</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.1</version>
+    <bundle>com.nicholaspufal.passwordgenerator</bundle>
+    <updated>1451674154</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>npufal</author>
+    <applications></applications>
+    <categories>Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-0</url>
+    <tags>password generator ||| security ||| authentication</tags>
+    <webservices></webservices>
+    <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -15152,21 +15152,6 @@
   </workflow>
   <workflow>
     <name>Restart App</name>
-    <version>3.1</version>
-    <bundle>com.renegaed.restart-app</bundle>
-    <updated>1457904373</updated>
-    <file>restart_app.alfredworkflow</file>
-    <author>renegaed</author>
-    <applications></applications>
-    <categories>Other ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/restart-app</url>
-    <tags>restart ||| app ||| restart app</tags>
-    <webservices></webservices>
-    <short>Restart a currently running App</short>
-  </workflow>
-  <workflow>
-    <name>Restart App</name>
     <version>1.0</version>
     <bundle>com.sulaiman.restartapp</bundle>
     <updated>1464107021</updated>
@@ -15179,6 +15164,21 @@
     <tags>app relaunch ||| System Helpers</tags>
     <webservices></webservices>
     <short>A simple workflow designed for apps to be relaunched/restarted or quit.</short>
+  </workflow>
+  <workflow>
+    <name>Restart App</name>
+    <version>3.1</version>
+    <bundle>com.renegaed.restart-app</bundle>
+    <updated>1457904373</updated>
+    <file>restart_app.alfredworkflow</file>
+    <author>renegaed</author>
+    <applications></applications>
+    <categories>Other ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/restart-app</url>
+    <tags>restart ||| app ||| restart app</tags>
+    <webservices></webservices>
+    <short>Restart a currently running App</short>
   </workflow>
   <workflow>
     <name>Restart frontmost application</name>
@@ -16322,21 +16322,6 @@
   </workflow>
   <workflow>
     <name>Secure Password Generator</name>
-    <version>2.1</version>
-    <bundle>net.deanishe.alfred-pwgen</bundle>
-    <updated>1491113422</updated>
-    <file>password-generator-2.1.alfredworkflow</file>
-    <author>deanishe</author>
-    <applications></applications>
-    <categories>Other ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/secure-password-generator</url>
-    <tags>security ||| password generator ||| password</tags>
-    <webservices></webservices>
-    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
-  </workflow>
-  <workflow>
-    <name>Secure Password Generator</name>
     <version>1.0</version>
     <bundle>com.camerontod.passwordgen</bundle>
     <updated>1507852276</updated>
@@ -16349,6 +16334,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates passwords that score highly in zxcvbn and copies them to clipboard.</short>
+  </workflow>
+  <workflow>
+    <name>Secure Password Generator</name>
+    <version>2.1</version>
+    <bundle>net.deanishe.alfred-pwgen</bundle>
+    <updated>1491113422</updated>
+    <file>password-generator-2.1.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Other ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/secure-password-generator</url>
+    <tags>security ||| password generator ||| password</tags>
+    <webservices></webservices>
+    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
   </workflow>
   <workflow>
     <name>Secure SHell</name>
@@ -18813,21 +18813,6 @@
   <workflow>
     <name>Timer</name>
     <version>1.0</version>
-    <bundle>siyahmadde-timer</bundle>
-    <updated>1490522118</updated>
-    <file>timer.alfredworkflow</file>
-    <author>siyahmadde</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timer</url>
-    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
-    <webservices></webservices>
-    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
-  </workflow>
-  <workflow>
-    <name>Timer</name>
-    <version>1.0</version>
     <bundle>gheardi.riccardo.timer</bundle>
     <updated>1506583755</updated>
     <file>timer.alfredworkflow</file>
@@ -18839,6 +18824,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Set up custom timers. Pomodoro support.</short>
+  </workflow>
+  <workflow>
+    <name>Timer</name>
+    <version>1.0</version>
+    <bundle>siyahmadde-timer</bundle>
+    <updated>1490522118</updated>
+    <file>timer.alfredworkflow</file>
+    <author>siyahmadde</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timer</url>
+    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
+    <webservices></webservices>
+    <short>An Alfred workflow letting you set a timer on your MAC's menubar. When the time is up, your Hue lights blink.</short>
   </workflow>
   <workflow>
     <name>Timer control</name>
@@ -19172,21 +19172,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -19199,6 +19184,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| Development ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Greyscale</name>
