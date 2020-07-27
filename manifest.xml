@@ -4936,6 +4936,21 @@
     <short>Decompile a Java class file, using Intellij IDEA's Decompiler</short>
   </workflow>
   <workflow>
+    <name>DeepL Translate/Rewrite</name>
+    <version>1.0.0</version>
+    <bundle>com.yohasebe.deepl-alfred-translate-rewrite-workflow</bundle>
+    <updated>1595828481</updated>
+    <file>deepl.translate.rewrite.alfredworkflow</file>
+    <author>yohasebe</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/deepl-translaterewrite</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>A DeepL translate/rewrite workflow for Alfred</short>
+  </workflow>
+  <workflow>
     <name>DeepL translation</name>
     <version>1.1.0</version>
     <bundle>com.skoda091.deepl-translation</bundle>
