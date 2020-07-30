@@ -721,6 +721,21 @@
     <short>Generate fake data</short>
   </workflow>
   <workflow>
+    <name>Alfred ghq</name>
+    <version>1.0</version>
+    <bundle>com.jackchuka.ghq</bundle>
+    <updated>1596071059</updated>
+    <file>ghq.alfredworkflow</file>
+    <author>jackchuka</author>
+    <applications></applications>
+    <categories>Development ||| Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/alfred-ghq</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow for ghq lovers</short>
+  </workflow>
+  <workflow>
     <name>Alfred Kat</name>
     <version>4.1.0</version>
     <bundle>info.sleeplessmind.kat</bundle>
@@ -2746,21 +2761,6 @@
     <short>Switch Bluetooth status</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -2774,6 +2774,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>BluetoothDevicesToggler</name>
