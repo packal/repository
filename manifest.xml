@@ -6649,7 +6649,7 @@
     <name>Filemark - Universal bookmark manager</name>
     <version>1.0</version>
     <bundle>com.jackchuka.filemark</bundle>
-    <updated>1596072618</updated>
+    <updated>1596197799</updated>
     <file>filemark.alfredworkflow</file>
     <author>jackchuka</author>
     <applications></applications>
@@ -6962,21 +6962,6 @@
   </workflow>
   <workflow>
     <name>Focus</name>
-    <version>2.3</version>
-    <bundle>haus.adrian.alfred-focus</bundle>
-    <updated>1584977970</updated>
-    <file>focus.alfredworkflow</file>
-    <author>adrianhaus</author>
-    <applications>Focus</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/focus-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Control Focus</short>
-  </workflow>
-  <workflow>
-    <name>Focus</name>
     <version>1.1</version>
     <bundle>com.tedwise.focus</bundle>
     <updated>1422550514</updated>
@@ -6989,6 +6974,21 @@
     <tags>focus</tags>
     <webservices></webservices>
     <short>Toggles the Focus app status.</short>
+  </workflow>
+  <workflow>
+    <name>Focus</name>
+    <version>2.3</version>
+    <bundle>haus.adrian.alfred-focus</bundle>
+    <updated>1584977970</updated>
+    <file>focus.alfredworkflow</file>
+    <author>adrianhaus</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/focus-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Control Focus</short>
   </workflow>
   <workflow>
     <name>Focus Workflow (heyfocus.com)</name>
@@ -9287,6 +9287,21 @@
   </workflow>
   <workflow>
     <name>iOS Simulator</name>
+    <version>1.0.1</version>
+    <bundle>com.ricardosampayo.iossimulator</bundle>
+    <updated>1569614744</updated>
+    <file>ios_simulator.alfredworkflow</file>
+    <author>sampayo</author>
+    <applications>Xcode</applications>
+    <categories>Development ||| Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/ios-simulator-0</url>
+    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
+    <webservices></webservices>
+    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
+  </workflow>
+  <workflow>
+    <name>iOS Simulator</name>
     <version>1.3.1</version>
     <bundle>com.buttered-cat.alfred-workflow.iOSSimulator</bundle>
     <updated>1431965892</updated>
@@ -9314,21 +9329,6 @@
     <tags>ios ||| xterm</tags>
     <webservices></webservices>
     <short>Quickly list and launch an iOS simulator</short>
-  </workflow>
-  <workflow>
-    <name>iOS Simulator</name>
-    <version>1.0.1</version>
-    <bundle>com.ricardosampayo.iossimulator</bundle>
-    <updated>1569614744</updated>
-    <file>ios_simulator.alfredworkflow</file>
-    <author>sampayo</author>
-    <applications>Xcode</applications>
-    <categories>Development ||| Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/ios-simulator-0</url>
-    <tags>ios simulator ||| app ||| simulator ||| application ||| development ||| launch simulator</tags>
-    <webservices></webservices>
-    <short>A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.</short>
   </workflow>
   <workflow>
     <name>iOS Simulator launcher</name>
@@ -10907,21 +10907,6 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
-    <version>0.2.0</version>
-    <bundle>com.tillkruss.loremipsum</bundle>
-    <updated>1532979256</updated>
-    <file>lorem.ipsum_.alfredworkflow</file>
-    <author>tillkruss</author>
-    <applications></applications>
-    <categories>Development ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>An ultra-fast Lorem Ipsum text generator.</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
     <version>2.2.0</version>
     <bundle>com.alexchantastic.loremipsum</bundle>
     <updated>1530599656</updated>
@@ -10949,6 +10934,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generate lorem ipsum text from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
+    <version>0.2.0</version>
+    <bundle>com.tillkruss.loremipsum</bundle>
+    <updated>1532979256</updated>
+    <file>lorem.ipsum_.alfredworkflow</file>
+    <author>tillkruss</author>
+    <applications></applications>
+    <categories>Development ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>An ultra-fast Lorem Ipsum text generator.</short>
   </workflow>
   <workflow>
     <name>Love in iTunes</name>
@@ -11147,21 +11147,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>1.1</version>
-    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
-    <updated>1394511554</updated>
-    <file>manage_alfred_extension.alfredworkflow</file>
-    <author>AleXander</author>
-    <applications></applications>
-    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
-    <tags>build Alfred workflows ||| Reference</tags>
-    <webservices></webservices>
-    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>2.11</version>
     <bundle>com.jmjeong.alfredv2.mae</bundle>
     <updated>1463887454</updated>
@@ -11174,6 +11159,21 @@
     <tags>alfred</tags>
     <webservices></webservices>
     <short>Browse and Manage alfred extension</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>1.1</version>
+    <bundle>com.jmjeong.alfredv2.ealfred</bundle>
+    <updated>1394511554</updated>
+    <file>manage_alfred_extension.alfredworkflow</file>
+    <author>AleXander</author>
+    <applications></applications>
+    <categories>Development ||| Files and Folders ||| Productivity ||| Reference ||| Utilities</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension</url>
+    <tags>build Alfred workflows ||| Reference</tags>
+    <webservices></webservices>
+    <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -16622,21 +16622,6 @@
   </workflow>
   <workflow>
     <name>Secure Password Generator</name>
-    <version>2.1</version>
-    <bundle>net.deanishe.alfred-pwgen</bundle>
-    <updated>1491113422</updated>
-    <file>password-generator-2.1.alfredworkflow</file>
-    <author>deanishe</author>
-    <applications></applications>
-    <categories>Other ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/secure-password-generator</url>
-    <tags>security ||| password generator ||| password</tags>
-    <webservices></webservices>
-    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
-  </workflow>
-  <workflow>
-    <name>Secure Password Generator</name>
     <version>1.0</version>
     <bundle>com.camerontod.passwordgen</bundle>
     <updated>1507852276</updated>
@@ -16649,6 +16634,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates passwords that score highly in zxcvbn and copies them to clipboard.</short>
+  </workflow>
+  <workflow>
+    <name>Secure Password Generator</name>
+    <version>2.1</version>
+    <bundle>net.deanishe.alfred-pwgen</bundle>
+    <updated>1491113422</updated>
+    <file>password-generator-2.1.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Other ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/secure-password-generator</url>
+    <tags>security ||| password generator ||| password</tags>
+    <webservices></webservices>
+    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
   </workflow>
   <workflow>
     <name>Secure SHell</name>
