@@ -15661,6 +15661,36 @@
     <short>Search Roam Research page names through Alfred</short>
   </workflow>
   <workflow>
+    <name>Roam Weekly Plan</name>
+    <version>1.1.1</version>
+    <bundle>com.alfredapp.kylestratis.roamweeklyplan</bundle>
+    <updated>1597198578</updated>
+    <file>roam_weekly_plan.alfredworkflow</file>
+    <author>seated_arts</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/roam-weekly-plan</url>
+    <tags></tags>
+    <webservices>Roam</webservices>
+    <short>This generates a weekly plan template for Roam for the next week as described by Nat Eliason in his Effortless Output with Roam course at https://learn.nateliason.com/courses/764250</short>
+  </workflow>
+  <workflow>
+    <name>Roam Weekly Review</name>
+    <version>1.0.0</version>
+    <bundle>com.alfredapp.kylestratis.roamweeklyreview</bundle>
+    <updated>1597198159</updated>
+    <file>roam_weekly_review.alfredworkflow</file>
+    <author>seated_arts</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/roam-weekly-review</url>
+    <tags></tags>
+    <webservices>Roam</webservices>
+    <short>This generates a weekly review template for Roam to help you review what you've achieved in the past week and how you can improve.</short>
+  </workflow>
+  <workflow>
     <name>Rocket Fuel</name>
     <version>0.0.1</version>
     <bundle>com.seungdols.alfred-rocket-fuel</bundle>
@@ -19261,21 +19291,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>Timezones</name>
-    <version>1.0</version>
-    <bundle>gherardi.riccardo.timezones</bundle>
-    <updated>1506720503</updated>
-    <file>timezones.alfredworkflow</file>
-    <author>riccardog</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timezones-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Show world timezones. Does not require an internet connection.</short>
-  </workflow>
-  <workflow>
     <name>TimeZones</name>
     <version>1.7a</version>
     <bundle>carlosnz.timezones</bundle>
@@ -19289,6 +19304,21 @@
     <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
     <webservices>Google Maps API</webservices>
     <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
+    <name>Timezones</name>
+    <version>1.0</version>
+    <bundle>gherardi.riccardo.timezones</bundle>
+    <updated>1506720503</updated>
+    <file>timezones.alfredworkflow</file>
+    <author>riccardog</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timezones-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
