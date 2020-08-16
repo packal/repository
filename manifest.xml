@@ -3557,21 +3557,6 @@
   </workflow>
   <workflow>
     <name>Chrome Bookmarks</name>
-    <version>0.1.0</version>
-    <bundle>com.mdreizin.chrome.bookmarks</bundle>
-    <updated>1467306827</updated>
-    <file>chrome-bookmarks.alfredworkflow</file>
-    <author>mdreizin</author>
-    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
-    <categories>Productivity ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
-    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
-    <webservices></webservices>
-    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Chrome Bookmarks</name>
     <version>1.1</version>
     <bundle>com.chrome.bookmarks</bundle>
     <updated>1468279033</updated>
@@ -3584,6 +3569,21 @@
     <tags>chrome ||| google chrome ||| search ||| fast ||| bookmark</tags>
     <webservices></webservices>
     <short>Fast Chrome bookmark searcher for Alfred.</short>
+  </workflow>
+  <workflow>
+    <name>Chrome Bookmarks</name>
+    <version>0.1.0</version>
+    <bundle>com.mdreizin.chrome.bookmarks</bundle>
+    <updated>1467306827</updated>
+    <file>chrome-bookmarks.alfredworkflow</file>
+    <author>mdreizin</author>
+    <applications>Google Chrome ||| Chromium ||| Google Chrome Canary</applications>
+    <categories>Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/chrome-bookmarks</url>
+    <tags>chrome ||| chromium ||| canary ||| bookmarks ||| google</tags>
+    <webservices></webservices>
+    <short>Chrome/Canary/Chromium bookmarks search workflow for Alfred</short>
   </workflow>
   <workflow>
     <name>Chrome Incognito</name>
@@ -4892,21 +4892,6 @@
   </workflow>
   <workflow>
     <name>Date Calculator</name>
-    <version>3.3</version>
-    <bundle>muppet.gate.net.DateCalculator</bundle>
-    <updated>1540192876</updated>
-    <file>date_calculator.alfredworkflow</file>
-    <author>MuppetGate</author>
-    <applications></applications>
-    <categories>Productivity ||| Text Manipulation</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/date-calculator</url>
-    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
-    <webservices></webservices>
-    <short>A basic date calculator</short>
-  </workflow>
-  <workflow>
-    <name>Date Calculator</name>
     <version>1.0</version>
     <bundle>de.leenno.datecalculator</bundle>
     <updated>1450970440</updated>
@@ -4919,6 +4904,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Display or calculate with current date and time.</short>
+  </workflow>
+  <workflow>
+    <name>Date Calculator</name>
+    <version>3.3</version>
+    <bundle>muppet.gate.net.DateCalculator</bundle>
+    <updated>1540192876</updated>
+    <file>date_calculator.alfredworkflow</file>
+    <author>MuppetGate</author>
+    <applications></applications>
+    <categories>Productivity ||| Text Manipulation</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/date-calculator</url>
+    <tags>Date ||| Time ||| week number ||| anniversary ||| Christmas ||| Easter</tags>
+    <webservices></webservices>
+    <short>A basic date calculator</short>
   </workflow>
   <workflow>
     <name>Date Converter</name>
@@ -19336,21 +19336,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>TimeZones</name>
-    <version>1.7a</version>
-    <bundle>carlosnz.timezones</bundle>
-    <updated>1438651166</updated>
-    <file>timezones_v1.7a.alfredworkflow</file>
-    <author>CarlosNZ</author>
-    <applications></applications>
-    <categories>Productivity ||| Reference ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/timezones</url>
-    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
-    <webservices>Google Maps API</webservices>
-    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
-  </workflow>
-  <workflow>
     <name>Timezones</name>
     <version>1.0</version>
     <bundle>gherardi.riccardo.timezones</bundle>
@@ -19366,10 +19351,25 @@
     <short>Show world timezones. Does not require an internet connection.</short>
   </workflow>
   <workflow>
+    <name>TimeZones</name>
+    <version>1.7a</version>
+    <bundle>carlosnz.timezones</bundle>
+    <updated>1438651166</updated>
+    <file>timezones_v1.7a.alfredworkflow</file>
+    <author>CarlosNZ</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/timezones</url>
+    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
+    <webservices>Google Maps API</webservices>
+    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
+  </workflow>
+  <workflow>
     <name>TimeZones 2</name>
     <version>2.13</version>
     <bundle>carlosnz.timezones2</bundle>
-    <updated>1566803737</updated>
+    <updated>1597603751</updated>
     <file>timezones.alfredworkflow</file>
     <author>jhartman@interia.pl</author>
     <applications></applications>
