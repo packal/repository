@@ -11567,21 +11567,6 @@
   </workflow>
   <workflow>
     <name>Manage Alfred Extension</name>
-    <version>2.11</version>
-    <bundle>com.jmjeong.alfredv2.mae</bundle>
-    <updated>1463887454</updated>
-    <file>managealfredextension.alfredworkflow</file>
-    <author>jmjeong</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
-    <tags>alfred</tags>
-    <webservices></webservices>
-    <short>Browse and Manage alfred extension</short>
-  </workflow>
-  <workflow>
-    <name>Manage Alfred Extension</name>
     <version>1.1</version>
     <bundle>com.jmjeong.alfredv2.ealfred</bundle>
     <updated>1394511554</updated>
@@ -11594,6 +11579,21 @@
     <tags>build Alfred workflows ||| Reference</tags>
     <webservices></webservices>
     <short>List and view details about installed Alfred extensions.  Additional features added: Open in iTerm, Copy Path and Browse Data Directory.</short>
+  </workflow>
+  <workflow>
+    <name>Manage Alfred Extension</name>
+    <version>2.11</version>
+    <bundle>com.jmjeong.alfredv2.mae</bundle>
+    <updated>1463887454</updated>
+    <file>managealfredextension.alfredworkflow</file>
+    <author>jmjeong</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/manage-alfred-extension-0</url>
+    <tags>alfred</tags>
+    <webservices></webservices>
+    <short>Browse and Manage alfred extension</short>
   </workflow>
   <workflow>
     <name>MangaEden Search</name>
@@ -18004,7 +18004,7 @@
     <name>SmartThings new API Workflow</name>
     <version>1.0.10</version>
     <bundle>com.schwark.smartthings.py</bundle>
-    <updated>1609382006</updated>
+    <updated>1609389311</updated>
     <file>smartthings-1.0.10.alfredworkflow</file>
     <author>schwark</author>
     <applications></applications>
@@ -19127,10 +19127,10 @@
   </workflow>
   <workflow>
     <name>Tailwind CSS Documentaion</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <bundle>com.techouse.alfred-tailwindcss-docs</bundle>
-    <updated>1563528630</updated>
-    <file>tailwindcss-docs-v1.0.2.alfredworkflow</file>
+    <updated>1609389326</updated>
+    <file>tailwindcss-docs-v1.0.3.alfredworkflow</file>
     <author>techouse</author>
     <applications></applications>
     <categories>Development ||| Productivity ||| Reference ||| Search ||| Utilities</categories>
