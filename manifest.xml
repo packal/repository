@@ -2657,21 +2657,6 @@
   </workflow>
   <workflow>
     <name>Bear</name>
-    <version>2.0</version>
-    <bundle>com.bjrnt.bear</bundle>
-    <updated>1571213082</updated>
-    <file>alfred-bear-2.0.0.alfredworkflow</file>
-    <author>bjrnt</author>
-    <applications>Bear</applications>
-    <categories>Files and Folders ||| Productivity ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bear-0</url>
-    <tags>Bear</tags>
-    <webservices></webservices>
-    <short>Allows you to quickly search for and open Bear notes from Alfred. It will search tags, note content, titles, etc. to try to bring you the best match.</short>
-  </workflow>
-  <workflow>
-    <name>Bear</name>
     <version>0.2.0</version>
     <bundle>com.chrisbro.bear</bundle>
     <updated>1498347622</updated>
@@ -2684,6 +2669,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search and create Bear notes from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Bear</name>
+    <version>2.0</version>
+    <bundle>com.bjrnt.bear</bundle>
+    <updated>1571213082</updated>
+    <file>alfred-bear-2.0.0.alfredworkflow</file>
+    <author>bjrnt</author>
+    <applications>Bear</applications>
+    <categories>Files and Folders ||| Productivity ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bear-0</url>
+    <tags>Bear</tags>
+    <webservices></webservices>
+    <short>Allows you to quickly search for and open Bear notes from Alfred. It will search tags, note content, titles, etc. to try to bring you the best match.</short>
   </workflow>
   <workflow>
     <name>Bear App Workflow</name>
@@ -2956,21 +2956,6 @@
     <short>Switch Bluetooth status</short>
   </workflow>
   <workflow>
-    <name>Bluetooth toggle</name>
-    <version>1.0</version>
-    <bundle>florian.bluetooth</bundle>
-    <updated>1430077934</updated>
-    <file>bluetooth_toggle.alfredworkflow</file>
-    <author>Florian</author>
-    <applications></applications>
-    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
-    <tags>bluetooth ||| toggle</tags>
-    <webservices></webservices>
-    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
-  </workflow>
-  <workflow>
     <name>Bluetooth Toggle</name>
     <version>1.0</version>
     <bundle>cubb.bluetoothtoggle</bundle>
@@ -2984,6 +2969,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Turn on/off Bluetooth using applescript.</short>
+  </workflow>
+  <workflow>
+    <name>Bluetooth toggle</name>
+    <version>1.0</version>
+    <bundle>florian.bluetooth</bundle>
+    <updated>1430077934</updated>
+    <file>bluetooth_toggle.alfredworkflow</file>
+    <author>Florian</author>
+    <applications></applications>
+    <categories>Networking ||| Other ||| Productivity ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/bluetooth-toggle-0</url>
+    <tags>bluetooth ||| toggle</tags>
+    <webservices></webservices>
+    <short>Toggle your bluetooth on or off, indicates whether it's currently on or off</short>
   </workflow>
   <workflow>
     <name>BluetoothDevicesToggler</name>
@@ -3331,21 +3331,6 @@
     <short>Read Mac Calendar DB and copy schedule or availability to clipboard</short>
   </workflow>
   <workflow>
-    <name>Calibre Search</name>
-    <version>0.1</version>
-    <bundle>com.areo-collection</bundle>
-    <updated>1508770509</updated>
-    <file>calibresearch.alfredworkflow</file>
-    <author>gzr2017</author>
-    <applications></applications>
-    <categories>Files and Folders</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/calibre-search-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>search your e-books in Calibre by name.</short>
-  </workflow>
-  <workflow>
     <name>Calibre search</name>
     <version>1.0</version>
     <bundle>com.mpco.calibreSearch</bundle>
@@ -3359,6 +3344,21 @@
     <tags>Calibre</tags>
     <webservices></webservices>
     <short>Search book in Calibre library.</short>
+  </workflow>
+  <workflow>
+    <name>Calibre Search</name>
+    <version>0.1</version>
+    <bundle>com.areo-collection</bundle>
+    <updated>1508770509</updated>
+    <file>calibresearch.alfredworkflow</file>
+    <author>gzr2017</author>
+    <applications></applications>
+    <categories>Files and Folders</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/calibre-search-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>search your e-books in Calibre by name.</short>
   </workflow>
   <workflow>
     <name>Call Contact Direct</name>
@@ -8086,21 +8086,6 @@
     <short>GitLab Project search for Alfred</short>
   </workflow>
   <workflow>
-    <name>Gitmoji</name>
-    <version>2.3</version>
-    <bundle>org.leolabs.alfred.gitmoji</bundle>
-    <updated>1521453794</updated>
-    <file>gitmoji.alfredworkflow</file>
-    <author>leolabs</author>
-    <applications></applications>
-    <categories>Development</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitmoji-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Search for Gitmojis easily and copy them to your clipboard</short>
-  </workflow>
-  <workflow>
     <name>gitmoji</name>
     <version>1.0</version>
     <bundle>su.jing.gitmoji</bundle>
@@ -8114,6 +8099,21 @@
     <tags>gitmoji ||| emoji</tags>
     <webservices></webservices>
     <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
+  </workflow>
+  <workflow>
+    <name>Gitmoji</name>
+    <version>2.3</version>
+    <bundle>org.leolabs.alfred.gitmoji</bundle>
+    <updated>1521453794</updated>
+    <file>gitmoji.alfredworkflow</file>
+    <author>leolabs</author>
+    <applications></applications>
+    <categories>Development</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitmoji-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Search for Gitmojis easily and copy them to your clipboard</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -12092,21 +12092,6 @@
   </workflow>
   <workflow>
     <name>Microsoft Remote Desktop</name>
-    <version>1.0</version>
-    <bundle>com.tedwise.rdp</bundle>
-    <updated>1408717515</updated>
-    <file>microsoft_remote_desktop.alfredworkflow</file>
-    <author>ctwise</author>
-    <applications>Microsoft Remote Desktop</applications>
-    <categories>Networking ||| Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/microsoft-remote-desktop</url>
-    <tags>rdp ||| remote desktop</tags>
-    <webservices></webservices>
-    <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
-  </workflow>
-  <workflow>
-    <name>Microsoft Remote Desktop</name>
     <version>0.1.0</version>
     <bundle>com.fmuller.rdp</bundle>
     <updated>1608116548</updated>
@@ -12119,6 +12104,21 @@
     <tags>rdp ||| mrdp</tags>
     <webservices></webservices>
     <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
+  </workflow>
+  <workflow>
+    <name>Microsoft Remote Desktop</name>
+    <version>1.0</version>
+    <bundle>com.tedwise.rdp</bundle>
+    <updated>1408717515</updated>
+    <file>microsoft_remote_desktop.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>Microsoft Remote Desktop</applications>
+    <categories>Networking ||| Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/microsoft-remote-desktop</url>
+    <tags>rdp ||| remote desktop</tags>
+    <webservices></webservices>
+    <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
   </workflow>
   <workflow>
     <name>Microsoft Todo</name>
@@ -16667,21 +16667,6 @@
   </workflow>
   <workflow>
     <name>Safari History Search</name>
-    <version>1.0.1</version>
-    <bundle>com.akaralar.safariHistorySearch</bundle>
-    <updated>1468887016</updated>
-    <file>safari_history_search.alfredworkflow</file>
-    <author>akaralar</author>
-    <applications></applications>
-    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/safari-history-search</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred workflow to search Safari history</short>
-  </workflow>
-  <workflow>
-    <name>Safari History Search</name>
     <version>1.0</version>
     <bundle>com.rx2130.alfred.hsi</bundle>
     <updated>1508381417</updated>
@@ -16694,6 +16679,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search Safari Browse History from Alfred</short>
+  </workflow>
+  <workflow>
+    <name>Safari History Search</name>
+    <version>1.0.1</version>
+    <bundle>com.akaralar.safariHistorySearch</bundle>
+    <updated>1468887016</updated>
+    <file>safari_history_search.alfredworkflow</file>
+    <author>akaralar</author>
+    <applications></applications>
+    <categories>Files and Folders ||| Networking ||| Productivity ||| Search ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/safari-history-search</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow to search Safari history</short>
   </workflow>
   <workflow>
     <name>Safari Reading List</name>
@@ -18064,7 +18064,7 @@
     <name>Slack</name>
     <version>4.2.1</version>
     <bundle>com.yannickglt.alfred2.slack</bundle>
-    <updated>1604226974</updated>
+    <updated>1616019152</updated>
     <file>slack.alfredworkflow</file>
     <author>Yannick Galatol</author>
     <applications>Slack</applications>
@@ -19787,21 +19787,6 @@
   </workflow>
   <workflow>
     <name>Things</name>
-    <version>1.1.19</version>
-    <bundle>hu.fns.things</bundle>
-    <updated>1548809476</updated>
-    <file>things.alfredworkflow</file>
-    <author>fns720</author>
-    <applications>Things</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/things</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Things one-line task generation.</short>
-  </workflow>
-  <workflow>
-    <name>Things</name>
     <version>1.0</version>
     <bundle>com.pawelgrzybek.things</bundle>
     <updated>1519297696</updated>
@@ -19814,6 +19799,21 @@
     <tags>things ||| todo ||| productivity</tags>
     <webservices></webservices>
     <short>Manage your Things list with ease.</short>
+  </workflow>
+  <workflow>
+    <name>Things</name>
+    <version>1.1.19</version>
+    <bundle>hu.fns.things</bundle>
+    <updated>1548809476</updated>
+    <file>things.alfredworkflow</file>
+    <author>fns720</author>
+    <applications>Things</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/things</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Things one-line task generation.</short>
   </workflow>
   <workflow>
     <name>Things</name>
@@ -20448,21 +20448,6 @@
   <workflow>
     <name>Toggle Keyboard Viewer</name>
     <version>1.0</version>
-    <bundle>us.yearl.togglekv</bundle>
-    <updated>1452435732</updated>
-    <file>toggle_keyboard_viewer.alfredworkflow</file>
-    <author>centzon400</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
-    <tags>keybaord viewer</tags>
-    <webservices></webservices>
-    <short>Displays/hides the keyboard viewer</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Keyboard Viewer</name>
-    <version>1.0</version>
     <bundle>com.gingerbeardman.keyboardviewer</bundle>
     <updated>1523906038</updated>
     <file>toggle_keyboard_viewer.alfredworkflow</file>
@@ -20474,6 +20459,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Toggles the macOS Keyboard Viewer applet</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Keyboard Viewer</name>
+    <version>1.0</version>
+    <bundle>us.yearl.togglekv</bundle>
+    <updated>1452435732</updated>
+    <file>toggle_keyboard_viewer.alfredworkflow</file>
+    <author>centzon400</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
+    <tags>keybaord viewer</tags>
+    <webservices></webservices>
+    <short>Displays/hides the keyboard viewer</short>
   </workflow>
   <workflow>
     <name>Toggle Today and Notification Center Views</name>
@@ -20582,21 +20582,6 @@
   </workflow>
   <workflow>
     <name>Tower Repositories</name>
-    <version>1.0</version>
-    <bundle>net.level3studios.alfredtower</bundle>
-    <updated>1539818596</updated>
-    <file>alfred_towerrepo.alfredworkflow</file>
-    <author>SalAldana</author>
-    <applications>Tower</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/tower-repositories-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>View/Open Tower Repositories</short>
-  </workflow>
-  <workflow>
-    <name>Tower Repositories</name>
     <version>2.6</version>
     <bundle>net.cjlucas.alfred.tower</bundle>
     <updated>1476151275</updated>
@@ -20609,6 +20594,21 @@
     <tags>git ||| tower</tags>
     <webservices></webservices>
     <short>Quickly access your Tower git repositories</short>
+  </workflow>
+  <workflow>
+    <name>Tower Repositories</name>
+    <version>1.0</version>
+    <bundle>net.level3studios.alfredtower</bundle>
+    <updated>1539818596</updated>
+    <file>alfred_towerrepo.alfredworkflow</file>
+    <author>SalAldana</author>
+    <applications>Tower</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/tower-repositories-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>View/Open Tower Repositories</short>
   </workflow>
   <workflow>
     <name>trailer</name>
@@ -21168,21 +21168,6 @@
   <workflow>
     <name>Urban Dictionary</name>
     <version>1.0</version>
-    <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
-    <updated>1535495956</updated>
-    <file>urban_dictionary.alfredworkflow</file>
-    <author>xilopaint</author>
-    <applications></applications>
-    <categories>Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/urban-dictionary-0</url>
-    <tags></tags>
-    <webservices>urban dictionary</webservices>
-    <short>Search Urban Dictionary from Alfred 3</short>
-  </workflow>
-  <workflow>
-    <name>Urban Dictionary</name>
-    <version>1.0</version>
     <bundle>florian.urban</bundle>
     <updated>1409825656</updated>
     <file>urban_dictionary.alfredworkflow</file>
@@ -21194,6 +21179,21 @@
     <tags>define ||| dictionary ||| word</tags>
     <webservices>urbandictionary ||| urban dictionary ||| urbandictionary.com</webservices>
     <short>workflow for Alfred App to query urbandictionary's API and return word definitions</short>
+  </workflow>
+  <workflow>
+    <name>Urban Dictionary</name>
+    <version>1.0</version>
+    <bundle>com.xilopaint.alfredapp.urbandictionary</bundle>
+    <updated>1535495956</updated>
+    <file>urban_dictionary.alfredworkflow</file>
+    <author>xilopaint</author>
+    <applications></applications>
+    <categories>Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/urban-dictionary-0</url>
+    <tags></tags>
+    <webservices>urban dictionary</webservices>
+    <short>Search Urban Dictionary from Alfred 3</short>
   </workflow>
   <workflow>
     <name>URL Actions</name>
