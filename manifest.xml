@@ -7606,6 +7606,21 @@
     <short>Funnels selected text through a filter and replaces the selected text with the result.</short>
   </workflow>
   <workflow>
+    <name>FUTBIN</name>
+    <version>1.0.0</version>
+    <bundle>dev.skydiver.alfred.futbin</bundle>
+    <updated>1620587061</updated>
+    <file>futbin.alfredworkflow</file>
+    <author>skydiver</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/futbin</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>FUTBIN helper</short>
+  </workflow>
+  <workflow>
     <name>Fuzzy Folders</name>
     <version>2.3</version>
     <bundle>net.deanishe.alfred-fuzzyfolders</bundle>
@@ -18919,8 +18934,8 @@
     <name>Steam Companion</name>
     <version>1.0</version>
     <bundle>de.chris-grieser.steam-companion</bundle>
-    <updated>1620584674</updated>
-    <file>steam_companion_v.1.0.alfredworkflow</file>
+    <updated>1620584781</updated>
+    <file>steam_companion_v1.0.1.alfredworkflow</file>
     <author>chrisgrieser</author>
     <applications>Steam</applications>
     <categories>Games ||| Search ||| System</categories>
