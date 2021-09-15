@@ -1952,21 +1952,6 @@
   </workflow>
   <workflow>
     <name>Antidote 10</name>
-    <version>1.0</version>
-    <bundle>antidote.irwinj.blogspot.com</bundle>
-    <updated>1597118179</updated>
-    <file>antidote_10.alfredworkflow</file>
-    <author>irwinj</author>
-    <applications></applications>
-    <categories>Reference</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/antidote-10-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred workflow for Antidote 10</short>
-  </workflow>
-  <workflow>
-    <name>Antidote 10</name>
     <version>1.5</version>
     <bundle>antidote.jolinmasson.com</bundle>
     <updated>1602114805</updated>
@@ -1979,6 +1964,21 @@
     <tags>Antidote</tags>
     <webservices></webservices>
     <short>Look up words in Antidote 10</short>
+  </workflow>
+  <workflow>
+    <name>Antidote 10</name>
+    <version>1.0</version>
+    <bundle>antidote.irwinj.blogspot.com</bundle>
+    <updated>1597118179</updated>
+    <file>antidote_10.alfredworkflow</file>
+    <author>irwinj</author>
+    <applications></applications>
+    <categories>Reference</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/antidote-10-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred workflow for Antidote 10</short>
   </workflow>
   <workflow>
     <name>Antidote 9</name>
@@ -11672,6 +11672,21 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
+    <version>2.2.0</version>
+    <bundle>com.alexchantastic.loremipsum</bundle>
+    <updated>1530599656</updated>
+    <file>alfred-lipsum-workflow.alfredworkflow</file>
+    <author>alexchantastic</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum-1</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Generate dummy lorem ipsum text.</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
     <version>0.2.0</version>
     <bundle>com.tillkruss.loremipsum</bundle>
     <updated>1532979256</updated>
@@ -11699,21 +11714,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generate lorem ipsum text from Alfred</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
-    <version>2.2.0</version>
-    <bundle>com.alexchantastic.loremipsum</bundle>
-    <updated>1530599656</updated>
-    <file>alfred-lipsum-workflow.alfredworkflow</file>
-    <author>alexchantastic</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum-1</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Generate dummy lorem ipsum text.</short>
   </workflow>
   <workflow>
     <name>Love in iTunes</name>
@@ -17614,7 +17614,7 @@
     <name>Search Raindrop.io</name>
     <version>2.0.3</version>
     <bundle>me.westerlind.alfred.raindrop-search</bundle>
-    <updated>1631483783</updated>
+    <updated>1631719182</updated>
     <file>search_raindrop.alfredworkflow</file>
     <author>Andreas Westerlind</author>
     <applications></applications>
@@ -17747,21 +17747,6 @@
   </workflow>
   <workflow>
     <name>Secure Password Generator</name>
-    <version>2.1</version>
-    <bundle>net.deanishe.alfred-pwgen</bundle>
-    <updated>1491113422</updated>
-    <file>password-generator-2.1.alfredworkflow</file>
-    <author>deanishe</author>
-    <applications></applications>
-    <categories>Other ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/secure-password-generator</url>
-    <tags>security ||| password generator ||| password</tags>
-    <webservices></webservices>
-    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
-  </workflow>
-  <workflow>
-    <name>Secure Password Generator</name>
     <version>1.0</version>
     <bundle>com.camerontod.passwordgen</bundle>
     <updated>1507852276</updated>
@@ -17774,6 +17759,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates passwords that score highly in zxcvbn and copies them to clipboard.</short>
+  </workflow>
+  <workflow>
+    <name>Secure Password Generator</name>
+    <version>2.1</version>
+    <bundle>net.deanishe.alfred-pwgen</bundle>
+    <updated>1491113422</updated>
+    <file>password-generator-2.1.alfredworkflow</file>
+    <author>deanishe</author>
+    <applications></applications>
+    <categories>Other ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/secure-password-generator</url>
+    <tags>security ||| password generator ||| password</tags>
+    <webservices></webservices>
+    <short>Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.</short>
   </workflow>
   <workflow>
     <name>Secure SHell</name>
@@ -20747,21 +20747,6 @@
   </workflow>
   <workflow>
     <name>Toggle Function Keys</name>
-    <version>1.0</version>
-    <bundle>com.tanseycg.togglefunctionkeys</bundle>
-    <updated>1422540315</updated>
-    <file>toggle_function_keys.alfredworkflow</file>
-    <author>tanseycg</author>
-    <applications></applications>
-    <categories>Alfred Remote ||| vscode ||| System ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
-    <tags>function keys</tags>
-    <webservices></webservices>
-    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Function Keys</name>
     <version>0.1</version>
     <bundle>uk.co.clokey.alfredworkflow</bundle>
     <updated>1399316811</updated>
@@ -20774,6 +20759,21 @@
     <tags>fn ||| function key</tags>
     <webservices></webservices>
     <short>Toggle the fn key globally</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Function Keys</name>
+    <version>1.0</version>
+    <bundle>com.tanseycg.togglefunctionkeys</bundle>
+    <updated>1422540315</updated>
+    <file>toggle_function_keys.alfredworkflow</file>
+    <author>tanseycg</author>
+    <applications></applications>
+    <categories>Alfred Remote ||| vscode ||| System ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-function-keys-0</url>
+    <tags>function keys</tags>
+    <webservices></webservices>
+    <short>Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.</short>
   </workflow>
   <workflow>
     <name>Toggle Greyscale</name>
@@ -20853,21 +20853,6 @@
   <workflow>
     <name>Toggle Keyboard Viewer</name>
     <version>1.0</version>
-    <bundle>us.yearl.togglekv</bundle>
-    <updated>1452435732</updated>
-    <file>toggle_keyboard_viewer.alfredworkflow</file>
-    <author>centzon400</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
-    <tags>keybaord viewer</tags>
-    <webservices></webservices>
-    <short>Displays/hides the keyboard viewer</short>
-  </workflow>
-  <workflow>
-    <name>Toggle Keyboard Viewer</name>
-    <version>1.0</version>
     <bundle>com.gingerbeardman.keyboardviewer</bundle>
     <updated>1523906038</updated>
     <file>toggle_keyboard_viewer.alfredworkflow</file>
@@ -20879,6 +20864,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Toggles the macOS Keyboard Viewer applet</short>
+  </workflow>
+  <workflow>
+    <name>Toggle Keyboard Viewer</name>
+    <version>1.0</version>
+    <bundle>us.yearl.togglekv</bundle>
+    <updated>1452435732</updated>
+    <file>toggle_keyboard_viewer.alfredworkflow</file>
+    <author>centzon400</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/toggle-keyboard-viewer</url>
+    <tags>keybaord viewer</tags>
+    <webservices></webservices>
+    <short>Displays/hides the keyboard viewer</short>
   </workflow>
   <workflow>
     <name>Toggle Today and Notification Center Views</name>
