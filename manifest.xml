@@ -4516,6 +4516,21 @@
     <short>Alfred workflow to convert Word document to PDF</short>
   </workflow>
   <workflow>
+    <name>Copy current date &amp; time to clipboard</name>
+    <version>1.0</version>
+    <bundle>com.jiyeollee.workflow.bundle01</bundle>
+    <updated>1635028002</updated>
+    <file>copy_current_date_time_to_clipboard.alfredworkflow</file>
+    <author>kafelix496</author>
+    <applications></applications>
+    <categories>Other</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/copy-current-date-time-clipboard</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Get current date &amp; time and save to clipboard</short>
+  </workflow>
+  <workflow>
     <name>Copy Dropbox Link</name>
     <version>0.1</version>
     <bundle>cohen.uri.copydblink</bundle>
@@ -8131,21 +8146,6 @@
     <short>Alfred workflow to search for Github repository.</short>
   </workflow>
   <workflow>
-    <name>gitignore</name>
-    <version>1.0</version>
-    <bundle>im.cccc.gitignorer</bundle>
-    <updated>1448447772</updated>
-    <file>gitignorer.alfredworkflow</file>
-    <author>chao787</author>
-    <applications></applications>
-    <categories>vscode ||| Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitignore</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
-  </workflow>
-  <workflow>
     <name>Gitignore</name>
     <version>0.1</version>
     <bundle>com.yourtion.gitignore</bundle>
@@ -8174,6 +8174,21 @@
     <tags>git ||| github</tags>
     <webservices>github.com</webservices>
     <short>Create .gitignore files using Alfred</short>
+  </workflow>
+  <workflow>
+    <name>gitignore</name>
+    <version>1.0</version>
+    <bundle>im.cccc.gitignorer</bundle>
+    <updated>1448447772</updated>
+    <file>gitignorer.alfredworkflow</file>
+    <author>chao787</author>
+    <applications></applications>
+    <categories>vscode ||| Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitignore</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Alfred's gitignore workflow, automatically generate gitignore content through template, productivity tools to speed up your project. — Edit</short>
   </workflow>
   <workflow>
     <name>GitKraken</name>
@@ -12317,21 +12332,6 @@
   </workflow>
   <workflow>
     <name>Microsoft Remote Desktop</name>
-    <version>1.0</version>
-    <bundle>com.tedwise.rdp</bundle>
-    <updated>1408717515</updated>
-    <file>microsoft_remote_desktop.alfredworkflow</file>
-    <author>ctwise</author>
-    <applications>Microsoft Remote Desktop</applications>
-    <categories>Networking ||| Productivity</categories>
-    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/microsoft-remote-desktop</url>
-    <tags>rdp ||| remote desktop</tags>
-    <webservices></webservices>
-    <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
-  </workflow>
-  <workflow>
-    <name>Microsoft Remote Desktop</name>
     <version>0.1.0</version>
     <bundle>com.fmuller.rdp</bundle>
     <updated>1608116548</updated>
@@ -12344,6 +12344,21 @@
     <tags>rdp ||| mrdp</tags>
     <webservices></webservices>
     <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
+  </workflow>
+  <workflow>
+    <name>Microsoft Remote Desktop</name>
+    <version>1.0</version>
+    <bundle>com.tedwise.rdp</bundle>
+    <updated>1408717515</updated>
+    <file>microsoft_remote_desktop.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>Microsoft Remote Desktop</applications>
+    <categories>Networking ||| Productivity</categories>
+    <osx>Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/microsoft-remote-desktop</url>
+    <tags>rdp ||| remote desktop</tags>
+    <webservices></webservices>
+    <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
   </workflow>
   <workflow>
     <name>Microsoft Todo</name>
@@ -20418,21 +20433,6 @@
   <workflow>
     <name>Timer</name>
     <version>1.0</version>
-    <bundle>siyahmadde-timer</bundle>
-    <updated>1606234674</updated>
-    <file>timer.alfredworkflow</file>
-    <author>fatih-yavuz</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timer</url>
-    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
-    <webservices></webservices>
-    <short>Please go to new workflow http://www.packal.org/workflow/alfred-timer-workflow</short>
-  </workflow>
-  <workflow>
-    <name>Timer</name>
-    <version>1.0</version>
     <bundle>gheardi.riccardo.timer</bundle>
     <updated>1506583755</updated>
     <file>timer.alfredworkflow</file>
@@ -20444,6 +20444,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Set up custom timers. Pomodoro support.</short>
+  </workflow>
+  <workflow>
+    <name>Timer</name>
+    <version>1.0</version>
+    <bundle>siyahmadde-timer</bundle>
+    <updated>1606234674</updated>
+    <file>timer.alfredworkflow</file>
+    <author>fatih-yavuz</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timer</url>
+    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
+    <webservices></webservices>
+    <short>Please go to new workflow http://www.packal.org/workflow/alfred-timer-workflow</short>
   </workflow>
   <workflow>
     <name>Timer control</name>
@@ -21676,21 +21691,6 @@
     <short>A workflow that transforms a url into new one that allows some formats such as "Github Flavored Markdown link" or "shorten url" and so on.</short>
   </workflow>
   <workflow>
-    <name>UUID Generator</name>
-    <version>0.1</version>
-    <bundle>me.ghulamabbas.uuidgenerator</bundle>
-    <updated>1470062686</updated>
-    <file>uuid_generator.alfredworkflow</file>
-    <author>Lightman</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/uuid-generator</url>
-    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
-    <webservices></webservices>
-    <short>Generates a unique UUID and saves it to clipboard</short>
-  </workflow>
-  <workflow>
     <name>UUID generator</name>
     <version>1.0</version>
     <bundle>com.md.uuid</bundle>
@@ -21704,6 +21704,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generates random UUID and copy to clipboard or paste to most front app</short>
+  </workflow>
+  <workflow>
+    <name>UUID Generator</name>
+    <version>0.1</version>
+    <bundle>me.ghulamabbas.uuidgenerator</bundle>
+    <updated>1470062686</updated>
+    <file>uuid_generator.alfredworkflow</file>
+    <author>Lightman</author>
+    <applications></applications>
+    <categories>Productivity ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/uuid-generator</url>
+    <tags>uuid ||| uuidgen ||| uuidgenerator</tags>
+    <webservices></webservices>
+    <short>Generates a unique UUID and saves it to clipboard</short>
   </workflow>
   <workflow>
     <name>uuid-helper</name>
