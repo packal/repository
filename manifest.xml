@@ -7667,21 +7667,6 @@
   </workflow>
   <workflow>
     <name>Focus</name>
-    <version>1.1</version>
-    <bundle>com.tedwise.focus</bundle>
-    <updated>1422550514</updated>
-    <file>focus.alfredworkflow</file>
-    <author>ctwise</author>
-    <applications>Focus</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/focus</url>
-    <tags>focus</tags>
-    <webservices></webservices>
-    <short>Toggles the Focus app status.</short>
-  </workflow>
-  <workflow>
-    <name>Focus</name>
     <version>2.3</version>
     <bundle>haus.adrian.alfred-focus</bundle>
     <updated>1584977970</updated>
@@ -7694,6 +7679,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Control Focus</short>
+  </workflow>
+  <workflow>
+    <name>Focus</name>
+    <version>1.1</version>
+    <bundle>com.tedwise.focus</bundle>
+    <updated>1422550514</updated>
+    <file>focus.alfredworkflow</file>
+    <author>ctwise</author>
+    <applications>Focus</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/focus</url>
+    <tags>focus</tags>
+    <webservices></webservices>
+    <short>Toggles the Focus app status.</short>
   </workflow>
   <workflow>
     <name>Focus Workflow (heyfocus.com)</name>
@@ -12767,21 +12767,6 @@
   </workflow>
   <workflow>
     <name>Microsoft Remote Desktop</name>
-    <version>0.1.0</version>
-    <bundle>com.fmuller.rdp</bundle>
-    <updated>1608116548</updated>
-    <file>microsoft-remote-desktop.alfredworkflow</file>
-    <author>frank-m</author>
-    <applications>Microsoft Remote Desktop</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/microsoft-remote-desktop-0</url>
-    <tags>rdp ||| mrdp</tags>
-    <webservices></webservices>
-    <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
-  </workflow>
-  <workflow>
-    <name>Microsoft Remote Desktop</name>
     <version>1.0</version>
     <bundle>com.tedwise.rdp</bundle>
     <updated>1408717515</updated>
@@ -12794,6 +12779,21 @@
     <tags>rdp ||| remote desktop</tags>
     <webservices></webservices>
     <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
+  </workflow>
+  <workflow>
+    <name>Microsoft Remote Desktop</name>
+    <version>0.1.0</version>
+    <bundle>com.fmuller.rdp</bundle>
+    <updated>1608116548</updated>
+    <file>microsoft-remote-desktop.alfredworkflow</file>
+    <author>frank-m</author>
+    <applications>Microsoft Remote Desktop</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/microsoft-remote-desktop-0</url>
+    <tags>rdp ||| mrdp</tags>
+    <webservices></webservices>
+    <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
   </workflow>
   <workflow>
     <name>Microsoft Todo</name>
@@ -15018,21 +15018,6 @@
   <workflow>
     <name>Password Generator</name>
     <version>1.0</version>
-    <bundle>com.alfred.field.generator.password</bundle>
-    <updated>1499395276</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>FFIN</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-2</url>
-    <tags>password</tags>
-    <webservices></webservices>
-    <short>Generate secure password suggestions</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.0</version>
     <bundle>es.nyr.password</bundle>
     <updated>1463961736</updated>
     <file>password_generator.alfredworkflow</file>
@@ -15059,6 +15044,21 @@
     <tags>password generator ||| security ||| authentication</tags>
     <webservices></webservices>
     <short>A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
+    <version>1.0</version>
+    <bundle>com.alfred.field.generator.password</bundle>
+    <updated>1499395276</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>FFIN</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-2</url>
+    <tags>password</tags>
+    <webservices></webservices>
+    <short>Generate secure password suggestions</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -21123,21 +21123,6 @@
   <workflow>
     <name>Timer</name>
     <version>1.0</version>
-    <bundle>siyahmadde-timer</bundle>
-    <updated>1606234674</updated>
-    <file>timer.alfredworkflow</file>
-    <author>fatih-yavuz</author>
-    <applications></applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/timer</url>
-    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
-    <webservices></webservices>
-    <short>Please go to new workflow http://www.packal.org/workflow/alfred-timer-workflow</short>
-  </workflow>
-  <workflow>
-    <name>Timer</name>
-    <version>1.0</version>
     <bundle>gheardi.riccardo.timer</bundle>
     <updated>1506583755</updated>
     <file>timer.alfredworkflow</file>
@@ -21149,6 +21134,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Set up custom timers. Pomodoro support.</short>
+  </workflow>
+  <workflow>
+    <name>Timer</name>
+    <version>1.0</version>
+    <bundle>siyahmadde-timer</bundle>
+    <updated>1606234674</updated>
+    <file>timer.alfredworkflow</file>
+    <author>fatih-yavuz</author>
+    <applications></applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/timer</url>
+    <tags>hue ||| philips ||| bitbar ||| countdown ||| timer</tags>
+    <webservices></webservices>
+    <short>Please go to new workflow http://www.packal.org/workflow/alfred-timer-workflow</short>
   </workflow>
   <workflow>
     <name>Timer control</name>
@@ -21196,21 +21196,6 @@
     <short>Get current unix timestamp or convert a string to a timestamp or a timestamp to a datetime.</short>
   </workflow>
   <workflow>
-    <name>TimeZones</name>
-    <version>1.7a</version>
-    <bundle>carlosnz.timezones</bundle>
-    <updated>1438651166</updated>
-    <file>timezones_v1.7a.alfredworkflow</file>
-    <author>CarlosNZ</author>
-    <applications></applications>
-    <categories>Productivity ||| Reference ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
-    <url>http://www.packal.org/workflow/timezones</url>
-    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
-    <webservices>Google Maps API</webservices>
-    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
-  </workflow>
-  <workflow>
     <name>Timezones</name>
     <version>1.0</version>
     <bundle>gherardi.riccardo.timezones</bundle>
@@ -21224,6 +21209,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Show world timezones. Does not require an internet connection.</short>
+  </workflow>
+  <workflow>
+    <name>TimeZones</name>
+    <version>1.7a</version>
+    <bundle>carlosnz.timezones</bundle>
+    <updated>1438651166</updated>
+    <file>timezones_v1.7a.alfredworkflow</file>
+    <author>CarlosNZ</author>
+    <applications></applications>
+    <categories>Productivity ||| Reference ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x)</osx>
+    <url>http://www.packal.org/workflow/timezones</url>
+    <tags>Time ||| Date ||| clock ||| timezones ||| worldclock</tags>
+    <webservices>Google Maps API</webservices>
+    <short>A customized world clock — shows a list of user-configured cities with their current local times.</short>
   </workflow>
   <workflow>
     <name>TimeZones 2</name>
