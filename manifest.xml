@@ -5641,6 +5641,21 @@
     <short>Translation using deepl.com</short>
   </workflow>
   <workflow>
+    <name>deFANG</name>
+    <version>1.2</version>
+    <bundle>com.alfredapp.fangdefang</bundle>
+    <updated>1665028524</updated>
+    <file>defang.alfredworkflow</file>
+    <author>deltajuliet</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/defang</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>A workflow that will defang or fang domains, emails, ips, or urls that may be malicious so that they can safely be shared or applied to security tools</short>
+  </workflow>
+  <workflow>
     <name>Default Folder X</name>
     <version>0.3.0</version>
     <bundle>net.deanishe.alfred-dfx</bundle>
@@ -8566,21 +8581,6 @@
     <short>GitLab Project search for Alfred</short>
   </workflow>
   <workflow>
-    <name>gitmoji</name>
-    <version>1.0</version>
-    <bundle>su.jing.gitmoji</bundle>
-    <updated>1513975772</updated>
-    <file>gitmoji-v1.0.alfredworkflow</file>
-    <author>o</author>
-    <applications></applications>
-    <categories>vscode ||| Other ||| Productivity ||| Search ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/gitmoji</url>
-    <tags>gitmoji ||| emoji</tags>
-    <webservices></webservices>
-    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
-  </workflow>
-  <workflow>
     <name>Gitmoji</name>
     <version>2.3</version>
     <bundle>org.leolabs.alfred.gitmoji</bundle>
@@ -8594,6 +8594,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Search for Gitmojis easily and copy them to your clipboard</short>
+  </workflow>
+  <workflow>
+    <name>gitmoji</name>
+    <version>1.0</version>
+    <bundle>su.jing.gitmoji</bundle>
+    <updated>1513975772</updated>
+    <file>gitmoji-v1.0.alfredworkflow</file>
+    <author>o</author>
+    <applications></applications>
+    <categories>vscode ||| Other ||| Productivity ||| Search ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/gitmoji</url>
+    <tags>gitmoji ||| emoji</tags>
+    <webservices></webservices>
+    <short>This simple Alfred workflow lets you quick search and input gitmoji.</short>
   </workflow>
   <workflow>
     <name>Glosbe Translation</name>
@@ -12991,21 +13006,6 @@
     <short>Type translation abbreviation and verse reference. It will paste the verse where your cursor is.</short>
   </workflow>
   <workflow>
-    <name>Moment</name>
-    <version>1.0.0</version>
-    <bundle>co.schof.alfred.moment</bundle>
-    <updated>1620419424</updated>
-    <file>moment.alfredworkflow</file>
-    <author>tschoffelen</author>
-    <applications></applications>
-    <categories>vscode</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/moment-0</url>
-    <tags>dates ||| development</tags>
-    <webservices></webservices>
-    <short>Get dates in several common formats</short>
-  </workflow>
-  <workflow>
     <name>moment</name>
     <version>1.2.6</version>
     <bundle>com.lostjs.moment</bundle>
@@ -13019,6 +13019,21 @@
     <tags>Time ||| Timestamp ||| Time Convertor</tags>
     <webservices></webservices>
     <short>Advanced time utility.</short>
+  </workflow>
+  <workflow>
+    <name>Moment</name>
+    <version>1.0.0</version>
+    <bundle>co.schof.alfred.moment</bundle>
+    <updated>1620419424</updated>
+    <file>moment.alfredworkflow</file>
+    <author>tschoffelen</author>
+    <applications></applications>
+    <categories>vscode</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/moment-0</url>
+    <tags>dates ||| development</tags>
+    <webservices></webservices>
+    <short>Get dates in several common formats</short>
   </workflow>
   <workflow>
     <name>MongoDb Starter</name>
@@ -13892,21 +13907,6 @@
   </workflow>
   <workflow>
     <name>npms</name>
-    <version>0.2.0</version>
-    <bundle>com.sindresorhus.npms</bundle>
-    <updated>1473005156</updated>
-    <file>npms.alfredworkflow</file>
-    <author>sindresorhus</author>
-    <applications></applications>
-    <categories>vscode ||| Productivity ||| Reference ||| Search</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
-    <url>http://www.packal.org/workflow/npms-0</url>
-    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
-    <webservices>npms.io</webservices>
-    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
-  </workflow>
-  <workflow>
-    <name>npms</name>
     <version>0.4.1</version>
     <bundle>org.boneskull.npms</bundle>
     <updated>1484636477</updated>
@@ -13919,6 +13919,21 @@
     <tags>nodejs ||| node ||| package ||| npm</tags>
     <webservices>npms.io</webservices>
     <short>npms.io search</short>
+  </workflow>
+  <workflow>
+    <name>npms</name>
+    <version>0.2.0</version>
+    <bundle>com.sindresorhus.npms</bundle>
+    <updated>1473005156</updated>
+    <file>npms.alfredworkflow</file>
+    <author>sindresorhus</author>
+    <applications></applications>
+    <categories>vscode ||| Productivity ||| Reference ||| Search</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x)</osx>
+    <url>http://www.packal.org/workflow/npms-0</url>
+    <tags>npm ||| npms ||| javascript ||| nodejs</tags>
+    <webservices>npms.io</webservices>
+    <short>Search for npm packages with npms.io. [NOTE] Click "View on GitHub" for install instructions. Don't install from here.</short>
   </workflow>
   <workflow>
     <name>NpmSearch</name>
