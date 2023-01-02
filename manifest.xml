@@ -5267,21 +5267,6 @@
   </workflow>
   <workflow>
     <name>Currency Converter</name>
-    <version>0.93</version>
-    <bundle>net.exit4web.currencyconverter</bundle>
-    <updated>1458609314</updated>
-    <file>currency.converter.alfredworkflow</file>
-    <author>inket</author>
-    <applications></applications>
-    <categories>Productivity ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/currency-converter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>A simple Alfred 2 Currency Converter workflow</short>
-  </workflow>
-  <workflow>
-    <name>Currency Converter</name>
     <version>1.2</version>
     <bundle>com.etenal.currencyexchange</bundle>
     <updated>1526397497</updated>
@@ -5296,19 +5281,19 @@
     <short>Currency Exchange include BTC, ETH</short>
   </workflow>
   <workflow>
-    <name>Currency Exchange</name>
-    <version>0.1.3</version>
-    <bundle>co.theengineer.currencyExchange</bundle>
-    <updated>1551037697</updated>
-    <file>currency_exchange.alfredworkflow</file>
-    <author>daninfpj</author>
+    <name>Currency Converter</name>
+    <version>0.93</version>
+    <bundle>net.exit4web.currencyconverter</bundle>
+    <updated>1458609314</updated>
+    <file>currency.converter.alfredworkflow</file>
+    <author>inket</author>
     <applications></applications>
-    <categories>Reference</categories>
+    <categories>Productivity ||| Utilities</categories>
     <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/currency-exchange</url>
-    <tags>currency</tags>
+    <url>http://www.packal.org/workflow/currency-converter</url>
+    <tags></tags>
     <webservices></webservices>
-    <short>Alfred workflow to convert between currencies (including Bitcoin)</short>
+    <short>A simple Alfred 2 Currency Converter workflow</short>
   </workflow>
   <workflow>
     <name>Currency exchange</name>
@@ -5324,6 +5309,21 @@
     <tags></tags>
     <webservices></webservices>
     <short>Exchange currencies</short>
+  </workflow>
+  <workflow>
+    <name>Currency Exchange</name>
+    <version>0.1.3</version>
+    <bundle>co.theengineer.currencyExchange</bundle>
+    <updated>1551037697</updated>
+    <file>currency_exchange.alfredworkflow</file>
+    <author>daninfpj</author>
+    <applications></applications>
+    <categories>Reference</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/currency-exchange</url>
+    <tags>currency</tags>
+    <webservices></webservices>
+    <short>Alfred workflow to convert between currencies (including Bitcoin)</short>
   </workflow>
   <workflow>
     <name>Currency to buy</name>
@@ -6902,21 +6902,6 @@
   </workflow>
   <workflow>
     <name>Epoch Converter</name>
-    <version>1.0</version>
-    <bundle>com.boulderhopkins.epoch</bundle>
-    <updated>1423357454</updated>
-    <file>epoch_conversion.alfredworkflow</file>
-    <author>danielhopkins</author>
-    <applications></applications>
-    <categories>Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/epoch-converter</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>Simple script to convert epochs to large type</short>
-  </workflow>
-  <workflow>
-    <name>Epoch Converter</name>
     <version>1.0.3</version>
     <bundle>snooze92.epoch.converter</bundle>
     <updated>1649768722</updated>
@@ -6929,6 +6914,21 @@
     <tags>epoch ||| Timestamp ||| Time</tags>
     <webservices></webservices>
     <short>Makes it easy to work with epoch timestamps!</short>
+  </workflow>
+  <workflow>
+    <name>Epoch Converter</name>
+    <version>1.0</version>
+    <bundle>com.boulderhopkins.epoch</bundle>
+    <updated>1423357454</updated>
+    <file>epoch_conversion.alfredworkflow</file>
+    <author>danielhopkins</author>
+    <applications></applications>
+    <categories>Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/epoch-converter</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>Simple script to convert epochs to large type</short>
   </workflow>
   <workflow>
     <name>Epoch/Unix Time to DateTime</name>
@@ -12227,6 +12227,21 @@
   </workflow>
   <workflow>
     <name>Lorem Ipsum</name>
+    <version>0.2.0</version>
+    <bundle>com.tillkruss.loremipsum</bundle>
+    <updated>1532979256</updated>
+    <file>lorem.ipsum_.alfredworkflow</file>
+    <author>tillkruss</author>
+    <applications></applications>
+    <categories>vscode ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>An ultra-fast Lorem Ipsum text generator.</short>
+  </workflow>
+  <workflow>
+    <name>Lorem Ipsum</name>
     <version>1.0</version>
     <bundle>com.robert-arellano.lorem-ipsum</bundle>
     <updated>1507913296</updated>
@@ -12254,21 +12269,6 @@
     <tags></tags>
     <webservices></webservices>
     <short>Generate dummy lorem ipsum text.</short>
-  </workflow>
-  <workflow>
-    <name>Lorem Ipsum</name>
-    <version>0.2.0</version>
-    <bundle>com.tillkruss.loremipsum</bundle>
-    <updated>1532979256</updated>
-    <file>lorem.ipsum_.alfredworkflow</file>
-    <author>tillkruss</author>
-    <applications></applications>
-    <categories>vscode ||| Graphic Design ||| Productivity ||| Text Manipulation ||| Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/lorem-ipsum-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>An ultra-fast Lorem Ipsum text generator.</short>
   </workflow>
   <workflow>
     <name>Lorem Picsum</name>
@@ -12902,21 +12902,6 @@
   </workflow>
   <workflow>
     <name>Microsoft Remote Desktop</name>
-    <version>0.1.0</version>
-    <bundle>com.fmuller.rdp</bundle>
-    <updated>1608116548</updated>
-    <file>microsoft-remote-desktop.alfredworkflow</file>
-    <author>frank-m</author>
-    <applications>Microsoft Remote Desktop</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x)</osx>
-    <url>http://www.packal.org/workflow/microsoft-remote-desktop-0</url>
-    <tags>rdp ||| mrdp</tags>
-    <webservices></webservices>
-    <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
-  </workflow>
-  <workflow>
-    <name>Microsoft Remote Desktop</name>
     <version>1.0</version>
     <bundle>com.tedwise.rdp</bundle>
     <updated>1408717515</updated>
@@ -12929,6 +12914,21 @@
     <tags>rdp ||| remote desktop</tags>
     <webservices></webservices>
     <short>Connect to a Microsoft Remote Desktop (RDP) desktop.</short>
+  </workflow>
+  <workflow>
+    <name>Microsoft Remote Desktop</name>
+    <version>0.1.0</version>
+    <bundle>com.fmuller.rdp</bundle>
+    <updated>1608116548</updated>
+    <file>microsoft-remote-desktop.alfredworkflow</file>
+    <author>frank-m</author>
+    <applications>Microsoft Remote Desktop</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x)</osx>
+    <url>http://www.packal.org/workflow/microsoft-remote-desktop-0</url>
+    <tags>rdp ||| mrdp</tags>
+    <webservices></webservices>
+    <short>Worklfow for using Microsoft Remote Desktop. It will search your bookmarks and directly open the selected bookmark via the rdp:// protocol</short>
   </workflow>
   <workflow>
     <name>Microsoft Todo</name>
@@ -15197,6 +15197,21 @@
   </workflow>
   <workflow>
     <name>Password Generator</name>
+    <version>1.0</version>
+    <bundle>es.nyr.password</bundle>
+    <updated>1463961736</updated>
+    <file>password_generator.alfredworkflow</file>
+    <author>Nyr</author>
+    <applications></applications>
+    <categories>Utilities</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/password-generator-1</url>
+    <tags>password</tags>
+    <webservices></webservices>
+    <short>Simple password generator</short>
+  </workflow>
+  <workflow>
+    <name>Password Generator</name>
     <version>1.1</version>
     <bundle>com.nicholaspufal.passwordgenerator</bundle>
     <updated>1451674154</updated>
@@ -15224,21 +15239,6 @@
     <tags>password</tags>
     <webservices></webservices>
     <short>Generate secure password suggestions</short>
-  </workflow>
-  <workflow>
-    <name>Password Generator</name>
-    <version>1.0</version>
-    <bundle>es.nyr.password</bundle>
-    <updated>1463961736</updated>
-    <file>password_generator.alfredworkflow</file>
-    <author>Nyr</author>
-    <applications></applications>
-    <categories>Utilities</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/password-generator-1</url>
-    <tags>password</tags>
-    <webservices></webservices>
-    <short>Simple password generator</short>
   </workflow>
   <workflow>
     <name>PasswordPusher</name>
@@ -19369,7 +19369,7 @@
     <name>Smart WebP Compression</name>
     <version>1.0</version>
     <bundle>com.benjamino.smart_webp_compression</bundle>
-    <updated>1672223012</updated>
+    <updated>1672660633</updated>
     <file>smart_webp.alfredworkflow</file>
     <author>BenjaminO</author>
     <applications></applications>
@@ -21992,21 +21992,6 @@
   </workflow>
   <workflow>
     <name>Tower Repositories</name>
-    <version>1.0</version>
-    <bundle>net.level3studios.alfredtower</bundle>
-    <updated>1539818596</updated>
-    <file>alfred_towerrepo.alfredworkflow</file>
-    <author>SalAldana</author>
-    <applications>Tower</applications>
-    <categories>Productivity</categories>
-    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
-    <url>http://www.packal.org/workflow/tower-repositories-0</url>
-    <tags></tags>
-    <webservices></webservices>
-    <short>View/Open Tower Repositories</short>
-  </workflow>
-  <workflow>
-    <name>Tower Repositories</name>
     <version>2.6</version>
     <bundle>net.cjlucas.alfred.tower</bundle>
     <updated>1476151275</updated>
@@ -22019,6 +22004,21 @@
     <tags>git ||| tower</tags>
     <webservices></webservices>
     <short>Quickly access your Tower git repositories</short>
+  </workflow>
+  <workflow>
+    <name>Tower Repositories</name>
+    <version>1.0</version>
+    <bundle>net.level3studios.alfredtower</bundle>
+    <updated>1539818596</updated>
+    <file>alfred_towerrepo.alfredworkflow</file>
+    <author>SalAldana</author>
+    <applications>Tower</applications>
+    <categories>Productivity</categories>
+    <osx>Yosemite (10.10.x) ||| Mavericks (10.9.x) ||| Mountain Lion (10.8.x) ||| Lion (10.7.x) ||| Snow Leopard (10.6.x)</osx>
+    <url>http://www.packal.org/workflow/tower-repositories-0</url>
+    <tags></tags>
+    <webservices></webservices>
+    <short>View/Open Tower Repositories</short>
   </workflow>
   <workflow>
     <name>trailer</name>
